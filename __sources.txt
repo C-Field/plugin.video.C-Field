@@ -1,4 +1,11 @@
 <item>
+<title>DISCOVERY HISTORY</title>
+<link>http://smashtv.ddns.net:9090/load/e2db930f01d2/53.mpegts</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
 <title>BT SPORT 2</title>
 <link>http://smashtv.ddns.net:9090/load/e2db930f01d2/1755.mpegts</link>
 <thumbnail></thumbnail>
