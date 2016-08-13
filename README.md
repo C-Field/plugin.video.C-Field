@@ -1,2 +1,1 @@
-# plugin.video.C-Field
-First time addon
+# plugin.video.SuminonaLiveTV
