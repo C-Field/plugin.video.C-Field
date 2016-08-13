@@ -1,4 +1,11 @@
 <item>
+<title>SKY CINEMA PREMIERER</title>
+<link>http://46.234.125.203:8000//streaming/clients_live.php?username=GetPremiumIPTV&password=support@ghostwebhost.com&stream=71&extension=m3u8&hash=06b770acbc5358f1e6fcb8b0b23640b7&time=0&pid=14878&external_device=&on_demand=0</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+item>
 <title>WGN TV</title>
 <link>http://wgntribune-lh.akamaihd.net/i/WGNPrimary_1@304622/index_700_av-b.m3u8?sd=10&rebase=on</link>
 <thumbnail></thumbnail>
