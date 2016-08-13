@@ -1,4 +1,9 @@
 <item>
+<title>BBC ONE<title>
+<link>plugin://plugin.video.f4mTester/?url=http://opus.re/all/tkn/w/eda8e4fbb65561fad62474220fd41a2931807ee2/bbc1hd_1@97412/segment11367493_900_av-p.ts?srvid=p103;streamtype=TSDOWNLOADER&;name=BBC ONE<link>
+<thumbnail></thumbnail>
+</item>
+<item>
 <title>BBC ONE</title>
 <link>http://opus.re/all/tkn/w/eda8e4fbb65561fad62474220fd41a2931807ee2/bbc1hd_1@97412/index_900_av-p.m3u8?srvid=p103</link>
 <thumbnail>http://www.throup.org.uk/images/doctor_who/bbc_one.png</thumbnail>
