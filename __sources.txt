@@ -1,4 +1,11 @@
 <item>
+<title>BBC ONE</title>
+<link>http://opus.re/all/tkn/w/eda8e4fbb65561fad62474220fd41a2931807ee2/bbc1hd_1@97412/index_900_av-p.m3u8?srvid=p103</link>
+<thumbnail>http://www.throup.org.uk/images/doctor_who/bbc_one.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
 <title>H2</title>
 <link>http://fluvod1.giniko.com/all-documentaries/all-documentaries/tracks-5,6/index.m3u8</link>
 <thumbnail></thumbnail>
