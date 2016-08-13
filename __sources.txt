@@ -27,13 +27,6 @@
 </item>
 
 <item>
-<title>INFORMATION TV</title>
-<link>http://ios.streamserver01.com:8080/InformationTV/mystream.m3u8</link>
-<thumbnail>https://lh3.googleusercontent.com/QU1d404f5PeZOk_Rp3WOhrMQ6Mb1TMKtA88HklNKhuzlfMnByCJzkcNftb2YzVpXfQ=h310</thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
 <title>RT DOCUMENTARY</title>
 <link>http://rt-a.akamaihd.net/ch_05@325609/master.m3u8</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/en/a/ae/RTD-TV-logo.png</thumbnail>
