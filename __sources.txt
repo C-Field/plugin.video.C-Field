@@ -1,4 +1,11 @@
 <item>
+<title>ID</title>
+<link>http://80.80.160.168/live/5/playlist.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
 <title>RT HD</title>
 <link>http://rt.ashttp14.visionip.tv/live/rt-global-live-HD/playlist.m3u8</link>
 <thumbnail></thumbnail>
