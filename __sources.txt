@@ -1,4 +1,11 @@
 <item>
+<title>WGN TV</title>
+<link>http://wgntribune-lh.akamaihd.net/i/WGNPrimary_1@304622/index_700_av-b.m3u8?sd=10&rebase=on</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
 <title>DISCOVERY HISTORY</title>
 <link>http://smashtv.ddns.net:9090/load/e2db930f01d2/53.mpegts</link>
 <thumbnail></thumbnail>
