@@ -1,6 +1,6 @@
 <item>
 <title>Discovery HD</title>
-<link>http://80.80.160.168/live/8/live.m3u8?</link>
+<link>http://opus.re/all/tkn/w/eda8e4fbb65561fad62474220fd41a2931807ee2/skynews_1@97511/index_900_av-p.m3u8?srvid=p106</link>
 <thumbnail>http://vignette2.wikia.nocookie.net/logopedia/images/2/28/Discovery_HD_old.png/revision/latest?cb=20100126202109</thumbnail>
 <fanart></fanart>
 </item>
