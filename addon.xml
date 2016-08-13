@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="plugin.video.C-FIELD LIVE TV"
-       name="[COLOR red][B]C-FIELD LiveTV[/COLOR][/B]"
+<addon id="plugin.video.C-Field"
+       name="[COLOR red][B]C-Field LiveTV[/COLOR][/B]"
        version="1.0"
-       provider-name="C LiveTV Team">
+       provider-name="C-Field Team">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
 	<import addon="script.module.t0mm0.common" version="2.0.0"/>
