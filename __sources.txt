@@ -1,4 +1,11 @@
 <item>
+<title>BT SPORT 2</title>
+<link>http://smashtv.ddns.net:9090/load/e2db930f01d2/1755.mpegts</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
 <title>UFC FIGHT PASS</title>
 <link>http://smashtv.ddns.net:9090/load/e2db930f01d2/1247.mpegts</link>
 <thumbnail></thumbnail>
