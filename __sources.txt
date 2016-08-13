@@ -27,13 +27,6 @@
 </item>
 
 <item>
-<title>RT DOCUMENTARY</title>
-<link>http://rt-a.akamaihd.net/ch_05@325609/master.m3u8</link>
-<thumbnail>https://upload.wikimedia.org/wikipedia/en/a/ae/RTD-TV-logo.png</thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
 <title>NASA TV</title>
 <link>http://nasatv-lh.akamaihd.net/i/NASA_101@319270/master.m3u8</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/commons/6/65/NASA_TV.png</thumbnail>
@@ -69,13 +62,6 @@
 </item>
 
 <item>
-<title>GLOBAL TV</title>
-<link>https://glblvhalifax-lh.akamaihd.net/i/glblvHalifax_1@119843/master.m3u8?__b__=900&hdnea=ip=99.18.68.202~st=1434307535~exp=1434308135~acl=/i/*~id=17e92158-bbde-4665-a37c-817c97c7569c~hmac=1afe142fae8d05bad8895371e0834b246ce53e26af2bd6090227741f043668bd</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
 <title>BYU TV</title>
 <link>http://byuhd2-lh.akamaihd.net/i/byutvhd2_live@103136/index_840_av-b.m3u8</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/2/2a/BYUtv_2010_logo.svg/1280px-BYUtv_2010_logo.svg.png</thumbnail>
@@ -86,13 +72,6 @@
 <title>WEATHER NATION</title>
 <link>http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/format/applehttp/protocol/http/uiConfId/28428751/a.m3u8</link>
 <thumbnail>http://vignette1.wikia.nocookie.net/logosfake/images/d/d2/WeatherNation_TV.png/revision/latest?cb=20151213183536</thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title>WORLD FASHION CHANNEL</title>
-<link>http://btv-net.mediacdn.ru/TVB7/wfhdeu/playlist.m3u8</link>
-<thumbnail>https://lh3.googleusercontent.com/yWxSbS5afTsfv9zlqlj3W7a5lxFGSY_cdh8EOnP7pEf70KUP7UvsigVNp8IR0rIc=w300</thumbnail>
 <fanart></fanart>
 </item>
 
