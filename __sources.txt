@@ -1,4 +1,11 @@
 <item>
+<title>BBC TWO</title>
+<link>http://opus.re/all/tkn/w/eda8e4fbb65561fad62474220fd41a2931807ee2/bbc2hd_1@97435/index_900_av-p.m3u8?srvid=p109</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/0/05/BBC_Two_HD.svg/1280px-BBC_Two_HD.svg.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
 <title>BBC ONE</title>
 <link>http://opus.re/all/tkn/w/eda8e4fbb65561fad62474220fd41a2931807ee2/bbc1hd_1@97412/index_900_av-p.m3u8?srvid=p103</link>
 <thumbnail>http://www.throup.org.uk/images/doctor_who/bbc_one.png</thumbnail>
