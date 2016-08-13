@@ -1,4 +1,10 @@
 <item>
+<title>GOLD<title>
+<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/saib/fares/447.ts;streamtype=TSDOWNLOADER&;name=Gold<link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
 <title>BBC NEWS<title>
 <link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/saib/fares/1065.ts;streamtype=TSDOWNLOADER&;name=BBC NEWS<link>
 <thumbnail></thumbnail>
