@@ -1,6 +1,12 @@
 <item>
+<title>History Channel<title>
+<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/saib/fares/913.ts;streamtype=TSDOWNLOADER&;name=History Channel<link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
 <title>Discovery Channel<title>
-<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/saib/fares/438.ts.ts;streamtype=TSDOWNLOADER&;name=Discovery Channel<link>
+<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/saib/fares/438.ts;streamtype=TSDOWNLOADER&;name=Discovery Channel<link>
 <thumbnail></thumbnail>
 </item>
 
