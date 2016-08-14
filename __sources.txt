@@ -1,6 +1,12 @@
 <item>
+<title>SKY NEWS<title>
+<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/saib/fares/1389.ts;streamtype=TSDOWNLOADER&;name=SKY NEWS<link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
 <title>SKY SPORTS NEWS HQ<title>
-<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/saib/fares/481.ts;streamtype=TSDOWNLOADER&;name=ALAN DREW<link>
+<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/saib/fares/481.ts;streamtype=TSDOWNLOADER&;name=LOCKY<link>
 <thumbnail></thumbnail>
 </item>
 
