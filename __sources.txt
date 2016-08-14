@@ -1,4 +1,10 @@
 <item>
+<title>SKY SPORTS NEWS HQ<title>
+<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/saib/fares/481.ts;streamtype=TSDOWNLOADER&;name=ALAN DREW<link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
 <title>GOLD<title>
 <link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/saib/fares/447.ts;streamtype=TSDOWNLOADER&;name=Gold<link>
 <thumbnail></thumbnail>
