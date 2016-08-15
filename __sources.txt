@@ -1,4 +1,52 @@
 <item>
+<title>BBC 1<title>
+<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/saib/fares/428.ts;streamtype=TSDOWNLOADER&;name=BBC1<link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>BBC 2<title>
+<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/saib/fares/429.ts;streamtype=TSDOWNLOADER&;name=BBC2<link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>BBC 3<title>
+<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/saib/fares/430.ts;streamtype=TSDOWNLOADER&;name=BBC3<link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>ITV<title>
+<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/saib/fares/448.ts;streamtype=TSDOWNLOADER&;name=ITV<link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>ITV 2<title>
+<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/saib/fares/449.ts;streamtype=TSDOWNLOADER&;name=ITV2<link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>ITV 3<title>
+<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/CLIENTX103/65sijod/450.ts;streamtype=TSDOWNLOADER&;name=ITV3<link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>ITV 4<title>
+<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/saib/fares/2084.ts;streamtype=TSDOWNLOADER&;name=ITV4<link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>FIVE<title>
+<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/saib/fares/23.ts;streamtype=TSDOWNLOADER&;name=FIVE<link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
 <title>History Channel<title>
 <link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/saib/fares/913.ts;streamtype=TSDOWNLOADER&;name=History Channel<link>
 <thumbnail></thumbnail>
@@ -42,7 +90,61 @@
 
 <item>
 <title>Sky Movies Premiere<title>
-<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/saib/fares/469.ts;streamtype=TSDOWNLOADER&;name=Sky Movies Premiere<link>
+<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/saib/fares/469.ts;streamtype=TSDOWNLOADER&;name=SkyPremiere<link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>SKY MOVIES THRILLER<title>
+<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/saib/fares/472.ts;streamtype=TSDOWNLOADER&;name=SKYTHRILLER<link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>SKY MOVIES SELECT<title>
+<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/saib/fares/471.ts;streamtype=TSDOWNLOADER&;name=SKYSELECT<link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>SKY MOVIES SCIFI<title>
+<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/saib/fares/470.ts;streamtype=TSDOWNLOADER&;name=SKYSCIFI<link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>SKY MOVIES MODERN GREAT<title>
+<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/saib/fares/468.ts;streamtype=TSDOWNLOADER&;name=SKYMODERN<link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>SKY MOVIES DRAMA<title>
+<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/saib/fares/467.ts;streamtype=TSDOWNLOADER&;name=SKYDRAMA<link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>SKY MOVIES ACTION<title>
+<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/saib/fares/466.ts;streamtype=TSDOWNLOADER&;name=SKYACTION<link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>SKY MOVIES ATLANTIC<title>
+<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/saib/fares/2600.ts;streamtype=TSDOWNLOADER&;name=SKY ATLANTIC<link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>SKY MOVIES FAMILY<title>
+<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/saib/fares/51.ts;streamtype=TSDOWNLOADER&;name=SKYFAMILY<link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>SKY MOVIES COMEDY<title>
+<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/saib/fares/49.ts;streamtype=TSDOWNLOADER&;name=SKYCOMEDY<link>
 <thumbnail></thumbnail>
 </item>
 
@@ -58,6 +160,12 @@ item>
 <link>http://smashtv.ddns.net:9090/load/e2db930f01d2/53.mpegts</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
+</item>
+
+<item>
+<title>BT SPORT 1<title>
+<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/saib/fares/432.ts;streamtype=TSDOWNLOADER&;name=BTSPORT1<link>
+<thumbnail></thumbnail>
 </item>
 
 <item>
@@ -79,6 +187,12 @@ item>
 <link>http://cbsnews-linear.mdialog.com/video_assets/cbsnews.m3u8?api_key=563b80c1ae4ce359830f572d2496a947&iu=/8264/vaw-can/mobile_web/cbsnews_mobile</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
+</item>
+
+<item>
+<title>SYFY<title>
+<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/saib/fares/1107.ts;streamtype=TSDOWNLOADER&;name=SYFY<link>
+<thumbnail></thumbnail>
 </item>
 
 <item>
@@ -107,6 +221,12 @@ item>
 <link>http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/05/prog_index.m3u8</link>
 <thumbnail>http://cordcutting.com/images/plex-images/vevo.jpg</thumbnail>
 <fanart></fanart>
+</item>
+
+<item>
+<title>MTV DANCE<title>
+<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/saib/fares/456.ts;streamtype=TSDOWNLOADER&;name=MTVDANCE<link>
+<thumbnail></thumbnail>
 </item>
 
 <item>
@@ -257,7 +377,7 @@ item>
 </item>
 
 <item>
-<title>ITV<title>
+<title>ITV 3<title>
 <link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/CLIENTX103/65sijod/450.ts;streamtype=TSDOWNLOADER&;name=ITV3<link>
 <thumbnail></thumbnail>
 </item>
@@ -393,7 +513,7 @@ item>
 <fanart></fanart>
 </item>
 
-
+http://globiptv.com:8000/live/saib/fares/448.ts
 
 
 
