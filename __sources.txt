@@ -84,7 +84,7 @@
 
 <item>
 <title>NICK JR<title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptvfullhd.info:8000/live/chris28de/TNKXmSgQSn/908.ts;streamtype=TSDOWNLOADER&;name=NICK JR<link>
+<link>plugin://plugin.video.f4mTester/?url=http://cp.dmbshare.net:8000/live/francesco/francesco/6843.ts;streamtype=TSDOWNLOADER&;name=NICK JR<link>
 <thumbnail></thumbnail>
 </item>
 
