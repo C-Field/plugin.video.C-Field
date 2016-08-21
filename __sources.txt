@@ -5,8 +5,8 @@
 </item>
 
 <item>
-<title>BBC 2<title>
-<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/saib/fares/429.ts;streamtype=TSDOWNLOADER&;name=BBC2<link>
+<title>BBC 2HD<title>
+<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/saib/fares/429.ts;streamtype=TSDOWNLOADER&;name=BBC2HD<link>
 <thumbnail></thumbnail>
 </item>
 
@@ -23,20 +23,20 @@
 </item>
 
 <item>
-<title>ITV 2<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/darren/darren/4094.ts;streamtype=TSDOWNLOADER&;name=ITV2<link>
+<title>ITV 2HD<title>
+<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/darren/darren/4093.ts;streamtype=TSDOWNLOADER&;name=ITV2HD<link>
 <thumbnail></thumbnail>
 </item>
 
 <item>
-<title>ITV 3<title>
-<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/CLIENTX103/65sijod/450.ts;streamtype=TSDOWNLOADER&;name=ITV3<link>
+<title>ITV 3HD<title>
+<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/darren/darren/4092.ts;streamtype=TSDOWNLOADER&;name=ITV3HD<link>
 <thumbnail></thumbnail>
 </item>
 
 <item>
 <title>ITV 4<title>
-<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/saib/fares/2084.ts;streamtype=TSDOWNLOADER&;name=ITV4<link>
+<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/darren/darren/4091.ts;streamtype=TSDOWNLOADER&;name=ITV4<link>
 <thumbnail></thumbnail>
 </item>
 
@@ -54,7 +54,7 @@
 
 <item>
 <title>Discovery Channel<title>
-<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/saib/fares/438.ts;streamtype=TSDOWNLOADER&;name=Discovery Channel<link>
+<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/darren/darren/4121.ts;streamtype=TSDOWNLOADER&;name=Discovery Channel<link>
 <thumbnail></thumbnail>
 </item>
 
@@ -65,8 +65,8 @@
 </item>
 
 <item>
-<title>SKY SPORTS NEWS HQ<title>
-<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/saib/fares/481.ts;streamtype=TSDOWNLOADER&;name=LOCKY<link>
+<title>SKY SPORTS NEWS<title>
+<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/darren/darren/4425.ts;streamtype=TSDOWNLOADER&;name=SKYSPORTSNEWS<link>
 <thumbnail></thumbnail>
 </item>
 
