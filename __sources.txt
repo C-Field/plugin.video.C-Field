@@ -89,8 +89,8 @@
 </item>
 
 <item>
-<title>SKY NEWS<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/darren/darren/4009.ts;streamtype=TSDOWNLOADER&;name=SKY NEWS<link>
+<title>SKY NEWS HD<title>
+<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/darren/darren/4009.ts;streamtype=TSDOWNLOADER&;name=SKYNEWSHD<link>
 <thumbnail></thumbnail>
 </item>
 
