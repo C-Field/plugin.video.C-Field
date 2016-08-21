@@ -735,6 +735,12 @@ item>
 <thumbnail></thumbnail>
 </item>
 
+<item>
+<title>HISTORY HD<title>
+<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/darren/darren/4681.ts;streamtype=TSDOWNLOADER&;name=HISTORYHD<link>
+<thumbnail></thumbnail>
+</item>
+
 
 
 
