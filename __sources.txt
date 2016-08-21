@@ -658,8 +658,50 @@ item>
 </item>
 
 <item>
-<title>ITV 3<title>
-<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/CLIENTX103/65sijod/450.ts;streamtype=TSDOWNLOADER&;name=ITV3<link>
+<title>VH1 HD<title>
+<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/darren/darren/4526.ts;streamtype=TSDOWNLOADER&;name=VH1HD<link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>TRU TV HD<title>
+<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/darren/darren/4495.ts;streamtype=TSDOWNLOADER&;name=TRUTVHD<link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>TBS HD<title>
+<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/darren/darren/4493.ts;streamtype=TSDOWNLOADER&;name=TBSHD<link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>SPIKE HD<title>
+<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/darren/darren/4496.ts;streamtype=TSDOWNLOADER&;name=SPIKEHD<link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>SHOWTIME HD<title>
+<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/darren/darren/4498.ts;streamtype=TSDOWNLOADER&;name=SHOWTIMEHD<link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>OWN HD<title>
+<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/darren/darren/4510.ts;streamtype=TSDOWNLOADER&;name=OWNHD<link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>MORE MAX HD<title>
+<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/darren/darren/4509.ts;streamtype=TSDOWNLOADER&;name=MOREMAXHD<link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>HBO HD<title>
+<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/darren/darren/4486.ts;streamtype=TSDOWNLOADER&;name=HBOHD<link>
 <thumbnail></thumbnail>
 </item>
 
