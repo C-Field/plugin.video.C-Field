@@ -108,37 +108,37 @@
 
 <item>
 <title>Sky Movies Premiere<title>
-<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/saib/fares/469.ts;streamtype=TSDOWNLOADER&;name=SkyPremiere<link>
+<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/darren/darren/4052.ts;streamtype=TSDOWNLOADER&;name=SkyPremiere<link>
 <thumbnail></thumbnail>
 </item>
 
 <item>
 <title>SKY MOVIES THRILLER<title>
-<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/saib/fares/472.ts;streamtype=TSDOWNLOADER&;name=SKYTHRILLER<link>
+<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/darren/darren/4048.ts;streamtype=TSDOWNLOADER&;name=SKYTHRILLER<link>
 <thumbnail></thumbnail>
 </item>
 
 <item>
 <title>SKY MOVIES SELECT<title>
-<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/saib/fares/471.ts;streamtype=TSDOWNLOADER&;name=SKYSELECT<link>
+<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/darren/darren/4050.ts;streamtype=TSDOWNLOADER&;name=SKYSELECT<link>
 <thumbnail></thumbnail>
 </item>
 
 <item>
 <title>SKY MOVIES SCIFI<title>
-<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/saib/fares/470.ts;streamtype=TSDOWNLOADER&;name=SKYSCIFI<link>
+<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/darren/darren/4051.ts;streamtype=TSDOWNLOADER&;name=SKYSCIFI<link>
 <thumbnail></thumbnail>
 </item>
 
 <item>
 <title>SKY MOVIES MODERN GREAT<title>
-<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/saib/fares/468.ts;streamtype=TSDOWNLOADER&;name=SKYMODERN<link>
+<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/darren/darren/4053.ts;streamtype=TSDOWNLOADER&;name=SKYMODERN<link>
 <thumbnail></thumbnail>
 </item>
 
 <item>
 <title>SKY MOVIES DRAMA<title>
-<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/saib/fares/467.ts;streamtype=TSDOWNLOADER&;name=SKYDRAMA<link>
+<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/darren/darren/4055.ts;streamtype=TSDOWNLOADER&;name=SKYDRAMA<link>
 <thumbnail></thumbnail>
 </item>
 
@@ -156,13 +156,13 @@
 
 <item>
 <title>SKY MOVIES FAMILY<title>
-<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/saib/fares/51.ts;streamtype=TSDOWNLOADER&;name=SKYFAMILY<link>
+<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/darren/darren/4054.ts;streamtype=TSDOWNLOADER&;name=SKYFAMILY<link>
 <thumbnail></thumbnail>
 </item>
 
 <item>
 <title>SKY MOVIES COMEDY<title>
-<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/saib/fares/49.ts;streamtype=TSDOWNLOADER&;name=SKYCOMEDY<link>
+<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/darren/darren/4057.ts;streamtype=TSDOWNLOADER&;name=SKYCOMEDY<link>
 <thumbnail></thumbnail>
 </item>
 
@@ -174,10 +174,9 @@ item>
 </item>
 
 <item>
-<title>DISCOVERY HISTORY</title>
-<link>http://smashtv.ddns.net:9090/load/e2db930f01d2/53.mpegts</link>
+<title>DISCOVERY HISTORY +1<title>
+<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/darren/darren/4333.ts;streamtype=TSDOWNLOADER&;name=DHISTORY+1<link>
 <thumbnail></thumbnail>
-<fanart></fanart>
 </item>
 
 <item>
