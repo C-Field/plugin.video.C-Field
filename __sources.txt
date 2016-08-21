@@ -90,7 +90,7 @@
 
 <item>
 <title>SKY NEWS<title>
-<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/saib/fares/1389.ts;streamtype=TSDOWNLOADER&;name=SKY NEWS<link>
+<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/darren/darren/4009.ts;streamtype=TSDOWNLOADER&;name=SKY NEWS<link>
 <thumbnail></thumbnail>
 </item>
 
