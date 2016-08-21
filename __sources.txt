@@ -487,6 +487,12 @@ item>
 </item>
 
 <item>
+<title>VIVA THE HITS<title>
+<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/darren/darren/4022.ts;streamtype=TSDOWNLOADER&;name=VIVATHEHITS<link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
 <title>MTV +1<title>
 <link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/darren/darren/4647.ts;streamtype=TSDOWNLOADER&;name=MTV+1<link>
 <thumbnail></thumbnail>
