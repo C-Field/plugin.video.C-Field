@@ -41,8 +41,8 @@
 </item>
 
 <item>
-<title>FIVE<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/darren/darren/4128.ts;streamtype=TSDOWNLOADER&;name=FIVE<link>
+<title>FIVE HD<title>
+<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/darren/darren/4128.ts;streamtype=TSDOWNLOADER&;name=FIVEHD<link>
 <thumbnail></thumbnail>
 </item>
 
