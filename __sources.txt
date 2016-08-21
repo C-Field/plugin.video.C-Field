@@ -72,7 +72,7 @@
 
 <item>
 <title>GOLD<title>
-<link>plugin://plugin.video.f4mTester/?url=http://cp.dmbshare.net:8000/live/francesco/francesco/6820.ts;streamtype=TSDOWNLOADER&;name=Gold<link>
+<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/darren/darren/4102.ts;streamtype=TSDOWNLOADER&;name=Gold<link>
 <thumbnail></thumbnail>
 </item>
 
