@@ -95,6 +95,12 @@
 </item>
 
 <item>
+<title>ABC NEWS HD<title>
+<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/darren/darren/4484.ts;streamtype=TSDOWNLOADER&;name=ABCNEWSHD<link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
 <title>FOX NEWS<title>
 <link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/darren/darren/4103.ts;streamtype=TSDOWNLOADER&;name=FOXNEWS<link>
 <thumbnail></thumbnail>
