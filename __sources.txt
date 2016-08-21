@@ -42,7 +42,7 @@
 
 <item>
 <title>FIVE<title>
-<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/saib/fares/23.ts;streamtype=TSDOWNLOADER&;name=FIVE<link>
+<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/darren/darren/4128.ts;streamtype=TSDOWNLOADER&;name=FIVE<link>
 <thumbnail></thumbnail>
 </item>
 
