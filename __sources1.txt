@@ -1,2813 +1,1124 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<items>
-<channel>
-	<title>????? 1</title>
-	<description></description>
-	<stream_url><![CDATA[#EXTM3U]]></stream_url>
-</channel>
-<channel>
-	<title>????? 2</title>
-	<description></description>
-	<stream_url><![CDATA[#EXTINF:0,avi,The Boss,http://royal-iptv.noip.me:2052/movie/russel/russel/4739.mp4]]></stream_url>
-</channel>
-<channel>
-	<title>????? 3</title>
-	<description></description>
-	<stream_url><![CDATA[avi,Batman v Superman Dawn of Justice,http://royal-iptv.noip.me:2052/movie/russel/russel/4738.mp4]]></stream_url>
-</channel>
-<channel>
-	<title>????? 4</title>
-	<description></description>
-	<stream_url><![CDATA[#EXTINF:0,avi,Allegiant,http://royal-iptv.noip.me:2052/movie/russel/russel/4740.mp4]]></stream_url>
-</channel>
-<channel>
-	<title>????? 5</title>
-	<description></description>
-	<stream_url><![CDATA[avi,A Bug\'s Life,http://royal-iptv.noip.me:2052/movie/russel/russel/4737.mp4]]></stream_url>
-</channel>
-<channel>
-	<title>????? 6</title>
-	<description></description>
-	<stream_url><![CDATA[#EXTINF:0,avi,The Legend of Tarzan,http://royal-iptv.noip.me:2052/movie/russel/russel/4736.mp4]]></stream_url>
-</channel>
-<channel>
-	<title>????? 7</title>
-	<description></description>
-	<stream_url><![CDATA[avi,Neighbors 2: Sorority Rising,http://royal-iptv.noip.me:2052/movie/russel/russel/4735.mp4]]></stream_url>
-</channel>
-<channel>
-	<title>????? 8</title>
-	<description></description>
-	<stream_url><![CDATA[#EXTINF:0,avi,Amateur Night,http://royal-iptv.noip.me:2052/movie/russel/russel/4734.mp4]]></stream_url>
-</channel>
-<channel>
-	<title>????? 9</title>
-	<description></description>
-	<stream_url><![CDATA[avi,Now You See Me 2,http://royal-iptv.noip.me:2052/movie/russel/russel/4733.mp4]]></stream_url>
-</channel>
-<channel>
-	<title>????? 10</title>
-	<description></description>
-	<stream_url><![CDATA[#EXTINF:0,avi,Money Monster,http://royal-iptv.noip.me:2052/movie/russel/russel/4732.mp4]]></stream_url>
-</channel>
-<channel>
-	<title>????? 11</title>
-	<description></description>
-	<stream_url><![CDATA[avi,Barbershop: The Next Cut,http://royal-iptv.noip.me:2052/movie/russel/russel/4731.mp4]]></stream_url>
-</channel>
-<channel>
-	<title>????? 12</title>
-	<description></description>
-	<stream_url><![CDATA[#EXTINF:0,avi,UFC 202 Preliminary Fights,http://royal-iptv.noip.me:2052/movie/russel/russel/4728.mp4]]></stream_url>
-</channel>
-<channel>
-	<title>????? 13</title>
-	<description></description>
-	<stream_url><![CDATA[avi,UFC 202 Early Prelims,http://royal-iptv.noip.me:2052/movie/russel/russel/4729.mp4]]></stream_url>
-</channel>
-<channel>
-	<title>????? 14</title>
-	<description></description>
-	<stream_url><![CDATA[#EXTINF:0,avi,UFC PPV 202,http://royal-iptv.noip.me:2052/movie/russel/russel/4727.mp4]]></stream_url>
-</channel>
-<channel>
-	<title>????? 15</title>
-	<description></description>
-	<stream_url><![CDATA[ext,Sky Sports ireland 3pm\'s only,http://royal-iptv.noip.me:2052/live/russel/russel/4652.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 16</title>
-	<description></description>
-	<stream_url><![CDATA[#EXTINF:0,WillowCricket.us,Willow HD,http://royal-iptv.noip.me:2052/live/russel/russel/4669.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 17</title>
-	<description></description>
-	<stream_url><![CDATA[ext,W   1,http://royal-iptv.noip.me:2052/live/russel/russel/4641.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 18</title>
-	<description></description>
-	<stream_url><![CDATA[#EXTINF:0,SportsnetWorld.ca,Sportsnet World,http://royal-iptv.noip.me:2052/live/russel/russel/4665.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 19</title>
-	<description></description>
-	<stream_url><![CDATA[ext,TLC   2,http://royal-iptv.noip.me:2052/live/russel/russel/4643.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 20</title>
-	<description></description>
-	<stream_url><![CDATA[#EXTINF:0,ext,TLC   1,http://royal-iptv.noip.me:2052/live/russel/russel/4644.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 21</title>
-	<description></description>
-	<stream_url><![CDATA[ext,Ten 1 HD,http://royal-iptv.noip.me:2052/live/russel/russel/4670.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 22</title>
-	<description></description>
-	<stream_url><![CDATA[#EXTINF:0,ext,Syfy   1,http://royal-iptv.noip.me:2052/live/russel/russel/4645.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 23</title>
-	<description></description>
-	<stream_url><![CDATA[ext,Sony Chnl   1,http://royal-iptv.noip.me:2052/live/russel/russel/4646.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 24</title>
-	<description></description>
-	<stream_url><![CDATA[#EXTINF:0,S4C.uk,S4C,http://royal-iptv.noip.me:2052/live/russel/russel/4642.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 25</title>
-	<description></description>
-	<stream_url><![CDATA[ext,ID   1,http://royal-iptv.noip.me:2052/live/russel/russel/4648.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 26</title>
-	<description></description>
-	<stream_url><![CDATA[#EXTINF:0,ext,NBCSN,http://royal-iptv.noip.me:2052/live/russel/russel/4667.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 27</title>
-	<description></description>
-	<stream_url><![CDATA[MTV.uk,MTV 1,http://royal-iptv.noip.me:2052/live/russel/russel/4647.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 28</title>
-	<description></description>
-	<stream_url><![CDATA[#EXTINF:0,FX.uk,FOX HD UK,http://royal-iptv.noip.me:2052/live/russel/russel/4487.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 29</title>
-	<description></description>
-	<stream_url><![CDATA[fox-crime,Fox Crime,http://royal-iptv.noip.me:2052/live/russel/russel/4664.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 30</title>
-	<description></description>
-	<stream_url><![CDATA[#EXTINF:0,ext,ETV1,http://royal-iptv.noip.me:2052/live/russel/russel/4649.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 31</title>
-	<description></description>
-	<stream_url><![CDATA[ext,Challenge   1,http://royal-iptv.noip.me:2052/live/russel/russel/4651.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 32</title>
-	<description></description>
-	<stream_url><![CDATA[#EXTINF:0,ext,E!   1,http://royal-iptv.noip.me:2052/live/russel/russel/4650.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 33</title>
-	<description></description>
-	<stream_url><![CDATA[CMoreFirst.se,C More First,http://royal-iptv.noip.me:2052/live/russel/russel/4671.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 34</title>
-	<description></description>
-	<stream_url><![CDATA[#EXTINF:0,ext,SC: C More Tennis,http://royal-iptv.noip.me:2052/live/russel/russel/4653.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 35</title>
-	<description></description>
-	<stream_url><![CDATA[ext,SC: C More Sport,http://royal-iptv.noip.me:2052/live/russel/russel/4654.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 36</title>
-	<description></description>
-	<stream_url><![CDATA[#EXTINF:0,ext,SC: C More Series,http://royal-iptv.noip.me:2052/live/russel/russel/4655.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 37</title>
-	<description></description>
-	<stream_url><![CDATA[CMoreLive.se,SC: C More Live,http://royal-iptv.noip.me:2052/live/russel/russel/4656.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 38</title>
-	<description></description>
-	<stream_url><![CDATA[#EXTINF:0,ext,SC: C More Hockey,http://royal-iptv.noip.me:2052/live/russel/russel/4657.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 39</title>
-	<description></description>
-	<stream_url><![CDATA[CMoreHits.se,SC: C More Hits,http://royal-iptv.noip.me:2052/live/russel/russel/4658.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 40</title>
-	<description></description>
-	<stream_url><![CDATA[#EXTINF:0,ext,SC: C More Golf,http://royal-iptv.noip.me:2052/live/russel/russel/4659.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 41</title>
-	<description></description>
-	<stream_url><![CDATA[ext,SC: C More Fotboll,http://royal-iptv.noip.me:2052/live/russel/russel/4660.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 42</title>
-	<description></description>
-	<stream_url><![CDATA[#EXTINF:0,ext,SC: C More First,http://royal-iptv.noip.me:2052/live/russel/russel/4661.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 43</title>
-	<description></description>
-	<stream_url><![CDATA[ext,SC: C More Emotion,http://royal-iptv.noip.me:2052/live/russel/russel/4662.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 44</title>
-	<description></description>
-	<stream_url><![CDATA[#EXTINF:0,ext,SC: C More Action,http://royal-iptv.noip.me:2052/live/russel/russel/4663.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 45</title>
-	<description></description>
-	<stream_url><![CDATA[CMoreAction.fi,C More Action,http://royal-iptv.noip.me:2052/live/russel/russel/4672.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 46</title>
-	<description></description>
-	<stream_url><![CDATA[#EXTINF:0,ext,BBC Olympics HD 8,http://royal-iptv.noip.me:2052/live/russel/russel/4471.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 47</title>
-	<description></description>
-	<stream_url><![CDATA[ext,BBC OLYMPICS HD 7,http://royal-iptv.noip.me:2052/live/russel/russel/4472.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 48</title>
-	<description></description>
-	<stream_url><![CDATA[#EXTINF:0,ext,BBC OLYMPICS HD 6,http://royal-iptv.noip.me:2052/live/russel/russel/4473.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 49</title>
-	<description></description>
-	<stream_url><![CDATA[ext,BBC OLYMPICS HD 5,http://royal-iptv.noip.me:2052/live/russel/russel/4474.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 50</title>
-	<description></description>
-	<stream_url><![CDATA[#EXTINF:0,ext,BBC OLYMPICS HD 4,http://royal-iptv.noip.me:2052/live/russel/russel/4475.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 51</title>
-	<description></description>
-	<stream_url><![CDATA[ext,BBC OLYMPICS HD 3,http://royal-iptv.noip.me:2052/live/russel/russel/4476.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 52</title>
-	<description></description>
-	<stream_url><![CDATA[#EXTINF:0,ext,BBC OLYMPICS HD 2,http://royal-iptv.noip.me:2052/live/russel/russel/4477.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 53</title>
-	<description></description>
-	<stream_url><![CDATA[ext,BBC OLYMPICS HD 1,http://royal-iptv.noip.me:2052/live/russel/russel/4478.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 54</title>
-	<description></description>
-	<stream_url><![CDATA[#EXTINF:0,ext,BT SPORTS 3 HD*,http://royal-iptv.noip.me:2052/live/russel/russel/4466.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 55</title>
-	<description></description>
-	<stream_url><![CDATA[BTSportESPN.uk,BT SPORTS ESPN HD,http://royal-iptv.noip.me:2052/live/russel/russel/4467.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 56</title>
-	<description></description>
-	<stream_url><![CDATA[#EXTINF:0,BTSport2.uk,BT SPORTS 2 HD*,http://royal-iptv.noip.me:2052/live/russel/russel/4468.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 57</title>
-	<description></description>
-	<stream_url><![CDATA[BTSport1.uk,BT SPORTS 1 HD*,http://royal-iptv.noip.me:2052/live/russel/russel/4469.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 58</title>
-	<description></description>
-	<stream_url><![CDATA[#EXTINF:0,BTSport2.uk,Bt Sport 2 HD,http://royal-iptv.noip.me:2052/live/russel/russel/4462.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 59</title>
-	<description></description>
-	<stream_url><![CDATA[BTSport2.uk,Bt Sport 2 SD,http://royal-iptv.noip.me:2052/live/russel/russel/4463.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 60</title>
-	<description></description>
-	<stream_url><![CDATA[#EXTINF:0,BTSport1.uk,BT Sport 1 HD*,http://royal-iptv.noip.me:2052/live/russel/russel/4464.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 61</title>
-	<description></description>
-	<stream_url><![CDATA[BTSport1.uk,BT Sport 1 Backup,http://royal-iptv.noip.me:2052/live/russel/russel/4465.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 62</title>
-	<description></description>
-	<stream_url><![CDATA[#EXTINF:0,ext,MTV Dance SD,http://royal-iptv.noip.me:2052/live/russel/russel/4452.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 63</title>
-	<description></description>
-	<stream_url><![CDATA[ext,EXYU | ARENA SPORT 4,http://royal-iptv.noip.me:2052/live/russel/russel/4438.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 64</title>
-	<description></description>
-	<stream_url><![CDATA[#EXTINF:0,ext,EXYU | ARENA SPORT 4 HD,http://royal-iptv.noip.me:2052/live/russel/russel/4439.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 65</title>
-	<description></description>
-	<stream_url><![CDATA[ext,EXYU | ARENA SPORT 3,http://royal-iptv.noip.me:2052/live/russel/russel/4440.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 66</title>
-	<description></description>
-	<stream_url><![CDATA[#EXTINF:0,ext,EXYU | ARENA SPORT 3 HD,http://royal-iptv.noip.me:2052/live/russel/russel/4441.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 67</title>
-	<description></description>
-	<stream_url><![CDATA[ext,EXYU | ARENA SPORT 2,http://royal-iptv.noip.me:2052/live/russel/russel/4442.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 68</title>
-	<description></description>
-	<stream_url><![CDATA[#EXTINF:0,ext,EXYU | ARENA SPORT 2 HD,http://royal-iptv.noip.me:2052/live/russel/russel/4443.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 69</title>
-	<description></description>
-	<stream_url><![CDATA[ext,EXYU | ARENA SPORT 1,http://royal-iptv.noip.me:2052/live/russel/russel/4444.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 70</title>
-	<description></description>
-	<stream_url><![CDATA[#EXTINF:0,ext,EXYU | ARENA SPORT 1 HD,http://royal-iptv.noip.me:2052/live/russel/russel/4445.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 71</title>
-	<description></description>
-	<stream_url><![CDATA[ext,beIN Sports 3 HD (FR),http://royal-iptv.noip.me:2052/live/russel/russel/4455.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 72</title>
-	<description></description>
-	<stream_url><![CDATA[#EXTINF:0,ext,beIN Sports 2 HD (FR),http://royal-iptv.noip.me:2052/live/russel/russel/4454.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 73</title>
-	<description></description>
-	<stream_url><![CDATA[ext,beIN Sports 1 HD (FR),http://royal-iptv.noip.me:2052/live/russel/russel/4453.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 74</title>
-	<description></description>
-	<stream_url><![CDATA[#EXTINF:0,ext,BBC Two Scotland,http://royal-iptv.noip.me:2052/live/russel/russel/4450.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 75</title>
-	<description></description>
-	<stream_url><![CDATA[BBCParliament.uk,BBC Parliament,http://royal-iptv.noip.me:2052/live/russel/russel/4446.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 76</title>
-	<description></description>
-	<stream_url><![CDATA[#EXTINF:0,BBC1Wales.uk,BBC One Wales,http://royal-iptv.noip.me:2052/live/russel/russel/4448.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 77</title>
-	<description></description>
-	<stream_url><![CDATA[ext,BBC One Northern Ireland,http://royal-iptv.noip.me:2052/live/russel/russel/4449.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 78</title>
-	<description></description>
-	<stream_url><![CDATA[#EXTINF:0,BBCAlba.uk,BBC Alba,http://royal-iptv.noip.me:2052/live/russel/russel/4447.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 79</title>
-	<description></description>
-	<stream_url><![CDATA[SkySportsNews.uk,UK | Sky Sports News*,http://royal-iptv.noip.me:2052/live/russel/russel/4425.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 80</title>
-	<description></description>
-	<stream_url><![CDATA[#EXTINF:0,ext,UK | Sky Sports F1 HDS Streaming,http://royal-iptv.noip.me:2052/live/russel/russel/4426.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 81</title>
-	<description></description>
-	<stream_url><![CDATA[SkySports5.uk,UK | Sky Sports 5*,http://royal-iptv.noip.me:2052/live/russel/russel/4427.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 82</title>
-	<description></description>
-	<stream_url><![CDATA[#EXTINF:0,SkySports4.uk,UK | Sky Sports 4*,http://royal-iptv.noip.me:2052/live/russel/russel/4428.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 83</title>
-	<description></description>
-	<stream_url><![CDATA[SkySports3.uk,UK | Sky Sports 3*,http://royal-iptv.noip.me:2052/live/russel/russel/4429.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 84</title>
-	<description></description>
-	<stream_url><![CDATA[#EXTINF:0,SkySports2.uk,UK | Sky Sports 2*,http://royal-iptv.noip.me:2052/live/russel/russel/4430.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 85</title>
-	<description></description>
-	<stream_url><![CDATA[ext,UK | Sky Sports 1 HDS Streaming,http://royal-iptv.noip.me:2052/live/russel/russel/4431.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 86</title>
-	<description></description>
-	<stream_url><![CDATA[#EXTINF:0,RacingUK.uk,UK | Racing UK*,http://royal-iptv.noip.me:2052/live/russel/russel/4432.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 87</title>
-	<description></description>
-	<stream_url><![CDATA[ext,UK | Premier Live*,http://royal-iptv.noip.me:2052/live/russel/russel/4433.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 88</title>
-	<description></description>
-	<stream_url><![CDATA[#EXTINF:0,ext,UK | MUTV HDS Streaming,http://royal-iptv.noip.me:2052/live/russel/russel/4434.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 89</title>
-	<description></description>
-	<stream_url><![CDATA[ext,UK | Eir Sports 1*,http://royal-iptv.noip.me:2052/live/russel/russel/4435.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 90</title>
-	<description></description>
-	<stream_url><![CDATA[#EXTINF:0,BoxNation.uk,UK | Box Nation*,http://royal-iptv.noip.me:2052/live/russel/russel/4436.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 91</title>
-	<description></description>
-	<stream_url><![CDATA[AtTheRaces.uk,UK | At the Races*,http://royal-iptv.noip.me:2052/live/russel/russel/4437.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 92</title>
-	<description></description>
-	<stream_url><![CDATA[#EXTINF:0,ext,Celtic TV SD 1 (Bonus),http://royal-iptv.noip.me:2052/live/russel/russel/4421.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 93</title>
-	<description></description>
-	<stream_url><![CDATA[SportKlub3.rs,SportKlub 3,http://royal-iptv.noip.me:2052/live/russel/russel/4424.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 94</title>
-	<description></description>
-	<stream_url><![CDATA[#EXTINF:0,SportKlub2.rs,SportKlub 2,http://royal-iptv.noip.me:2052/live/russel/russel/4423.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 95</title>
-	<description></description>
-	<stream_url><![CDATA[SportKlub1.rs,SportKlub 1,http://royal-iptv.noip.me:2052/live/russel/russel/4422.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 96</title>
-	<description></description>
-	<stream_url><![CDATA[#EXTINF:0,ext,ABC (US),http://royal-iptv.noip.me:2052/live/russel/russel/4392.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 97</title>
-	<description></description>
-	<stream_url><![CDATA[ext,A&E (US),http://royal-iptv.noip.me:2052/live/russel/russel/4401.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 98</title>
-	<description></description>
-	<stream_url><![CDATA[#EXTINF:0,ext,NBC (US),http://royal-iptv.noip.me:2052/live/russel/russel/4394.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 99</title>
-	<description></description>
-	<stream_url><![CDATA[ext,Fox (US),http://royal-iptv.noip.me:2052/live/russel/russel/4398.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 100</title>
-	<description></description>
-	<stream_url><![CDATA[#EXTINF:0,ext,CNBC (US),http://royal-iptv.noip.me:2052/live/russel/russel/4395.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 101</title>
-	<description></description>
-	<stream_url><![CDATA[ext,Bravo (US),http://royal-iptv.noip.me:2052/live/russel/russel/4397.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 102</title>
-	<description></description>
-	<stream_url><![CDATA[#EXTINF:0,ext,AMC (US),http://royal-iptv.noip.me:2052/live/russel/russel/4400.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 103</title>
-	<description></description>
-	<stream_url><![CDATA[ZeeTV.uk,Zee TV,http://royal-iptv.noip.me:2052/live/russel/russel/4402.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 104</title>
-	<description></description>
-	<stream_url><![CDATA[#EXTINF:0,ext,USA Network (US),http://royal-iptv.noip.me:2052/live/russel/russel/4399.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 105</title>
-	<description></description>
-	<stream_url><![CDATA[ext,AR: BEIN MOVIES 1,http://royal-iptv.noip.me:2052/live/russel/russel/4348.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 106</title>
-	<description></description>
-	<stream_url><![CDATA[#EXTINF:0,BBC1.uk,BBC One,http://royal-iptv.noip.me:2052/live/russel/russel/4142.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 107</title>
-	<description></description>
-	<stream_url><![CDATA[BBC1.uk,BBC 1HD,http://royal-iptv.noip.me:2052/live/russel/russel/4146.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 108</title>
-	<description></description>
-	<stream_url><![CDATA[#EXTINF:0,BBC2.uk,BBC 2HD,http://royal-iptv.noip.me:2052/live/russel/russel/4145.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 109</title>
-	<description></description>
-	<stream_url><![CDATA[BBC2.uk,BBC Two,http://royal-iptv.noip.me:2052/live/russel/russel/4141.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 110</title>
-	<description></description>
-	<stream_url><![CDATA[#EXTINF:0,Channel4.uk,Channel 4,http://royal-iptv.noip.me:2052/live/russel/russel/4130.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 111</title>
-	<description></description>
-	<stream_url><![CDATA[Channel4.uk,Channel 4 HD,http://royal-iptv.noip.me:2052/live/russel/russel/4129.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 112</title>
-	<description></description>
-	<stream_url><![CDATA[#EXTINF:0,Channel5.uk,CHANNEL 5 HD,http://royal-iptv.noip.me:2052/live/russel/russel/4128.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 113</title>
-	<description></description>
-	<stream_url><![CDATA[FiveUSA.uk,5 USA,http://royal-iptv.noip.me:2052/live/russel/russel/4151.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 114</title>
-	<description></description>
-	<stream_url><![CDATA[#EXTINF:0,ext,BBC CBBC,http://royal-iptv.noip.me:2052/live/russel/russel/4144.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 115</title>
-	<description></description>
-	<stream_url><![CDATA[ITV1Central.uk,ITV1,http://royal-iptv.noip.me:2052/live/russel/russel/4096.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 116</title>
-	<description></description>
-	<stream_url><![CDATA[#EXTINF:0,ITV1London.uk,ITV1 HD,http://royal-iptv.noip.me:2052/live/russel/russel/4095.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 117</title>
-	<description></description>
-	<stream_url><![CDATA[ITVEncore.uk,ITV ENCORE,http://royal-iptv.noip.me:2052/live/russel/russel/4090.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 118</title>
-	<description></description>
-	<stream_url><![CDATA[#EXTINF:0,ext,ITV BE HD,http://royal-iptv.noip.me:2052/live/russel/russel/4088.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 119</title>
-	<description></description>
-	<stream_url><![CDATA[ITVBe.uk,ITV Be,http://royal-iptv.noip.me:2052/live/russel/russel/4089.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 120</title>
-	<description></description>
-	<stream_url><![CDATA[#EXTINF:0,ITV4.uk,ITV4,http://royal-iptv.noip.me:2052/live/russel/russel/4091.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 121</title>
-	<description></description>
-	<stream_url><![CDATA[ITV3.uk,ITV3,http://royal-iptv.noip.me:2052/live/russel/russel/4092.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 122</title>
-	<description></description>
-	<stream_url><![CDATA[#EXTINF:0,ITV2.uk,ITV2 HD,http://royal-iptv.noip.me:2052/live/russel/russel/4093.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 123</title>
-	<description></description>
-	<stream_url><![CDATA[ext,ITV2,http://royal-iptv.noip.me:2052/live/russel/russel/4094.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 124</title>
-	<description></description>
-	<stream_url><![CDATA[#EXTINF:0,ext,cbeebiesHD/BBC4 HD,http://royal-iptv.noip.me:2052/live/russel/russel/4135.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 125</title>
-	<description></description>
-	<stream_url><![CDATA[CBBC.uk,CBBC HD,http://royal-iptv.noip.me:2052/live/russel/russel/4136.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 126</title>
-	<description></description>
-	<stream_url><![CDATA[#EXTINF:0,ext,BBC Four/Cbeebies,http://royal-iptv.noip.me:2052/live/russel/russel/4143.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 127</title>
-	<description></description>
-	<stream_url><![CDATA[CBSReality.uk,CBS Reality,http://royal-iptv.noip.me:2052/live/russel/russel/4132.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 128</title>
-	<description></description>
-	<stream_url><![CDATA[#EXTINF:0,CBSDrama.uk,CBS Drama,http://royal-iptv.noip.me:2052/live/russel/russel/4133.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 129</title>
-	<description></description>
-	<stream_url><![CDATA[CBSAction.uk,CBS Action,http://royal-iptv.noip.me:2052/live/russel/russel/4134.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 130</title>
-	<description></description>
-	<stream_url><![CDATA[#EXTINF:0,4Seven.uk,4seven,http://royal-iptv.noip.me:2052/live/russel/russel/4152.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 131</title>
-	<description></description>
-	<stream_url><![CDATA[CartoonNetwork.uk,Cartoon Network,http://royal-iptv.noip.me:2052/live/russel/russel/4155.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 132</title>
-	<description></description>
-	<stream_url><![CDATA[#EXTINF:0,BabyTV.uk,baby tv,http://royal-iptv.noip.me:2052/live/russel/russel/4147.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 133</title>
-	<description></description>
-	<stream_url><![CDATA[DisneyXD.uk,Disney XD,http://royal-iptv.noip.me:2052/live/russel/russel/4113.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 134</title>
-	<description></description>
-	<stream_url><![CDATA[#EXTINF:0,DisneyJunior.uk,Disney Junior,http://royal-iptv.noip.me:2052/live/russel/russel/4114.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 135</title>
-	<description></description>
-	<stream_url><![CDATA[Disney.uk,Disney Channel,http://royal-iptv.noip.me:2052/live/russel/russel/4115.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 136</title>
-	<description></description>
-	<stream_url><![CDATA[#EXTINF:0,tinypop.uk,Tiny Pop,http://royal-iptv.noip.me:2052/live/russel/russel/4032.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 137</title>
-	<description></description>
-	<stream_url><![CDATA[tinypop1.uk,Tiny Pop +1,http://royal-iptv.noip.me:2052/live/russel/russel/4341.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 138</title>
-	<description></description>
-	<stream_url><![CDATA[#EXTINF:0,ext,nick junior +1,http://royal-iptv.noip.me:2052/live/russel/russel/4339.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 139</title>
-	<description></description>
-	<stream_url><![CDATA[SkyLivingPlus1.uk,Sky Living +1,http://royal-iptv.noip.me:2052/live/russel/russel/4337.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 140</title>
-	<description></description>
-	<stream_url><![CDATA[#EXTINF:0,SkyAtlanticplus1.uk,Sky Atlantic +1,http://royal-iptv.noip.me:2052/live/russel/russel/4338.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 141</title>
-	<description></description>
-	<stream_url><![CDATA[FoodNetworkPlus1.uk,Food Network +1,http://royal-iptv.noip.me:2052/live/russel/russel/4336.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 142</title>
-	<description></description>
-	<stream_url><![CDATA[#EXTINF:0,Discoveryplus1.uk,Discovery +1,http://royal-iptv.noip.me:2052/live/russel/russel/4331.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 143</title>
-	<description></description>
-	<stream_url><![CDATA[DiscoverySciencePlus1.uk,Discovery Science +1,http://royal-iptv.noip.me:2052/live/russel/russel/4332.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 144</title>
-	<description></description>
-	<stream_url><![CDATA[#EXTINF:0,DiscoveryHistoryPlus1.uk,Discovery History +1,http://royal-iptv.noip.me:2052/live/russel/russel/4333.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 145</title>
-	<description></description>
-	<stream_url><![CDATA[ext,Crime investigation +1,http://royal-iptv.noip.me:2052/live/russel/russel/4334.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 146</title>
-	<description></description>
-	<stream_url><![CDATA[#EXTINF:0,Discovery.uk,Discovery,http://royal-iptv.noip.me:2052/live/russel/russel/4121.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 147</title>
-	<description></description>
-	<stream_url><![CDATA[ext,Crime & Investigiation,http://royal-iptv.noip.me:2052/live/russel/russel/4123.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 148</title>
-	<description></description>
-	<stream_url><![CDATA[#EXTINF:0,NatGeoWild.uk,Nat Geo Wild,http://royal-iptv.noip.me:2052/live/russel/russel/4077.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 149</title>
-	<description></description>
-	<stream_url><![CDATA[NationalGeographic.uk,National Geographic,http://royal-iptv.noip.me:2052/live/russel/russel/4078.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 150</title>
-	<description></description>
-	<stream_url><![CDATA[#EXTINF:0,History.uk,History,http://royal-iptv.noip.me:2052/live/russel/russel/4099.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 151</title>
-	<description></description>
-	<stream_url><![CDATA[H2.uk,H2,http://royal-iptv.noip.me:2052/live/russel/russel/4100.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 152</title>
-	<description></description>
-	<stream_url><![CDATA[#EXTINF:0,Investigation.uk,ID,http://royal-iptv.noip.me:2052/live/russel/russel/4157.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 153</title>
-	<description></description>
-	<stream_url><![CDATA[ext,Home&Health,http://royal-iptv.noip.me:2052/live/russel/russel/4098.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 154</title>
-	<description></description>
-	<stream_url><![CDATA[#EXTINF:0,DiscoveryTurbo.uk,Discovery Turbo,http://royal-iptv.noip.me:2052/live/russel/russel/4116.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 155</title>
-	<description></description>
-	<stream_url><![CDATA[ext,DiscoveryShed,http://royal-iptv.noip.me:2052/live/russel/russel/4117.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 156</title>
-	<description></description>
-	<stream_url><![CDATA[#EXTINF:0,DiscoveryScience.uk,Discovery Science,http://royal-iptv.noip.me:2052/live/russel/russel/4118.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 157</title>
-	<description></description>
-	<stream_url><![CDATA[inv-discovery,DiscoveryInvestigation,http://royal-iptv.noip.me:2052/live/russel/russel/4119.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 158</title>
-	<description></description>
-	<stream_url><![CDATA[#EXTINF:0,DiscoveryHistory.uk,Discovery History,http://royal-iptv.noip.me:2052/live/russel/russel/4120.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 159</title>
-	<description></description>
-	<stream_url><![CDATA[ext,Comedy Xtra +1,http://royal-iptv.noip.me:2052/live/russel/russel/4335.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 160</title>
-	<description></description>
-	<stream_url><![CDATA[#EXTINF:0,AnimalPlanetplus1.uk,Animal Planet +1,http://royal-iptv.noip.me:2052/live/russel/russel/4322.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 161</title>
-	<description></description>
-	<stream_url><![CDATA[TCM.uk,TCM,http://royal-iptv.noip.me:2052/live/russel/russel/4033.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 162</title>
-	<description></description>
-	<stream_url><![CDATA[#EXTINF:0,tv3.rte.ie,TV3,http://royal-iptv.noip.me:2052/live/russel/russel/4026.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 163</title>
-	<description></description>
-	<stream_url><![CDATA[SkySciFiHorror.uk,Sy-Fy,http://royal-iptv.noip.me:2052/live/russel/russel/4034.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 164</title>
-	<description></description>
-	<stream_url><![CDATA[#EXTINF:0,TLC.uk,TLC,http://royal-iptv.noip.me:2052/live/russel/russel/4031.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 165</title>
-	<description></description>
-	<stream_url><![CDATA[ext,Spike UK,http://royal-iptv.noip.me:2052/live/russel/russel/4035.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 166</title>
-	<description></description>
-	<stream_url><![CDATA[#EXTINF:0,SkyAtlantic.uk,Sky Atlantic,http://royal-iptv.noip.me:2052/live/russel/russel/4060.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 167</title>
-	<description></description>
-	<stream_url><![CDATA[Sky1.uk,Sky One,http://royal-iptv.noip.me:2052/live/russel/russel/4047.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 168</title>
-	<description></description>
-	<stream_url><![CDATA[#EXTINF:0,Sky2.uk,Sky Two,http://royal-iptv.noip.me:2052/live/russel/russel/4038.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 169</title>
-	<description></description>
-	<stream_url><![CDATA[SkyLiving.uk,Sky Living,http://royal-iptv.noip.me:2052/live/russel/russel/4059.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 170</title>
-	<description></description>
-	<stream_url><![CDATA[#EXTINF:0,SkyArts1.uk,Sky Arts,http://royal-iptv.noip.me:2052/live/russel/russel/4061.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 171</title>
-	<description></description>
-	<stream_url><![CDATA[SkyNews.uk,Sky News,http://royal-iptv.noip.me:2052/live/russel/russel/4037.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 172</title>
-	<description></description>
-	<stream_url><![CDATA[#EXTINF:0,ComedyCentralExtra.uk,Comedy Xtra,http://royal-iptv.noip.me:2052/live/russel/russel/4124.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 173</title>
-	<description></description>
-	<stream_url><![CDATA[ComedyCentral.uk,Comedy Central,http://royal-iptv.noip.me:2052/live/russel/russel/4125.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 174</title>
-	<description></description>
-	<stream_url><![CDATA[#EXTINF:0,ComedyCentralExtra.uk,Comedy Central Extra,http://royal-iptv.noip.me:2052/live/russel/russel/4171.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 175</title>
-	<description></description>
-	<stream_url><![CDATA[Challenge.uk,CHALLENGE,http://royal-iptv.noip.me:2052/live/russel/russel/4131.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 176</title>
-	<description></description>
-	<stream_url><![CDATA[#EXTINF:0,More4.uk,More4,http://royal-iptv.noip.me:2052/live/russel/russel/4085.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 177</title>
-	<description></description>
-	<stream_url><![CDATA[GoodFood.uk,Good Food,http://royal-iptv.noip.me:2052/live/russel/russel/4101.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 178</title>
-	<description></description>
-	<stream_url><![CDATA[#EXTINF:0,GOLD.uk,Gold,http://royal-iptv.noip.me:2052/live/russel/russel/4102.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 179</title>
-	<description></description>
-	<stream_url><![CDATA[ext,FOXNews,http://royal-iptv.noip.me:2052/live/russel/russel/4103.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 180</title>
-	<description></description>
-	<stream_url><![CDATA[#EXTINF:0,FX.uk,FOX,http://royal-iptv.noip.me:2052/live/russel/russel/4104.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 181</title>
-	<description></description>
-	<stream_url><![CDATA[Eden.uk,Eden,http://royal-iptv.noip.me:2052/live/russel/russel/4110.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 182</title>
-	<description></description>
-	<stream_url><![CDATA[#EXTINF:0,Film4.uk,Film4,http://royal-iptv.noip.me:2052/live/russel/russel/4107.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 183</title>
-	<description></description>
-	<stream_url><![CDATA[E4.uk,E4,http://royal-iptv.noip.me:2052/live/russel/russel/4111.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 184</title>
-	<description></description>
-	<stream_url><![CDATA[#EXTINF:0,E.uk,E!,http://royal-iptv.noip.me:2052/live/russel/russel/4112.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 185</title>
-	<description></description>
-	<stream_url><![CDATA[Boomerang.uk,Boomerang,http://royal-iptv.noip.me:2052/live/russel/russel/4139.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 186</title>
-	<description></description>
-	<stream_url><![CDATA[#EXTINF:0,Dave.uk,Dave,http://royal-iptv.noip.me:2052/live/russel/russel/4122.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 187</title>
-	<description></description>
-	<stream_url><![CDATA[3e.rte.ie,3e,http://royal-iptv.noip.me:2052/live/russel/russel/4153.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 188</title>
-	<description></description>
-	<stream_url><![CDATA[#EXTINF:0,HeartTV.uk,Heart TV UK,http://royal-iptv.noip.me:2052/live/russel/russel/4319.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 189</title>
-	<description></description>
-	<stream_url><![CDATA[mtv-rocks,MTV Rocks HD,http://royal-iptv.noip.me:2052/live/russel/russel/4315.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 190</title>
-	<description></description>
-	<stream_url><![CDATA[#EXTINF:0,MTVLiveHD.uk,MTV Live HD,http://royal-iptv.noip.me:2052/live/russel/russel/4316.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 191</title>
-	<description></description>
-	<stream_url><![CDATA[ext,MTV Hits!,http://royal-iptv.noip.me:2052/live/russel/russel/4317.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 192</title>
-	<description></description>
-	<stream_url><![CDATA[#EXTINF:0,MTVBase.uk,MTV Base UK,http://royal-iptv.noip.me:2052/live/russel/russel/4318.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 193</title>
-	<description></description>
-	<stream_url><![CDATA[vh-1-classic,VH1 Classic,http://royal-iptv.noip.me:2052/live/russel/russel/4023.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 194</title>
-	<description></description>
-	<stream_url><![CDATA[#EXTINF:0,VH1UK.uk,VH1,http://royal-iptv.noip.me:2052/live/russel/russel/4024.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 195</title>
-	<description></description>
-	<stream_url><![CDATA[MTVRocks.uk,MTV Rocks,http://royal-iptv.noip.me:2052/live/russel/russel/4080.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 196</title>
-	<description></description>
-	<stream_url><![CDATA[#EXTINF:0,MTVMusic.uk,MTV MUSIC,http://royal-iptv.noip.me:2052/live/russel/russel/4163.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 197</title>
-	<description></description>
-	<stream_url><![CDATA[ext,MTVIndia,http://royal-iptv.noip.me:2052/live/russel/russel/3970.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 198</title>
-	<description></description>
-	<stream_url><![CDATA[#EXTINF:0,MTVHits.uk,MTV Hits,http://royal-iptv.noip.me:2052/live/russel/russel/4081.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 199</title>
-	<description></description>
-	<stream_url><![CDATA[MTVDance.uk,MTV DANCE,http://royal-iptv.noip.me:2052/live/russel/russel/4164.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 200</title>
-	<description></description>
-	<stream_url><![CDATA[#EXTINF:0,ext,MTVClassic,http://royal-iptv.noip.me:2052/live/russel/russel/4082.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 201</title>
-	<description></description>
-	<stream_url><![CDATA[MTVBase.uk,MTV Base,http://royal-iptv.noip.me:2052/live/russel/russel/4083.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 202</title>
-	<description></description>
-	<stream_url><![CDATA[#EXTINF:0,MTV.uk,MTV,http://royal-iptv.noip.me:2052/live/russel/russel/4084.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 203</title>
-	<description></description>
-	<stream_url><![CDATA[ext,Sky Cinema Crime & Thriller,http://royal-iptv.noip.me:2052/live/russel/russel/4048.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 204</title>
-	<description></description>
-	<stream_url><![CDATA[#EXTINF:0,ext,Sky Cinema Select,http://royal-iptv.noip.me:2052/live/russel/russel/4050.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 205</title>
-	<description></description>
-	<stream_url><![CDATA[ext,Sky Cinema Sci-Fi & Horror,http://royal-iptv.noip.me:2052/live/russel/russel/4051.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 206</title>
-	<description></description>
-	<stream_url><![CDATA[#EXTINF:0,ext,Sky Cinema Premiere,http://royal-iptv.noip.me:2052/live/russel/russel/4052.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 207</title>
-	<description></description>
-	<stream_url><![CDATA[ext,Sky Cinema Modern Greats,http://royal-iptv.noip.me:2052/live/russel/russel/4053.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 208</title>
-	<description></description>
-	<stream_url><![CDATA[#EXTINF:0,CinemaHits.it,Sky Cinema Hits,http://royal-iptv.noip.me:2052/live/russel/russel/4049.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 209</title>
-	<description></description>
-	<stream_url><![CDATA[CinemaFamily.it,Sky Cinema Family,http://royal-iptv.noip.me:2052/live/russel/russel/4054.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 210</title>
-	<description></description>
-	<stream_url><![CDATA[#EXTINF:0,ext,Sky Cinema Drama & Romance,http://royal-iptv.noip.me:2052/live/russel/russel/4055.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 211</title>
-	<description></description>
-	<stream_url><![CDATA[ext,Sky Cinema Disney,http://royal-iptv.noip.me:2052/live/russel/russel/4056.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 212</title>
-	<description></description>
-	<stream_url><![CDATA[#EXTINF:0,CinemaComedyHD.it,Sky Cinema Comedy,http://royal-iptv.noip.me:2052/live/russel/russel/4057.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 213</title>
-	<description></description>
-	<stream_url><![CDATA[ext,Sky Cinema Action & Adventure,http://royal-iptv.noip.me:2052/live/russel/russel/4058.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 214</title>
-	<description></description>
-	<stream_url><![CDATA[#EXTINF:0,ext,SkySpBoxOff (PPV Events Only),http://royal-iptv.noip.me:2052/live/russel/russel/4340.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 215</title>
-	<description></description>
-	<stream_url><![CDATA[SkySpBoxOff.uk,Sky Sports Box Office,http://royal-iptv.noip.me:2052/live/russel/russel/4213.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 216</title>
-	<description></description>
-	<stream_url><![CDATA[#EXTINF:0,SKYSport1.it,UK | Sky Sport 1 HD,http://royal-iptv.noip.me:2052/live/russel/russel/4202.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 217</title>
-	<description></description>
-	<stream_url><![CDATA[ext,Sky Sports 1 SD,http://royal-iptv.noip.me:2052/live/russel/russel/4046.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 218</title>
-	<description></description>
-	<stream_url><![CDATA[#EXTINF:0,SKYSport2.it,UK | Sky Sport 2 HD,http://royal-iptv.noip.me:2052/live/russel/russel/4203.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 219</title>
-	<description></description>
-	<stream_url><![CDATA[ext,Sky Sports 2 SD,http://royal-iptv.noip.me:2052/live/russel/russel/4045.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 220</title>
-	<description></description>
-	<stream_url><![CDATA[#EXTINF:0,SKYSport2.it,UK | Sky Sport 2 SD,http://royal-iptv.noip.me:2052/live/russel/russel/4204.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 221</title>
-	<description></description>
-	<stream_url><![CDATA[SKYSport3.it,UK | Sky Sport 3 HD,http://royal-iptv.noip.me:2052/live/russel/russel/4205.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 222</title>
-	<description></description>
-	<stream_url><![CDATA[#EXTINF:0,SkySports3.uk,Sky Sports 3 SD,http://royal-iptv.noip.me:2052/live/russel/russel/4044.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 223</title>
-	<description></description>
-	<stream_url><![CDATA[SKYSport3.it,UK | Sky Sport 3 SD,http://royal-iptv.noip.me:2052/live/russel/russel/4206.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 224</title>
-	<description></description>
-	<stream_url><![CDATA[#EXTINF:0,ext,UK | Sky Sport 4 SD,http://royal-iptv.noip.me:2052/live/russel/russel/4208.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 225</title>
-	<description></description>
-	<stream_url><![CDATA[SkySports4.uk,Sky Sports 4,http://royal-iptv.noip.me:2052/live/russel/russel/4170.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 226</title>
-	<description></description>
-	<stream_url><![CDATA[#EXTINF:0,ext,Sky Sports 4 SD,http://royal-iptv.noip.me:2052/live/russel/russel/4043.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 227</title>
-	<description></description>
-	<stream_url><![CDATA[SkySports4.uk,UK | Sky Sport 4 HD,http://royal-iptv.noip.me:2052/live/russel/russel/4207.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 228</title>
-	<description></description>
-	<stream_url><![CDATA[#EXTINF:0,SkySports5.uk,UK | Sky Sport 5 HD,http://royal-iptv.noip.me:2052/live/russel/russel/4209.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 229</title>
-	<description></description>
-	<stream_url><![CDATA[ext,UK | Sky Sport 5 SD,http://royal-iptv.noip.me:2052/live/russel/russel/4210.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 230</title>
-	<description></description>
-	<stream_url><![CDATA[#EXTINF:0,ext,Sky Sports 5 SD,http://royal-iptv.noip.me:2052/live/russel/russel/4042.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 231</title>
-	<description></description>
-	<stream_url><![CDATA[ext,Sky Sports News SD,http://royal-iptv.noip.me:2052/live/russel/russel/4039.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 232</title>
-	<description></description>
-	<stream_url><![CDATA[#EXTINF:0,SkySportsNews.uk,Sky Sports News HQ,http://royal-iptv.noip.me:2052/live/russel/russel/4167.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 233</title>
-	<description></description>
-	<stream_url><![CDATA[SkySportsF1.uk,Sky Sports F1 HD,http://royal-iptv.noip.me:2052/live/russel/russel/4211.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 234</title>
-	<description></description>
-	<stream_url><![CDATA[#EXTINF:0,ext,Sky Sports F1 SD,http://royal-iptv.noip.me:2052/live/russel/russel/4040.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 235</title>
-	<description></description>
-	<stream_url><![CDATA[BTSport1.uk,UK | BT Sport 1 HD,http://royal-iptv.noip.me:2052/live/russel/russel/4215.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 236</title>
-	<description></description>
-	<stream_url><![CDATA[#EXTINF:0,ext,UK | BT Sport 1 SD,http://royal-iptv.noip.me:2052/live/russel/russel/4214.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 237</title>
-	<description></description>
-	<stream_url><![CDATA[BTSport2.uk,UK | BT Sport 2 HD,http://royal-iptv.noip.me:2052/live/russel/russel/4217.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 238</title>
-	<description></description>
-	<stream_url><![CDATA[#EXTINF:0,BTSport2.uk,UK | BT Sport 2 SD,http://royal-iptv.noip.me:2052/live/russel/russel/4216.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 239</title>
-	<description></description>
-	<stream_url><![CDATA[ext,UK | BT Sport 3 HD,http://royal-iptv.noip.me:2052/live/russel/russel/4219.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 240</title>
-	<description></description>
-	<stream_url><![CDATA[#EXTINF:0,mir,UK | BT Sport ESPN,http://royal-iptv.noip.me:2052/live/russel/russel/4218.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 241</title>
-	<description></description>
-	<stream_url><![CDATA[ext,BT Sport Mosaic,http://royal-iptv.noip.me:2052/live/russel/russel/4324.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 242</title>
-	<description></description>
-	<stream_url><![CDATA[#EXTINF:0,ext,BT Sport Mosaic 2,http://royal-iptv.noip.me:2052/live/russel/russel/4323.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 243</title>
-	<description></description>
-	<stream_url><![CDATA[ext,BT Sport Extra 1,http://royal-iptv.noip.me:2052/live/russel/russel/4330.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 244</title>
-	<description></description>
-	<stream_url><![CDATA[#EXTINF:0,ext,BT Sport Extra 2,http://royal-iptv.noip.me:2052/live/russel/russel/4329.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 245</title>
-	<description></description>
-	<stream_url><![CDATA[ext,BT Sport Extra 3,http://royal-iptv.noip.me:2052/live/russel/russel/4328.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 246</title>
-	<description></description>
-	<stream_url><![CDATA[#EXTINF:0,ext,BT Sport Extra 4,http://royal-iptv.noip.me:2052/live/russel/russel/4327.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 247</title>
-	<description></description>
-	<stream_url><![CDATA[ext,BT Sport Extra 5,http://royal-iptv.noip.me:2052/live/russel/russel/4326.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 248</title>
-	<description></description>
-	<stream_url><![CDATA[#EXTINF:0,ext,BT Sport Extra 6,http://royal-iptv.noip.me:2052/live/russel/russel/4325.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 249</title>
-	<description></description>
-	<stream_url><![CDATA[BoxNation.uk,UK | Box Nation,http://royal-iptv.noip.me:2052/live/russel/russel/4229.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 250</title>
-	<description></description>
-	<stream_url><![CDATA[#EXTINF:0,ext,Sky Sports Box Office PPV,http://royal-iptv.noip.me:2052/live/russel/russel/4041.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 251</title>
-	<description></description>
-	<stream_url><![CDATA[ext,Sky Sports Box Office Back Up,http://royal-iptv.noip.me:2052/live/russel/russel/4168.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 252</title>
-	<description></description>
-	<stream_url><![CDATA[#EXTINF:0,PremierSports.uk,UK | Premier Sports HD,http://royal-iptv.noip.me:2052/live/russel/russel/4226.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 253</title>
-	<description></description>
-	<stream_url><![CDATA[PremierSports.uk,UK | Premier Sport,http://royal-iptv.noip.me:2052/live/russel/russel/4228.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 254</title>
-	<description></description>
-	<stream_url><![CDATA[#EXTINF:0,Eurosport1.uk,British Eurosport 1,http://royal-iptv.noip.me:2052/live/russel/russel/4174.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 255</title>
-	<description></description>
-	<stream_url><![CDATA[BoxNation.uk,BoxNation,http://royal-iptv.noip.me:2052/live/russel/russel/4138.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 256</title>
-	<description></description>
-	<stream_url><![CDATA[#EXTINF:0,AtTheRaces.uk,At The Races Backup,http://royal-iptv.noip.me:2052/live/russel/russel/4148.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 257</title>
-	<description></description>
-	<stream_url><![CDATA[setanta-sport,UK | Setanta,http://royal-iptv.noip.me:2052/live/russel/russel/4227.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 258</title>
-	<description></description>
-	<stream_url><![CDATA[#EXTINF:0,ext,UK | RACING UK HD,http://royal-iptv.noip.me:2052/live/russel/russel/4220.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 259</title>
-	<description></description>
-	<stream_url><![CDATA[AtTheRaces.uk,UK | At The Races,http://royal-iptv.noip.me:2052/live/russel/russel/4221.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 260</title>
-	<description></description>
-	<stream_url><![CDATA[#EXTINF:0,MUTV.uk,MUTV,http://royal-iptv.noip.me:2052/live/russel/russel/4079.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 261</title>
-	<description></description>
-	<stream_url><![CDATA[ext,MUTV HD,http://royal-iptv.noip.me:2052/live/russel/russel/4451.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 262</title>
-	<description></description>
-	<stream_url><![CDATA[#EXTINF:0,ext,LFCTV,http://royal-iptv.noip.me:2052/live/russel/russel/4087.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 263</title>
-	<description></description>
-	<stream_url><![CDATA[ext,UK | LFCTV,http://royal-iptv.noip.me:2052/live/russel/russel/4224.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 264</title>
-	<description></description>
-	<stream_url><![CDATA[#EXTINF:0,ChelseaTV.uk,UK | Chelsea TV,http://royal-iptv.noip.me:2052/live/russel/russel/4225.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 265</title>
-	<description></description>
-	<stream_url><![CDATA[ext,Celtic Tv,http://royal-iptv.noip.me:2052/live/russel/russel/4321.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 266</title>
-	<description></description>
-	<stream_url><![CDATA[#EXTINF:0,ext,Rangers Tv (Bonus),http://royal-iptv.noip.me:2052/live/russel/russel/4320.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 267</title>
-	<description></description>
-	<stream_url><![CDATA[motors,UK | Motors,http://royal-iptv.noip.me:2052/live/russel/russel/4230.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 268</title>
-	<description></description>
-	<stream_url><![CDATA[#EXTINF:0,Yesterday.uk,Yesterday,http://royal-iptv.noip.me:2052/live/russel/russel/4020.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 269</title>
-	<description></description>
-	<stream_url><![CDATA[TrueEntertainment.uk,True Entertainment,http://royal-iptv.noip.me:2052/live/russel/russel/4029.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 270</title>
-	<description></description>
-	<stream_url><![CDATA[#EXTINF:0,travel,TravelChannelHD,http://royal-iptv.noip.me:2052/live/russel/russel/3997.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 271</title>
-	<description></description>
-	<stream_url><![CDATA[TravelChannel.uk,Travel Channel,http://royal-iptv.noip.me:2052/live/russel/russel/4030.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 272</title>
-	<description></description>
-	<stream_url><![CDATA[#EXTINF:0,SkySportsNews.uk,UK | Sky Sport News HQ,http://royal-iptv.noip.me:2052/live/russel/russel/4212.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 273</title>
-	<description></description>
-	<stream_url><![CDATA[Watch.uk,Watch,http://royal-iptv.noip.me:2052/live/russel/russel/4021.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 274</title>
-	<description></description>
-	<stream_url><![CDATA[#EXTINF:0,TrueMovies2.uk,True Movies2,http://royal-iptv.noip.me:2052/live/russel/russel/4027.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 275</title>
-	<description></description>
-	<stream_url><![CDATA[TrueMovies.uk,True Movies 1,http://royal-iptv.noip.me:2052/live/russel/russel/4028.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 276</title>
-	<description></description>
-	<stream_url><![CDATA[#EXTINF:0,HorrorChannel.uk,Horror Channel,http://royal-iptv.noip.me:2052/live/russel/russel/4097.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 277</title>
-	<description></description>
-	<stream_url><![CDATA[ext,EuroSports1,http://royal-iptv.noip.me:2052/live/russel/russel/4108.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 278</title>
-	<description></description>
-	<stream_url><![CDATA[#EXTINF:0,ext,Uk Euro Sport 2,http://royal-iptv.noip.me:2052/live/russel/russel/4109.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 279</title>
-	<description></description>
-	<stream_url><![CDATA[ChelseaTV.uk,CHELSEA TV,http://royal-iptv.noip.me:2052/live/russel/russel/4127.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 280</title>
-	<description></description>
-	<stream_url><![CDATA[#EXTINF:0,CartoonNetwork.uk,Cartoon Network Backup,http://royal-iptv.noip.me:2052/live/russel/russel/4137.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 281</title>
-	<description></description>
-	<stream_url><![CDATA[ext,NBA TV SD,http://royal-iptv.noip.me:2052/live/russel/russel/4239.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 282</title>
-	<description></description>
-	<stream_url><![CDATA[#EXTINF:0,NASATV.us,Nasa TV HD,http://royal-iptv.noip.me:2052/live/russel/russel/4240.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 283</title>
-	<description></description>
-	<stream_url><![CDATA[ext,ByuTV HD,http://royal-iptv.noip.me:2052/live/russel/russel/4241.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 284</title>
-	<description></description>
-	<stream_url><![CDATA[#EXTINF:0,TSN1.ca,Tsn 1 HD,http://royal-iptv.noip.me:2052/live/russel/russel/4231.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 285</title>
-	<description></description>
-	<stream_url><![CDATA[TSN2.ca,Tsn 2 HD,http://royal-iptv.noip.me:2052/live/russel/russel/4232.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 286</title>
-	<description></description>
-	<stream_url><![CDATA[#EXTINF:0,ext,USA:CA | TSN 3 HD,http://royal-iptv.noip.me:2052/live/russel/russel/4233.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 287</title>
-	<description></description>
-	<stream_url><![CDATA[ext,USA:CA | TSN 4 HD,http://royal-iptv.noip.me:2052/live/russel/russel/4234.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 288</title>
-	<description></description>
-	<stream_url><![CDATA[#EXTINF:0,ext,USA:CA | TSN 5 HD,http://royal-iptv.noip.me:2052/live/russel/russel/4235.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 289</title>
-	<description></description>
-	<stream_url><![CDATA[ext,USA | Fox Sports 1 HD Backup,http://royal-iptv.noip.me:2052/live/russel/russel/4237.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 290</title>
-	<description></description>
-	<stream_url><![CDATA[#EXTINF:0,FoxSports.it,US: FOX Sport 1,http://royal-iptv.noip.me:2052/live/russel/russel/4344.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 291</title>
-	<description></description>
-	<stream_url><![CDATA[FoxSports2HD.mx,USA | Fox Sports 2 HD Backup,http://royal-iptv.noip.me:2052/live/russel/russel/4236.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 292</title>
-	<description></description>
-	<stream_url><![CDATA[#EXTINF:0,FOXsport2.nl,US: FOX Sport 2,http://royal-iptv.noip.me:2052/live/russel/russel/4343.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 293</title>
-	<description></description>
-	<stream_url><![CDATA[ext,NL: Ziggo Sport Extra 2,http://royal-iptv.noip.me:2052/live/russel/russel/4384.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 294</title>
-	<description></description>
-	<stream_url><![CDATA[#EXTINF:0,ext,NL: Ziggo Sport Extra 1,http://royal-iptv.noip.me:2052/live/russel/russel/4385.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 295</title>
-	<description></description>
-	<stream_url><![CDATA[FoxSports6.nl,NL: Fox Sports 6,http://royal-iptv.noip.me:2052/live/russel/russel/4378.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 296</title>
-	<description></description>
-	<stream_url><![CDATA[#EXTINF:0,FOXSportsEredivisie5.nl,NL: Fox Sports 5,http://royal-iptv.noip.me:2052/live/russel/russel/4379.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 297</title>
-	<description></description>
-	<stream_url><![CDATA[FOXsport4.nl,NL: Fox Sports 4,http://royal-iptv.noip.me:2052/live/russel/russel/4380.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 298</title>
-	<description></description>
-	<stream_url><![CDATA[#EXTINF:0,FoxSports3.mx,NL: Fox Sports 3,http://royal-iptv.noip.me:2052/live/russel/russel/4381.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 299</title>
-	<description></description>
-	<stream_url><![CDATA[FoxSports2.mx,NL: Fox Sports 2,http://royal-iptv.noip.me:2052/live/russel/russel/4382.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 300</title>
-	<description></description>
-	<stream_url><![CDATA[#EXTINF:0,FOXSports1.us,NL: Fox Sports 1,http://royal-iptv.noip.me:2052/live/russel/russel/4383.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 301</title>
-	<description></description>
-	<stream_url><![CDATA[ext,AR | beIN Sports 1 HD,http://royal-iptv.noip.me:2052/live/russel/russel/4415.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 302</title>
-	<description></description>
-	<stream_url><![CDATA[#EXTINF:0,ext,AR | beIN Sports 2 HD,http://royal-iptv.noip.me:2052/live/russel/russel/4412.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 303</title>
-	<description></description>
-	<stream_url><![CDATA[ext,AR | beIN Sports 3 HD,http://royal-iptv.noip.me:2052/live/russel/russel/4411.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 304</title>
-	<description></description>
-	<stream_url><![CDATA[#EXTINF:0,ext,AR | beIN Sports 4 HD,http://royal-iptv.noip.me:2052/live/russel/russel/4410.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 305</title>
-	<description></description>
-	<stream_url><![CDATA[ext,AR | beIN Sports 5 HD,http://royal-iptv.noip.me:2052/live/russel/russel/4409.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 306</title>
-	<description></description>
-	<stream_url><![CDATA[#EXTINF:0,ext,AR | beIN Sports 6 HD,http://royal-iptv.noip.me:2052/live/russel/russel/4408.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 307</title>
-	<description></description>
-	<stream_url><![CDATA[ext,AR | beIN Sports 7 HD,http://royal-iptv.noip.me:2052/live/russel/russel/4407.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 308</title>
-	<description></description>
-	<stream_url><![CDATA[#EXTINF:0,ext,AR | beIN Sports 8 HD,http://royal-iptv.noip.me:2052/live/russel/russel/4406.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 309</title>
-	<description></description>
-	<stream_url><![CDATA[ext,AR | beIN Sports 9 HD,http://royal-iptv.noip.me:2052/live/russel/russel/4405.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 310</title>
-	<description></description>
-	<stream_url><![CDATA[#EXTINF:0,ext,AR | beIN Sports 10 HD,http://royal-iptv.noip.me:2052/live/russel/russel/4414.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 311</title>
-	<description></description>
-	<stream_url><![CDATA[ext,AR | beIN Sports 11 HD,http://royal-iptv.noip.me:2052/live/russel/russel/4413.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 312</title>
-	<description></description>
-	<stream_url><![CDATA[#EXTINF:0,ext,MIO Stadium 108 Backup 1,http://royal-iptv.noip.me:2052/live/russel/russel/4631.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 313</title>
-	<description></description>
-	<stream_url><![CDATA[ext,MIO Stadium 107 Backup 1,http://royal-iptv.noip.me:2052/live/russel/russel/4630.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 314</title>
-	<description></description>
-	<stream_url><![CDATA[#EXTINF:0,ext,MIO Stadium 106 Backup 1,http://royal-iptv.noip.me:2052/live/russel/russel/4629.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 315</title>
-	<description></description>
-	<stream_url><![CDATA[ext,MIO Stadium 105 Backup 1,http://royal-iptv.noip.me:2052/live/russel/russel/4628.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 316</title>
-	<description></description>
-	<stream_url><![CDATA[#EXTINF:0,ext,MIO Stadium 104 Backup 1,http://royal-iptv.noip.me:2052/live/russel/russel/4627.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 317</title>
-	<description></description>
-	<stream_url><![CDATA[ext,MIO Stadium 103 Backup 1,http://royal-iptv.noip.me:2052/live/russel/russel/4626.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 318</title>
-	<description></description>
-	<stream_url><![CDATA[#EXTINF:0,ext,MIO Stadium 102 Backup 1,http://royal-iptv.noip.me:2052/live/russel/russel/4625.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 319</title>
-	<description></description>
-	<stream_url><![CDATA[ext,Mio Sports 108 Backup 2,http://royal-iptv.noip.me:2052/live/russel/russel/4638.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 320</title>
-	<description></description>
-	<stream_url><![CDATA[#EXTINF:0,ext,Mio Sports 107 Backup 2,http://royal-iptv.noip.me:2052/live/russel/russel/4637.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 321</title>
-	<description></description>
-	<stream_url><![CDATA[ext,Mio Sports 106 Backup 2,http://royal-iptv.noip.me:2052/live/russel/russel/4636.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 322</title>
-	<description></description>
-	<stream_url><![CDATA[#EXTINF:0,ext,Mio Sports 105 Backup 2,http://royal-iptv.noip.me:2052/live/russel/russel/4635.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 323</title>
-	<description></description>
-	<stream_url><![CDATA[ext,Mio Sports 104 Backup 2,http://royal-iptv.noip.me:2052/live/russel/russel/4634.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 324</title>
-	<description></description>
-	<stream_url><![CDATA[#EXTINF:0,ext,Mio Sports 103 Backup 2,http://royal-iptv.noip.me:2052/live/russel/russel/4633.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 325</title>
-	<description></description>
-	<stream_url><![CDATA[ext,Mio Sports 102 Backup 2,http://royal-iptv.noip.me:2052/live/russel/russel/4632.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 326</title>
-	<description></description>
-	<stream_url><![CDATA[#EXTINF:0,ext,UK: EPL Extra Time 5,http://royal-iptv.noip.me:2052/live/russel/russel/4620.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 327</title>
-	<description></description>
-	<stream_url><![CDATA[ext,UK: EPL Extra Time 4,http://royal-iptv.noip.me:2052/live/russel/russel/4619.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 328</title>
-	<description></description>
-	<stream_url><![CDATA[#EXTINF:0,ext,UK: EPL Extra Time 3,http://royal-iptv.noip.me:2052/live/russel/russel/4618.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 329</title>
-	<description></description>
-	<stream_url><![CDATA[ext,UK: EPL Extra Time 2,http://royal-iptv.noip.me:2052/live/russel/russel/4617.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 330</title>
-	<description></description>
-	<stream_url><![CDATA[#EXTINF:0,ext,UK: EPL Extra Time 1,http://royal-iptv.noip.me:2052/live/russel/russel/4616.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 331</title>
-	<description></description>
-	<stream_url><![CDATA[ext,USA | NBC XTRA 5 (LIVE DURING EPL),http://royal-iptv.noip.me:2052/live/russel/russel/4615.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 332</title>
-	<description></description>
-	<stream_url><![CDATA[#EXTINF:0,ext,USA | NBC XTRA 4 (LIVE DURING EPL),http://royal-iptv.noip.me:2052/live/russel/russel/4614.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 333</title>
-	<description></description>
-	<stream_url><![CDATA[ext,USA | NBC XTRA 3 (LIVE DURING EPL),http://royal-iptv.noip.me:2052/live/russel/russel/4613.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 334</title>
-	<description></description>
-	<stream_url><![CDATA[#EXTINF:0,ext,USA | NBC XTRA 2 (LIVE DURING EPL),http://royal-iptv.noip.me:2052/live/russel/russel/4612.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 335</title>
-	<description></description>
-	<stream_url><![CDATA[ext,USA | NBC XTRA 1 (LIVE DURING EPL),http://royal-iptv.noip.me:2052/live/russel/russel/4611.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 336</title>
-	<description></description>
-	<stream_url><![CDATA[#EXTINF:0,ext,ML Astro Super Sport 1 HD,http://royal-iptv.noip.me:2052/live/russel/russel/4621.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 337</title>
-	<description></description>
-	<stream_url><![CDATA[ext,ML:Astro Supersport 2HD,http://royal-iptv.noip.me:2052/live/russel/russel/4622.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 338</title>
-	<description></description>
-	<stream_url><![CDATA[#EXTINF:0,ext,ML Astro Super Sport 3 HD,http://royal-iptv.noip.me:2052/live/russel/russel/4623.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 339</title>
-	<description></description>
-	<stream_url><![CDATA[ext,ML:Astro Supersport 4 HD,http://royal-iptv.noip.me:2052/live/russel/russel/4624.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 340</title>
-	<description></description>
-	<stream_url><![CDATA[#EXTINF:0,ext,BeIN MOVIES 4HD Backup,http://royal-iptv.noip.me:2052/live/russel/russel/4673.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 341</title>
-	<description></description>
-	<stream_url><![CDATA[ext,BeIN MOVIES 3HD Backup,http://royal-iptv.noip.me:2052/live/russel/russel/4674.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 342</title>
-	<description></description>
-	<stream_url><![CDATA[#EXTINF:0,ext,BeIN MOVIES 2HD Backup,http://royal-iptv.noip.me:2052/live/russel/russel/4675.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 343</title>
-	<description></description>
-	<stream_url><![CDATA[ext,BeIN MOVIES 1HD Backup,http://royal-iptv.noip.me:2052/live/russel/russel/4676.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 344</title>
-	<description></description>
-	<stream_url><![CDATA[#EXTINF:0,ext,OSN WWE Network HD,http://royal-iptv.noip.me:2052/live/russel/russel/4586.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 345</title>
-	<description></description>
-	<stream_url><![CDATA[StarWorld.in,OSN Star world,http://royal-iptv.noip.me:2052/live/russel/russel/4587.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 346</title>
-	<description></description>
-	<stream_url><![CDATA[#EXTINF:0,ext,OSN STAR MOVIES HD,http://royal-iptv.noip.me:2052/live/russel/russel/4588.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 347</title>
-	<description></description>
-	<stream_url><![CDATA[OSNMoviesPremiere.net,OSN Movies Premiere HD,http://royal-iptv.noip.me:2052/live/russel/russel/4589.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 348</title>
-	<description></description>
-	<stream_url><![CDATA[#EXTINF:0,ext,OSN Movies Premier  2 HD,http://royal-iptv.noip.me:2052/live/russel/russel/4590.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 349</title>
-	<description></description>
-	<stream_url><![CDATA[ext,OSN Movies Kids HD,http://royal-iptv.noip.me:2052/live/russel/russel/4591.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 350</title>
-	<description></description>
-	<stream_url><![CDATA[#EXTINF:0,OSNMoviesFestival.net,OSN Movies Festival HD,http://royal-iptv.noip.me:2052/live/russel/russel/4592.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 351</title>
-	<description></description>
-	<stream_url><![CDATA[OSNMoviesAction.net,OSN Movies Action HD,http://royal-iptv.noip.me:2052/live/russel/russel/4593.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 352</title>
-	<description></description>
-	<stream_url><![CDATA[#EXTINF:0,ext,OSN Movies Action,http://royal-iptv.noip.me:2052/live/russel/russel/4594.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 353</title>
-	<description></description>
-	<stream_url><![CDATA[ext,OSN Movies  2 HD,http://royal-iptv.noip.me:2052/live/russel/russel/4595.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 354</title>
-	<description></description>
-	<stream_url><![CDATA[#EXTINF:0,OSNFirst.net,OSN First HD,http://royal-iptv.noip.me:2052/live/russel/russel/4596.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 355</title>
-	<description></description>
-	<stream_url><![CDATA[OSNFirstComedy.net,OSN First Comedy HD,http://royal-iptv.noip.me:2052/live/russel/russel/4597.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 356</title>
-	<description></description>
-	<stream_url><![CDATA[#EXTINF:0,ext,OSN ELYOM,http://royal-iptv.noip.me:2052/live/russel/russel/4598.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 357</title>
-	<description></description>
-	<stream_url><![CDATA[ext,OSN Discovery-Sc HD,http://royal-iptv.noip.me:2052/live/russel/russel/4599.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 358</title>
-	<description></description>
-	<stream_url><![CDATA[#EXTINF:0,ext,OSN Discovery HD,http://royal-iptv.noip.me:2052/live/russel/russel/4600.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 359</title>
-	<description></description>
-	<stream_url><![CDATA[ext,OSN Box Office 3,http://royal-iptv.noip.me:2052/live/russel/russel/4584.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 360</title>
-	<description></description>
-	<stream_url><![CDATA[#EXTINF:0,ext,OSN Box Office 1,http://royal-iptv.noip.me:2052/live/russel/russel/4585.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 361</title>
-	<description></description>
-	<stream_url><![CDATA[ext,OSN Art Cinema,http://royal-iptv.noip.me:2052/live/russel/russel/4601.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 362</title>
-	<description></description>
-	<stream_url><![CDATA[#EXTINF:0,ext,OSN AD Sports 2 HD,http://royal-iptv.noip.me:2052/live/russel/russel/4602.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 363</title>
-	<description></description>
-	<stream_url><![CDATA[ext,OSN AD Sports 1 HD,http://royal-iptv.noip.me:2052/live/russel/russel/4603.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 364</title>
-	<description></description>
-	<stream_url><![CDATA[#EXTINF:0,ext,OSN AD Nat Geo HD,http://royal-iptv.noip.me:2052/live/russel/russel/4604.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 365</title>
-	<description></description>
-	<stream_url><![CDATA[ext,OSN  Ya Hala! SHABAB HD,http://royal-iptv.noip.me:2052/live/russel/russel/4605.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 366</title>
-	<description></description>
-	<stream_url><![CDATA[#EXTINF:0,ext,OSN  Ya Hala! HD,http://royal-iptv.noip.me:2052/live/russel/russel/4606.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 367</title>
-	<description></description>
-	<stream_url><![CDATA[ext,OSN  Ya Hala! Drama HD,http://royal-iptv.noip.me:2052/live/russel/russel/4607.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 368</title>
-	<description></description>
-	<stream_url><![CDATA[#EXTINF:0,ext,OSN  Orbit Cinema2,http://royal-iptv.noip.me:2052/live/russel/russel/4608.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 369</title>
-	<description></description>
-	<stream_url><![CDATA[OSNMovies.net,OSN  Movies HD,http://royal-iptv.noip.me:2052/live/russel/russel/4609.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 370</title>
-	<description></description>
-	<stream_url><![CDATA[#EXTINF:0,OSNMoviesDrama.net,OSN  Movies Drama HD,http://royal-iptv.noip.me:2052/live/russel/russel/4610.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 371</title>
-	<description></description>
-	<stream_url><![CDATA[ext,(HD)STARCricket,http://royal-iptv.noip.me:2052/live/russel/russel/4007.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 372</title>
-	<description></description>
-	<stream_url><![CDATA[#EXTINF:0,WWE.ca,WWE HD,http://royal-iptv.noip.me:2052/live/russel/russel/4238.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 373</title>
-	<description></description>
-	<stream_url><![CDATA[ext,XingKongSTARTV,http://royal-iptv.noip.me:2052/live/russel/russel/3984.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 374</title>
-	<description></description>
-	<stream_url><![CDATA[#EXTINF:0,ext,WarnerTV(HD)sing,http://royal-iptv.noip.me:2052/live/russel/russel/3995.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 375</title>
-	<description></description>
-	<stream_url><![CDATA[ext,VIVA the Hits!,http://royal-iptv.noip.me:2052/live/russel/russel/4022.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 376</title>
-	<description></description>
-	<stream_url><![CDATA[#EXTINF:0,Viva.uk,VIVA,http://royal-iptv.noip.me:2052/live/russel/russel/4165.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 377</title>
-	<description></description>
-	<stream_url><![CDATA[ext,Vijay,http://royal-iptv.noip.me:2052/live/russel/russel/3979.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 378</title>
-	<description></description>
-	<stream_url><![CDATA[#EXTINF:0,ext,UTVIreland,http://royal-iptv.noip.me:2052/live/russel/russel/4025.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 379</title>
-	<description></description>
-	<stream_url><![CDATA[ext,USA: FX Local,http://royal-iptv.noip.me:2052/live/russel/russel/3692.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 380</title>
-	<description></description>
-	<stream_url><![CDATA[#EXTINF:0,TVN.cl,tvNHD,http://royal-iptv.noip.me:2052/live/russel/russel/3983.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 381</title>
-	<description></description>
-	<stream_url><![CDATA[ext,TRACESportStars,http://royal-iptv.noip.me:2052/live/russel/russel/3986.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 382</title>
-	<description></description>
-	<stream_url><![CDATA[#EXTINF:0,ext,tnt LOCAL,http://royal-iptv.noip.me:2052/live/russel/russel/3714.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 383</title>
-	<description></description>
-	<stream_url><![CDATA[RTEjr.uk,Rte Jr,http://royal-iptv.noip.me:2052/live/russel/russel/4066.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 384</title>
-	<description></description>
-	<stream_url><![CDATA[#EXTINF:0,Really.uk,Really,http://royal-iptv.noip.me:2052/live/russel/russel/4067.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 385</title>
-	<description></description>
-	<stream_url><![CDATA[Nicktoons.uk,NickToons,http://royal-iptv.noip.me:2052/live/russel/russel/4074.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 386</title>
-	<description></description>
-	<stream_url><![CDATA[#EXTINF:0,ext,Nick Jr Too,http://royal-iptv.noip.me:2052/live/russel/russel/4072.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 387</title>
-	<description></description>
-	<stream_url><![CDATA[nick-jr,Nick Junior,http://royal-iptv.noip.me:2052/live/russel/russel/4075.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 388</title>
-	<description></description>
-	<stream_url><![CDATA[#EXTINF:0,Nickelodeon.uk,Nickelodeon,http://royal-iptv.noip.me:2052/live/russel/russel/4073.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 389</title>
-	<description></description>
-	<stream_url><![CDATA[nickelod,Nick,http://royal-iptv.noip.me:2052/live/russel/russel/4076.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 390</title>
-	<description></description>
-	<stream_url><![CDATA[#EXTINF:0,RealLives.uk,Real Lives,http://royal-iptv.noip.me:2052/live/russel/russel/4068.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 391</title>
-	<description></description>
-	<stream_url><![CDATA[RacingUK.uk,Racing UK,http://royal-iptv.noip.me:2052/live/russel/russel/4069.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 392</title>
-	<description></description>
-	<stream_url><![CDATA[#EXTINF:0,rte1.rte.ie,RTE ONE,http://royal-iptv.noip.me:2052/live/russel/russel/4065.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 393</title>
-	<description></description>
-	<stream_url><![CDATA[ext,PremierSportsHD,http://royal-iptv.noip.me:2052/live/russel/russel/4071.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 394</title>
-	<description></description>
-	<stream_url><![CDATA[#EXTINF:0,Quest.uk,Quest,http://royal-iptv.noip.me:2052/live/russel/russel/4070.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 395</title>
-	<description></description>
-	<stream_url><![CDATA[AnimalPlanet.uk,Animal Planet,http://royal-iptv.noip.me:2052/live/russel/russel/4149.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 396</title>
-	<description></description>
-	<stream_url><![CDATA[#EXTINF:0,DiscoveryDMAX.uk,DMAX,http://royal-iptv.noip.me:2052/live/russel/russel/4156.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 397</title>
-	<description></description>
-	<stream_url><![CDATA[Lifetime.uk,Lifetime,http://royal-iptv.noip.me:2052/live/russel/russel/4086.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 398</title>
-	<description></description>
-	<stream_url><![CDATA[#EXTINF:0,ext,TimesNow,http://royal-iptv.noip.me:2052/live/russel/russel/3967.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 399</title>
-	<description></description>
-	<stream_url><![CDATA[ext,TenCricket,http://royal-iptv.noip.me:2052/live/russel/russel/4008.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 400</title>
-	<description></description>
-	<stream_url><![CDATA[#EXTINF:0,TurnerClassicMovies.us,Turner Classic Movies,http://royal-iptv.noip.me:2052/live/russel/russel/4169.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 401</title>
-	<description></description>
-	<stream_url><![CDATA[ext,tbs LOCAL,http://royal-iptv.noip.me:2052/live/russel/russel/3713.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 402</title>
-	<description></description>
-	<stream_url><![CDATA[#EXTINF:0,ext,syfy LOCAL,http://royal-iptv.noip.me:2052/live/russel/russel/3712.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 403</title>
-	<description></description>
-	<stream_url><![CDATA[ext,SuryaTV,http://royal-iptv.noip.me:2052/live/russel/russel/3977.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 404</title>
-	<description></description>
-	<stream_url><![CDATA[#EXTINF:0,SundanceChannel.pl,Sundance Channel,http://royal-iptv.noip.me:2052/live/russel/russel/3985.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 405</title>
-	<description></description>
-	<stream_url><![CDATA[ext,StarUtsav,http://royal-iptv.noip.me:2052/live/russel/russel/4160.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 406</title>
-	<description></description>
-	<stream_url><![CDATA[#EXTINF:0,StarPlus.uk,STARPlus,http://royal-iptv.noip.me:2052/live/russel/russel/3971.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 407</title>
-	<description></description>
-	<stream_url><![CDATA[ext,StarLifeOK,http://royal-iptv.noip.me:2052/live/russel/russel/4161.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 408</title>
-	<description></description>
-	<stream_url><![CDATA[#EXTINF:0,ext,STARGoldsing,http://royal-iptv.noip.me:2052/live/russel/russel/3978.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 409</title>
-	<description></description>
-	<stream_url><![CDATA[ext,StarGOLD,http://royal-iptv.noip.me:2052/live/russel/russel/4159.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 410</title>
-	<description></description>
-	<stream_url><![CDATA[#EXTINF:0,set,SonyTV,http://royal-iptv.noip.me:2052/live/russel/russel/4036.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 411</title>
-	<description></description>
-	<stream_url><![CDATA[ext,SonyMAX,http://royal-iptv.noip.me:2052/live/russel/russel/3968.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 412</title>
-	<description></description>
-	<stream_url><![CDATA[#EXTINF:0,ext,SonyChannel(HD)sing,http://royal-iptv.noip.me:2052/live/russel/russel/3993.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 413</title>
-	<description></description>
-	<stream_url><![CDATA[ext,SkyNewsHDsing,http://royal-iptv.noip.me:2052/live/russel/russel/4009.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 414</title>
-	<description></description>
-	<stream_url><![CDATA[#EXTINF:0,ext,Setanta Sports Singtel,http://royal-iptv.noip.me:2052/live/russel/russel/4011.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 415</title>
-	<description></description>
-	<stream_url><![CDATA[ext,SET(HINDI),http://royal-iptv.noip.me:2052/live/russel/russel/3976.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 416</title>
-	<description></description>
-	<stream_url><![CDATA[#EXTINF:0,ext,SABTV,http://royal-iptv.noip.me:2052/live/russel/russel/3975.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 417</title>
-	<description></description>
-	<stream_url><![CDATA[rte2.rte.ie,RTE TWO,http://royal-iptv.noip.me:2052/live/russel/russel/4064.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 418</title>
-	<description></description>
-	<stream_url><![CDATA[#EXTINF:0,ext,RishteyAsia,http://royal-iptv.noip.me:2052/live/russel/russel/3974.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 419</title>
-	<description></description>
-	<stream_url><![CDATA[ext,pbs LOCAL,http://royal-iptv.noip.me:2052/live/russel/russel/3700.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 420</title>
-	<description></description>
-	<stream_url><![CDATA[#EXTINF:0,ext,nick LOCAL,http://royal-iptv.noip.me:2052/live/russel/russel/3711.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 421</title>
-	<description></description>
-	<stream_url><![CDATA[ext,nbc LOCAL,http://royal-iptv.noip.me:2052/live/russel/russel/3699.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 422</title>
-	<description></description>
-	<stream_url><![CDATA[#EXTINF:0,ext,my9 LOCAL,http://royal-iptv.noip.me:2052/live/russel/russel/3694.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 423</title>
-	<description></description>
-	<stream_url><![CDATA[ext,lifetime LOCAL,http://royal-iptv.noip.me:2052/live/russel/russel/3710.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 424</title>
-	<description></description>
-	<stream_url><![CDATA[#EXTINF:0,ext,history LOCAL,http://royal-iptv.noip.me:2052/live/russel/russel/3709.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 425</title>
-	<description></description>
-	<stream_url><![CDATA[ext,fox news LOCAL,http://royal-iptv.noip.me:2052/live/russel/russel/3717.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 426</title>
-	<description></description>
-	<stream_url><![CDATA[#EXTINF:0,ext,espn LOCAL,http://royal-iptv.noip.me:2052/live/russel/russel/3708.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 427</title>
-	<description></description>
-	<stream_url><![CDATA[ext,discovery LOCAL,http://royal-iptv.noip.me:2052/live/russel/russel/3707.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 428</title>
-	<description></description>
-	<stream_url><![CDATA[#EXTINF:0,ext,cw LOCAL,http://royal-iptv.noip.me:2052/live/russel/russel/3698.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 429</title>
-	<description></description>
-	<stream_url><![CDATA[cnn,CNN HD,http://royal-iptv.noip.me:2052/live/russel/russel/4154.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 430</title>
-	<description></description>
-	<stream_url><![CDATA[#EXTINF:0,ext,cnn LOCAL,http://royal-iptv.noip.me:2052/live/russel/russel/3704.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 431</title>
-	<description></description>
-	<stream_url><![CDATA[ext,cnbc LOCAL,http://royal-iptv.noip.me:2052/live/russel/russel/3705.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 432</title>
-	<description></description>
-	<stream_url><![CDATA[#EXTINF:0,ext,cn LOCAL,http://royal-iptv.noip.me:2052/live/russel/russel/3703.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 433</title>
-	<description></description>
-	<stream_url><![CDATA[CITV.uk,Citv,http://royal-iptv.noip.me:2052/live/russel/russel/4126.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 434</title>
-	<description></description>
-	<stream_url><![CDATA[#EXTINF:0,ext,cbs LOCAL,http://royal-iptv.noip.me:2052/live/russel/russel/3697.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 435</title>
-	<description></description>
-	<stream_url><![CDATA[ext,bravo LOCAL,http://royal-iptv.noip.me:2052/live/russel/russel/3695.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 436</title>
-	<description></description>
-	<stream_url><![CDATA[#EXTINF:0,AyE.mx,US: A&E,http://royal-iptv.noip.me:2052/live/russel/russel/3701.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 437</title>
-	<description></description>
-	<stream_url><![CDATA[ext,abc news LOCAL,http://royal-iptv.noip.me:2052/live/russel/russel/3718.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 438</title>
-	<description></description>
-	<stream_url><![CDATA[#EXTINF:0,ext,abc LOCAL,http://royal-iptv.noip.me:2052/live/russel/russel/3696.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 439</title>
-	<description></description>
-	<stream_url><![CDATA[ext,usa LOCAL,http://royal-iptv.noip.me:2052/live/russel/russel/3716.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 440</title>
-	<description></description>
-	<stream_url><![CDATA[#EXTINF:0,ext,My9,http://royal-iptv.noip.me:2052/live/russel/russel/3693.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 441</title>
-	<description></description>
-	<stream_url><![CDATA[ext,USA Spike Local,http://royal-iptv.noip.me:2052/live/russel/russel/3715.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 442</title>
-	<description></description>
-	<stream_url><![CDATA[#EXTINF:0,ext,comedy Central LOCAL,http://royal-iptv.noip.me:2052/live/russel/russel/3706.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 443</title>
-	<description></description>
-	<stream_url><![CDATA[ext,ForcesTV,http://royal-iptv.noip.me:2052/live/russel/russel/4166.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 444</title>
-	<description></description>
-	<stream_url><![CDATA[#EXTINF:0,ext,NDTVIndia,http://royal-iptv.noip.me:2052/live/russel/russel/3966.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 445</title>
-	<description></description>
-	<stream_url><![CDATA[ext,NatGeoWildHDsing,http://royal-iptv.noip.me:2052/live/russel/russel/4001.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 446</title>
-	<description></description>
-	<stream_url><![CDATA[#EXTINF:0,ext,NatGeoPeopleHDsing,http://royal-iptv.noip.me:2052/live/russel/russel/3996.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 447</title>
-	<description></description>
-	<stream_url><![CDATA[ext,NatGeoChHDsing,http://royal-iptv.noip.me:2052/live/russel/russel/4004.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 448</title>
-	<description></description>
-	<stream_url><![CDATA[#EXTINF:0,ext,AR: OSN Movies ON DEMAND,http://royal-iptv.noip.me:2052/live/russel/russel/4372.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 449</title>
-	<description></description>
-	<stream_url><![CDATA[ext,AR: OSN MOVIES,http://royal-iptv.noip.me:2052/live/russel/russel/4361.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 450</title>
-	<description></description>
-	<stream_url><![CDATA[#EXTINF:0,ext,AR: OSN MOVIE ACTION 2,http://royal-iptv.noip.me:2052/live/russel/russel/4357.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 451</title>
-	<description></description>
-	<stream_url><![CDATA[ext,AR: OSN FIRST COMEDY,http://royal-iptv.noip.me:2052/live/russel/russel/4353.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 452</title>
-	<description></description>
-	<stream_url><![CDATA[#EXTINF:0,ext,AR: OSN Box Office 3,http://royal-iptv.noip.me:2052/live/russel/russel/4373.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 453</title>
-	<description></description>
-	<stream_url><![CDATA[ext,AR: OSN Box Office 2,http://royal-iptv.noip.me:2052/live/russel/russel/4374.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 454</title>
-	<description></description>
-	<stream_url><![CDATA[#EXTINF:0,ext,AR: OSN Box Office 1,http://royal-iptv.noip.me:2052/live/russel/russel/4375.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 455</title>
-	<description></description>
-	<stream_url><![CDATA[ext,AR: BEIN MOVIES 2,http://royal-iptv.noip.me:2052/live/russel/russel/4349.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 456</title>
-	<description></description>
-	<stream_url><![CDATA[#EXTINF:0,ext,MioSports,http://royal-iptv.noip.me:2052/live/russel/russel/4000.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 457</title>
-	<description></description>
-	<stream_url><![CDATA[LifeOk.in,LifeOK,http://royal-iptv.noip.me:2052/live/russel/russel/3972.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 458</title>
-	<description></description>
-	<stream_url><![CDATA[#EXTINF:0,ext,Kix HD,http://royal-iptv.noip.me:2052/live/russel/russel/3994.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 459</title>
-	<description></description>
-	<stream_url><![CDATA[ext,Eir Sports2,http://royal-iptv.noip.me:2052/live/russel/russel/4062.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 460</title>
-	<description></description>
-	<stream_url><![CDATA[#EXTINF:0,ext,Eir Sports1,http://royal-iptv.noip.me:2052/live/russel/russel/4063.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 461</title>
-	<description></description>
-	<stream_url><![CDATA[ext,ITVChoice(HD)sing,http://royal-iptv.noip.me:2052/live/russel/russel/3987.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 462</title>
-	<description></description>
-	<stream_url><![CDATA[#EXTINF:0,ext,FootballFever1,http://royal-iptv.noip.me:2052/live/russel/russel/4006.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 463</title>
-	<description></description>
-	<stream_url><![CDATA[5star.uk,Five,http://royal-iptv.noip.me:2052/live/russel/russel/4106.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 464</title>
-	<description></description>
-	<stream_url><![CDATA[#EXTINF:0,ext,Eve(HD)sing,http://royal-iptv.noip.me:2052/live/russel/russel/3990.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 465</title>
-	<description></description>
-	<stream_url><![CDATA[ElevenSportsHD.pl,Eleven Sports,http://royal-iptv.noip.me:2052/live/russel/russel/4012.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 466</title>
-	<description></description>
-	<stream_url><![CDATA[#EXTINF:0,ext,ElevenEuroHD,http://royal-iptv.noip.me:2052/live/russel/russel/4010.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 467</title>
-	<description></description>
-	<stream_url><![CDATA[ext,DMAX(HD)sing,http://royal-iptv.noip.me:2052/live/russel/russel/3991.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 468</title>
-	<description></description>
-	<stream_url><![CDATA[#EXTINF:0,ext,DIVA HD,http://royal-iptv.noip.me:2052/live/russel/russel/3989.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 469</title>
-	<description></description>
-	<stream_url><![CDATA[ext,DiscoverySci(HD)sing,http://royal-iptv.noip.me:2052/live/russel/russel/4002.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 470</title>
-	<description></description>
-	<stream_url><![CDATA[#EXTINF:0,ext,DiscoveryHDWorldsing,http://royal-iptv.noip.me:2052/live/russel/russel/4003.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 471</title>
-	<description></description>
-	<stream_url><![CDATA[ext,DiscoveryCh(HD)sing,http://royal-iptv.noip.me:2052/live/russel/russel/4005.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 472</title>
-	<description></description>
-	<stream_url><![CDATA[#EXTINF:0,ext,ComedyCentral(HD)sing,http://royal-iptv.noip.me:2052/live/russel/russel/3988.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 473</title>
-	<description></description>
-	<stream_url><![CDATA[Colors.uk,Colors,http://royal-iptv.noip.me:2052/live/russel/russel/3973.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 474</title>
-	<description></description>
-	<stream_url><![CDATA[#EXTINF:0,ext,ChannelVIndia,http://royal-iptv.noip.me:2052/live/russel/russel/3969.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 475</title>
-	<description></description>
-	<stream_url><![CDATA[ext,Animal Planet Local,http://royal-iptv.noip.me:2052/live/russel/russel/3702.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 476</title>
-	<description></description>
-	<stream_url><![CDATA[#EXTINF:0,ext,AMC(HD)sing,http://royal-iptv.noip.me:2052/live/russel/russel/3992.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 477</title>
-	<description></description>
-	<stream_url><![CDATA[ext,AustraliaPlusTV,http://royal-iptv.noip.me:2052/live/russel/russel/3998.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 478</title>
-	<description></description>
-	<stream_url><![CDATA[#EXTINF:0,ext,AstroVinmeenHD,http://royal-iptv.noip.me:2052/live/russel/russel/3980.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 479</title>
-	<description></description>
-	<stream_url><![CDATA[ext,AstroVellithirai,http://royal-iptv.noip.me:2052/live/russel/russel/3981.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 480</title>
-	<description></description>
-	<stream_url><![CDATA[#EXTINF:0,ext,AstroPrima,http://royal-iptv.noip.me:2052/live/russel/russel/3982.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 481</title>
-	<description></description>
-	<stream_url><![CDATA[ext,AnimalPlanet(HD)sing,http://royal-iptv.noip.me:2052/live/russel/russel/3999.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 482</title>
-	<description></description>
-	<stream_url><![CDATA[#EXTINF:0,ext,108 Mio Stadium,http://royal-iptv.noip.me:2052/live/russel/russel/4013.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 483</title>
-	<description></description>
-	<stream_url><![CDATA[ext,107 Mio Stadium,http://royal-iptv.noip.me:2052/live/russel/russel/4014.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 484</title>
-	<description></description>
-	<stream_url><![CDATA[#EXTINF:0,ext,106 Mio Stadium,http://royal-iptv.noip.me:2052/live/russel/russel/4015.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 485</title>
-	<description></description>
-	<stream_url><![CDATA[ext,105 Mio Stadium,http://royal-iptv.noip.me:2052/live/russel/russel/4016.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 486</title>
-	<description></description>
-	<stream_url><![CDATA[#EXTINF:0,ext,104 Mio Stadium,http://royal-iptv.noip.me:2052/live/russel/russel/4017.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 487</title>
-	<description></description>
-	<stream_url><![CDATA[ext,103 Mio Stadium,http://royal-iptv.noip.me:2052/live/russel/russel/4018.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 488</title>
-	<description></description>
-	<stream_url><![CDATA[#EXTINF:0,ext,102 Mio Stadium,http://royal-iptv.noip.me:2052/live/russel/russel/4019.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 489</title>
-	<description></description>
-	<stream_url><![CDATA[ext,AR | OSN Movies Premiere HD,http://royal-iptv.noip.me:2052/live/russel/russel/4242.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 490</title>
-	<description></description>
-	<stream_url><![CDATA[#EXTINF:0,ext,AR | OSN MOVIES Kids HD,http://royal-iptv.noip.me:2052/live/russel/russel/4243.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 491</title>
-	<description></description>
-	<stream_url><![CDATA[ext,AR | OSN Movies HD,http://royal-iptv.noip.me:2052/live/russel/russel/4244.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 492</title>
-	<description></description>
-	<stream_url><![CDATA[#EXTINF:0,ext,AR | OSN MOVIES Action  1 HD,http://royal-iptv.noip.me:2052/live/russel/russel/4245.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 493</title>
-	<description></description>
-	<stream_url><![CDATA[ext,AR | OSN BOX Office,http://royal-iptv.noip.me:2052/live/russel/russel/4246.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 494</title>
-	<description></description>
-	<stream_url><![CDATA[#EXTINF:0,ext,AR | beIN Sports 13 HD,http://royal-iptv.noip.me:2052/live/russel/russel/4249.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 495</title>
-	<description></description>
-	<stream_url><![CDATA[ext,AR | beIN Sports 12 HD,http://royal-iptv.noip.me:2052/live/russel/russel/4250.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 496</title>
-	<description></description>
-	<stream_url><![CDATA[#EXTINF:0,ext,AR | BEIN MOVIES 3 HD,http://royal-iptv.noip.me:2052/live/russel/russel/4251.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 497</title>
-	<description></description>
-	<stream_url><![CDATA[ext,AR | Bein Movies 2 HD,http://royal-iptv.noip.me:2052/live/russel/russel/4252.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 498</title>
-	<description></description>
-	<stream_url><![CDATA[#EXTINF:0,ext,AR | Bein Movies 1 HD,http://royal-iptv.noip.me:2052/live/russel/russel/4253.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 499</title>
-	<description></description>
-	<stream_url><![CDATA[ext,VIP Bein USA HD,http://royal-iptv.noip.me:2052/live/russel/russel/4689.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 500</title>
-	<description></description>
-	<stream_url><![CDATA[#EXTINF:0,ext,VIP USA : NBCSN HD**,http://royal-iptv.noip.me:2052/live/russel/russel/4680.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 501</title>
-	<description></description>
-	<stream_url><![CDATA[ext,VIP USA : HISTORY HD**,http://royal-iptv.noip.me:2052/live/russel/russel/4681.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 502</title>
-	<description></description>
-	<stream_url><![CDATA[#EXTINF:0,ext,VIP USA : Fox Sports 2 HD,http://royal-iptv.noip.me:2052/live/russel/russel/4682.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 503</title>
-	<description></description>
-	<stream_url><![CDATA[ext,VIP USA : Fox Sports 1 HD,http://royal-iptv.noip.me:2052/live/russel/russel/4683.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 504</title>
-	<description></description>
-	<stream_url><![CDATA[#EXTINF:0,ext,VIP USA : Discovery Science HD,http://royal-iptv.noip.me:2052/live/russel/russel/4684.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 505</title>
-	<description></description>
-	<stream_url><![CDATA[ext,VIP Sportsnet West HD,http://royal-iptv.noip.me:2052/live/russel/russel/4685.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 506</title>
-	<description></description>
-	<stream_url><![CDATA[#EXTINF:0,ext,VIP Sportsnet East HD,http://royal-iptv.noip.me:2052/live/russel/russel/4686.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 507</title>
-	<description></description>
-	<stream_url><![CDATA[ext,VIP Sportnet Pacific HD,http://royal-iptv.noip.me:2052/live/russel/russel/4687.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 508</title>
-	<description></description>
-	<stream_url><![CDATA[#EXTINF:0,ext,VIP Sportnet Ontario HD,http://royal-iptv.noip.me:2052/live/russel/russel/4688.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 509</title>
-	<description></description>
-	<stream_url><![CDATA[ext,UFC Fight PASS,http://royal-iptv.noip.me:2052/live/russel/russel/4713.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 510</title>
-	<description></description>
-	<stream_url><![CDATA[#EXTINF:0,ext,USA HISTORY,http://royal-iptv.noip.me:2052/live/russel/russel/4515.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 511</title>
-	<description></description>
-	<stream_url><![CDATA[ext,USA CINEMAX 5 STAR,http://royal-iptv.noip.me:2052/live/russel/russel/4497.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 512</title>
-	<description></description>
-	<stream_url><![CDATA[#EXTINF:0,ext,USA : VH1 HD,http://royal-iptv.noip.me:2052/live/russel/russel/4526.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 513</title>
-	<description></description>
-	<stream_url><![CDATA[ext,USA : USA NETWORK HD,http://royal-iptv.noip.me:2052/live/russel/russel/4501.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 514</title>
-	<description></description>
-	<stream_url><![CDATA[#EXTINF:0,ext,USA : TRU TV HD,http://royal-iptv.noip.me:2052/live/russel/russel/4495.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 515</title>
-	<description></description>
-	<stream_url><![CDATA[ext,USA : TBS HD,http://royal-iptv.noip.me:2052/live/russel/russel/4493.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 516</title>
-	<description></description>
-	<stream_url><![CDATA[#EXTINF:0,ext,USA : SPIKE HD,http://royal-iptv.noip.me:2052/live/russel/russel/4496.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 517</title>
-	<description></description>
-	<stream_url><![CDATA[ext,USA : SHOWTIME HD,http://royal-iptv.noip.me:2052/live/russel/russel/4498.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 518</title>
-	<description></description>
-	<stream_url><![CDATA[#EXTINF:0,ext,USA : OWN HD (Opera Winfery Network),http://royal-iptv.noip.me:2052/live/russel/russel/4510.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 519</title>
-	<description></description>
-	<stream_url><![CDATA[ext,USA : NICK HD,http://royal-iptv.noip.me:2052/live/russel/russel/4525.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 520</title>
-	<description></description>
-	<stream_url><![CDATA[#EXTINF:0,ext,USA : MoreMax HD,http://royal-iptv.noip.me:2052/live/russel/russel/4509.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 521</title>
-	<description></description>
-	<stream_url><![CDATA[ext,USA : ID XTRA HD,http://royal-iptv.noip.me:2052/live/russel/russel/4521.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 522</title>
-	<description></description>
-	<stream_url><![CDATA[#EXTINF:0,ext,USA : HISTORY HD,http://royal-iptv.noip.me:2052/live/russel/russel/4519.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 523</title>
-	<description></description>
-	<stream_url><![CDATA[ext,USA : HBO HD,http://royal-iptv.noip.me:2052/live/russel/russel/4486.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 524</title>
-	<description></description>
-	<stream_url><![CDATA[#EXTINF:0,ext,USA : Hall Mark HD,http://royal-iptv.noip.me:2052/live/russel/russel/4522.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 525</title>
-	<description></description>
-	<stream_url><![CDATA[ext,USA : FX HD,http://royal-iptv.noip.me:2052/live/russel/russel/4490.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 526</title>
-	<description></description>
-	<stream_url><![CDATA[#EXTINF:0,ext,USA : FREE FORM HD,http://royal-iptv.noip.me:2052/live/russel/russel/4523.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 527</title>
-	<description></description>
-	<stream_url><![CDATA[ext,USA : DIY NETWORK HD,http://royal-iptv.noip.me:2052/live/russel/russel/4518.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 528</title>
-	<description></description>
-	<stream_url><![CDATA[#EXTINF:0,ext,USA : DISNEY HD,http://royal-iptv.noip.me:2052/live/russel/russel/4524.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 529</title>
-	<description></description>
-	<stream_url><![CDATA[ext,USA : Discovery HD,http://royal-iptv.noip.me:2052/live/russel/russel/4513.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 530</title>
-	<description></description>
-	<stream_url><![CDATA[#EXTINF:0,ext,USA : DISCOVERY FAMILY HD,http://royal-iptv.noip.me:2052/live/russel/russel/4516.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 531</title>
-	<description></description>
-	<stream_url><![CDATA[ext,USA : DESTINATION AMERICA HD,http://royal-iptv.noip.me:2052/live/russel/russel/4517.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 532</title>
-	<description></description>
-	<stream_url><![CDATA[#EXTINF:0,ext,USA : COMEDY CENTRAL HD,http://royal-iptv.noip.me:2052/live/russel/russel/4494.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 533</title>
-	<description></description>
-	<stream_url><![CDATA[ext,USA : CNBC HD,http://royal-iptv.noip.me:2052/live/russel/russel/4529.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 534</title>
-	<description></description>
-	<stream_url><![CDATA[#EXTINF:0,ext,USA : CINEMAX HD,http://royal-iptv.noip.me:2052/live/russel/russel/4511.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 535</title>
-	<description></description>
-	<stream_url><![CDATA[ext,USA : CBS HD,http://royal-iptv.noip.me:2052/live/russel/russel/4489.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 536</title>
-	<description></description>
-	<stream_url><![CDATA[#EXTINF:0,ext,USA : CARTOON NETWORK HD,http://royal-iptv.noip.me:2052/live/russel/russel/4528.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 537</title>
-	<description></description>
-	<stream_url><![CDATA[ext,USA : BRAVO HD,http://royal-iptv.noip.me:2052/live/russel/russel/4499.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 538</title>
-	<description></description>
-	<stream_url><![CDATA[#EXTINF:0,ext,USA : AMC HD,http://royal-iptv.noip.me:2052/live/russel/russel/4485.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 539</title>
-	<description></description>
-	<stream_url><![CDATA[ext,USA : A&E HD*,http://royal-iptv.noip.me:2052/live/russel/russel/4500.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 540</title>
-	<description></description>
-	<stream_url><![CDATA[#EXTINF:0,ext,AMC HD USA,http://royal-iptv.noip.me:2052/live/russel/russel/4482.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 541</title>
-	<description></description>
-	<stream_url><![CDATA[ABCNews.al,ABC NEWS HD,http://royal-iptv.noip.me:2052/live/russel/russel/4484.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 542</title>
-	<description></description>
-	<stream_url><![CDATA[#EXTINF:0,ext,ABC Family (US),http://royal-iptv.noip.me:2052/live/russel/russel/4483.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 543</title>
-	<description></description>
-	<stream_url><![CDATA[AyE.mx,A&E HD,http://royal-iptv.noip.me:2052/live/russel/russel/4512.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 544</title>
-	<description></description>
-	<stream_url><![CDATA[#EXTINF:0,ext,Olympics 2016 - BBC Red Button,http://royal-iptv.noip.me:2052/live/russel/russel/4479.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 545</title>
-	<description></description>
-	<stream_url><![CDATA[ext,Aberdeen TV (AUDIO),http://royal-iptv.noip.me:2052/live/russel/russel/4538.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 546</title>
-	<description></description>
-	<stream_url><![CDATA[#EXTINF:0,ext,TNT HD USA,http://royal-iptv.noip.me:2052/live/russel/russel/4503.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 547</title>
-	<description></description>
-	<stream_url><![CDATA[ext,TLC USA,http://royal-iptv.noip.me:2052/live/russel/russel/4481.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 548</title>
-	<description></description>
-	<stream_url><![CDATA[#EXTINF:0,ext,TLC (USA),http://royal-iptv.noip.me:2052/live/russel/russel/4480.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 549</title>
-	<description></description>
-	<stream_url><![CDATA[ext,TBS (US),http://royal-iptv.noip.me:2052/live/russel/russel/4504.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 550</title>
-	<description></description>
-	<stream_url><![CDATA[#EXTINF:0,ext,SYFY HD USA,http://royal-iptv.noip.me:2052/live/russel/russel/4492.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 551</title>
-	<description></description>
-	<stream_url><![CDATA[ext,SPIKE HD USA,http://royal-iptv.noip.me:2052/live/russel/russel/4502.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 552</title>
-	<description></description>
-	<stream_url><![CDATA[#EXTINF:0,ext,SHOWTIME US,http://royal-iptv.noip.me:2052/live/russel/russel/4507.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 553</title>
-	<description></description>
-	<stream_url><![CDATA[PlayboyTV.ero,Playboy TV,http://royal-iptv.noip.me:2052/live/russel/russel/4162.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 554</title>
-	<description></description>
-	<stream_url><![CDATA[#EXTINF:0,ext,NBC US,http://royal-iptv.noip.me:2052/live/russel/russel/4488.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 555</title>
-	<description></description>
-	<stream_url><![CDATA[ext,LIVETIME USA,http://royal-iptv.noip.me:2052/live/russel/russel/4508.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 556</title>
-	<description></description>
-	<stream_url><![CDATA[#EXTINF:0,HGTV.ca,HGTV HD,http://royal-iptv.noip.me:2052/live/russel/russel/4527.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 557</title>
-	<description></description>
-	<stream_url><![CDATA[HBO.hu,HBO HD,http://royal-iptv.noip.me:2052/live/russel/russel/4491.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 558</title>
-	<description></description>
-	<stream_url><![CDATA[#EXTINF:0,ext,FX HD USA,http://royal-iptv.noip.me:2052/live/russel/russel/4505.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 559</title>
-	<description></description>
-	<stream_url><![CDATA[ext,FOX HD USA,http://royal-iptv.noip.me:2052/live/russel/russel/4506.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 560</title>
-	<description></description>
-	<stream_url><![CDATA[#EXTINF:0,discov_world,DISCOVERY WORLD,http://royal-iptv.noip.me:2052/live/russel/russel/4514.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 561</title>
-	<description></description>
-	<stream_url><![CDATA[AnimalPlanet.cz,ANIMAL PLANET HD,http://royal-iptv.noip.me:2052/live/russel/russel/4520.ts]]></stream_url>
-</channel>
-<channel>
-	<title>????? 562</title>
-	<description></description>
-	<stream_url><![CDATA[#EXTINF:0,ext,AdultChannel,http://royal-iptv.noip.me:2052/live/russel/russel/4158.ts]]></stream_url>
-</channel>
-</items>
+#EXTM3U
+
+#EXTINF:-1,The Boss
+http://royal-iptv.noip.me:2052/movie/russel/russel/4739.mp4
+#EXTINF:-1,Batman v Superman Dawn of Justice
+http://royal-iptv.noip.me:2052/movie/russel/russel/4738.mp4
+#EXTINF:-1,Allegiant
+http://royal-iptv.noip.me:2052/movie/russel/russel/4740.mp4
+#EXTINF:-1,A Bug's Life
+http://royal-iptv.noip.me:2052/movie/russel/russel/4737.mp4
+#EXTINF:-1,The Legend of Tarzan
+http://royal-iptv.noip.me:2052/movie/russel/russel/4736.mp4
+#EXTINF:-1,Neighbors 2: Sorority Rising
+http://royal-iptv.noip.me:2052/movie/russel/russel/4735.mp4
+#EXTINF:-1,Amateur Night
+http://royal-iptv.noip.me:2052/movie/russel/russel/4734.mp4
+#EXTINF:-1,Now You See Me 2
+http://royal-iptv.noip.me:2052/movie/russel/russel/4733.mp4
+#EXTINF:-1,Money Monster
+http://royal-iptv.noip.me:2052/movie/russel/russel/4732.mp4
+#EXTINF:-1,Barbershop: The Next Cut
+http://royal-iptv.noip.me:2052/movie/russel/russel/4731.mp4
+#EXTINF:-1,UFC 202 Preliminary Fights
+http://royal-iptv.noip.me:2052/movie/russel/russel/4728.mp4
+#EXTINF:-1,UFC 202 Early Prelims
+http://royal-iptv.noip.me:2052/movie/russel/russel/4729.mp4
+#EXTINF:-1,UFC PPV 202
+http://royal-iptv.noip.me:2052/movie/russel/russel/4727.mp4
+#EXTINF:-1,Sky Sports ireland 3pm's only
+http://royal-iptv.noip.me:2052/live/russel/russel/4652.ts
+#EXTINF:-1,Willow HD
+http://royal-iptv.noip.me:2052/live/russel/russel/4669.ts
+#EXTINF:-1,W   1
+http://royal-iptv.noip.me:2052/live/russel/russel/4641.ts
+#EXTINF:-1,Sportsnet World
+http://royal-iptv.noip.me:2052/live/russel/russel/4665.ts
+#EXTINF:-1,TLC   2
+http://royal-iptv.noip.me:2052/live/russel/russel/4643.ts
+#EXTINF:-1,TLC   1
+http://royal-iptv.noip.me:2052/live/russel/russel/4644.ts
+#EXTINF:-1,Ten 1 HD
+http://royal-iptv.noip.me:2052/live/russel/russel/4670.ts
+#EXTINF:-1,Syfy   1
+http://royal-iptv.noip.me:2052/live/russel/russel/4645.ts
+#EXTINF:-1,Sony Chnl   1
+http://royal-iptv.noip.me:2052/live/russel/russel/4646.ts
+#EXTINF:-1,S4C
+http://royal-iptv.noip.me:2052/live/russel/russel/4642.ts
+#EXTINF:-1,ID   1
+http://royal-iptv.noip.me:2052/live/russel/russel/4648.ts
+#EXTINF:-1,NBCSN
+http://royal-iptv.noip.me:2052/live/russel/russel/4667.ts
+#EXTINF:-1,MTV 1
+http://royal-iptv.noip.me:2052/live/russel/russel/4647.ts
+#EXTINF:-1,FOX HD UK
+http://royal-iptv.noip.me:2052/live/russel/russel/4487.ts
+#EXTINF:-1,Fox Crime
+http://royal-iptv.noip.me:2052/live/russel/russel/4664.ts
+#EXTINF:-1,ETV1
+http://royal-iptv.noip.me:2052/live/russel/russel/4649.ts
+#EXTINF:-1,Challenge   1
+http://royal-iptv.noip.me:2052/live/russel/russel/4651.ts
+#EXTINF:-1,E!   1
+http://royal-iptv.noip.me:2052/live/russel/russel/4650.ts
+#EXTINF:-1,C More First
+http://royal-iptv.noip.me:2052/live/russel/russel/4671.ts
+#EXTINF:-1,SC: C More Tennis
+http://royal-iptv.noip.me:2052/live/russel/russel/4653.ts
+#EXTINF:-1,SC: C More Sport
+http://royal-iptv.noip.me:2052/live/russel/russel/4654.ts
+#EXTINF:-1,SC: C More Series
+http://royal-iptv.noip.me:2052/live/russel/russel/4655.ts
+#EXTINF:-1,SC: C More Live
+http://royal-iptv.noip.me:2052/live/russel/russel/4656.ts
+#EXTINF:-1,SC: C More Hockey
+http://royal-iptv.noip.me:2052/live/russel/russel/4657.ts
+#EXTINF:-1,SC: C More Hits
+http://royal-iptv.noip.me:2052/live/russel/russel/4658.ts
+#EXTINF:-1,SC: C More Golf
+http://royal-iptv.noip.me:2052/live/russel/russel/4659.ts
+#EXTINF:-1,SC: C More Fotboll
+http://royal-iptv.noip.me:2052/live/russel/russel/4660.ts
+#EXTINF:-1,SC: C More First
+http://royal-iptv.noip.me:2052/live/russel/russel/4661.ts
+#EXTINF:-1,SC: C More Emotion
+http://royal-iptv.noip.me:2052/live/russel/russel/4662.ts
+#EXTINF:-1,SC: C More Action
+http://royal-iptv.noip.me:2052/live/russel/russel/4663.ts
+#EXTINF:-1,C More Action
+http://royal-iptv.noip.me:2052/live/russel/russel/4672.ts
+#EXTINF:-1,BBC Olympics HD 8
+http://royal-iptv.noip.me:2052/live/russel/russel/4471.ts
+#EXTINF:-1,BBC OLYMPICS HD 7
+http://royal-iptv.noip.me:2052/live/russel/russel/4472.ts
+#EXTINF:-1,BBC OLYMPICS HD 6
+http://royal-iptv.noip.me:2052/live/russel/russel/4473.ts
+#EXTINF:-1,BBC OLYMPICS HD 5
+http://royal-iptv.noip.me:2052/live/russel/russel/4474.ts
+#EXTINF:-1,BBC OLYMPICS HD 4
+http://royal-iptv.noip.me:2052/live/russel/russel/4475.ts
+#EXTINF:-1,BBC OLYMPICS HD 3
+http://royal-iptv.noip.me:2052/live/russel/russel/4476.ts
+#EXTINF:-1,BBC OLYMPICS HD 2
+http://royal-iptv.noip.me:2052/live/russel/russel/4477.ts
+#EXTINF:-1,BBC OLYMPICS HD 1
+http://royal-iptv.noip.me:2052/live/russel/russel/4478.ts
+#EXTINF:-1,BT SPORTS 3 HD*
+http://royal-iptv.noip.me:2052/live/russel/russel/4466.ts
+#EXTINF:-1,BT SPORTS ESPN HD
+http://royal-iptv.noip.me:2052/live/russel/russel/4467.ts
+#EXTINF:-1,BT SPORTS 2 HD*
+http://royal-iptv.noip.me:2052/live/russel/russel/4468.ts
+#EXTINF:-1,BT SPORTS 1 HD*
+http://royal-iptv.noip.me:2052/live/russel/russel/4469.ts
+#EXTINF:-1,Bt Sport 2 HD
+http://royal-iptv.noip.me:2052/live/russel/russel/4462.ts
+#EXTINF:-1,Bt Sport 2 SD
+http://royal-iptv.noip.me:2052/live/russel/russel/4463.ts
+#EXTINF:-1,BT Sport 1 HD*
+http://royal-iptv.noip.me:2052/live/russel/russel/4464.ts
+#EXTINF:-1,BT Sport 1 Backup
+http://royal-iptv.noip.me:2052/live/russel/russel/4465.ts
+#EXTINF:-1,MTV Dance SD
+http://royal-iptv.noip.me:2052/live/russel/russel/4452.ts
+#EXTINF:-1,EXYU | ARENA SPORT 4
+http://royal-iptv.noip.me:2052/live/russel/russel/4438.ts
+#EXTINF:-1,EXYU | ARENA SPORT 4 HD
+http://royal-iptv.noip.me:2052/live/russel/russel/4439.ts
+#EXTINF:-1,EXYU | ARENA SPORT 3
+http://royal-iptv.noip.me:2052/live/russel/russel/4440.ts
+#EXTINF:-1,EXYU | ARENA SPORT 3 HD
+http://royal-iptv.noip.me:2052/live/russel/russel/4441.ts
+#EXTINF:-1,EXYU | ARENA SPORT 2
+http://royal-iptv.noip.me:2052/live/russel/russel/4442.ts
+#EXTINF:-1,EXYU | ARENA SPORT 2 HD
+http://royal-iptv.noip.me:2052/live/russel/russel/4443.ts
+#EXTINF:-1,EXYU | ARENA SPORT 1
+http://royal-iptv.noip.me:2052/live/russel/russel/4444.ts
+#EXTINF:-1,EXYU | ARENA SPORT 1 HD
+http://royal-iptv.noip.me:2052/live/russel/russel/4445.ts
+#EXTINF:-1,beIN Sports 3 HD (FR)
+http://royal-iptv.noip.me:2052/live/russel/russel/4455.ts
+#EXTINF:-1,beIN Sports 2 HD (FR)
+http://royal-iptv.noip.me:2052/live/russel/russel/4454.ts
+#EXTINF:-1,beIN Sports 1 HD (FR)
+http://royal-iptv.noip.me:2052/live/russel/russel/4453.ts
+#EXTINF:-1,BBC Two Scotland
+http://royal-iptv.noip.me:2052/live/russel/russel/4450.ts
+#EXTINF:-1,BBC Parliament
+http://royal-iptv.noip.me:2052/live/russel/russel/4446.ts
+#EXTINF:-1,BBC One Wales
+http://royal-iptv.noip.me:2052/live/russel/russel/4448.ts
+#EXTINF:-1,BBC One Northern Ireland
+http://royal-iptv.noip.me:2052/live/russel/russel/4449.ts
+#EXTINF:-1,BBC Alba
+http://royal-iptv.noip.me:2052/live/russel/russel/4447.ts
+#EXTINF:-1,UK | Sky Sports News*
+http://royal-iptv.noip.me:2052/live/russel/russel/4425.ts
+#EXTINF:-1,UK | Sky Sports F1 HDS Streaming
+http://royal-iptv.noip.me:2052/live/russel/russel/4426.ts
+#EXTINF:-1,UK | Sky Sports 5*
+http://royal-iptv.noip.me:2052/live/russel/russel/4427.ts
+#EXTINF:-1,UK | Sky Sports 4*
+http://royal-iptv.noip.me:2052/live/russel/russel/4428.ts
+#EXTINF:-1,UK | Sky Sports 3*
+http://royal-iptv.noip.me:2052/live/russel/russel/4429.ts
+#EXTINF:-1,UK | Sky Sports 2*
+http://royal-iptv.noip.me:2052/live/russel/russel/4430.ts
+#EXTINF:-1,UK | Sky Sports 1 HDS Streaming
+http://royal-iptv.noip.me:2052/live/russel/russel/4431.ts
+#EXTINF:-1,UK | Racing UK*
+http://royal-iptv.noip.me:2052/live/russel/russel/4432.ts
+#EXTINF:-1,UK | Premier Live*
+http://royal-iptv.noip.me:2052/live/russel/russel/4433.ts
+#EXTINF:-1,UK | MUTV HDS Streaming
+http://royal-iptv.noip.me:2052/live/russel/russel/4434.ts
+#EXTINF:-1,UK | Eir Sports 1*
+http://royal-iptv.noip.me:2052/live/russel/russel/4435.ts
+#EXTINF:-1,UK | Box Nation*
+http://royal-iptv.noip.me:2052/live/russel/russel/4436.ts
+#EXTINF:-1,UK | At the Races*
+http://royal-iptv.noip.me:2052/live/russel/russel/4437.ts
+#EXTINF:-1,Celtic TV SD 1 (Bonus)
+http://royal-iptv.noip.me:2052/live/russel/russel/4421.ts
+#EXTINF:-1,SportKlub 3
+http://royal-iptv.noip.me:2052/live/russel/russel/4424.ts
+#EXTINF:-1,SportKlub 2
+http://royal-iptv.noip.me:2052/live/russel/russel/4423.ts
+#EXTINF:-1,SportKlub 1
+http://royal-iptv.noip.me:2052/live/russel/russel/4422.ts
+#EXTINF:-1,ABC (US)
+http://royal-iptv.noip.me:2052/live/russel/russel/4392.ts
+#EXTINF:-1,A&E (US)
+http://royal-iptv.noip.me:2052/live/russel/russel/4401.ts
+#EXTINF:-1,NBC (US)
+http://royal-iptv.noip.me:2052/live/russel/russel/4394.ts
+#EXTINF:-1,Fox (US)
+http://royal-iptv.noip.me:2052/live/russel/russel/4398.ts
+#EXTINF:-1,CNBC (US)
+http://royal-iptv.noip.me:2052/live/russel/russel/4395.ts
+#EXTINF:-1,Bravo (US)
+http://royal-iptv.noip.me:2052/live/russel/russel/4397.ts
+#EXTINF:-1,AMC (US)
+http://royal-iptv.noip.me:2052/live/russel/russel/4400.ts
+#EXTINF:-1,Zee TV
+http://royal-iptv.noip.me:2052/live/russel/russel/4402.ts
+#EXTINF:-1,USA Network (US)
+http://royal-iptv.noip.me:2052/live/russel/russel/4399.ts
+#EXTINF:-1,AR: BEIN MOVIES 1
+http://royal-iptv.noip.me:2052/live/russel/russel/4348.ts
+#EXTINF:-1,BBC One
+http://royal-iptv.noip.me:2052/live/russel/russel/4142.ts
+#EXTINF:-1,BBC 1HD
+http://royal-iptv.noip.me:2052/live/russel/russel/4146.ts
+#EXTINF:-1,BBC 2HD
+http://royal-iptv.noip.me:2052/live/russel/russel/4145.ts
+#EXTINF:-1,BBC Two
+http://royal-iptv.noip.me:2052/live/russel/russel/4141.ts
+#EXTINF:-1,Channel 4
+http://royal-iptv.noip.me:2052/live/russel/russel/4130.ts
+#EXTINF:-1,Channel 4 HD
+http://royal-iptv.noip.me:2052/live/russel/russel/4129.ts
+#EXTINF:-1,CHANNEL 5 HD
+http://royal-iptv.noip.me:2052/live/russel/russel/4128.ts
+#EXTINF:-1,5 USA
+http://royal-iptv.noip.me:2052/live/russel/russel/4151.ts
+#EXTINF:-1,BBC CBBC
+http://royal-iptv.noip.me:2052/live/russel/russel/4144.ts
+#EXTINF:-1,ITV1
+http://royal-iptv.noip.me:2052/live/russel/russel/4096.ts
+#EXTINF:-1,ITV1 HD
+http://royal-iptv.noip.me:2052/live/russel/russel/4095.ts
+#EXTINF:-1,ITV ENCORE
+http://royal-iptv.noip.me:2052/live/russel/russel/4090.ts
+#EXTINF:-1,ITV BE HD
+http://royal-iptv.noip.me:2052/live/russel/russel/4088.ts
+#EXTINF:-1,ITV Be
+http://royal-iptv.noip.me:2052/live/russel/russel/4089.ts
+#EXTINF:-1,ITV4
+http://royal-iptv.noip.me:2052/live/russel/russel/4091.ts
+#EXTINF:-1,ITV3
+http://royal-iptv.noip.me:2052/live/russel/russel/4092.ts
+#EXTINF:-1,ITV2 HD
+http://royal-iptv.noip.me:2052/live/russel/russel/4093.ts
+#EXTINF:-1,ITV2
+http://royal-iptv.noip.me:2052/live/russel/russel/4094.ts
+#EXTINF:-1,cbeebiesHD/BBC4 HD
+http://royal-iptv.noip.me:2052/live/russel/russel/4135.ts
+#EXTINF:-1,CBBC HD
+http://royal-iptv.noip.me:2052/live/russel/russel/4136.ts
+#EXTINF:-1,BBC Four/Cbeebies
+http://royal-iptv.noip.me:2052/live/russel/russel/4143.ts
+#EXTINF:-1,CBS Reality
+http://royal-iptv.noip.me:2052/live/russel/russel/4132.ts
+#EXTINF:-1,CBS Drama
+http://royal-iptv.noip.me:2052/live/russel/russel/4133.ts
+#EXTINF:-1,CBS Action
+http://royal-iptv.noip.me:2052/live/russel/russel/4134.ts
+#EXTINF:-1,4seven
+http://royal-iptv.noip.me:2052/live/russel/russel/4152.ts
+#EXTINF:-1,Cartoon Network
+http://royal-iptv.noip.me:2052/live/russel/russel/4155.ts
+#EXTINF:-1,baby tv
+http://royal-iptv.noip.me:2052/live/russel/russel/4147.ts
+#EXTINF:-1,Disney XD
+http://royal-iptv.noip.me:2052/live/russel/russel/4113.ts
+#EXTINF:-1,Disney Junior
+http://royal-iptv.noip.me:2052/live/russel/russel/4114.ts
+#EXTINF:-1,Disney Channel
+http://royal-iptv.noip.me:2052/live/russel/russel/4115.ts
+#EXTINF:-1,Tiny Pop
+http://royal-iptv.noip.me:2052/live/russel/russel/4032.ts
+#EXTINF:-1,Tiny Pop +1
+http://royal-iptv.noip.me:2052/live/russel/russel/4341.ts
+#EXTINF:-1,nick junior +1
+http://royal-iptv.noip.me:2052/live/russel/russel/4339.ts
+#EXTINF:-1,Sky Living +1
+http://royal-iptv.noip.me:2052/live/russel/russel/4337.ts
+#EXTINF:-1,Sky Atlantic +1
+http://royal-iptv.noip.me:2052/live/russel/russel/4338.ts
+#EXTINF:-1,Food Network +1
+http://royal-iptv.noip.me:2052/live/russel/russel/4336.ts
+#EXTINF:-1,Discovery +1
+http://royal-iptv.noip.me:2052/live/russel/russel/4331.ts
+#EXTINF:-1,Discovery Science +1
+http://royal-iptv.noip.me:2052/live/russel/russel/4332.ts
+#EXTINF:-1,Discovery History +1
+http://royal-iptv.noip.me:2052/live/russel/russel/4333.ts
+#EXTINF:-1,Crime investigation +1
+http://royal-iptv.noip.me:2052/live/russel/russel/4334.ts
+#EXTINF:-1,Discovery
+http://royal-iptv.noip.me:2052/live/russel/russel/4121.ts
+#EXTINF:-1,Crime & Investigiation
+http://royal-iptv.noip.me:2052/live/russel/russel/4123.ts
+#EXTINF:-1,Nat Geo Wild
+http://royal-iptv.noip.me:2052/live/russel/russel/4077.ts
+#EXTINF:-1,National Geographic
+http://royal-iptv.noip.me:2052/live/russel/russel/4078.ts
+#EXTINF:-1,History
+http://royal-iptv.noip.me:2052/live/russel/russel/4099.ts
+#EXTINF:-1,H2
+http://royal-iptv.noip.me:2052/live/russel/russel/4100.ts
+#EXTINF:-1,ID
+http://royal-iptv.noip.me:2052/live/russel/russel/4157.ts
+#EXTINF:-1,Home&Health
+http://royal-iptv.noip.me:2052/live/russel/russel/4098.ts
+#EXTINF:-1,Discovery Turbo
+http://royal-iptv.noip.me:2052/live/russel/russel/4116.ts
+#EXTINF:-1,DiscoveryShed
+http://royal-iptv.noip.me:2052/live/russel/russel/4117.ts
+#EXTINF:-1,Discovery Science
+http://royal-iptv.noip.me:2052/live/russel/russel/4118.ts
+#EXTINF:-1,DiscoveryInvestigation
+http://royal-iptv.noip.me:2052/live/russel/russel/4119.ts
+#EXTINF:-1,Discovery History
+http://royal-iptv.noip.me:2052/live/russel/russel/4120.ts
+#EXTINF:-1,Comedy Xtra +1
+http://royal-iptv.noip.me:2052/live/russel/russel/4335.ts
+#EXTINF:-1,Animal Planet +1
+http://royal-iptv.noip.me:2052/live/russel/russel/4322.ts
+#EXTINF:-1,TCM
+http://royal-iptv.noip.me:2052/live/russel/russel/4033.ts
+#EXTINF:-1,TV3
+http://royal-iptv.noip.me:2052/live/russel/russel/4026.ts
+#EXTINF:-1,Sy-Fy
+http://royal-iptv.noip.me:2052/live/russel/russel/4034.ts
+#EXTINF:-1,TLC
+http://royal-iptv.noip.me:2052/live/russel/russel/4031.ts
+#EXTINF:-1,Spike UK
+http://royal-iptv.noip.me:2052/live/russel/russel/4035.ts
+#EXTINF:-1,Sky Atlantic
+http://royal-iptv.noip.me:2052/live/russel/russel/4060.ts
+#EXTINF:-1,Sky One
+http://royal-iptv.noip.me:2052/live/russel/russel/4047.ts
+#EXTINF:-1,Sky Two
+http://royal-iptv.noip.me:2052/live/russel/russel/4038.ts
+#EXTINF:-1,Sky Living
+http://royal-iptv.noip.me:2052/live/russel/russel/4059.ts
+#EXTINF:-1,Sky Arts
+http://royal-iptv.noip.me:2052/live/russel/russel/4061.ts
+#EXTINF:-1,Sky News
+http://royal-iptv.noip.me:2052/live/russel/russel/4037.ts
+#EXTINF:-1,Comedy Xtra
+http://royal-iptv.noip.me:2052/live/russel/russel/4124.ts
+#EXTINF:-1,Comedy Central
+http://royal-iptv.noip.me:2052/live/russel/russel/4125.ts
+#EXTINF:-1,Comedy Central Extra
+http://royal-iptv.noip.me:2052/live/russel/russel/4171.ts
+#EXTINF:-1,CHALLENGE
+http://royal-iptv.noip.me:2052/live/russel/russel/4131.ts
+#EXTINF:-1,More4
+http://royal-iptv.noip.me:2052/live/russel/russel/4085.ts
+#EXTINF:-1,Good Food
+http://royal-iptv.noip.me:2052/live/russel/russel/4101.ts
+#EXTINF:-1,Gold
+http://royal-iptv.noip.me:2052/live/russel/russel/4102.ts
+#EXTINF:-1,FOXNews
+http://royal-iptv.noip.me:2052/live/russel/russel/4103.ts
+#EXTINF:-1,FOX
+http://royal-iptv.noip.me:2052/live/russel/russel/4104.ts
+#EXTINF:-1,Eden
+http://royal-iptv.noip.me:2052/live/russel/russel/4110.ts
+#EXTINF:-1,Film4
+http://royal-iptv.noip.me:2052/live/russel/russel/4107.ts
+#EXTINF:-1,E4
+http://royal-iptv.noip.me:2052/live/russel/russel/4111.ts
+#EXTINF:-1,E!
+http://royal-iptv.noip.me:2052/live/russel/russel/4112.ts
+#EXTINF:-1,Boomerang
+http://royal-iptv.noip.me:2052/live/russel/russel/4139.ts
+#EXTINF:-1,Dave
+http://royal-iptv.noip.me:2052/live/russel/russel/4122.ts
+#EXTINF:-1,3e
+http://royal-iptv.noip.me:2052/live/russel/russel/4153.ts
+#EXTINF:-1,Heart TV UK
+http://royal-iptv.noip.me:2052/live/russel/russel/4319.ts
+#EXTINF:-1,MTV Rocks HD
+http://royal-iptv.noip.me:2052/live/russel/russel/4315.ts
+#EXTINF:-1,MTV Live HD
+http://royal-iptv.noip.me:2052/live/russel/russel/4316.ts
+#EXTINF:-1,MTV Hits!
+http://royal-iptv.noip.me:2052/live/russel/russel/4317.ts
+#EXTINF:-1,MTV Base UK
+http://royal-iptv.noip.me:2052/live/russel/russel/4318.ts
+#EXTINF:-1,VH1 Classic
+http://royal-iptv.noip.me:2052/live/russel/russel/4023.ts
+#EXTINF:-1,VH1
+http://royal-iptv.noip.me:2052/live/russel/russel/4024.ts
+#EXTINF:-1,MTV Rocks
+http://royal-iptv.noip.me:2052/live/russel/russel/4080.ts
+#EXTINF:-1,MTV MUSIC
+http://royal-iptv.noip.me:2052/live/russel/russel/4163.ts
+#EXTINF:-1,MTVIndia
+http://royal-iptv.noip.me:2052/live/russel/russel/3970.ts
+#EXTINF:-1,MTV Hits
+http://royal-iptv.noip.me:2052/live/russel/russel/4081.ts
+#EXTINF:-1,MTV DANCE
+http://royal-iptv.noip.me:2052/live/russel/russel/4164.ts
+#EXTINF:-1,MTVClassic
+http://royal-iptv.noip.me:2052/live/russel/russel/4082.ts
+#EXTINF:-1,MTV Base
+http://royal-iptv.noip.me:2052/live/russel/russel/4083.ts
+#EXTINF:-1,MTV
+http://royal-iptv.noip.me:2052/live/russel/russel/4084.ts
+#EXTINF:-1,Sky Cinema Crime & Thriller
+http://royal-iptv.noip.me:2052/live/russel/russel/4048.ts
+#EXTINF:-1,Sky Cinema Select
+http://royal-iptv.noip.me:2052/live/russel/russel/4050.ts
+#EXTINF:-1,Sky Cinema Sci-Fi & Horror
+http://royal-iptv.noip.me:2052/live/russel/russel/4051.ts
+#EXTINF:-1,Sky Cinema Premiere
+http://royal-iptv.noip.me:2052/live/russel/russel/4052.ts
+#EXTINF:-1,Sky Cinema Modern Greats
+http://royal-iptv.noip.me:2052/live/russel/russel/4053.ts
+#EXTINF:-1,Sky Cinema Hits
+http://royal-iptv.noip.me:2052/live/russel/russel/4049.ts
+#EXTINF:-1,Sky Cinema Family
+http://royal-iptv.noip.me:2052/live/russel/russel/4054.ts
+#EXTINF:-1,Sky Cinema Drama & Romance
+http://royal-iptv.noip.me:2052/live/russel/russel/4055.ts
+#EXTINF:-1,Sky Cinema Disney
+http://royal-iptv.noip.me:2052/live/russel/russel/4056.ts
+#EXTINF:-1,Sky Cinema Comedy
+http://royal-iptv.noip.me:2052/live/russel/russel/4057.ts
+#EXTINF:-1,Sky Cinema Action & Adventure
+http://royal-iptv.noip.me:2052/live/russel/russel/4058.ts
+#EXTINF:-1,SkySpBoxOff (PPV Events Only)
+http://royal-iptv.noip.me:2052/live/russel/russel/4340.ts
+#EXTINF:-1,Sky Sports Box Office
+http://royal-iptv.noip.me:2052/live/russel/russel/4213.ts
+#EXTINF:-1,UK | Sky Sport 1 HD
+http://royal-iptv.noip.me:2052/live/russel/russel/4202.ts
+#EXTINF:-1,Sky Sports 1 SD
+http://royal-iptv.noip.me:2052/live/russel/russel/4046.ts
+#EXTINF:-1,UK | Sky Sport 2 HD
+http://royal-iptv.noip.me:2052/live/russel/russel/4203.ts
+#EXTINF:-1,Sky Sports 2 SD
+http://royal-iptv.noip.me:2052/live/russel/russel/4045.ts
+#EXTINF:-1,UK | Sky Sport 2 SD
+http://royal-iptv.noip.me:2052/live/russel/russel/4204.ts
+#EXTINF:-1,UK | Sky Sport 3 HD
+http://royal-iptv.noip.me:2052/live/russel/russel/4205.ts
+#EXTINF:-1,Sky Sports 3 SD
+http://royal-iptv.noip.me:2052/live/russel/russel/4044.ts
+#EXTINF:-1,UK | Sky Sport 3 SD
+http://royal-iptv.noip.me:2052/live/russel/russel/4206.ts
+#EXTINF:-1,UK | Sky Sport 4 SD
+http://royal-iptv.noip.me:2052/live/russel/russel/4208.ts
+#EXTINF:-1,Sky Sports 4
+http://royal-iptv.noip.me:2052/live/russel/russel/4170.ts
+#EXTINF:-1,Sky Sports 4 SD
+http://royal-iptv.noip.me:2052/live/russel/russel/4043.ts
+#EXTINF:-1,UK | Sky Sport 4 HD
+http://royal-iptv.noip.me:2052/live/russel/russel/4207.ts
+#EXTINF:-1,UK | Sky Sport 5 HD
+http://royal-iptv.noip.me:2052/live/russel/russel/4209.ts
+#EXTINF:-1,UK | Sky Sport 5 SD
+http://royal-iptv.noip.me:2052/live/russel/russel/4210.ts
+#EXTINF:-1,Sky Sports 5 SD
+http://royal-iptv.noip.me:2052/live/russel/russel/4042.ts
+#EXTINF:-1,Sky Sports News SD
+http://royal-iptv.noip.me:2052/live/russel/russel/4039.ts
+#EXTINF:-1,Sky Sports News HQ
+http://royal-iptv.noip.me:2052/live/russel/russel/4167.ts
+#EXTINF:-1,Sky Sports F1 HD
+http://royal-iptv.noip.me:2052/live/russel/russel/4211.ts
+#EXTINF:-1,Sky Sports F1 SD
+http://royal-iptv.noip.me:2052/live/russel/russel/4040.ts
+#EXTINF:-1,UK | BT Sport 1 HD
+http://royal-iptv.noip.me:2052/live/russel/russel/4215.ts
+#EXTINF:-1,UK | BT Sport 1 SD
+http://royal-iptv.noip.me:2052/live/russel/russel/4214.ts
+#EXTINF:-1,UK | BT Sport 2 HD
+http://royal-iptv.noip.me:2052/live/russel/russel/4217.ts
+#EXTINF:-1,UK | BT Sport 2 SD
+http://royal-iptv.noip.me:2052/live/russel/russel/4216.ts
+#EXTINF:-1,UK | BT Sport 3 HD
+http://royal-iptv.noip.me:2052/live/russel/russel/4219.ts
+#EXTINF:-1,UK | BT Sport ESPN
+http://royal-iptv.noip.me:2052/live/russel/russel/4218.ts
+#EXTINF:-1,BT Sport Mosaic
+http://royal-iptv.noip.me:2052/live/russel/russel/4324.ts
+#EXTINF:-1,BT Sport Mosaic 2
+http://royal-iptv.noip.me:2052/live/russel/russel/4323.ts
+#EXTINF:-1,BT Sport Extra 1
+http://royal-iptv.noip.me:2052/live/russel/russel/4330.ts
+#EXTINF:-1,BT Sport Extra 2
+http://royal-iptv.noip.me:2052/live/russel/russel/4329.ts
+#EXTINF:-1,BT Sport Extra 3
+http://royal-iptv.noip.me:2052/live/russel/russel/4328.ts
+#EXTINF:-1,BT Sport Extra 4
+http://royal-iptv.noip.me:2052/live/russel/russel/4327.ts
+#EXTINF:-1,BT Sport Extra 5
+http://royal-iptv.noip.me:2052/live/russel/russel/4326.ts
+#EXTINF:-1,BT Sport Extra 6
+http://royal-iptv.noip.me:2052/live/russel/russel/4325.ts
+#EXTINF:-1,UK | Box Nation
+http://royal-iptv.noip.me:2052/live/russel/russel/4229.ts
+#EXTINF:-1,Sky Sports Box Office PPV
+http://royal-iptv.noip.me:2052/live/russel/russel/4041.ts
+#EXTINF:-1,Sky Sports Box Office Back Up
+http://royal-iptv.noip.me:2052/live/russel/russel/4168.ts
+#EXTINF:-1,UK | Premier Sports HD
+http://royal-iptv.noip.me:2052/live/russel/russel/4226.ts
+#EXTINF:-1,UK | Premier Sport
+http://royal-iptv.noip.me:2052/live/russel/russel/4228.ts
+#EXTINF:-1,British Eurosport 1
+http://royal-iptv.noip.me:2052/live/russel/russel/4174.ts
+#EXTINF:-1,BoxNation
+http://royal-iptv.noip.me:2052/live/russel/russel/4138.ts
+#EXTINF:-1,At The Races Backup
+http://royal-iptv.noip.me:2052/live/russel/russel/4148.ts
+#EXTINF:-1,UK | Setanta
+http://royal-iptv.noip.me:2052/live/russel/russel/4227.ts
+#EXTINF:-1,UK | RACING UK HD
+http://royal-iptv.noip.me:2052/live/russel/russel/4220.ts
+#EXTINF:-1,UK | At The Races
+http://royal-iptv.noip.me:2052/live/russel/russel/4221.ts
+#EXTINF:-1,MUTV
+http://royal-iptv.noip.me:2052/live/russel/russel/4079.ts
+#EXTINF:-1,MUTV HD
+http://royal-iptv.noip.me:2052/live/russel/russel/4451.ts
+#EXTINF:-1,LFCTV
+http://royal-iptv.noip.me:2052/live/russel/russel/4087.ts
+#EXTINF:-1,UK | LFCTV
+http://royal-iptv.noip.me:2052/live/russel/russel/4224.ts
+#EXTINF:-1,UK | Chelsea TV
+http://royal-iptv.noip.me:2052/live/russel/russel/4225.ts
+#EXTINF:-1,Celtic Tv
+http://royal-iptv.noip.me:2052/live/russel/russel/4321.ts
+#EXTINF:-1,Rangers Tv (Bonus)
+http://royal-iptv.noip.me:2052/live/russel/russel/4320.ts
+#EXTINF:-1,UK | Motors
+http://royal-iptv.noip.me:2052/live/russel/russel/4230.ts
+#EXTINF:-1,Yesterday
+http://royal-iptv.noip.me:2052/live/russel/russel/4020.ts
+#EXTINF:-1,True Entertainment
+http://royal-iptv.noip.me:2052/live/russel/russel/4029.ts
+#EXTINF:-1,TravelChannelHD
+http://royal-iptv.noip.me:2052/live/russel/russel/3997.ts
+#EXTINF:-1,Travel Channel
+http://royal-iptv.noip.me:2052/live/russel/russel/4030.ts
+#EXTINF:-1,UK | Sky Sport News HQ
+http://royal-iptv.noip.me:2052/live/russel/russel/4212.ts
+#EXTINF:-1,Watch
+http://royal-iptv.noip.me:2052/live/russel/russel/4021.ts
+#EXTINF:-1,True Movies2
+http://royal-iptv.noip.me:2052/live/russel/russel/4027.ts
+#EXTINF:-1,True Movies 1
+http://royal-iptv.noip.me:2052/live/russel/russel/4028.ts
+#EXTINF:-1,Horror Channel
+http://royal-iptv.noip.me:2052/live/russel/russel/4097.ts
+#EXTINF:-1,EuroSports1
+http://royal-iptv.noip.me:2052/live/russel/russel/4108.ts
+#EXTINF:-1,Uk Euro Sport 2
+http://royal-iptv.noip.me:2052/live/russel/russel/4109.ts
+#EXTINF:-1,CHELSEA TV
+http://royal-iptv.noip.me:2052/live/russel/russel/4127.ts
+#EXTINF:-1,Cartoon Network Backup
+http://royal-iptv.noip.me:2052/live/russel/russel/4137.ts
+#EXTINF:-1,NBA TV SD
+http://royal-iptv.noip.me:2052/live/russel/russel/4239.ts
+#EXTINF:-1,Nasa TV HD
+http://royal-iptv.noip.me:2052/live/russel/russel/4240.ts
+#EXTINF:-1,ByuTV HD
+http://royal-iptv.noip.me:2052/live/russel/russel/4241.ts
+#EXTINF:-1,Tsn 1 HD
+http://royal-iptv.noip.me:2052/live/russel/russel/4231.ts
+#EXTINF:-1,Tsn 2 HD
+http://royal-iptv.noip.me:2052/live/russel/russel/4232.ts
+#EXTINF:-1,USA:CA | TSN 3 HD
+http://royal-iptv.noip.me:2052/live/russel/russel/4233.ts
+#EXTINF:-1,USA:CA | TSN 4 HD
+http://royal-iptv.noip.me:2052/live/russel/russel/4234.ts
+#EXTINF:-1,USA:CA | TSN 5 HD
+http://royal-iptv.noip.me:2052/live/russel/russel/4235.ts
+#EXTINF:-1,USA | Fox Sports 1 HD Backup
+http://royal-iptv.noip.me:2052/live/russel/russel/4237.ts
+#EXTINF:-1,US: FOX Sport 1
+http://royal-iptv.noip.me:2052/live/russel/russel/4344.ts
+#EXTINF:-1,USA | Fox Sports 2 HD Backup
+http://royal-iptv.noip.me:2052/live/russel/russel/4236.ts
+#EXTINF:-1,US: FOX Sport 2
+http://royal-iptv.noip.me:2052/live/russel/russel/4343.ts
+#EXTINF:-1,NL: Ziggo Sport Extra 2
+http://royal-iptv.noip.me:2052/live/russel/russel/4384.ts
+#EXTINF:-1,NL: Ziggo Sport Extra 1
+http://royal-iptv.noip.me:2052/live/russel/russel/4385.ts
+#EXTINF:-1,NL: Fox Sports 6
+http://royal-iptv.noip.me:2052/live/russel/russel/4378.ts
+#EXTINF:-1,NL: Fox Sports 5
+http://royal-iptv.noip.me:2052/live/russel/russel/4379.ts
+#EXTINF:-1,NL: Fox Sports 4
+http://royal-iptv.noip.me:2052/live/russel/russel/4380.ts
+#EXTINF:-1,NL: Fox Sports 3
+http://royal-iptv.noip.me:2052/live/russel/russel/4381.ts
+#EXTINF:-1,NL: Fox Sports 2
+http://royal-iptv.noip.me:2052/live/russel/russel/4382.ts
+#EXTINF:-1,NL: Fox Sports 1
+http://royal-iptv.noip.me:2052/live/russel/russel/4383.ts
+#EXTINF:-1,AR | beIN Sports 1 HD
+http://royal-iptv.noip.me:2052/live/russel/russel/4415.ts
+#EXTINF:-1,AR | beIN Sports 2 HD
+http://royal-iptv.noip.me:2052/live/russel/russel/4412.ts
+#EXTINF:-1,AR | beIN Sports 3 HD
+http://royal-iptv.noip.me:2052/live/russel/russel/4411.ts
+#EXTINF:-1,AR | beIN Sports 4 HD
+http://royal-iptv.noip.me:2052/live/russel/russel/4410.ts
+#EXTINF:-1,AR | beIN Sports 5 HD
+http://royal-iptv.noip.me:2052/live/russel/russel/4409.ts
+#EXTINF:-1,AR | beIN Sports 6 HD
+http://royal-iptv.noip.me:2052/live/russel/russel/4408.ts
+#EXTINF:-1,AR | beIN Sports 7 HD
+http://royal-iptv.noip.me:2052/live/russel/russel/4407.ts
+#EXTINF:-1,AR | beIN Sports 8 HD
+http://royal-iptv.noip.me:2052/live/russel/russel/4406.ts
+#EXTINF:-1,AR | beIN Sports 9 HD
+http://royal-iptv.noip.me:2052/live/russel/russel/4405.ts
+#EXTINF:-1,AR | beIN Sports 10 HD
+http://royal-iptv.noip.me:2052/live/russel/russel/4414.ts
+#EXTINF:-1,AR | beIN Sports 11 HD
+http://royal-iptv.noip.me:2052/live/russel/russel/4413.ts
+#EXTINF:-1,MIO Stadium 108 Backup 1
+http://royal-iptv.noip.me:2052/live/russel/russel/4631.ts
+#EXTINF:-1,MIO Stadium 107 Backup 1
+http://royal-iptv.noip.me:2052/live/russel/russel/4630.ts
+#EXTINF:-1,MIO Stadium 106 Backup 1
+http://royal-iptv.noip.me:2052/live/russel/russel/4629.ts
+#EXTINF:-1,MIO Stadium 105 Backup 1
+http://royal-iptv.noip.me:2052/live/russel/russel/4628.ts
+#EXTINF:-1,MIO Stadium 104 Backup 1
+http://royal-iptv.noip.me:2052/live/russel/russel/4627.ts
+#EXTINF:-1,MIO Stadium 103 Backup 1
+http://royal-iptv.noip.me:2052/live/russel/russel/4626.ts
+#EXTINF:-1,MIO Stadium 102 Backup 1
+http://royal-iptv.noip.me:2052/live/russel/russel/4625.ts
+#EXTINF:-1,Mio Sports 108 Backup 2
+http://royal-iptv.noip.me:2052/live/russel/russel/4638.ts
+#EXTINF:-1,Mio Sports 107 Backup 2
+http://royal-iptv.noip.me:2052/live/russel/russel/4637.ts
+#EXTINF:-1,Mio Sports 106 Backup 2
+http://royal-iptv.noip.me:2052/live/russel/russel/4636.ts
+#EXTINF:-1,Mio Sports 105 Backup 2
+http://royal-iptv.noip.me:2052/live/russel/russel/4635.ts
+#EXTINF:-1,Mio Sports 104 Backup 2
+http://royal-iptv.noip.me:2052/live/russel/russel/4634.ts
+#EXTINF:-1,Mio Sports 103 Backup 2
+http://royal-iptv.noip.me:2052/live/russel/russel/4633.ts
+#EXTINF:-1,Mio Sports 102 Backup 2
+http://royal-iptv.noip.me:2052/live/russel/russel/4632.ts
+#EXTINF:-1,UK: EPL Extra Time 5
+http://royal-iptv.noip.me:2052/live/russel/russel/4620.ts
+#EXTINF:-1,UK: EPL Extra Time 4
+http://royal-iptv.noip.me:2052/live/russel/russel/4619.ts
+#EXTINF:-1,UK: EPL Extra Time 3
+http://royal-iptv.noip.me:2052/live/russel/russel/4618.ts
+#EXTINF:-1,UK: EPL Extra Time 2
+http://royal-iptv.noip.me:2052/live/russel/russel/4617.ts
+#EXTINF:-1,UK: EPL Extra Time 1
+http://royal-iptv.noip.me:2052/live/russel/russel/4616.ts
+#EXTINF:-1,USA | NBC XTRA 5 (LIVE DURING EPL)
+http://royal-iptv.noip.me:2052/live/russel/russel/4615.ts
+#EXTINF:-1,USA | NBC XTRA 4 (LIVE DURING EPL)
+http://royal-iptv.noip.me:2052/live/russel/russel/4614.ts
+#EXTINF:-1,USA | NBC XTRA 3 (LIVE DURING EPL)
+http://royal-iptv.noip.me:2052/live/russel/russel/4613.ts
+#EXTINF:-1,USA | NBC XTRA 2 (LIVE DURING EPL)
+http://royal-iptv.noip.me:2052/live/russel/russel/4612.ts
+#EXTINF:-1,USA | NBC XTRA 1 (LIVE DURING EPL)
+http://royal-iptv.noip.me:2052/live/russel/russel/4611.ts
+#EXTINF:-1,ML Astro Super Sport 1 HD
+http://royal-iptv.noip.me:2052/live/russel/russel/4621.ts
+#EXTINF:-1,ML:Astro Supersport 2HD
+http://royal-iptv.noip.me:2052/live/russel/russel/4622.ts
+#EXTINF:-1,ML Astro Super Sport 3 HD
+http://royal-iptv.noip.me:2052/live/russel/russel/4623.ts
+#EXTINF:-1,ML:Astro Supersport 4 HD
+http://royal-iptv.noip.me:2052/live/russel/russel/4624.ts
+#EXTINF:-1,BeIN MOVIES 4HD Backup
+http://royal-iptv.noip.me:2052/live/russel/russel/4673.ts
+#EXTINF:-1,BeIN MOVIES 3HD Backup
+http://royal-iptv.noip.me:2052/live/russel/russel/4674.ts
+#EXTINF:-1,BeIN MOVIES 2HD Backup
+http://royal-iptv.noip.me:2052/live/russel/russel/4675.ts
+#EXTINF:-1,BeIN MOVIES 1HD Backup
+http://royal-iptv.noip.me:2052/live/russel/russel/4676.ts
+#EXTINF:-1,OSN WWE Network HD
+http://royal-iptv.noip.me:2052/live/russel/russel/4586.ts
+#EXTINF:-1,OSN Star world
+http://royal-iptv.noip.me:2052/live/russel/russel/4587.ts
+#EXTINF:-1,OSN STAR MOVIES HD
+http://royal-iptv.noip.me:2052/live/russel/russel/4588.ts
+#EXTINF:-1,OSN Movies Premiere HD
+http://royal-iptv.noip.me:2052/live/russel/russel/4589.ts
+#EXTINF:-1,OSN Movies Premier  2 HD
+http://royal-iptv.noip.me:2052/live/russel/russel/4590.ts
+#EXTINF:-1,OSN Movies Kids HD
+http://royal-iptv.noip.me:2052/live/russel/russel/4591.ts
+#EXTINF:-1,OSN Movies Festival HD
+http://royal-iptv.noip.me:2052/live/russel/russel/4592.ts
+#EXTINF:-1,OSN Movies Action HD
+http://royal-iptv.noip.me:2052/live/russel/russel/4593.ts
+#EXTINF:-1,OSN Movies Action
+http://royal-iptv.noip.me:2052/live/russel/russel/4594.ts
+#EXTINF:-1,OSN Movies  2 HD
+http://royal-iptv.noip.me:2052/live/russel/russel/4595.ts
+#EXTINF:-1,OSN First HD
+http://royal-iptv.noip.me:2052/live/russel/russel/4596.ts
+#EXTINF:-1,OSN First Comedy HD
+http://royal-iptv.noip.me:2052/live/russel/russel/4597.ts
+#EXTINF:-1,OSN ELYOM
+http://royal-iptv.noip.me:2052/live/russel/russel/4598.ts
+#EXTINF:-1,OSN Discovery-Sc HD
+http://royal-iptv.noip.me:2052/live/russel/russel/4599.ts
+#EXTINF:-1,OSN Discovery HD
+http://royal-iptv.noip.me:2052/live/russel/russel/4600.ts
+#EXTINF:-1,OSN Box Office 3
+http://royal-iptv.noip.me:2052/live/russel/russel/4584.ts
+#EXTINF:-1,OSN Box Office 1
+http://royal-iptv.noip.me:2052/live/russel/russel/4585.ts
+#EXTINF:-1,OSN Art Cinema
+http://royal-iptv.noip.me:2052/live/russel/russel/4601.ts
+#EXTINF:-1,OSN AD Sports 2 HD
+http://royal-iptv.noip.me:2052/live/russel/russel/4602.ts
+#EXTINF:-1,OSN AD Sports 1 HD
+http://royal-iptv.noip.me:2052/live/russel/russel/4603.ts
+#EXTINF:-1,OSN AD Nat Geo HD
+http://royal-iptv.noip.me:2052/live/russel/russel/4604.ts
+#EXTINF:-1,OSN  Ya Hala! SHABAB HD
+http://royal-iptv.noip.me:2052/live/russel/russel/4605.ts
+#EXTINF:-1,OSN  Ya Hala! HD
+http://royal-iptv.noip.me:2052/live/russel/russel/4606.ts
+#EXTINF:-1,OSN  Ya Hala! Drama HD
+http://royal-iptv.noip.me:2052/live/russel/russel/4607.ts
+#EXTINF:-1,OSN  Orbit Cinema2
+http://royal-iptv.noip.me:2052/live/russel/russel/4608.ts
+#EXTINF:-1,OSN  Movies HD
+http://royal-iptv.noip.me:2052/live/russel/russel/4609.ts
+#EXTINF:-1,OSN  Movies Drama HD
+http://royal-iptv.noip.me:2052/live/russel/russel/4610.ts
+#EXTINF:-1,(HD)STARCricket
+http://royal-iptv.noip.me:2052/live/russel/russel/4007.ts
+#EXTINF:-1,WWE HD
+http://royal-iptv.noip.me:2052/live/russel/russel/4238.ts
+#EXTINF:-1,XingKongSTARTV
+http://royal-iptv.noip.me:2052/live/russel/russel/3984.ts
+#EXTINF:-1,WarnerTV(HD)sing
+http://royal-iptv.noip.me:2052/live/russel/russel/3995.ts
+#EXTINF:-1,VIVA the Hits!
+http://royal-iptv.noip.me:2052/live/russel/russel/4022.ts
+#EXTINF:-1,VIVA
+http://royal-iptv.noip.me:2052/live/russel/russel/4165.ts
+#EXTINF:-1,Vijay
+http://royal-iptv.noip.me:2052/live/russel/russel/3979.ts
+#EXTINF:-1,UTVIreland
+http://royal-iptv.noip.me:2052/live/russel/russel/4025.ts
+#EXTINF:-1,USA: FX Local
+http://royal-iptv.noip.me:2052/live/russel/russel/3692.ts
+#EXTINF:-1,tvNHD
+http://royal-iptv.noip.me:2052/live/russel/russel/3983.ts
+#EXTINF:-1,TRACESportStars
+http://royal-iptv.noip.me:2052/live/russel/russel/3986.ts
+#EXTINF:-1,tnt LOCAL
+http://royal-iptv.noip.me:2052/live/russel/russel/3714.ts
+#EXTINF:-1,Rte Jr
+http://royal-iptv.noip.me:2052/live/russel/russel/4066.ts
+#EXTINF:-1,Really
+http://royal-iptv.noip.me:2052/live/russel/russel/4067.ts
+#EXTINF:-1,NickToons
+http://royal-iptv.noip.me:2052/live/russel/russel/4074.ts
+#EXTINF:-1,Nick Jr Too
+http://royal-iptv.noip.me:2052/live/russel/russel/4072.ts
+#EXTINF:-1,Nick Junior
+http://royal-iptv.noip.me:2052/live/russel/russel/4075.ts
+#EXTINF:-1,Nickelodeon
+http://royal-iptv.noip.me:2052/live/russel/russel/4073.ts
+#EXTINF:-1,Nick
+http://royal-iptv.noip.me:2052/live/russel/russel/4076.ts
+#EXTINF:-1,Real Lives
+http://royal-iptv.noip.me:2052/live/russel/russel/4068.ts
+#EXTINF:-1,Racing UK
+http://royal-iptv.noip.me:2052/live/russel/russel/4069.ts
+#EXTINF:-1,RTE ONE
+http://royal-iptv.noip.me:2052/live/russel/russel/4065.ts
+#EXTINF:-1,PremierSportsHD
+http://royal-iptv.noip.me:2052/live/russel/russel/4071.ts
+#EXTINF:-1,Quest
+http://royal-iptv.noip.me:2052/live/russel/russel/4070.ts
+#EXTINF:-1,Animal Planet
+http://royal-iptv.noip.me:2052/live/russel/russel/4149.ts
+#EXTINF:-1,DMAX
+http://royal-iptv.noip.me:2052/live/russel/russel/4156.ts
+#EXTINF:-1,Lifetime
+http://royal-iptv.noip.me:2052/live/russel/russel/4086.ts
+#EXTINF:-1,TimesNow
+http://royal-iptv.noip.me:2052/live/russel/russel/3967.ts
+#EXTINF:-1,TenCricket
+http://royal-iptv.noip.me:2052/live/russel/russel/4008.ts
+#EXTINF:-1,Turner Classic Movies
+http://royal-iptv.noip.me:2052/live/russel/russel/4169.ts
+#EXTINF:-1,tbs LOCAL
+http://royal-iptv.noip.me:2052/live/russel/russel/3713.ts
+#EXTINF:-1,syfy LOCAL
+http://royal-iptv.noip.me:2052/live/russel/russel/3712.ts
+#EXTINF:-1,SuryaTV
+http://royal-iptv.noip.me:2052/live/russel/russel/3977.ts
+#EXTINF:-1,Sundance Channel
+http://royal-iptv.noip.me:2052/live/russel/russel/3985.ts
+#EXTINF:-1,StarUtsav
+http://royal-iptv.noip.me:2052/live/russel/russel/4160.ts
+#EXTINF:-1,STARPlus
+http://royal-iptv.noip.me:2052/live/russel/russel/3971.ts
+#EXTINF:-1,StarLifeOK
+http://royal-iptv.noip.me:2052/live/russel/russel/4161.ts
+#EXTINF:-1,STARGoldsing
+http://royal-iptv.noip.me:2052/live/russel/russel/3978.ts
+#EXTINF:-1,StarGOLD
+http://royal-iptv.noip.me:2052/live/russel/russel/4159.ts
+#EXTINF:-1,SonyTV
+http://royal-iptv.noip.me:2052/live/russel/russel/4036.ts
+#EXTINF:-1,SonyMAX
+http://royal-iptv.noip.me:2052/live/russel/russel/3968.ts
+#EXTINF:-1,SonyChannel(HD)sing
+http://royal-iptv.noip.me:2052/live/russel/russel/3993.ts
+#EXTINF:-1,SkyNewsHDsing
+http://royal-iptv.noip.me:2052/live/russel/russel/4009.ts
+#EXTINF:-1,Setanta Sports Singtel
+http://royal-iptv.noip.me:2052/live/russel/russel/4011.ts
+#EXTINF:-1,SET(HINDI)
+http://royal-iptv.noip.me:2052/live/russel/russel/3976.ts
+#EXTINF:-1,SABTV
+http://royal-iptv.noip.me:2052/live/russel/russel/3975.ts
+#EXTINF:-1,RTE TWO
+http://royal-iptv.noip.me:2052/live/russel/russel/4064.ts
+#EXTINF:-1,RishteyAsia
+http://royal-iptv.noip.me:2052/live/russel/russel/3974.ts
+#EXTINF:-1,pbs LOCAL
+http://royal-iptv.noip.me:2052/live/russel/russel/3700.ts
+#EXTINF:-1,nick LOCAL
+http://royal-iptv.noip.me:2052/live/russel/russel/3711.ts
+#EXTINF:-1,nbc LOCAL
+http://royal-iptv.noip.me:2052/live/russel/russel/3699.ts
+#EXTINF:-1,my9 LOCAL
+http://royal-iptv.noip.me:2052/live/russel/russel/3694.ts
+#EXTINF:-1,lifetime LOCAL
+http://royal-iptv.noip.me:2052/live/russel/russel/3710.ts
+#EXTINF:-1,history LOCAL
+http://royal-iptv.noip.me:2052/live/russel/russel/3709.ts
+#EXTINF:-1,fox news LOCAL
+http://royal-iptv.noip.me:2052/live/russel/russel/3717.ts
+#EXTINF:-1,espn LOCAL
+http://royal-iptv.noip.me:2052/live/russel/russel/3708.ts
+#EXTINF:-1,discovery LOCAL
+http://royal-iptv.noip.me:2052/live/russel/russel/3707.ts
+#EXTINF:-1,cw LOCAL
+http://royal-iptv.noip.me:2052/live/russel/russel/3698.ts
+#EXTINF:-1,CNN HD
+http://royal-iptv.noip.me:2052/live/russel/russel/4154.ts
+#EXTINF:-1,cnn LOCAL
+http://royal-iptv.noip.me:2052/live/russel/russel/3704.ts
+#EXTINF:-1,cnbc LOCAL
+http://royal-iptv.noip.me:2052/live/russel/russel/3705.ts
+#EXTINF:-1,cn LOCAL
+http://royal-iptv.noip.me:2052/live/russel/russel/3703.ts
+#EXTINF:-1,Citv
+http://royal-iptv.noip.me:2052/live/russel/russel/4126.ts
+#EXTINF:-1,cbs LOCAL
+http://royal-iptv.noip.me:2052/live/russel/russel/3697.ts
+#EXTINF:-1,bravo LOCAL
+http://royal-iptv.noip.me:2052/live/russel/russel/3695.ts
+#EXTINF:-1,US: A&E
+http://royal-iptv.noip.me:2052/live/russel/russel/3701.ts
+#EXTINF:-1,abc news LOCAL
+http://royal-iptv.noip.me:2052/live/russel/russel/3718.ts
+#EXTINF:-1,abc LOCAL
+http://royal-iptv.noip.me:2052/live/russel/russel/3696.ts
+#EXTINF:-1,usa LOCAL
+http://royal-iptv.noip.me:2052/live/russel/russel/3716.ts
+#EXTINF:-1,My9
+http://royal-iptv.noip.me:2052/live/russel/russel/3693.ts
+#EXTINF:-1,USA Spike Local
+http://royal-iptv.noip.me:2052/live/russel/russel/3715.ts
+#EXTINF:-1,comedy Central LOCAL
+http://royal-iptv.noip.me:2052/live/russel/russel/3706.ts
+#EXTINF:-1,ForcesTV
+http://royal-iptv.noip.me:2052/live/russel/russel/4166.ts
+#EXTINF:-1,NDTVIndia
+http://royal-iptv.noip.me:2052/live/russel/russel/3966.ts
+#EXTINF:-1,NatGeoWildHDsing
+http://royal-iptv.noip.me:2052/live/russel/russel/4001.ts
+#EXTINF:-1,NatGeoPeopleHDsing
+http://royal-iptv.noip.me:2052/live/russel/russel/3996.ts
+#EXTINF:-1,NatGeoChHDsing
+http://royal-iptv.noip.me:2052/live/russel/russel/4004.ts
+#EXTINF:-1,AR: OSN Movies ON DEMAND
+http://royal-iptv.noip.me:2052/live/russel/russel/4372.ts
+#EXTINF:-1,AR: OSN MOVIES
+http://royal-iptv.noip.me:2052/live/russel/russel/4361.ts
+#EXTINF:-1,AR: OSN MOVIE ACTION 2
+http://royal-iptv.noip.me:2052/live/russel/russel/4357.ts
+#EXTINF:-1,AR: OSN FIRST COMEDY
+http://royal-iptv.noip.me:2052/live/russel/russel/4353.ts
+#EXTINF:-1,AR: OSN Box Office 3
+http://royal-iptv.noip.me:2052/live/russel/russel/4373.ts
+#EXTINF:-1,AR: OSN Box Office 2
+http://royal-iptv.noip.me:2052/live/russel/russel/4374.ts
+#EXTINF:-1,AR: OSN Box Office 1
+http://royal-iptv.noip.me:2052/live/russel/russel/4375.ts
+#EXTINF:-1,AR: BEIN MOVIES 2
+http://royal-iptv.noip.me:2052/live/russel/russel/4349.ts
+#EXTINF:-1,MioSports
+http://royal-iptv.noip.me:2052/live/russel/russel/4000.ts
+#EXTINF:-1,LifeOK
+http://royal-iptv.noip.me:2052/live/russel/russel/3972.ts
+#EXTINF:-1,Kix HD
+http://royal-iptv.noip.me:2052/live/russel/russel/3994.ts
+#EXTINF:-1,Eir Sports2
+http://royal-iptv.noip.me:2052/live/russel/russel/4062.ts
+#EXTINF:-1,Eir Sports1
+http://royal-iptv.noip.me:2052/live/russel/russel/4063.ts
+#EXTINF:-1,ITVChoice(HD)sing
+http://royal-iptv.noip.me:2052/live/russel/russel/3987.ts
+#EXTINF:-1,FootballFever1
+http://royal-iptv.noip.me:2052/live/russel/russel/4006.ts
+#EXTINF:-1,Five
+http://royal-iptv.noip.me:2052/live/russel/russel/4106.ts
+#EXTINF:-1,Eve(HD)sing
+http://royal-iptv.noip.me:2052/live/russel/russel/3990.ts
+#EXTINF:-1,Eleven Sports
+http://royal-iptv.noip.me:2052/live/russel/russel/4012.ts
+#EXTINF:-1,ElevenEuroHD
+http://royal-iptv.noip.me:2052/live/russel/russel/4010.ts
+#EXTINF:-1,DMAX(HD)sing
+http://royal-iptv.noip.me:2052/live/russel/russel/3991.ts
+#EXTINF:-1,DIVA HD
+http://royal-iptv.noip.me:2052/live/russel/russel/3989.ts
+#EXTINF:-1,DiscoverySci(HD)sing
+http://royal-iptv.noip.me:2052/live/russel/russel/4002.ts
+#EXTINF:-1,DiscoveryHDWorldsing
+http://royal-iptv.noip.me:2052/live/russel/russel/4003.ts
+#EXTINF:-1,DiscoveryCh(HD)sing
+http://royal-iptv.noip.me:2052/live/russel/russel/4005.ts
+#EXTINF:-1,ComedyCentral(HD)sing
+http://royal-iptv.noip.me:2052/live/russel/russel/3988.ts
+#EXTINF:-1,Colors
+http://royal-iptv.noip.me:2052/live/russel/russel/3973.ts
+#EXTINF:-1,ChannelVIndia
+http://royal-iptv.noip.me:2052/live/russel/russel/3969.ts
+#EXTINF:-1,Animal Planet Local
+http://royal-iptv.noip.me:2052/live/russel/russel/3702.ts
+#EXTINF:-1,AMC(HD)sing
+http://royal-iptv.noip.me:2052/live/russel/russel/3992.ts
+#EXTINF:-1,AustraliaPlusTV
+http://royal-iptv.noip.me:2052/live/russel/russel/3998.ts
+#EXTINF:-1,AstroVinmeenHD
+http://royal-iptv.noip.me:2052/live/russel/russel/3980.ts
+#EXTINF:-1,AstroVellithirai
+http://royal-iptv.noip.me:2052/live/russel/russel/3981.ts
+#EXTINF:-1,AstroPrima
+http://royal-iptv.noip.me:2052/live/russel/russel/3982.ts
+#EXTINF:-1,AnimalPlanet(HD)sing
+http://royal-iptv.noip.me:2052/live/russel/russel/3999.ts
+#EXTINF:-1,108 Mio Stadium
+http://royal-iptv.noip.me:2052/live/russel/russel/4013.ts
+#EXTINF:-1,107 Mio Stadium
+http://royal-iptv.noip.me:2052/live/russel/russel/4014.ts
+#EXTINF:-1,106 Mio Stadium
+http://royal-iptv.noip.me:2052/live/russel/russel/4015.ts
+#EXTINF:-1,105 Mio Stadium
+http://royal-iptv.noip.me:2052/live/russel/russel/4016.ts
+#EXTINF:-1,104 Mio Stadium
+http://royal-iptv.noip.me:2052/live/russel/russel/4017.ts
+#EXTINF:-1,103 Mio Stadium
+http://royal-iptv.noip.me:2052/live/russel/russel/4018.ts
+#EXTINF:-1,102 Mio Stadium
+http://royal-iptv.noip.me:2052/live/russel/russel/4019.ts
+#EXTINF:-1,AR | OSN Movies Premiere HD
+http://royal-iptv.noip.me:2052/live/russel/russel/4242.ts
+#EXTINF:-1,AR | OSN MOVIES Kids HD
+http://royal-iptv.noip.me:2052/live/russel/russel/4243.ts
+#EXTINF:-1,AR | OSN Movies HD
+http://royal-iptv.noip.me:2052/live/russel/russel/4244.ts
+#EXTINF:-1,AR | OSN MOVIES Action  1 HD
+http://royal-iptv.noip.me:2052/live/russel/russel/4245.ts
+#EXTINF:-1,AR | OSN BOX Office
+http://royal-iptv.noip.me:2052/live/russel/russel/4246.ts
+#EXTINF:-1,AR | beIN Sports 13 HD
+http://royal-iptv.noip.me:2052/live/russel/russel/4249.ts
+#EXTINF:-1,AR | beIN Sports 12 HD
+http://royal-iptv.noip.me:2052/live/russel/russel/4250.ts
+#EXTINF:-1,AR | BEIN MOVIES 3 HD
+http://royal-iptv.noip.me:2052/live/russel/russel/4251.ts
+#EXTINF:-1,AR | Bein Movies 2 HD
+http://royal-iptv.noip.me:2052/live/russel/russel/4252.ts
+#EXTINF:-1,AR | Bein Movies 1 HD
+http://royal-iptv.noip.me:2052/live/russel/russel/4253.ts
+#EXTINF:-1,VIP Bein USA HD
+http://royal-iptv.noip.me:2052/live/russel/russel/4689.ts
+#EXTINF:-1,VIP USA : NBCSN HD**
+http://royal-iptv.noip.me:2052/live/russel/russel/4680.ts
+#EXTINF:-1,VIP USA : HISTORY HD**
+http://royal-iptv.noip.me:2052/live/russel/russel/4681.ts
+#EXTINF:-1,VIP USA : Fox Sports 2 HD
+http://royal-iptv.noip.me:2052/live/russel/russel/4682.ts
+#EXTINF:-1,VIP USA : Fox Sports 1 HD
+http://royal-iptv.noip.me:2052/live/russel/russel/4683.ts
+#EXTINF:-1,VIP USA : Discovery Science HD
+http://royal-iptv.noip.me:2052/live/russel/russel/4684.ts
+#EXTINF:-1,VIP Sportsnet West HD
+http://royal-iptv.noip.me:2052/live/russel/russel/4685.ts
+#EXTINF:-1,VIP Sportsnet East HD
+http://royal-iptv.noip.me:2052/live/russel/russel/4686.ts
+#EXTINF:-1,VIP Sportnet Pacific HD
+http://royal-iptv.noip.me:2052/live/russel/russel/4687.ts
+#EXTINF:-1,VIP Sportnet Ontario HD
+http://royal-iptv.noip.me:2052/live/russel/russel/4688.ts
+#EXTINF:-1,UFC Fight PASS
+http://royal-iptv.noip.me:2052/live/russel/russel/4713.ts
+#EXTINF:-1,USA HISTORY
+http://royal-iptv.noip.me:2052/live/russel/russel/4515.ts
+#EXTINF:-1,USA CINEMAX 5 STAR
+http://royal-iptv.noip.me:2052/live/russel/russel/4497.ts
+#EXTINF:-1,USA : VH1 HD
+http://royal-iptv.noip.me:2052/live/russel/russel/4526.ts
+#EXTINF:-1,USA : USA NETWORK HD
+http://royal-iptv.noip.me:2052/live/russel/russel/4501.ts
+#EXTINF:-1,USA : TRU TV HD
+http://royal-iptv.noip.me:2052/live/russel/russel/4495.ts
+#EXTINF:-1,USA : TBS HD
+http://royal-iptv.noip.me:2052/live/russel/russel/4493.ts
+#EXTINF:-1,USA : SPIKE HD
+http://royal-iptv.noip.me:2052/live/russel/russel/4496.ts
+#EXTINF:-1,USA : SHOWTIME HD
+http://royal-iptv.noip.me:2052/live/russel/russel/4498.ts
+#EXTINF:-1,USA : OWN HD (Opera Winfery Network)
+http://royal-iptv.noip.me:2052/live/russel/russel/4510.ts
+#EXTINF:-1,USA : NICK HD
+http://royal-iptv.noip.me:2052/live/russel/russel/4525.ts
+#EXTINF:-1,USA : MoreMax HD
+http://royal-iptv.noip.me:2052/live/russel/russel/4509.ts
+#EXTINF:-1,USA : ID XTRA HD
+http://royal-iptv.noip.me:2052/live/russel/russel/4521.ts
+#EXTINF:-1,USA : HISTORY HD
+http://royal-iptv.noip.me:2052/live/russel/russel/4519.ts
+#EXTINF:-1,USA : HBO HD
+http://royal-iptv.noip.me:2052/live/russel/russel/4486.ts
+#EXTINF:-1,USA : Hall Mark HD
+http://royal-iptv.noip.me:2052/live/russel/russel/4522.ts
+#EXTINF:-1,USA : FX HD
+http://royal-iptv.noip.me:2052/live/russel/russel/4490.ts
+#EXTINF:-1,USA : FREE FORM HD
+http://royal-iptv.noip.me:2052/live/russel/russel/4523.ts
+#EXTINF:-1,USA : DIY NETWORK HD
+http://royal-iptv.noip.me:2052/live/russel/russel/4518.ts
+#EXTINF:-1,USA : DISNEY HD
+http://royal-iptv.noip.me:2052/live/russel/russel/4524.ts
+#EXTINF:-1,USA : Discovery HD
+http://royal-iptv.noip.me:2052/live/russel/russel/4513.ts
+#EXTINF:-1,USA : DISCOVERY FAMILY HD
+http://royal-iptv.noip.me:2052/live/russel/russel/4516.ts
+#EXTINF:-1,USA : DESTINATION AMERICA HD
+http://royal-iptv.noip.me:2052/live/russel/russel/4517.ts
+#EXTINF:-1,USA : COMEDY CENTRAL HD
+http://royal-iptv.noip.me:2052/live/russel/russel/4494.ts
+#EXTINF:-1,USA : CNBC HD
+http://royal-iptv.noip.me:2052/live/russel/russel/4529.ts
+#EXTINF:-1,USA : CINEMAX HD
+http://royal-iptv.noip.me:2052/live/russel/russel/4511.ts
+#EXTINF:-1,USA : CBS HD
+http://royal-iptv.noip.me:2052/live/russel/russel/4489.ts
+#EXTINF:-1,USA : CARTOON NETWORK HD
+http://royal-iptv.noip.me:2052/live/russel/russel/4528.ts
+#EXTINF:-1,USA : BRAVO HD
+http://royal-iptv.noip.me:2052/live/russel/russel/4499.ts
+#EXTINF:-1,USA : AMC HD
+http://royal-iptv.noip.me:2052/live/russel/russel/4485.ts
+#EXTINF:-1,USA : A&E HD*
+http://royal-iptv.noip.me:2052/live/russel/russel/4500.ts
+#EXTINF:-1,AMC HD USA
+http://royal-iptv.noip.me:2052/live/russel/russel/4482.ts
+#EXTINF:-1,ABC NEWS HD
+http://royal-iptv.noip.me:2052/live/russel/russel/4484.ts
+#EXTINF:-1,ABC Family (US)
+http://royal-iptv.noip.me:2052/live/russel/russel/4483.ts
+#EXTINF:-1,A&E HD
+http://royal-iptv.noip.me:2052/live/russel/russel/4512.ts
+#EXTINF:-1,Olympics 2016 - BBC Red Button
+http://royal-iptv.noip.me:2052/live/russel/russel/4479.ts
+#EXTINF:-1,Aberdeen TV (AUDIO)
+http://royal-iptv.noip.me:2052/live/russel/russel/4538.ts
+#EXTINF:-1,TNT HD USA
+http://royal-iptv.noip.me:2052/live/russel/russel/4503.ts
+#EXTINF:-1,TLC USA
+http://royal-iptv.noip.me:2052/live/russel/russel/4481.ts
+#EXTINF:-1,TLC (USA)
+http://royal-iptv.noip.me:2052/live/russel/russel/4480.ts
+#EXTINF:-1,TBS (US)
+http://royal-iptv.noip.me:2052/live/russel/russel/4504.ts
+#EXTINF:-1,SYFY HD USA
+http://royal-iptv.noip.me:2052/live/russel/russel/4492.ts
+#EXTINF:-1,SPIKE HD USA
+http://royal-iptv.noip.me:2052/live/russel/russel/4502.ts
+#EXTINF:-1,SHOWTIME US
+http://royal-iptv.noip.me:2052/live/russel/russel/4507.ts
+#EXTINF:-1,Playboy TV
+http://royal-iptv.noip.me:2052/live/russel/russel/4162.ts
+#EXTINF:-1,NBC US
+http://royal-iptv.noip.me:2052/live/russel/russel/4488.ts
+#EXTINF:-1,LIVETIME USA
+http://royal-iptv.noip.me:2052/live/russel/russel/4508.ts
+#EXTINF:-1,HGTV HD
+http://royal-iptv.noip.me:2052/live/russel/russel/4527.ts
+#EXTINF:-1,HBO HD
+http://royal-iptv.noip.me:2052/live/russel/russel/4491.ts
+#EXTINF:-1,FX HD USA
+http://royal-iptv.noip.me:2052/live/russel/russel/4505.ts
+#EXTINF:-1,FOX HD USA
+http://royal-iptv.noip.me:2052/live/russel/russel/4506.ts
+#EXTINF:-1,DISCOVERY WORLD
+http://royal-iptv.noip.me:2052/live/russel/russel/4514.ts
+#EXTINF:-1,ANIMAL PLANET HD
+http://royal-iptv.noip.me:2052/live/russel/russel/4520.ts
+#EXTINF:-1,AdultChannel
+http://royal-iptv.noip.me:2052/live/russel/russel/4158.ts
