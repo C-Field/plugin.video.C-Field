@@ -129,15 +129,18 @@
 <link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/russel/russel/4646.ts;streamtype=TSDOWNLOADER&;name=<link>
 <thumbnail></thumbnail>
 </item>
-<item>
 
+<item>
 <title>S4C<title>
 <link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/russel/russel/4642.ts;streamtype=TSDOWNLOADER&;name=<link>
 <thumbnail></thumbnail>
 </item>
+
 <item>
 <title>ID   <title>
 <link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/russel/russel/4648.ts;streamtype=TSDOWNLOADER&;name=<link>
+<thumbnail></thumbnail>
+</item>
 
 <item>
 <title>NBCSN<title>
