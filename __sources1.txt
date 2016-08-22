@@ -1,0 +1,562 @@
+#EXTM3U
+#EXTINF:0,avi,The Boss,http://royal-iptv.noip.me:2052/movie/russel/russel/4739.mp4
+avi,Batman v Superman Dawn of Justice,http://royal-iptv.noip.me:2052/movie/russel/russel/4738.mp4
+#EXTINF:0,avi,Allegiant,http://royal-iptv.noip.me:2052/movie/russel/russel/4740.mp4
+avi,A Bug\'s Life,http://royal-iptv.noip.me:2052/movie/russel/russel/4737.mp4
+#EXTINF:0,avi,The Legend of Tarzan,http://royal-iptv.noip.me:2052/movie/russel/russel/4736.mp4
+avi,Neighbors 2: Sorority Rising,http://royal-iptv.noip.me:2052/movie/russel/russel/4735.mp4
+#EXTINF:0,avi,Amateur Night,http://royal-iptv.noip.me:2052/movie/russel/russel/4734.mp4
+avi,Now You See Me 2,http://royal-iptv.noip.me:2052/movie/russel/russel/4733.mp4
+#EXTINF:0,avi,Money Monster,http://royal-iptv.noip.me:2052/movie/russel/russel/4732.mp4
+avi,Barbershop: The Next Cut,http://royal-iptv.noip.me:2052/movie/russel/russel/4731.mp4
+#EXTINF:0,avi,UFC 202 Preliminary Fights,http://royal-iptv.noip.me:2052/movie/russel/russel/4728.mp4
+avi,UFC 202 Early Prelims,http://royal-iptv.noip.me:2052/movie/russel/russel/4729.mp4
+#EXTINF:0,avi,UFC PPV 202,http://royal-iptv.noip.me:2052/movie/russel/russel/4727.mp4
+ext,Sky Sports ireland 3pm\'s only,http://royal-iptv.noip.me:2052/live/russel/russel/4652.ts
+#EXTINF:0,WillowCricket.us,Willow HD,http://royal-iptv.noip.me:2052/live/russel/russel/4669.ts
+ext,W   1,http://royal-iptv.noip.me:2052/live/russel/russel/4641.ts
+#EXTINF:0,SportsnetWorld.ca,Sportsnet World,http://royal-iptv.noip.me:2052/live/russel/russel/4665.ts
+ext,TLC   2,http://royal-iptv.noip.me:2052/live/russel/russel/4643.ts
+#EXTINF:0,ext,TLC   1,http://royal-iptv.noip.me:2052/live/russel/russel/4644.ts
+ext,Ten 1 HD,http://royal-iptv.noip.me:2052/live/russel/russel/4670.ts
+#EXTINF:0,ext,Syfy   1,http://royal-iptv.noip.me:2052/live/russel/russel/4645.ts
+ext,Sony Chnl   1,http://royal-iptv.noip.me:2052/live/russel/russel/4646.ts
+#EXTINF:0,S4C.uk,S4C,http://royal-iptv.noip.me:2052/live/russel/russel/4642.ts
+ext,ID   1,http://royal-iptv.noip.me:2052/live/russel/russel/4648.ts
+#EXTINF:0,ext,NBCSN,http://royal-iptv.noip.me:2052/live/russel/russel/4667.ts
+MTV.uk,MTV 1,http://royal-iptv.noip.me:2052/live/russel/russel/4647.ts
+#EXTINF:0,FX.uk,FOX HD UK,http://royal-iptv.noip.me:2052/live/russel/russel/4487.ts
+fox-crime,Fox Crime,http://royal-iptv.noip.me:2052/live/russel/russel/4664.ts
+#EXTINF:0,ext,ETV1,http://royal-iptv.noip.me:2052/live/russel/russel/4649.ts
+ext,Challenge   1,http://royal-iptv.noip.me:2052/live/russel/russel/4651.ts
+#EXTINF:0,ext,E!   1,http://royal-iptv.noip.me:2052/live/russel/russel/4650.ts
+CMoreFirst.se,C More First,http://royal-iptv.noip.me:2052/live/russel/russel/4671.ts
+#EXTINF:0,ext,SC: C More Tennis,http://royal-iptv.noip.me:2052/live/russel/russel/4653.ts
+ext,SC: C More Sport,http://royal-iptv.noip.me:2052/live/russel/russel/4654.ts
+#EXTINF:0,ext,SC: C More Series,http://royal-iptv.noip.me:2052/live/russel/russel/4655.ts
+CMoreLive.se,SC: C More Live,http://royal-iptv.noip.me:2052/live/russel/russel/4656.ts
+#EXTINF:0,ext,SC: C More Hockey,http://royal-iptv.noip.me:2052/live/russel/russel/4657.ts
+CMoreHits.se,SC: C More Hits,http://royal-iptv.noip.me:2052/live/russel/russel/4658.ts
+#EXTINF:0,ext,SC: C More Golf,http://royal-iptv.noip.me:2052/live/russel/russel/4659.ts
+ext,SC: C More Fotboll,http://royal-iptv.noip.me:2052/live/russel/russel/4660.ts
+#EXTINF:0,ext,SC: C More First,http://royal-iptv.noip.me:2052/live/russel/russel/4661.ts
+ext,SC: C More Emotion,http://royal-iptv.noip.me:2052/live/russel/russel/4662.ts
+#EXTINF:0,ext,SC: C More Action,http://royal-iptv.noip.me:2052/live/russel/russel/4663.ts
+CMoreAction.fi,C More Action,http://royal-iptv.noip.me:2052/live/russel/russel/4672.ts
+#EXTINF:0,ext,BBC Olympics HD 8,http://royal-iptv.noip.me:2052/live/russel/russel/4471.ts
+ext,BBC OLYMPICS HD 7,http://royal-iptv.noip.me:2052/live/russel/russel/4472.ts
+#EXTINF:0,ext,BBC OLYMPICS HD 6,http://royal-iptv.noip.me:2052/live/russel/russel/4473.ts
+ext,BBC OLYMPICS HD 5,http://royal-iptv.noip.me:2052/live/russel/russel/4474.ts
+#EXTINF:0,ext,BBC OLYMPICS HD 4,http://royal-iptv.noip.me:2052/live/russel/russel/4475.ts
+ext,BBC OLYMPICS HD 3,http://royal-iptv.noip.me:2052/live/russel/russel/4476.ts
+#EXTINF:0,ext,BBC OLYMPICS HD 2,http://royal-iptv.noip.me:2052/live/russel/russel/4477.ts
+ext,BBC OLYMPICS HD 1,http://royal-iptv.noip.me:2052/live/russel/russel/4478.ts
+#EXTINF:0,ext,BT SPORTS 3 HD*,http://royal-iptv.noip.me:2052/live/russel/russel/4466.ts
+BTSportESPN.uk,BT SPORTS ESPN HD,http://royal-iptv.noip.me:2052/live/russel/russel/4467.ts
+#EXTINF:0,BTSport2.uk,BT SPORTS 2 HD*,http://royal-iptv.noip.me:2052/live/russel/russel/4468.ts
+BTSport1.uk,BT SPORTS 1 HD*,http://royal-iptv.noip.me:2052/live/russel/russel/4469.ts
+#EXTINF:0,BTSport2.uk,Bt Sport 2 HD,http://royal-iptv.noip.me:2052/live/russel/russel/4462.ts
+BTSport2.uk,Bt Sport 2 SD,http://royal-iptv.noip.me:2052/live/russel/russel/4463.ts
+#EXTINF:0,BTSport1.uk,BT Sport 1 HD*,http://royal-iptv.noip.me:2052/live/russel/russel/4464.ts
+BTSport1.uk,BT Sport 1 Backup,http://royal-iptv.noip.me:2052/live/russel/russel/4465.ts
+#EXTINF:0,ext,MTV Dance SD,http://royal-iptv.noip.me:2052/live/russel/russel/4452.ts
+ext,EXYU | ARENA SPORT 4,http://royal-iptv.noip.me:2052/live/russel/russel/4438.ts
+#EXTINF:0,ext,EXYU | ARENA SPORT 4 HD,http://royal-iptv.noip.me:2052/live/russel/russel/4439.ts
+ext,EXYU | ARENA SPORT 3,http://royal-iptv.noip.me:2052/live/russel/russel/4440.ts
+#EXTINF:0,ext,EXYU | ARENA SPORT 3 HD,http://royal-iptv.noip.me:2052/live/russel/russel/4441.ts
+ext,EXYU | ARENA SPORT 2,http://royal-iptv.noip.me:2052/live/russel/russel/4442.ts
+#EXTINF:0,ext,EXYU | ARENA SPORT 2 HD,http://royal-iptv.noip.me:2052/live/russel/russel/4443.ts
+ext,EXYU | ARENA SPORT 1,http://royal-iptv.noip.me:2052/live/russel/russel/4444.ts
+#EXTINF:0,ext,EXYU | ARENA SPORT 1 HD,http://royal-iptv.noip.me:2052/live/russel/russel/4445.ts
+ext,beIN Sports 3 HD (FR),http://royal-iptv.noip.me:2052/live/russel/russel/4455.ts
+#EXTINF:0,ext,beIN Sports 2 HD (FR),http://royal-iptv.noip.me:2052/live/russel/russel/4454.ts
+ext,beIN Sports 1 HD (FR),http://royal-iptv.noip.me:2052/live/russel/russel/4453.ts
+#EXTINF:0,ext,BBC Two Scotland,http://royal-iptv.noip.me:2052/live/russel/russel/4450.ts
+BBCParliament.uk,BBC Parliament,http://royal-iptv.noip.me:2052/live/russel/russel/4446.ts
+#EXTINF:0,BBC1Wales.uk,BBC One Wales,http://royal-iptv.noip.me:2052/live/russel/russel/4448.ts
+ext,BBC One Northern Ireland,http://royal-iptv.noip.me:2052/live/russel/russel/4449.ts
+#EXTINF:0,BBCAlba.uk,BBC Alba,http://royal-iptv.noip.me:2052/live/russel/russel/4447.ts
+SkySportsNews.uk,UK | Sky Sports News*,http://royal-iptv.noip.me:2052/live/russel/russel/4425.ts
+#EXTINF:0,ext,UK | Sky Sports F1 HDS Streaming,http://royal-iptv.noip.me:2052/live/russel/russel/4426.ts
+SkySports5.uk,UK | Sky Sports 5*,http://royal-iptv.noip.me:2052/live/russel/russel/4427.ts
+#EXTINF:0,SkySports4.uk,UK | Sky Sports 4*,http://royal-iptv.noip.me:2052/live/russel/russel/4428.ts
+SkySports3.uk,UK | Sky Sports 3*,http://royal-iptv.noip.me:2052/live/russel/russel/4429.ts
+#EXTINF:0,SkySports2.uk,UK | Sky Sports 2*,http://royal-iptv.noip.me:2052/live/russel/russel/4430.ts
+ext,UK | Sky Sports 1 HDS Streaming,http://royal-iptv.noip.me:2052/live/russel/russel/4431.ts
+#EXTINF:0,RacingUK.uk,UK | Racing UK*,http://royal-iptv.noip.me:2052/live/russel/russel/4432.ts
+ext,UK | Premier Live*,http://royal-iptv.noip.me:2052/live/russel/russel/4433.ts
+#EXTINF:0,ext,UK | MUTV HDS Streaming,http://royal-iptv.noip.me:2052/live/russel/russel/4434.ts
+ext,UK | Eir Sports 1*,http://royal-iptv.noip.me:2052/live/russel/russel/4435.ts
+#EXTINF:0,BoxNation.uk,UK | Box Nation*,http://royal-iptv.noip.me:2052/live/russel/russel/4436.ts
+AtTheRaces.uk,UK | At the Races*,http://royal-iptv.noip.me:2052/live/russel/russel/4437.ts
+#EXTINF:0,ext,Celtic TV SD 1 (Bonus),http://royal-iptv.noip.me:2052/live/russel/russel/4421.ts
+SportKlub3.rs,SportKlub 3,http://royal-iptv.noip.me:2052/live/russel/russel/4424.ts
+#EXTINF:0,SportKlub2.rs,SportKlub 2,http://royal-iptv.noip.me:2052/live/russel/russel/4423.ts
+SportKlub1.rs,SportKlub 1,http://royal-iptv.noip.me:2052/live/russel/russel/4422.ts
+#EXTINF:0,ext,ABC (US),http://royal-iptv.noip.me:2052/live/russel/russel/4392.ts
+ext,A&E (US),http://royal-iptv.noip.me:2052/live/russel/russel/4401.ts
+#EXTINF:0,ext,NBC (US),http://royal-iptv.noip.me:2052/live/russel/russel/4394.ts
+ext,Fox (US),http://royal-iptv.noip.me:2052/live/russel/russel/4398.ts
+#EXTINF:0,ext,CNBC (US),http://royal-iptv.noip.me:2052/live/russel/russel/4395.ts
+ext,Bravo (US),http://royal-iptv.noip.me:2052/live/russel/russel/4397.ts
+#EXTINF:0,ext,AMC (US),http://royal-iptv.noip.me:2052/live/russel/russel/4400.ts
+ZeeTV.uk,Zee TV,http://royal-iptv.noip.me:2052/live/russel/russel/4402.ts
+#EXTINF:0,ext,USA Network (US),http://royal-iptv.noip.me:2052/live/russel/russel/4399.ts
+ext,AR: BEIN MOVIES 1,http://royal-iptv.noip.me:2052/live/russel/russel/4348.ts
+#EXTINF:0,BBC1.uk,BBC One,http://royal-iptv.noip.me:2052/live/russel/russel/4142.ts
+BBC1.uk,BBC 1HD,http://royal-iptv.noip.me:2052/live/russel/russel/4146.ts
+#EXTINF:0,BBC2.uk,BBC 2HD,http://royal-iptv.noip.me:2052/live/russel/russel/4145.ts
+BBC2.uk,BBC Two,http://royal-iptv.noip.me:2052/live/russel/russel/4141.ts
+#EXTINF:0,Channel4.uk,Channel 4,http://royal-iptv.noip.me:2052/live/russel/russel/4130.ts
+Channel4.uk,Channel 4 HD,http://royal-iptv.noip.me:2052/live/russel/russel/4129.ts
+#EXTINF:0,Channel5.uk,CHANNEL 5 HD,http://royal-iptv.noip.me:2052/live/russel/russel/4128.ts
+FiveUSA.uk,5 USA,http://royal-iptv.noip.me:2052/live/russel/russel/4151.ts
+#EXTINF:0,ext,BBC CBBC,http://royal-iptv.noip.me:2052/live/russel/russel/4144.ts
+ITV1Central.uk,ITV1,http://royal-iptv.noip.me:2052/live/russel/russel/4096.ts
+#EXTINF:0,ITV1London.uk,ITV1 HD,http://royal-iptv.noip.me:2052/live/russel/russel/4095.ts
+ITVEncore.uk,ITV ENCORE,http://royal-iptv.noip.me:2052/live/russel/russel/4090.ts
+#EXTINF:0,ext,ITV BE HD,http://royal-iptv.noip.me:2052/live/russel/russel/4088.ts
+ITVBe.uk,ITV Be,http://royal-iptv.noip.me:2052/live/russel/russel/4089.ts
+#EXTINF:0,ITV4.uk,ITV4,http://royal-iptv.noip.me:2052/live/russel/russel/4091.ts
+ITV3.uk,ITV3,http://royal-iptv.noip.me:2052/live/russel/russel/4092.ts
+#EXTINF:0,ITV2.uk,ITV2 HD,http://royal-iptv.noip.me:2052/live/russel/russel/4093.ts
+ext,ITV2,http://royal-iptv.noip.me:2052/live/russel/russel/4094.ts
+#EXTINF:0,ext,cbeebiesHD/BBC4 HD,http://royal-iptv.noip.me:2052/live/russel/russel/4135.ts
+CBBC.uk,CBBC HD,http://royal-iptv.noip.me:2052/live/russel/russel/4136.ts
+#EXTINF:0,ext,BBC Four/Cbeebies,http://royal-iptv.noip.me:2052/live/russel/russel/4143.ts
+CBSReality.uk,CBS Reality,http://royal-iptv.noip.me:2052/live/russel/russel/4132.ts
+#EXTINF:0,CBSDrama.uk,CBS Drama,http://royal-iptv.noip.me:2052/live/russel/russel/4133.ts
+CBSAction.uk,CBS Action,http://royal-iptv.noip.me:2052/live/russel/russel/4134.ts
+#EXTINF:0,4Seven.uk,4seven,http://royal-iptv.noip.me:2052/live/russel/russel/4152.ts
+CartoonNetwork.uk,Cartoon Network,http://royal-iptv.noip.me:2052/live/russel/russel/4155.ts
+#EXTINF:0,BabyTV.uk,baby tv,http://royal-iptv.noip.me:2052/live/russel/russel/4147.ts
+DisneyXD.uk,Disney XD,http://royal-iptv.noip.me:2052/live/russel/russel/4113.ts
+#EXTINF:0,DisneyJunior.uk,Disney Junior,http://royal-iptv.noip.me:2052/live/russel/russel/4114.ts
+Disney.uk,Disney Channel,http://royal-iptv.noip.me:2052/live/russel/russel/4115.ts
+#EXTINF:0,tinypop.uk,Tiny Pop,http://royal-iptv.noip.me:2052/live/russel/russel/4032.ts
+tinypop1.uk,Tiny Pop +1,http://royal-iptv.noip.me:2052/live/russel/russel/4341.ts
+#EXTINF:0,ext,nick junior +1,http://royal-iptv.noip.me:2052/live/russel/russel/4339.ts
+SkyLivingPlus1.uk,Sky Living +1,http://royal-iptv.noip.me:2052/live/russel/russel/4337.ts
+#EXTINF:0,SkyAtlanticplus1.uk,Sky Atlantic +1,http://royal-iptv.noip.me:2052/live/russel/russel/4338.ts
+FoodNetworkPlus1.uk,Food Network +1,http://royal-iptv.noip.me:2052/live/russel/russel/4336.ts
+#EXTINF:0,Discoveryplus1.uk,Discovery +1,http://royal-iptv.noip.me:2052/live/russel/russel/4331.ts
+DiscoverySciencePlus1.uk,Discovery Science +1,http://royal-iptv.noip.me:2052/live/russel/russel/4332.ts
+#EXTINF:0,DiscoveryHistoryPlus1.uk,Discovery History +1,http://royal-iptv.noip.me:2052/live/russel/russel/4333.ts
+ext,Crime investigation +1,http://royal-iptv.noip.me:2052/live/russel/russel/4334.ts
+#EXTINF:0,Discovery.uk,Discovery,http://royal-iptv.noip.me:2052/live/russel/russel/4121.ts
+ext,Crime & Investigiation,http://royal-iptv.noip.me:2052/live/russel/russel/4123.ts
+#EXTINF:0,NatGeoWild.uk,Nat Geo Wild,http://royal-iptv.noip.me:2052/live/russel/russel/4077.ts
+NationalGeographic.uk,National Geographic,http://royal-iptv.noip.me:2052/live/russel/russel/4078.ts
+#EXTINF:0,History.uk,History,http://royal-iptv.noip.me:2052/live/russel/russel/4099.ts
+H2.uk,H2,http://royal-iptv.noip.me:2052/live/russel/russel/4100.ts
+#EXTINF:0,Investigation.uk,ID,http://royal-iptv.noip.me:2052/live/russel/russel/4157.ts
+ext,Home&Health,http://royal-iptv.noip.me:2052/live/russel/russel/4098.ts
+#EXTINF:0,DiscoveryTurbo.uk,Discovery Turbo,http://royal-iptv.noip.me:2052/live/russel/russel/4116.ts
+ext,DiscoveryShed,http://royal-iptv.noip.me:2052/live/russel/russel/4117.ts
+#EXTINF:0,DiscoveryScience.uk,Discovery Science,http://royal-iptv.noip.me:2052/live/russel/russel/4118.ts
+inv-discovery,DiscoveryInvestigation,http://royal-iptv.noip.me:2052/live/russel/russel/4119.ts
+#EXTINF:0,DiscoveryHistory.uk,Discovery History,http://royal-iptv.noip.me:2052/live/russel/russel/4120.ts
+ext,Comedy Xtra +1,http://royal-iptv.noip.me:2052/live/russel/russel/4335.ts
+#EXTINF:0,AnimalPlanetplus1.uk,Animal Planet +1,http://royal-iptv.noip.me:2052/live/russel/russel/4322.ts
+TCM.uk,TCM,http://royal-iptv.noip.me:2052/live/russel/russel/4033.ts
+#EXTINF:0,tv3.rte.ie,TV3,http://royal-iptv.noip.me:2052/live/russel/russel/4026.ts
+SkySciFiHorror.uk,Sy-Fy,http://royal-iptv.noip.me:2052/live/russel/russel/4034.ts
+#EXTINF:0,TLC.uk,TLC,http://royal-iptv.noip.me:2052/live/russel/russel/4031.ts
+ext,Spike UK,http://royal-iptv.noip.me:2052/live/russel/russel/4035.ts
+#EXTINF:0,SkyAtlantic.uk,Sky Atlantic,http://royal-iptv.noip.me:2052/live/russel/russel/4060.ts
+Sky1.uk,Sky One,http://royal-iptv.noip.me:2052/live/russel/russel/4047.ts
+#EXTINF:0,Sky2.uk,Sky Two,http://royal-iptv.noip.me:2052/live/russel/russel/4038.ts
+SkyLiving.uk,Sky Living,http://royal-iptv.noip.me:2052/live/russel/russel/4059.ts
+#EXTINF:0,SkyArts1.uk,Sky Arts,http://royal-iptv.noip.me:2052/live/russel/russel/4061.ts
+SkyNews.uk,Sky News,http://royal-iptv.noip.me:2052/live/russel/russel/4037.ts
+#EXTINF:0,ComedyCentralExtra.uk,Comedy Xtra,http://royal-iptv.noip.me:2052/live/russel/russel/4124.ts
+ComedyCentral.uk,Comedy Central,http://royal-iptv.noip.me:2052/live/russel/russel/4125.ts
+#EXTINF:0,ComedyCentralExtra.uk,Comedy Central Extra,http://royal-iptv.noip.me:2052/live/russel/russel/4171.ts
+Challenge.uk,CHALLENGE,http://royal-iptv.noip.me:2052/live/russel/russel/4131.ts
+#EXTINF:0,More4.uk,More4,http://royal-iptv.noip.me:2052/live/russel/russel/4085.ts
+GoodFood.uk,Good Food,http://royal-iptv.noip.me:2052/live/russel/russel/4101.ts
+#EXTINF:0,GOLD.uk,Gold,http://royal-iptv.noip.me:2052/live/russel/russel/4102.ts
+ext,FOXNews,http://royal-iptv.noip.me:2052/live/russel/russel/4103.ts
+#EXTINF:0,FX.uk,FOX,http://royal-iptv.noip.me:2052/live/russel/russel/4104.ts
+Eden.uk,Eden,http://royal-iptv.noip.me:2052/live/russel/russel/4110.ts
+#EXTINF:0,Film4.uk,Film4,http://royal-iptv.noip.me:2052/live/russel/russel/4107.ts
+E4.uk,E4,http://royal-iptv.noip.me:2052/live/russel/russel/4111.ts
+#EXTINF:0,E.uk,E!,http://royal-iptv.noip.me:2052/live/russel/russel/4112.ts
+Boomerang.uk,Boomerang,http://royal-iptv.noip.me:2052/live/russel/russel/4139.ts
+#EXTINF:0,Dave.uk,Dave,http://royal-iptv.noip.me:2052/live/russel/russel/4122.ts
+3e.rte.ie,3e,http://royal-iptv.noip.me:2052/live/russel/russel/4153.ts
+#EXTINF:0,HeartTV.uk,Heart TV UK,http://royal-iptv.noip.me:2052/live/russel/russel/4319.ts
+mtv-rocks,MTV Rocks HD,http://royal-iptv.noip.me:2052/live/russel/russel/4315.ts
+#EXTINF:0,MTVLiveHD.uk,MTV Live HD,http://royal-iptv.noip.me:2052/live/russel/russel/4316.ts
+ext,MTV Hits!,http://royal-iptv.noip.me:2052/live/russel/russel/4317.ts
+#EXTINF:0,MTVBase.uk,MTV Base UK,http://royal-iptv.noip.me:2052/live/russel/russel/4318.ts
+vh-1-classic,VH1 Classic,http://royal-iptv.noip.me:2052/live/russel/russel/4023.ts
+#EXTINF:0,VH1UK.uk,VH1,http://royal-iptv.noip.me:2052/live/russel/russel/4024.ts
+MTVRocks.uk,MTV Rocks,http://royal-iptv.noip.me:2052/live/russel/russel/4080.ts
+#EXTINF:0,MTVMusic.uk,MTV MUSIC,http://royal-iptv.noip.me:2052/live/russel/russel/4163.ts
+ext,MTVIndia,http://royal-iptv.noip.me:2052/live/russel/russel/3970.ts
+#EXTINF:0,MTVHits.uk,MTV Hits,http://royal-iptv.noip.me:2052/live/russel/russel/4081.ts
+MTVDance.uk,MTV DANCE,http://royal-iptv.noip.me:2052/live/russel/russel/4164.ts
+#EXTINF:0,ext,MTVClassic,http://royal-iptv.noip.me:2052/live/russel/russel/4082.ts
+MTVBase.uk,MTV Base,http://royal-iptv.noip.me:2052/live/russel/russel/4083.ts
+#EXTINF:0,MTV.uk,MTV,http://royal-iptv.noip.me:2052/live/russel/russel/4084.ts
+ext,Sky Cinema Crime & Thriller,http://royal-iptv.noip.me:2052/live/russel/russel/4048.ts
+#EXTINF:0,ext,Sky Cinema Select,http://royal-iptv.noip.me:2052/live/russel/russel/4050.ts
+ext,Sky Cinema Sci-Fi & Horror,http://royal-iptv.noip.me:2052/live/russel/russel/4051.ts
+#EXTINF:0,ext,Sky Cinema Premiere,http://royal-iptv.noip.me:2052/live/russel/russel/4052.ts
+ext,Sky Cinema Modern Greats,http://royal-iptv.noip.me:2052/live/russel/russel/4053.ts
+#EXTINF:0,CinemaHits.it,Sky Cinema Hits,http://royal-iptv.noip.me:2052/live/russel/russel/4049.ts
+CinemaFamily.it,Sky Cinema Family,http://royal-iptv.noip.me:2052/live/russel/russel/4054.ts
+#EXTINF:0,ext,Sky Cinema Drama & Romance,http://royal-iptv.noip.me:2052/live/russel/russel/4055.ts
+ext,Sky Cinema Disney,http://royal-iptv.noip.me:2052/live/russel/russel/4056.ts
+#EXTINF:0,CinemaComedyHD.it,Sky Cinema Comedy,http://royal-iptv.noip.me:2052/live/russel/russel/4057.ts
+ext,Sky Cinema Action & Adventure,http://royal-iptv.noip.me:2052/live/russel/russel/4058.ts
+#EXTINF:0,ext,SkySpBoxOff (PPV Events Only),http://royal-iptv.noip.me:2052/live/russel/russel/4340.ts
+SkySpBoxOff.uk,Sky Sports Box Office,http://royal-iptv.noip.me:2052/live/russel/russel/4213.ts
+#EXTINF:0,SKYSport1.it,UK | Sky Sport 1 HD,http://royal-iptv.noip.me:2052/live/russel/russel/4202.ts
+ext,Sky Sports 1 SD,http://royal-iptv.noip.me:2052/live/russel/russel/4046.ts
+#EXTINF:0,SKYSport2.it,UK | Sky Sport 2 HD,http://royal-iptv.noip.me:2052/live/russel/russel/4203.ts
+ext,Sky Sports 2 SD,http://royal-iptv.noip.me:2052/live/russel/russel/4045.ts
+#EXTINF:0,SKYSport2.it,UK | Sky Sport 2 SD,http://royal-iptv.noip.me:2052/live/russel/russel/4204.ts
+SKYSport3.it,UK | Sky Sport 3 HD,http://royal-iptv.noip.me:2052/live/russel/russel/4205.ts
+#EXTINF:0,SkySports3.uk,Sky Sports 3 SD,http://royal-iptv.noip.me:2052/live/russel/russel/4044.ts
+SKYSport3.it,UK | Sky Sport 3 SD,http://royal-iptv.noip.me:2052/live/russel/russel/4206.ts
+#EXTINF:0,ext,UK | Sky Sport 4 SD,http://royal-iptv.noip.me:2052/live/russel/russel/4208.ts
+SkySports4.uk,Sky Sports 4,http://royal-iptv.noip.me:2052/live/russel/russel/4170.ts
+#EXTINF:0,ext,Sky Sports 4 SD,http://royal-iptv.noip.me:2052/live/russel/russel/4043.ts
+SkySports4.uk,UK | Sky Sport 4 HD,http://royal-iptv.noip.me:2052/live/russel/russel/4207.ts
+#EXTINF:0,SkySports5.uk,UK | Sky Sport 5 HD,http://royal-iptv.noip.me:2052/live/russel/russel/4209.ts
+ext,UK | Sky Sport 5 SD,http://royal-iptv.noip.me:2052/live/russel/russel/4210.ts
+#EXTINF:0,ext,Sky Sports 5 SD,http://royal-iptv.noip.me:2052/live/russel/russel/4042.ts
+ext,Sky Sports News SD,http://royal-iptv.noip.me:2052/live/russel/russel/4039.ts
+#EXTINF:0,SkySportsNews.uk,Sky Sports News HQ,http://royal-iptv.noip.me:2052/live/russel/russel/4167.ts
+SkySportsF1.uk,Sky Sports F1 HD,http://royal-iptv.noip.me:2052/live/russel/russel/4211.ts
+#EXTINF:0,ext,Sky Sports F1 SD,http://royal-iptv.noip.me:2052/live/russel/russel/4040.ts
+BTSport1.uk,UK | BT Sport 1 HD,http://royal-iptv.noip.me:2052/live/russel/russel/4215.ts
+#EXTINF:0,ext,UK | BT Sport 1 SD,http://royal-iptv.noip.me:2052/live/russel/russel/4214.ts
+BTSport2.uk,UK | BT Sport 2 HD,http://royal-iptv.noip.me:2052/live/russel/russel/4217.ts
+#EXTINF:0,BTSport2.uk,UK | BT Sport 2 SD,http://royal-iptv.noip.me:2052/live/russel/russel/4216.ts
+ext,UK | BT Sport 3 HD,http://royal-iptv.noip.me:2052/live/russel/russel/4219.ts
+#EXTINF:0,mir,UK | BT Sport ESPN,http://royal-iptv.noip.me:2052/live/russel/russel/4218.ts
+ext,BT Sport Mosaic,http://royal-iptv.noip.me:2052/live/russel/russel/4324.ts
+#EXTINF:0,ext,BT Sport Mosaic 2,http://royal-iptv.noip.me:2052/live/russel/russel/4323.ts
+ext,BT Sport Extra 1,http://royal-iptv.noip.me:2052/live/russel/russel/4330.ts
+#EXTINF:0,ext,BT Sport Extra 2,http://royal-iptv.noip.me:2052/live/russel/russel/4329.ts
+ext,BT Sport Extra 3,http://royal-iptv.noip.me:2052/live/russel/russel/4328.ts
+#EXTINF:0,ext,BT Sport Extra 4,http://royal-iptv.noip.me:2052/live/russel/russel/4327.ts
+ext,BT Sport Extra 5,http://royal-iptv.noip.me:2052/live/russel/russel/4326.ts
+#EXTINF:0,ext,BT Sport Extra 6,http://royal-iptv.noip.me:2052/live/russel/russel/4325.ts
+BoxNation.uk,UK | Box Nation,http://royal-iptv.noip.me:2052/live/russel/russel/4229.ts
+#EXTINF:0,ext,Sky Sports Box Office PPV,http://royal-iptv.noip.me:2052/live/russel/russel/4041.ts
+ext,Sky Sports Box Office Back Up,http://royal-iptv.noip.me:2052/live/russel/russel/4168.ts
+#EXTINF:0,PremierSports.uk,UK | Premier Sports HD,http://royal-iptv.noip.me:2052/live/russel/russel/4226.ts
+PremierSports.uk,UK | Premier Sport,http://royal-iptv.noip.me:2052/live/russel/russel/4228.ts
+#EXTINF:0,Eurosport1.uk,British Eurosport 1,http://royal-iptv.noip.me:2052/live/russel/russel/4174.ts
+BoxNation.uk,BoxNation,http://royal-iptv.noip.me:2052/live/russel/russel/4138.ts
+#EXTINF:0,AtTheRaces.uk,At The Races Backup,http://royal-iptv.noip.me:2052/live/russel/russel/4148.ts
+setanta-sport,UK | Setanta,http://royal-iptv.noip.me:2052/live/russel/russel/4227.ts
+#EXTINF:0,ext,UK | RACING UK HD,http://royal-iptv.noip.me:2052/live/russel/russel/4220.ts
+AtTheRaces.uk,UK | At The Races,http://royal-iptv.noip.me:2052/live/russel/russel/4221.ts
+#EXTINF:0,MUTV.uk,MUTV,http://royal-iptv.noip.me:2052/live/russel/russel/4079.ts
+ext,MUTV HD,http://royal-iptv.noip.me:2052/live/russel/russel/4451.ts
+#EXTINF:0,ext,LFCTV,http://royal-iptv.noip.me:2052/live/russel/russel/4087.ts
+ext,UK | LFCTV,http://royal-iptv.noip.me:2052/live/russel/russel/4224.ts
+#EXTINF:0,ChelseaTV.uk,UK | Chelsea TV,http://royal-iptv.noip.me:2052/live/russel/russel/4225.ts
+ext,Celtic Tv,http://royal-iptv.noip.me:2052/live/russel/russel/4321.ts
+#EXTINF:0,ext,Rangers Tv (Bonus),http://royal-iptv.noip.me:2052/live/russel/russel/4320.ts
+motors,UK | Motors,http://royal-iptv.noip.me:2052/live/russel/russel/4230.ts
+#EXTINF:0,Yesterday.uk,Yesterday,http://royal-iptv.noip.me:2052/live/russel/russel/4020.ts
+TrueEntertainment.uk,True Entertainment,http://royal-iptv.noip.me:2052/live/russel/russel/4029.ts
+#EXTINF:0,travel,TravelChannelHD,http://royal-iptv.noip.me:2052/live/russel/russel/3997.ts
+TravelChannel.uk,Travel Channel,http://royal-iptv.noip.me:2052/live/russel/russel/4030.ts
+#EXTINF:0,SkySportsNews.uk,UK | Sky Sport News HQ,http://royal-iptv.noip.me:2052/live/russel/russel/4212.ts
+Watch.uk,Watch,http://royal-iptv.noip.me:2052/live/russel/russel/4021.ts
+#EXTINF:0,TrueMovies2.uk,True Movies2,http://royal-iptv.noip.me:2052/live/russel/russel/4027.ts
+TrueMovies.uk,True Movies 1,http://royal-iptv.noip.me:2052/live/russel/russel/4028.ts
+#EXTINF:0,HorrorChannel.uk,Horror Channel,http://royal-iptv.noip.me:2052/live/russel/russel/4097.ts
+ext,EuroSports1,http://royal-iptv.noip.me:2052/live/russel/russel/4108.ts
+#EXTINF:0,ext,Uk Euro Sport 2,http://royal-iptv.noip.me:2052/live/russel/russel/4109.ts
+ChelseaTV.uk,CHELSEA TV,http://royal-iptv.noip.me:2052/live/russel/russel/4127.ts
+#EXTINF:0,CartoonNetwork.uk,Cartoon Network Backup,http://royal-iptv.noip.me:2052/live/russel/russel/4137.ts
+ext,NBA TV SD,http://royal-iptv.noip.me:2052/live/russel/russel/4239.ts
+#EXTINF:0,NASATV.us,Nasa TV HD,http://royal-iptv.noip.me:2052/live/russel/russel/4240.ts
+ext,ByuTV HD,http://royal-iptv.noip.me:2052/live/russel/russel/4241.ts
+#EXTINF:0,TSN1.ca,Tsn 1 HD,http://royal-iptv.noip.me:2052/live/russel/russel/4231.ts
+TSN2.ca,Tsn 2 HD,http://royal-iptv.noip.me:2052/live/russel/russel/4232.ts
+#EXTINF:0,ext,USA:CA | TSN 3 HD,http://royal-iptv.noip.me:2052/live/russel/russel/4233.ts
+ext,USA:CA | TSN 4 HD,http://royal-iptv.noip.me:2052/live/russel/russel/4234.ts
+#EXTINF:0,ext,USA:CA | TSN 5 HD,http://royal-iptv.noip.me:2052/live/russel/russel/4235.ts
+ext,USA | Fox Sports 1 HD Backup,http://royal-iptv.noip.me:2052/live/russel/russel/4237.ts
+#EXTINF:0,FoxSports.it,US: FOX Sport 1,http://royal-iptv.noip.me:2052/live/russel/russel/4344.ts
+FoxSports2HD.mx,USA | Fox Sports 2 HD Backup,http://royal-iptv.noip.me:2052/live/russel/russel/4236.ts
+#EXTINF:0,FOXsport2.nl,US: FOX Sport 2,http://royal-iptv.noip.me:2052/live/russel/russel/4343.ts
+ext,NL: Ziggo Sport Extra 2,http://royal-iptv.noip.me:2052/live/russel/russel/4384.ts
+#EXTINF:0,ext,NL: Ziggo Sport Extra 1,http://royal-iptv.noip.me:2052/live/russel/russel/4385.ts
+FoxSports6.nl,NL: Fox Sports 6,http://royal-iptv.noip.me:2052/live/russel/russel/4378.ts
+#EXTINF:0,FOXSportsEredivisie5.nl,NL: Fox Sports 5,http://royal-iptv.noip.me:2052/live/russel/russel/4379.ts
+FOXsport4.nl,NL: Fox Sports 4,http://royal-iptv.noip.me:2052/live/russel/russel/4380.ts
+#EXTINF:0,FoxSports3.mx,NL: Fox Sports 3,http://royal-iptv.noip.me:2052/live/russel/russel/4381.ts
+FoxSports2.mx,NL: Fox Sports 2,http://royal-iptv.noip.me:2052/live/russel/russel/4382.ts
+#EXTINF:0,FOXSports1.us,NL: Fox Sports 1,http://royal-iptv.noip.me:2052/live/russel/russel/4383.ts
+ext,AR | beIN Sports 1 HD,http://royal-iptv.noip.me:2052/live/russel/russel/4415.ts
+#EXTINF:0,ext,AR | beIN Sports 2 HD,http://royal-iptv.noip.me:2052/live/russel/russel/4412.ts
+ext,AR | beIN Sports 3 HD,http://royal-iptv.noip.me:2052/live/russel/russel/4411.ts
+#EXTINF:0,ext,AR | beIN Sports 4 HD,http://royal-iptv.noip.me:2052/live/russel/russel/4410.ts
+ext,AR | beIN Sports 5 HD,http://royal-iptv.noip.me:2052/live/russel/russel/4409.ts
+#EXTINF:0,ext,AR | beIN Sports 6 HD,http://royal-iptv.noip.me:2052/live/russel/russel/4408.ts
+ext,AR | beIN Sports 7 HD,http://royal-iptv.noip.me:2052/live/russel/russel/4407.ts
+#EXTINF:0,ext,AR | beIN Sports 8 HD,http://royal-iptv.noip.me:2052/live/russel/russel/4406.ts
+ext,AR | beIN Sports 9 HD,http://royal-iptv.noip.me:2052/live/russel/russel/4405.ts
+#EXTINF:0,ext,AR | beIN Sports 10 HD,http://royal-iptv.noip.me:2052/live/russel/russel/4414.ts
+ext,AR | beIN Sports 11 HD,http://royal-iptv.noip.me:2052/live/russel/russel/4413.ts
+#EXTINF:0,ext,MIO Stadium 108 Backup 1,http://royal-iptv.noip.me:2052/live/russel/russel/4631.ts
+ext,MIO Stadium 107 Backup 1,http://royal-iptv.noip.me:2052/live/russel/russel/4630.ts
+#EXTINF:0,ext,MIO Stadium 106 Backup 1,http://royal-iptv.noip.me:2052/live/russel/russel/4629.ts
+ext,MIO Stadium 105 Backup 1,http://royal-iptv.noip.me:2052/live/russel/russel/4628.ts
+#EXTINF:0,ext,MIO Stadium 104 Backup 1,http://royal-iptv.noip.me:2052/live/russel/russel/4627.ts
+ext,MIO Stadium 103 Backup 1,http://royal-iptv.noip.me:2052/live/russel/russel/4626.ts
+#EXTINF:0,ext,MIO Stadium 102 Backup 1,http://royal-iptv.noip.me:2052/live/russel/russel/4625.ts
+ext,Mio Sports 108 Backup 2,http://royal-iptv.noip.me:2052/live/russel/russel/4638.ts
+#EXTINF:0,ext,Mio Sports 107 Backup 2,http://royal-iptv.noip.me:2052/live/russel/russel/4637.ts
+ext,Mio Sports 106 Backup 2,http://royal-iptv.noip.me:2052/live/russel/russel/4636.ts
+#EXTINF:0,ext,Mio Sports 105 Backup 2,http://royal-iptv.noip.me:2052/live/russel/russel/4635.ts
+ext,Mio Sports 104 Backup 2,http://royal-iptv.noip.me:2052/live/russel/russel/4634.ts
+#EXTINF:0,ext,Mio Sports 103 Backup 2,http://royal-iptv.noip.me:2052/live/russel/russel/4633.ts
+ext,Mio Sports 102 Backup 2,http://royal-iptv.noip.me:2052/live/russel/russel/4632.ts
+#EXTINF:0,ext,UK: EPL Extra Time 5,http://royal-iptv.noip.me:2052/live/russel/russel/4620.ts
+ext,UK: EPL Extra Time 4,http://royal-iptv.noip.me:2052/live/russel/russel/4619.ts
+#EXTINF:0,ext,UK: EPL Extra Time 3,http://royal-iptv.noip.me:2052/live/russel/russel/4618.ts
+ext,UK: EPL Extra Time 2,http://royal-iptv.noip.me:2052/live/russel/russel/4617.ts
+#EXTINF:0,ext,UK: EPL Extra Time 1,http://royal-iptv.noip.me:2052/live/russel/russel/4616.ts
+ext,USA | NBC XTRA 5 (LIVE DURING EPL),http://royal-iptv.noip.me:2052/live/russel/russel/4615.ts
+#EXTINF:0,ext,USA | NBC XTRA 4 (LIVE DURING EPL),http://royal-iptv.noip.me:2052/live/russel/russel/4614.ts
+ext,USA | NBC XTRA 3 (LIVE DURING EPL),http://royal-iptv.noip.me:2052/live/russel/russel/4613.ts
+#EXTINF:0,ext,USA | NBC XTRA 2 (LIVE DURING EPL),http://royal-iptv.noip.me:2052/live/russel/russel/4612.ts
+ext,USA | NBC XTRA 1 (LIVE DURING EPL),http://royal-iptv.noip.me:2052/live/russel/russel/4611.ts
+#EXTINF:0,ext,ML Astro Super Sport 1 HD,http://royal-iptv.noip.me:2052/live/russel/russel/4621.ts
+ext,ML:Astro Supersport 2HD,http://royal-iptv.noip.me:2052/live/russel/russel/4622.ts
+#EXTINF:0,ext,ML Astro Super Sport 3 HD,http://royal-iptv.noip.me:2052/live/russel/russel/4623.ts
+ext,ML:Astro Supersport 4 HD,http://royal-iptv.noip.me:2052/live/russel/russel/4624.ts
+#EXTINF:0,ext,BeIN MOVIES 4HD Backup,http://royal-iptv.noip.me:2052/live/russel/russel/4673.ts
+ext,BeIN MOVIES 3HD Backup,http://royal-iptv.noip.me:2052/live/russel/russel/4674.ts
+#EXTINF:0,ext,BeIN MOVIES 2HD Backup,http://royal-iptv.noip.me:2052/live/russel/russel/4675.ts
+ext,BeIN MOVIES 1HD Backup,http://royal-iptv.noip.me:2052/live/russel/russel/4676.ts
+#EXTINF:0,ext,OSN WWE Network HD,http://royal-iptv.noip.me:2052/live/russel/russel/4586.ts
+StarWorld.in,OSN Star world,http://royal-iptv.noip.me:2052/live/russel/russel/4587.ts
+#EXTINF:0,ext,OSN STAR MOVIES HD,http://royal-iptv.noip.me:2052/live/russel/russel/4588.ts
+OSNMoviesPremiere.net,OSN Movies Premiere HD,http://royal-iptv.noip.me:2052/live/russel/russel/4589.ts
+#EXTINF:0,ext,OSN Movies Premier  2 HD,http://royal-iptv.noip.me:2052/live/russel/russel/4590.ts
+ext,OSN Movies Kids HD,http://royal-iptv.noip.me:2052/live/russel/russel/4591.ts
+#EXTINF:0,OSNMoviesFestival.net,OSN Movies Festival HD,http://royal-iptv.noip.me:2052/live/russel/russel/4592.ts
+OSNMoviesAction.net,OSN Movies Action HD,http://royal-iptv.noip.me:2052/live/russel/russel/4593.ts
+#EXTINF:0,ext,OSN Movies Action,http://royal-iptv.noip.me:2052/live/russel/russel/4594.ts
+ext,OSN Movies  2 HD,http://royal-iptv.noip.me:2052/live/russel/russel/4595.ts
+#EXTINF:0,OSNFirst.net,OSN First HD,http://royal-iptv.noip.me:2052/live/russel/russel/4596.ts
+OSNFirstComedy.net,OSN First Comedy HD,http://royal-iptv.noip.me:2052/live/russel/russel/4597.ts
+#EXTINF:0,ext,OSN ELYOM,http://royal-iptv.noip.me:2052/live/russel/russel/4598.ts
+ext,OSN Discovery-Sc HD,http://royal-iptv.noip.me:2052/live/russel/russel/4599.ts
+#EXTINF:0,ext,OSN Discovery HD,http://royal-iptv.noip.me:2052/live/russel/russel/4600.ts
+ext,OSN Box Office 3,http://royal-iptv.noip.me:2052/live/russel/russel/4584.ts
+#EXTINF:0,ext,OSN Box Office 1,http://royal-iptv.noip.me:2052/live/russel/russel/4585.ts
+ext,OSN Art Cinema,http://royal-iptv.noip.me:2052/live/russel/russel/4601.ts
+#EXTINF:0,ext,OSN AD Sports 2 HD,http://royal-iptv.noip.me:2052/live/russel/russel/4602.ts
+ext,OSN AD Sports 1 HD,http://royal-iptv.noip.me:2052/live/russel/russel/4603.ts
+#EXTINF:0,ext,OSN AD Nat Geo HD,http://royal-iptv.noip.me:2052/live/russel/russel/4604.ts
+ext,OSN  Ya Hala! SHABAB HD,http://royal-iptv.noip.me:2052/live/russel/russel/4605.ts
+#EXTINF:0,ext,OSN  Ya Hala! HD,http://royal-iptv.noip.me:2052/live/russel/russel/4606.ts
+ext,OSN  Ya Hala! Drama HD,http://royal-iptv.noip.me:2052/live/russel/russel/4607.ts
+#EXTINF:0,ext,OSN  Orbit Cinema2,http://royal-iptv.noip.me:2052/live/russel/russel/4608.ts
+OSNMovies.net,OSN  Movies HD,http://royal-iptv.noip.me:2052/live/russel/russel/4609.ts
+#EXTINF:0,OSNMoviesDrama.net,OSN  Movies Drama HD,http://royal-iptv.noip.me:2052/live/russel/russel/4610.ts
+ext,(HD)STARCricket,http://royal-iptv.noip.me:2052/live/russel/russel/4007.ts
+#EXTINF:0,WWE.ca,WWE HD,http://royal-iptv.noip.me:2052/live/russel/russel/4238.ts
+ext,XingKongSTARTV,http://royal-iptv.noip.me:2052/live/russel/russel/3984.ts
+#EXTINF:0,ext,WarnerTV(HD)sing,http://royal-iptv.noip.me:2052/live/russel/russel/3995.ts
+ext,VIVA the Hits!,http://royal-iptv.noip.me:2052/live/russel/russel/4022.ts
+#EXTINF:0,Viva.uk,VIVA,http://royal-iptv.noip.me:2052/live/russel/russel/4165.ts
+ext,Vijay,http://royal-iptv.noip.me:2052/live/russel/russel/3979.ts
+#EXTINF:0,ext,UTVIreland,http://royal-iptv.noip.me:2052/live/russel/russel/4025.ts
+ext,USA: FX Local,http://royal-iptv.noip.me:2052/live/russel/russel/3692.ts
+#EXTINF:0,TVN.cl,tvNHD,http://royal-iptv.noip.me:2052/live/russel/russel/3983.ts
+ext,TRACESportStars,http://royal-iptv.noip.me:2052/live/russel/russel/3986.ts
+#EXTINF:0,ext,tnt LOCAL,http://royal-iptv.noip.me:2052/live/russel/russel/3714.ts
+RTEjr.uk,Rte Jr,http://royal-iptv.noip.me:2052/live/russel/russel/4066.ts
+#EXTINF:0,Really.uk,Really,http://royal-iptv.noip.me:2052/live/russel/russel/4067.ts
+Nicktoons.uk,NickToons,http://royal-iptv.noip.me:2052/live/russel/russel/4074.ts
+#EXTINF:0,ext,Nick Jr Too,http://royal-iptv.noip.me:2052/live/russel/russel/4072.ts
+nick-jr,Nick Junior,http://royal-iptv.noip.me:2052/live/russel/russel/4075.ts
+#EXTINF:0,Nickelodeon.uk,Nickelodeon,http://royal-iptv.noip.me:2052/live/russel/russel/4073.ts
+nickelod,Nick,http://royal-iptv.noip.me:2052/live/russel/russel/4076.ts
+#EXTINF:0,RealLives.uk,Real Lives,http://royal-iptv.noip.me:2052/live/russel/russel/4068.ts
+RacingUK.uk,Racing UK,http://royal-iptv.noip.me:2052/live/russel/russel/4069.ts
+#EXTINF:0,rte1.rte.ie,RTE ONE,http://royal-iptv.noip.me:2052/live/russel/russel/4065.ts
+ext,PremierSportsHD,http://royal-iptv.noip.me:2052/live/russel/russel/4071.ts
+#EXTINF:0,Quest.uk,Quest,http://royal-iptv.noip.me:2052/live/russel/russel/4070.ts
+AnimalPlanet.uk,Animal Planet,http://royal-iptv.noip.me:2052/live/russel/russel/4149.ts
+#EXTINF:0,DiscoveryDMAX.uk,DMAX,http://royal-iptv.noip.me:2052/live/russel/russel/4156.ts
+Lifetime.uk,Lifetime,http://royal-iptv.noip.me:2052/live/russel/russel/4086.ts
+#EXTINF:0,ext,TimesNow,http://royal-iptv.noip.me:2052/live/russel/russel/3967.ts
+ext,TenCricket,http://royal-iptv.noip.me:2052/live/russel/russel/4008.ts
+#EXTINF:0,TurnerClassicMovies.us,Turner Classic Movies,http://royal-iptv.noip.me:2052/live/russel/russel/4169.ts
+ext,tbs LOCAL,http://royal-iptv.noip.me:2052/live/russel/russel/3713.ts
+#EXTINF:0,ext,syfy LOCAL,http://royal-iptv.noip.me:2052/live/russel/russel/3712.ts
+ext,SuryaTV,http://royal-iptv.noip.me:2052/live/russel/russel/3977.ts
+#EXTINF:0,SundanceChannel.pl,Sundance Channel,http://royal-iptv.noip.me:2052/live/russel/russel/3985.ts
+ext,StarUtsav,http://royal-iptv.noip.me:2052/live/russel/russel/4160.ts
+#EXTINF:0,StarPlus.uk,STARPlus,http://royal-iptv.noip.me:2052/live/russel/russel/3971.ts
+ext,StarLifeOK,http://royal-iptv.noip.me:2052/live/russel/russel/4161.ts
+#EXTINF:0,ext,STARGoldsing,http://royal-iptv.noip.me:2052/live/russel/russel/3978.ts
+ext,StarGOLD,http://royal-iptv.noip.me:2052/live/russel/russel/4159.ts
+#EXTINF:0,set,SonyTV,http://royal-iptv.noip.me:2052/live/russel/russel/4036.ts
+ext,SonyMAX,http://royal-iptv.noip.me:2052/live/russel/russel/3968.ts
+#EXTINF:0,ext,SonyChannel(HD)sing,http://royal-iptv.noip.me:2052/live/russel/russel/3993.ts
+ext,SkyNewsHDsing,http://royal-iptv.noip.me:2052/live/russel/russel/4009.ts
+#EXTINF:0,ext,Setanta Sports Singtel,http://royal-iptv.noip.me:2052/live/russel/russel/4011.ts
+ext,SET(HINDI),http://royal-iptv.noip.me:2052/live/russel/russel/3976.ts
+#EXTINF:0,ext,SABTV,http://royal-iptv.noip.me:2052/live/russel/russel/3975.ts
+rte2.rte.ie,RTE TWO,http://royal-iptv.noip.me:2052/live/russel/russel/4064.ts
+#EXTINF:0,ext,RishteyAsia,http://royal-iptv.noip.me:2052/live/russel/russel/3974.ts
+ext,pbs LOCAL,http://royal-iptv.noip.me:2052/live/russel/russel/3700.ts
+#EXTINF:0,ext,nick LOCAL,http://royal-iptv.noip.me:2052/live/russel/russel/3711.ts
+ext,nbc LOCAL,http://royal-iptv.noip.me:2052/live/russel/russel/3699.ts
+#EXTINF:0,ext,my9 LOCAL,http://royal-iptv.noip.me:2052/live/russel/russel/3694.ts
+ext,lifetime LOCAL,http://royal-iptv.noip.me:2052/live/russel/russel/3710.ts
+#EXTINF:0,ext,history LOCAL,http://royal-iptv.noip.me:2052/live/russel/russel/3709.ts
+ext,fox news LOCAL,http://royal-iptv.noip.me:2052/live/russel/russel/3717.ts
+#EXTINF:0,ext,espn LOCAL,http://royal-iptv.noip.me:2052/live/russel/russel/3708.ts
+ext,discovery LOCAL,http://royal-iptv.noip.me:2052/live/russel/russel/3707.ts
+#EXTINF:0,ext,cw LOCAL,http://royal-iptv.noip.me:2052/live/russel/russel/3698.ts
+cnn,CNN HD,http://royal-iptv.noip.me:2052/live/russel/russel/4154.ts
+#EXTINF:0,ext,cnn LOCAL,http://royal-iptv.noip.me:2052/live/russel/russel/3704.ts
+ext,cnbc LOCAL,http://royal-iptv.noip.me:2052/live/russel/russel/3705.ts
+#EXTINF:0,ext,cn LOCAL,http://royal-iptv.noip.me:2052/live/russel/russel/3703.ts
+CITV.uk,Citv,http://royal-iptv.noip.me:2052/live/russel/russel/4126.ts
+#EXTINF:0,ext,cbs LOCAL,http://royal-iptv.noip.me:2052/live/russel/russel/3697.ts
+ext,bravo LOCAL,http://royal-iptv.noip.me:2052/live/russel/russel/3695.ts
+#EXTINF:0,AyE.mx,US: A&E,http://royal-iptv.noip.me:2052/live/russel/russel/3701.ts
+ext,abc news LOCAL,http://royal-iptv.noip.me:2052/live/russel/russel/3718.ts
+#EXTINF:0,ext,abc LOCAL,http://royal-iptv.noip.me:2052/live/russel/russel/3696.ts
+ext,usa LOCAL,http://royal-iptv.noip.me:2052/live/russel/russel/3716.ts
+#EXTINF:0,ext,My9,http://royal-iptv.noip.me:2052/live/russel/russel/3693.ts
+ext,USA Spike Local,http://royal-iptv.noip.me:2052/live/russel/russel/3715.ts
+#EXTINF:0,ext,comedy Central LOCAL,http://royal-iptv.noip.me:2052/live/russel/russel/3706.ts
+ext,ForcesTV,http://royal-iptv.noip.me:2052/live/russel/russel/4166.ts
+#EXTINF:0,ext,NDTVIndia,http://royal-iptv.noip.me:2052/live/russel/russel/3966.ts
+ext,NatGeoWildHDsing,http://royal-iptv.noip.me:2052/live/russel/russel/4001.ts
+#EXTINF:0,ext,NatGeoPeopleHDsing,http://royal-iptv.noip.me:2052/live/russel/russel/3996.ts
+ext,NatGeoChHDsing,http://royal-iptv.noip.me:2052/live/russel/russel/4004.ts
+#EXTINF:0,ext,AR: OSN Movies ON DEMAND,http://royal-iptv.noip.me:2052/live/russel/russel/4372.ts
+ext,AR: OSN MOVIES,http://royal-iptv.noip.me:2052/live/russel/russel/4361.ts
+#EXTINF:0,ext,AR: OSN MOVIE ACTION 2,http://royal-iptv.noip.me:2052/live/russel/russel/4357.ts
+ext,AR: OSN FIRST COMEDY,http://royal-iptv.noip.me:2052/live/russel/russel/4353.ts
+#EXTINF:0,ext,AR: OSN Box Office 3,http://royal-iptv.noip.me:2052/live/russel/russel/4373.ts
+ext,AR: OSN Box Office 2,http://royal-iptv.noip.me:2052/live/russel/russel/4374.ts
+#EXTINF:0,ext,AR: OSN Box Office 1,http://royal-iptv.noip.me:2052/live/russel/russel/4375.ts
+ext,AR: BEIN MOVIES 2,http://royal-iptv.noip.me:2052/live/russel/russel/4349.ts
+#EXTINF:0,ext,MioSports,http://royal-iptv.noip.me:2052/live/russel/russel/4000.ts
+LifeOk.in,LifeOK,http://royal-iptv.noip.me:2052/live/russel/russel/3972.ts
+#EXTINF:0,ext,Kix HD,http://royal-iptv.noip.me:2052/live/russel/russel/3994.ts
+ext,Eir Sports2,http://royal-iptv.noip.me:2052/live/russel/russel/4062.ts
+#EXTINF:0,ext,Eir Sports1,http://royal-iptv.noip.me:2052/live/russel/russel/4063.ts
+ext,ITVChoice(HD)sing,http://royal-iptv.noip.me:2052/live/russel/russel/3987.ts
+#EXTINF:0,ext,FootballFever1,http://royal-iptv.noip.me:2052/live/russel/russel/4006.ts
+5star.uk,Five,http://royal-iptv.noip.me:2052/live/russel/russel/4106.ts
+#EXTINF:0,ext,Eve(HD)sing,http://royal-iptv.noip.me:2052/live/russel/russel/3990.ts
+ElevenSportsHD.pl,Eleven Sports,http://royal-iptv.noip.me:2052/live/russel/russel/4012.ts
+#EXTINF:0,ext,ElevenEuroHD,http://royal-iptv.noip.me:2052/live/russel/russel/4010.ts
+ext,DMAX(HD)sing,http://royal-iptv.noip.me:2052/live/russel/russel/3991.ts
+#EXTINF:0,ext,DIVA HD,http://royal-iptv.noip.me:2052/live/russel/russel/3989.ts
+ext,DiscoverySci(HD)sing,http://royal-iptv.noip.me:2052/live/russel/russel/4002.ts
+#EXTINF:0,ext,DiscoveryHDWorldsing,http://royal-iptv.noip.me:2052/live/russel/russel/4003.ts
+ext,DiscoveryCh(HD)sing,http://royal-iptv.noip.me:2052/live/russel/russel/4005.ts
+#EXTINF:0,ext,ComedyCentral(HD)sing,http://royal-iptv.noip.me:2052/live/russel/russel/3988.ts
+Colors.uk,Colors,http://royal-iptv.noip.me:2052/live/russel/russel/3973.ts
+#EXTINF:0,ext,ChannelVIndia,http://royal-iptv.noip.me:2052/live/russel/russel/3969.ts
+ext,Animal Planet Local,http://royal-iptv.noip.me:2052/live/russel/russel/3702.ts
+#EXTINF:0,ext,AMC(HD)sing,http://royal-iptv.noip.me:2052/live/russel/russel/3992.ts
+ext,AustraliaPlusTV,http://royal-iptv.noip.me:2052/live/russel/russel/3998.ts
+#EXTINF:0,ext,AstroVinmeenHD,http://royal-iptv.noip.me:2052/live/russel/russel/3980.ts
+ext,AstroVellithirai,http://royal-iptv.noip.me:2052/live/russel/russel/3981.ts
+#EXTINF:0,ext,AstroPrima,http://royal-iptv.noip.me:2052/live/russel/russel/3982.ts
+ext,AnimalPlanet(HD)sing,http://royal-iptv.noip.me:2052/live/russel/russel/3999.ts
+#EXTINF:0,ext,108 Mio Stadium,http://royal-iptv.noip.me:2052/live/russel/russel/4013.ts
+ext,107 Mio Stadium,http://royal-iptv.noip.me:2052/live/russel/russel/4014.ts
+#EXTINF:0,ext,106 Mio Stadium,http://royal-iptv.noip.me:2052/live/russel/russel/4015.ts
+ext,105 Mio Stadium,http://royal-iptv.noip.me:2052/live/russel/russel/4016.ts
+#EXTINF:0,ext,104 Mio Stadium,http://royal-iptv.noip.me:2052/live/russel/russel/4017.ts
+ext,103 Mio Stadium,http://royal-iptv.noip.me:2052/live/russel/russel/4018.ts
+#EXTINF:0,ext,102 Mio Stadium,http://royal-iptv.noip.me:2052/live/russel/russel/4019.ts
+ext,AR | OSN Movies Premiere HD,http://royal-iptv.noip.me:2052/live/russel/russel/4242.ts
+#EXTINF:0,ext,AR | OSN MOVIES Kids HD,http://royal-iptv.noip.me:2052/live/russel/russel/4243.ts
+ext,AR | OSN Movies HD,http://royal-iptv.noip.me:2052/live/russel/russel/4244.ts
+#EXTINF:0,ext,AR | OSN MOVIES Action  1 HD,http://royal-iptv.noip.me:2052/live/russel/russel/4245.ts
+ext,AR | OSN BOX Office,http://royal-iptv.noip.me:2052/live/russel/russel/4246.ts
+#EXTINF:0,ext,AR | beIN Sports 13 HD,http://royal-iptv.noip.me:2052/live/russel/russel/4249.ts
+ext,AR | beIN Sports 12 HD,http://royal-iptv.noip.me:2052/live/russel/russel/4250.ts
+#EXTINF:0,ext,AR | BEIN MOVIES 3 HD,http://royal-iptv.noip.me:2052/live/russel/russel/4251.ts
+ext,AR | Bein Movies 2 HD,http://royal-iptv.noip.me:2052/live/russel/russel/4252.ts
+#EXTINF:0,ext,AR | Bein Movies 1 HD,http://royal-iptv.noip.me:2052/live/russel/russel/4253.ts
+ext,VIP Bein USA HD,http://royal-iptv.noip.me:2052/live/russel/russel/4689.ts
+#EXTINF:0,ext,VIP USA : NBCSN HD**,http://royal-iptv.noip.me:2052/live/russel/russel/4680.ts
+ext,VIP USA : HISTORY HD**,http://royal-iptv.noip.me:2052/live/russel/russel/4681.ts
+#EXTINF:0,ext,VIP USA : Fox Sports 2 HD,http://royal-iptv.noip.me:2052/live/russel/russel/4682.ts
+ext,VIP USA : Fox Sports 1 HD,http://royal-iptv.noip.me:2052/live/russel/russel/4683.ts
+#EXTINF:0,ext,VIP USA : Discovery Science HD,http://royal-iptv.noip.me:2052/live/russel/russel/4684.ts
+ext,VIP Sportsnet West HD,http://royal-iptv.noip.me:2052/live/russel/russel/4685.ts
+#EXTINF:0,ext,VIP Sportsnet East HD,http://royal-iptv.noip.me:2052/live/russel/russel/4686.ts
+ext,VIP Sportnet Pacific HD,http://royal-iptv.noip.me:2052/live/russel/russel/4687.ts
+#EXTINF:0,ext,VIP Sportnet Ontario HD,http://royal-iptv.noip.me:2052/live/russel/russel/4688.ts
+ext,UFC Fight PASS,http://royal-iptv.noip.me:2052/live/russel/russel/4713.ts
+#EXTINF:0,ext,USA HISTORY,http://royal-iptv.noip.me:2052/live/russel/russel/4515.ts
+ext,USA CINEMAX 5 STAR,http://royal-iptv.noip.me:2052/live/russel/russel/4497.ts
+#EXTINF:0,ext,USA : VH1 HD,http://royal-iptv.noip.me:2052/live/russel/russel/4526.ts
+ext,USA : USA NETWORK HD,http://royal-iptv.noip.me:2052/live/russel/russel/4501.ts
+#EXTINF:0,ext,USA : TRU TV HD,http://royal-iptv.noip.me:2052/live/russel/russel/4495.ts
+ext,USA : TBS HD,http://royal-iptv.noip.me:2052/live/russel/russel/4493.ts
+#EXTINF:0,ext,USA : SPIKE HD,http://royal-iptv.noip.me:2052/live/russel/russel/4496.ts
+ext,USA : SHOWTIME HD,http://royal-iptv.noip.me:2052/live/russel/russel/4498.ts
+#EXTINF:0,ext,USA : OWN HD (Opera Winfery Network),http://royal-iptv.noip.me:2052/live/russel/russel/4510.ts
+ext,USA : NICK HD,http://royal-iptv.noip.me:2052/live/russel/russel/4525.ts
+#EXTINF:0,ext,USA : MoreMax HD,http://royal-iptv.noip.me:2052/live/russel/russel/4509.ts
+ext,USA : ID XTRA HD,http://royal-iptv.noip.me:2052/live/russel/russel/4521.ts
+#EXTINF:0,ext,USA : HISTORY HD,http://royal-iptv.noip.me:2052/live/russel/russel/4519.ts
+ext,USA : HBO HD,http://royal-iptv.noip.me:2052/live/russel/russel/4486.ts
+#EXTINF:0,ext,USA : Hall Mark HD,http://royal-iptv.noip.me:2052/live/russel/russel/4522.ts
+ext,USA : FX HD,http://royal-iptv.noip.me:2052/live/russel/russel/4490.ts
+#EXTINF:0,ext,USA : FREE FORM HD,http://royal-iptv.noip.me:2052/live/russel/russel/4523.ts
+ext,USA : DIY NETWORK HD,http://royal-iptv.noip.me:2052/live/russel/russel/4518.ts
+#EXTINF:0,ext,USA : DISNEY HD,http://royal-iptv.noip.me:2052/live/russel/russel/4524.ts
+ext,USA : Discovery HD,http://royal-iptv.noip.me:2052/live/russel/russel/4513.ts
+#EXTINF:0,ext,USA : DISCOVERY FAMILY HD,http://royal-iptv.noip.me:2052/live/russel/russel/4516.ts
+ext,USA : DESTINATION AMERICA HD,http://royal-iptv.noip.me:2052/live/russel/russel/4517.ts
+#EXTINF:0,ext,USA : COMEDY CENTRAL HD,http://royal-iptv.noip.me:2052/live/russel/russel/4494.ts
+ext,USA : CNBC HD,http://royal-iptv.noip.me:2052/live/russel/russel/4529.ts
+#EXTINF:0,ext,USA : CINEMAX HD,http://royal-iptv.noip.me:2052/live/russel/russel/4511.ts
+ext,USA : CBS HD,http://royal-iptv.noip.me:2052/live/russel/russel/4489.ts
+#EXTINF:0,ext,USA : CARTOON NETWORK HD,http://royal-iptv.noip.me:2052/live/russel/russel/4528.ts
+ext,USA : BRAVO HD,http://royal-iptv.noip.me:2052/live/russel/russel/4499.ts
+#EXTINF:0,ext,USA : AMC HD,http://royal-iptv.noip.me:2052/live/russel/russel/4485.ts
+ext,USA : A&E HD*,http://royal-iptv.noip.me:2052/live/russel/russel/4500.ts
+#EXTINF:0,ext,AMC HD USA,http://royal-iptv.noip.me:2052/live/russel/russel/4482.ts
+ABCNews.al,ABC NEWS HD,http://royal-iptv.noip.me:2052/live/russel/russel/4484.ts
+#EXTINF:0,ext,ABC Family (US),http://royal-iptv.noip.me:2052/live/russel/russel/4483.ts
+AyE.mx,A&E HD,http://royal-iptv.noip.me:2052/live/russel/russel/4512.ts
+#EXTINF:0,ext,Olympics 2016 - BBC Red Button,http://royal-iptv.noip.me:2052/live/russel/russel/4479.ts
+ext,Aberdeen TV (AUDIO),http://royal-iptv.noip.me:2052/live/russel/russel/4538.ts
+#EXTINF:0,ext,TNT HD USA,http://royal-iptv.noip.me:2052/live/russel/russel/4503.ts
+ext,TLC USA,http://royal-iptv.noip.me:2052/live/russel/russel/4481.ts
+#EXTINF:0,ext,TLC (USA),http://royal-iptv.noip.me:2052/live/russel/russel/4480.ts
+ext,TBS (US),http://royal-iptv.noip.me:2052/live/russel/russel/4504.ts
+#EXTINF:0,ext,SYFY HD USA,http://royal-iptv.noip.me:2052/live/russel/russel/4492.ts
+ext,SPIKE HD USA,http://royal-iptv.noip.me:2052/live/russel/russel/4502.ts
+#EXTINF:0,ext,SHOWTIME US,http://royal-iptv.noip.me:2052/live/russel/russel/4507.ts
+PlayboyTV.ero,Playboy TV,http://royal-iptv.noip.me:2052/live/russel/russel/4162.ts
+#EXTINF:0,ext,NBC US,http://royal-iptv.noip.me:2052/live/russel/russel/4488.ts
+ext,LIVETIME USA,http://royal-iptv.noip.me:2052/live/russel/russel/4508.ts
+#EXTINF:0,HGTV.ca,HGTV HD,http://royal-iptv.noip.me:2052/live/russel/russel/4527.ts
+HBO.hu,HBO HD,http://royal-iptv.noip.me:2052/live/russel/russel/4491.ts
+#EXTINF:0,ext,FX HD USA,http://royal-iptv.noip.me:2052/live/russel/russel/4505.ts
+ext,FOX HD USA,http://royal-iptv.noip.me:2052/live/russel/russel/4506.ts
+#EXTINF:0,discov_world,DISCOVERY WORLD,http://royal-iptv.noip.me:2052/live/russel/russel/4514.ts
+AnimalPlanet.cz,ANIMAL PLANET HD,http://royal-iptv.noip.me:2052/live/russel/russel/4520.ts
+#EXTINF:0,ext,AdultChannel,http://royal-iptv.noip.me:2052/live/russel/russel/4158.ts
