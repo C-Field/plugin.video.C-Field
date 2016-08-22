@@ -11,7 +11,7 @@
 </channel>
 
 <channels>
-<name>Movies</name>
+<name>SERVER 1</name>
 <thumbnail></thumbnail>
 <externallink>https://raw.githubusercontent.com/stuartdrew/plugin.video.C-Field/master/__sources1.txt</externallink>
 <fanart></fanart>
