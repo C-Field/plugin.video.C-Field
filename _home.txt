@@ -10,7 +10,7 @@
 <info>SimpleKore.com</info>
 </channel>
 
-<!!--channel>
+<channels>
 <name>Movies</name>
 <thumbnail></thumbnail>
 <externallink></externallink>
@@ -18,7 +18,7 @@
 <info>SimpleKore.com</info>
 </channel>
 
-<channel>
+<--!!channel>
 <name>Youtube</name>
 <thumbnail></thumbnail>
 <externallink></externallink>
