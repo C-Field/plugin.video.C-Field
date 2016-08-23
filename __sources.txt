@@ -1,4 +1,12 @@
 <item>
+<title>MTV <title>
+<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/russel/russel/4647.ts;streamtype=TSDOWNLOADER&;name=<link>
+<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/russel/russel/4647.ts;streamtype=TSDOWNLOADER&;name=<link>
+<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/russel/russel/4647.ts;streamtype=TSDOWNLOADER&;name=<link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
 <title>BBC 1HD<title>
 <link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/darren/darren/4146.ts;streamtype=TSDOWNLOADER&;name=BBC1HD<link>
 <thumbnail></thumbnail>
