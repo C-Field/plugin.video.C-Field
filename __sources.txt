@@ -9,7 +9,7 @@ url=http://selling-team.net:8000/live/mic07/2101/4780.ts;streamtype=TSDOWNLOADER
 url=http://selling-team.net:8000/live/mic07/2101/4780.ts;streamtype=TSDOWNLOADER&;name=</sublink>
 <sublink>plugin://plugin.video.f4mTester/?
 url=http://selling-team.net:8000/live/mic07/2101/4780.ts;streamtype=TSDOWNLOADER&;name=</sublink>
-</link>
+<link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
