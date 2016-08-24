@@ -4,7 +4,6 @@
 <sublink>plugin://plugin.video.f4mTester/?url=http://globe2.midomed.com:80/live/dom/dom/2718.ts;streamtype=TSDOWNLOADER&;nameBBC1=</sublink>
 <sublink>plugin://plugin.video.f4mTester/?url=http://dmtn-iptv.com:8080/live/kam/kam/1437.ts;streamtype=TSDOWNLOADER&;nameBBC1=</sublink>
 <sublink>plugin://plugin.video.f4mTester/?url=http://62-210-214-31.rev.poneytelecom.eu:5890/live/orphee/orphee/297.ts;streamtype=TSDOWNLOADER&;name=BBC1</sublink>
-</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
