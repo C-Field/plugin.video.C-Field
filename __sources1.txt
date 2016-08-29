@@ -23,12 +23,6 @@
 </item>
 
 <item>
-<title>Challenge <title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/russel/russel/4131.ts;streamtype=TSDOWNLOADER&;name=<link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
 <title>E!   <title>
 <link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/russel/russel/4650.ts;streamtype=TSDOWNLOADER&;name=<link>
 <thumbnail></thumbnail>
