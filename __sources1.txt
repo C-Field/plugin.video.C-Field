@@ -1,6 +1,6 @@
 <item>
 <title>MTV <title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/russel/russel/4647.ts;streamtype=TSDOWNLOADER&;name=<link>
+<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/russel/russel/4084.ts;streamtype=TSDOWNLOADER&;name=<link>
 <thumbnail></thumbnail>
 </item>
 
@@ -12,7 +12,7 @@
 
 <item>
 <title>Fox Crime<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/russel/russel/4664.ts;streamtype=TSDOWNLOADER&;name=<link>
+<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/russel/russel/4506.ts;streamtype=TSDOWNLOADER&;name=<link>
 <thumbnail></thumbnail>
 </item>
 
@@ -24,7 +24,7 @@
 
 <item>
 <title>Challenge <title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/russel/russel/4651.ts;streamtype=TSDOWNLOADER&;name=<link>
+<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/russel/russel/4131.ts;streamtype=TSDOWNLOADER&;name=<link>
 <thumbnail></thumbnail>
 </item>
 
@@ -42,8 +42,8 @@
 
 
 <item>
-<title>BBC Two Scotland<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/russel/russel/4450.ts;streamtype=TSDOWNLOADER&;name=<link>
+<title>BBC Two<title>
+<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/russel/russel/4141.ts;streamtype=TSDOWNLOADER&;name=<link>
 <thumbnail></thumbnail>
 </item>
 
@@ -78,68 +78,44 @@
 </item>
 
 <item>
-<title>A&E (US)<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/russel/russel/4401.ts;streamtype=TSDOWNLOADER&;name=<link>
+<title>A&E HD<title>
+<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/russel/russel/4512.ts;streamtype=TSDOWNLOADER&;name=A&EHD<link>
 <thumbnail></thumbnail>
 </item>
 
 <item>
 <title>NBC (US)<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/russel/russel/4394.ts;streamtype=TSDOWNLOADER&;name=<link>
+<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/russel/russel/4488.ts;streamtype=TSDOWNLOADER&;name=<link>
 <thumbnail></thumbnail>
 </item>
 
 <item>
-<title>Fox (US)<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/russel/russel/4398.ts;streamtype=TSDOWNLOADER&;name=<link>
+<title>Fox HD(US)<title>
+<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/russel/russel/4506.ts;streamtype=TSDOWNLOADER&;name=FOXHD<link>
 <thumbnail></thumbnail>
 </item>
 
 <item>
-<title>CNBC (US)<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/russel/russel/4395.ts;streamtype=TSDOWNLOADER&;name=<link>
+<title>BravoHD (US)<title>
+<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/russel/russel/4499.ts;streamtype=TSDOWNLOADER&;name=BRAVO HD<link>
 <thumbnail></thumbnail>
 </item>
 
 <item>
-<title>Bravo (US)<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/russel/russel/4397.ts;streamtype=TSDOWNLOADER&;name=<link>
+<title>AMC HD (US)<title>
+<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/russel/russel/4482.ts;streamtype=TSDOWNLOADER&;name=<link>
 <thumbnail></thumbnail>
 </item>
 
 <item>
-<title>AMC (US)<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/russel/russel/4400.ts;streamtype=TSDOWNLOADER&;name=<link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>Zee TV<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/russel/russel/4402.ts;streamtype=TSDOWNLOADER&;name=<link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>USA Network (US)<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/russel/russel/4399.ts;streamtype=TSDOWNLOADER&;name=<link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>AR: BEIN MOVIES <title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/russel/russel/4348.ts;streamtype=TSDOWNLOADER&;name=<link>
+<title>BBC One HD<title>
+<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/russel/russel/4146.ts;streamtype=TSDOWNLOADER&;name=BBC1HD<link>
 <thumbnail></thumbnail>
 </item>
 
 <item>
 <title>BBC One<title>
 <link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/russel/russel/4142.ts;streamtype=TSDOWNLOADER&;name=<link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>BBC 1HD<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/russel/russel/4146.ts;streamtype=TSDOWNLOADER&;name=<link>
 <thumbnail></thumbnail>
 </item>
 
@@ -151,7 +127,7 @@
 
 <item>
 <title>BBC Two<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/russel/russel/4141.ts;streamtype=TSDOWNLOADER&;name=<link>
+<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/russel/russel/4130.ts;streamtype=TSDOWNLOADER&;name=<link>
 <thumbnail></thumbnail>
 </item>
 
@@ -176,12 +152,6 @@
 <item>
 <title>5 USA<title>
 <link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/russel/russel/4151.ts;streamtype=TSDOWNLOADER&;name=<link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>BBC CBBC<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/russel/russel/4144.ts;streamtype=TSDOWNLOADER&;name=<link>
 <thumbnail></thumbnail>
 </item>
 
@@ -246,18 +216,6 @@
 </item>
 
 <item>
-<title>CBBC HD<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/russel/russel/4136.ts;streamtype=TSDOWNLOADER&;name=<link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>BBC Four/Cbeebies<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/russel/russel/4143.ts;streamtype=TSDOWNLOADER&;name=<link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
 <title>CBS Reality<title>
 <link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/russel/russel/4132.ts;streamtype=TSDOWNLOADER&;name=<link>
 <thumbnail></thumbnail>
@@ -282,9 +240,9 @@
 </item>
 
 <item>
-<title>Cartoon Network<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/russel/russel/4155.ts;streamtype=TSDOWNLOADER&;name=<link>
-<thumbnail></thumbnail>
+<title>Cartoon Network HD<title>
+<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/russel/russel/4528.ts;streamtype=TSDOWNLOADER&;name=<link>
+<thumbnail>CARTOONNETWORKHD</thumbnail>
 </item>
 
 <item>
@@ -450,14 +408,14 @@
 </item>
 
 <item>
-<title>Comedy Xtra +<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/russel/russel/4335.ts;streamtype=TSDOWNLOADER&;name=<link>
+<title>Comedy Xtra<title>
+<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/russel/russel/4124.ts;streamtype=TSDOWNLOADER&;name=<link>
 <thumbnail></thumbnail>
 </item>
 
 <item>
-<title>Animal Planet +<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/russel/russel/4322.ts;streamtype=TSDOWNLOADER&;name=<link>
+<title>Animal Planet +1<title>
+<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/russel/russel/4322.ts;streamtype=TSDOWNLOADER&;name=ANIMALPLANET<link>
 <thumbnail></thumbnail>
 </item>
 
@@ -474,8 +432,8 @@
 </item>
 
 <item>
-<title>Sy-Fy<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/russel/russel/4034.ts;streamtype=TSDOWNLOADER&;name=<link>
+<title>Sy-Fy HD<title>
+<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/russel/russel/4492.ts;streamtype=TSDOWNLOADER&;name=SY-FY<link>
 <thumbnail></thumbnail>
 </item>
 
@@ -486,8 +444,8 @@
 </item>
 
 <item>
-<title>Spike UK<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/russel/russel/4035.ts;streamtype=TSDOWNLOADER&;name=<link>
+<title>Spike UK HD<title>
+<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/russel/russel/4502.ts;streamtype=TSDOWNLOADER&;name=SPIKEHD<link>
 <thumbnail></thumbnail>
 </item>
 
@@ -523,7 +481,7 @@
 
 <item>
 <title>Sky News<title>
-<link>plugin://plugin.video.f4mTester/?url=http://cp.dmbshare.net:8000/live/drew/drew/6871.ts;streamtype=TSDOWNLOADER&;name=<link>
+<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/russel/russel/4037.ts;streamtype=TSDOWNLOADER&;name=<link>
 <thumbnail></thumbnail>
 </item>
 
@@ -582,12 +540,6 @@
 </item>
 
 <item>
-<title>Eden<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/russel/russel/4110.ts;streamtype=TSDOWNLOADER&;name=<link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
 <title>Film4<title>
 <link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/russel/russel/4107.ts;streamtype=TSDOWNLOADER&;name=<link>
 <thumbnail></thumbnail>
@@ -636,12 +588,6 @@
 </item>
 
 <item>
-<title>MTV Live HD<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/russel/russel/4316.ts;streamtype=TSDOWNLOADER&;name=<link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
 <title>MTV Hits!<title>
 <link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/russel/russel/4317.ts;streamtype=TSDOWNLOADER&;name=<link>
 <thumbnail></thumbnail>
@@ -673,7 +619,7 @@
 
 <item>
 <title>MTV MUSIC<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/russel/russel/4163.ts;streamtype=TSDOWNLOADER&;name=<link>
+<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/russel/russel/4084.ts;streamtype=TSDOWNLOADER&;name=<link>
 <thumbnail></thumbnail>
 </item>
 
@@ -704,12 +650,6 @@
 <item>
 <title>MTV Base<title>
 <link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/russel/russel/4083.ts;streamtype=TSDOWNLOADER&;name=<link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>MTV<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/russel/russel/4084.ts;streamtype=TSDOWNLOADER&;name=<link>
 <thumbnail></thumbnail>
 </item>
 
@@ -775,109 +715,13 @@
 
 <item>
 <title>Sky Cinema Action & Adventure<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/dillon/dillon/4750.ts;streamtype=TSDOWNLOADER&;name=<link>
+<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/russel/russel/4058.ts;streamtype=TSDOWNLOADER&;name=<link>
 <thumbnail></thumbnail>
 </item>
 
 <item>
 <title>SkySpBoxOff (PPV Events Only)<title>
 <link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/russel/russel/4340.ts;streamtype=TSDOWNLOADER&;name=<link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>Sky Sports Box Office<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/russel/russel/4213.ts;streamtype=TSDOWNLOADER&;name=<link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>UK | Sky Sport  HD<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/russel/russel/4202.ts;streamtype=TSDOWNLOADER&;name=<link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>Sky Sports  SD<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/russel/russel/4046.ts;streamtype=TSDOWNLOADER&;name=<link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>UK | Sky Sport 2 HD<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/russel/russel/4203.ts;streamtype=TSDOWNLOADER&;name=<link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>Sky Sports 2 SD<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/russel/russel/4045.ts;streamtype=TSDOWNLOADER&;name=<link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>UK | Sky Sport 2 SD<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/russel/russel/4204.ts;streamtype=TSDOWNLOADER&;name=<link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>UK | Sky Sport 3 HD<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/russel/russel/4205.ts;streamtype=TSDOWNLOADER&;name=<link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>Sky Sports 3 SD<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/russel/russel/4044.ts;streamtype=TSDOWNLOADER&;name=<link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>UK | Sky Sport 3 SD<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/russel/russel/4206.ts;streamtype=TSDOWNLOADER&;name=<link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>UK | Sky Sport 4 SD<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/russel/russel/4208.ts;streamtype=TSDOWNLOADER&;name=<link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>Sky Sports 4<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/russel/russel/4170.ts;streamtype=TSDOWNLOADER&;name=<link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>Sky Sports 4 SD<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/russel/russel/4043.ts;streamtype=TSDOWNLOADER&;name=<link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>UK | Sky Sport 4 HD<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/russel/russel/4207.ts;streamtype=TSDOWNLOADER&;name=<link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>UK | Sky Sport 5 HD<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/russel/russel/4209.ts;streamtype=TSDOWNLOADER&;name=<link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>UK | Sky Sport 5 SD<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/russel/russel/4210.ts;streamtype=TSDOWNLOADER&;name=<link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>Sky Sports 5 SD<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/russel/russel/4042.ts;streamtype=TSDOWNLOADER&;name=<link>
 <thumbnail></thumbnail>
 </item>
 
@@ -894,140 +738,14 @@
 </item>
 
 <item>
-<title>Sky Sports F1 HD<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/russel/russel/4211.ts;streamtype=TSDOWNLOADER&;name=<link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>Sky Sports F1 SD<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/russel/russel/4040.ts;streamtype=TSDOWNLOADER&;name=<link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>UK | BT Sport  HD<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/russel/russel/4215.ts;streamtype=TSDOWNLOADER&;name=<link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>UK | BT Sport  SD<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/russel/russel/4214.ts;streamtype=TSDOWNLOADER&;name=<link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>UK | BT Sport 2 HD<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/russel/russel/4217.ts;streamtype=TSDOWNLOADER&;name=<link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>UK | BT Sport 2 SD<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/russel/russel/4216.ts;streamtype=TSDOWNLOADER&;name=<link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>UK | BT Sport 3 HD<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/russel/russel/4219.ts;streamtype=TSDOWNLOADER&;name=<link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>UK | BT Sport ESPN<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/russel/russel/4218.ts;streamtype=TSDOWNLOADER&;name=<link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>BT Sport Mosaic<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/russel/russel/4324.ts;streamtype=TSDOWNLOADER&;name=<link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>BT Sport Mosaic 2<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/russel/russel/4323.ts;streamtype=TSDOWNLOADER&;name=<link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>BT Sport Extra <title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/russel/russel/4330.ts;streamtype=TSDOWNLOADER&;name=<link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>BT Sport Extra 2<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/russel/russel/4329.ts;streamtype=TSDOWNLOADER&;name=<link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>BT Sport Extra 3<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/russel/russel/4328.ts;streamtype=TSDOWNLOADER&;name=<link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>BT Sport Extra 4<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/russel/russel/4327.ts;streamtype=TSDOWNLOADER&;name=<link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>BT Sport Extra 5<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/russel/russel/4326.ts;streamtype=TSDOWNLOADER&;name=<link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>BT Sport Extra 6<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/russel/russel/4325.ts;streamtype=TSDOWNLOADER&;name=<link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>UK | Box Nation<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/russel/russel/4229.ts;streamtype=TSDOWNLOADER&;name=<link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>Sky Sports Box Office PPV<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/russel/russel/4041.ts;streamtype=TSDOWNLOADER&;name=<link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>Sky Sports Box Office Back Up<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/russel/russel/4168.ts;streamtype=TSDOWNLOADER&;name=<link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>UK | Premier Sports HD<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/russel/russel/4226.ts;streamtype=TSDOWNLOADER&;name=<link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>UK | Premier Sport<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/russel/russel/4228.ts;streamtype=TSDOWNLOADER&;name=<link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
 <title>British Eurosport <title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/russel/russel/4174.ts;streamtype=TSDOWNLOADER&;name=<link>
+<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/russel/russel/4771.ts;streamtype=TSDOWNLOADER&;name=<link>
 <thumbnail></thumbnail>
 </item>
 <item>
 
 <title>BoxNation<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/russel/russel/4138.ts;streamtype=TSDOWNLOADER&;name=<link>
+<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/russel/russel/4229.ts;streamtype=TSDOWNLOADER&;name=<link>
 <thumbnail></thumbnail>
 </item>
 
@@ -1038,98 +756,14 @@
 </item>
 
 <item>
-<title>UK | Setanta<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/russel/russel/4227.ts;streamtype=TSDOWNLOADER&;name=<link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>UK | RACING UK HD<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/russel/russel/4220.ts;streamtype=TSDOWNLOADER&;name=<link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>UK | At The Races<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/russel/russel/4221.ts;streamtype=TSDOWNLOADER&;name=<link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>MUTV<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/russel/russel/4079.ts;streamtype=TSDOWNLOADER&;name=<link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>MUTV HD<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/russel/russel/4451.ts;streamtype=TSDOWNLOADER&;name=<link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>LFCTV<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/russel/russel/4087.ts;streamtype=TSDOWNLOADER&;name=<link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>UK | LFCTV<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/russel/russel/4224.ts;streamtype=TSDOWNLOADER&;name=<link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>UK | Chelsea TV<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/russel/russel/4225.ts;streamtype=TSDOWNLOADER&;name=<link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>Celtic Tv<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/russel/russel/4321.ts;streamtype=TSDOWNLOADER&;name=<link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>Rangers Tv (Bonus)<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/russel/russel/4320.ts;streamtype=TSDOWNLOADER&;name=<link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>UK | Motors<title>
+<title>UK Motors<title>
 <link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/russel/russel/4230.ts;streamtype=TSDOWNLOADER&;name=<link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>Yesterday<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/russel/russel/4020.ts;streamtype=TSDOWNLOADER&;name=<link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>True Entertainment<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/russel/russel/4029.ts;streamtype=TSDOWNLOADER&;name=<link>
 <thumbnail></thumbnail>
 </item>
 
 <item>
 <title>TravelChannelHD<title>
 <link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/russel/russel/3997.ts;streamtype=TSDOWNLOADER&;name=<link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>Travel Channel<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/russel/russel/4030.ts;streamtype=TSDOWNLOADER&;name=<link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>UK | Sky Sport News HQ<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/russel/russel/4212.ts;streamtype=TSDOWNLOADER&;name=<link>
 <thumbnail></thumbnail>
 </item>
 
@@ -1158,32 +792,8 @@
 </item>
 
 <item>
-<title>EuroSports1<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/russel/russel/4108.ts;streamtype=TSDOWNLOADER&;name=<link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>Uk Euro Sport 2<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/russel/russel/4109.ts;streamtype=TSDOWNLOADER&;name=<link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>CHELSEA TV<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/russel/russel/4127.ts;streamtype=TSDOWNLOADER&;name=<link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
 <title>Cartoon Network Backup<title>
 <link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/russel/russel/4137.ts;streamtype=TSDOWNLOADER&;name=<link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>NBA TV SD<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/russel/russel/4239.ts;streamtype=TSDOWNLOADER&;name=<link>
 <thumbnail></thumbnail>
 </item>
 
@@ -1200,380 +810,8 @@
 </item>
 
 <item>
-<title>Tsn  HD<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/russel/russel/4231.ts;streamtype=TSDOWNLOADER&;name=<link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>Tsn 2 HD<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/russel/russel/4232.ts;streamtype=TSDOWNLOADER&;name=<link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>USA:CA | TSN 3 HD<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/russel/russel/4233.ts;streamtype=TSDOWNLOADER&;name=<link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>USA:CA | TSN 4 HD<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/russel/russel/4234.ts;streamtype=TSDOWNLOADER&;name=<link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>USA:CA | TSN 5 HD<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/russel/russel/4235.ts;streamtype=TSDOWNLOADER&;name=<link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>USA | Fox Sports  HD Backup<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/russel/russel/4237.ts;streamtype=TSDOWNLOADER&;name=<link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>US: FOX Sport <title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/russel/russel/4344.ts;streamtype=TSDOWNLOADER&;name=<link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>USA | Fox Sports 2 HD Backup<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/russel/russel/4236.ts;streamtype=TSDOWNLOADER&;name=<link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>US: FOX Sport 2<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/russel/russel/4343.ts;streamtype=TSDOWNLOADER&;name=<link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>NL: Ziggo Sport Extra 2<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/russel/russel/4384.ts;streamtype=TSDOWNLOADER&;name=<link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>NL: Ziggo Sport Extra <title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/russel/russel/4385.ts;streamtype=TSDOWNLOADER&;name=<link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>NL: Fox Sports 6<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/russel/russel/4378.ts;streamtype=TSDOWNLOADER&;name=<link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>NL: Fox Sports 5<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/russel/russel/4379.ts;streamtype=TSDOWNLOADER&;name=<link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>NL: Fox Sports 4<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/russel/russel/4380.ts;streamtype=TSDOWNLOADER&;name=<link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>NL: Fox Sports 3<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/russel/russel/4381.ts;streamtype=TSDOWNLOADER&;name=<link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>NL: Fox Sports 2<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/russel/russel/4382.ts;streamtype=TSDOWNLOADER&;name=<link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>NL: Fox Sports <title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/russel/russel/4383.ts;streamtype=TSDOWNLOADER&;name=<link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>AR | beIN Sports  HD<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/russel/russel/4415.ts;streamtype=TSDOWNLOADER&;name=<link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>AR | beIN Sports 2 HD<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/russel/russel/4412.ts;streamtype=TSDOWNLOADER&;name=<link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>AR | beIN Sports 3 HD<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/russel/russel/4411.ts;streamtype=TSDOWNLOADER&;name=<link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>AR | beIN Sports 4 HD<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/russel/russel/4410.ts;streamtype=TSDOWNLOADER&;name=<link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>AR | beIN Sports 5 HD<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/russel/russel/4409.ts;streamtype=TSDOWNLOADER&;name=<link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>AR | beIN Sports 6 HD<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/russel/russel/4408.ts;streamtype=TSDOWNLOADER&;name=<link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>AR | beIN Sports 7 HD<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/russel/russel/4407.ts;streamtype=TSDOWNLOADER&;name=<link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>AR | beIN Sports 8 HD<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/russel/russel/4406.ts;streamtype=TSDOWNLOADER&;name=<link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>AR | beIN Sports 9 HD<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/russel/russel/4405.ts;streamtype=TSDOWNLOADER&;name=<link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>AR | beIN Sports 10 HD<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/russel/russel/4414.ts;streamtype=TSDOWNLOADER&;name=<link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>AR | beIN Sports 11 HD<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/russel/russel/4413.ts;streamtype=TSDOWNLOADER&;name=<link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>MIO Stadium 108 Backup <title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/russel/russel/4631.ts;streamtype=TSDOWNLOADER&;name=<link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>MIO Stadium 107 Backup <title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/russel/russel/4630.ts;streamtype=TSDOWNLOADER&;name=<link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>MIO Stadium 106 Backup <title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/russel/russel/4629.ts;streamtype=TSDOWNLOADER&;name=<link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>MIO Stadium 105 Backup <title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/russel/russel/4628.ts;streamtype=TSDOWNLOADER&;name=<link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>MIO Stadium 104 Backup <title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/russel/russel/4627.ts;streamtype=TSDOWNLOADER&;name=<link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>MIO Stadium 103 Backup <title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/russel/russel/4626.ts;streamtype=TSDOWNLOADER&;name=<link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>MIO Stadium 102 Backup <title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/russel/russel/4625.ts;streamtype=TSDOWNLOADER&;name=<link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>Mio Sports 108 Backup 2<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/russel/russel/4638.ts;streamtype=TSDOWNLOADER&;name=<link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>Mio Sports 107 Backup 2<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/russel/russel/4637.ts;streamtype=TSDOWNLOADER&;name=<link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>Mio Sports 106 Backup 2<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/russel/russel/4636.ts;streamtype=TSDOWNLOADER&;name=<link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>Mio Sports 105 Backup 2<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/russel/russel/4635.ts;streamtype=TSDOWNLOADER&;name=<link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>Mio Sports 104 Backup 2<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/russel/russel/4634.ts;streamtype=TSDOWNLOADER&;name=<link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>Mio Sports 103 Backup 2<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/russel/russel/4633.ts;streamtype=TSDOWNLOADER&;name=<link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>Mio Sports 102 Backup 2<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/russel/russel/4632.ts;streamtype=TSDOWNLOADER&;name=<link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>UK: EPL Extra Time 5<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/russel/russel/4620.ts;streamtype=TSDOWNLOADER&;name=<link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>UK: EPL Extra Time 4<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/russel/russel/4619.ts;streamtype=TSDOWNLOADER&;name=<link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>UK: EPL Extra Time 3<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/russel/russel/4618.ts;streamtype=TSDOWNLOADER&;name=<link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>UK: EPL Extra Time 2<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/russel/russel/4617.ts;streamtype=TSDOWNLOADER&;name=<link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>UK: EPL Extra Time <title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/russel/russel/4616.ts;streamtype=TSDOWNLOADER&;name=<link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>USA | NBC XTRA 5 (LIVE DURING EPL)<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/russel/russel/4615.ts;streamtype=TSDOWNLOADER&;name=<link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>USA | NBC XTRA 4 (LIVE DURING EPL)<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/russel/russel/4614.ts;streamtype=TSDOWNLOADER&;name=<link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>USA | NBC XTRA 3 (LIVE DURING EPL)<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/russel/russel/4613.ts;streamtype=TSDOWNLOADER&;name=<link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>USA | NBC XTRA 2 (LIVE DURING EPL)<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/russel/russel/4612.ts;streamtype=TSDOWNLOADER&;name=<link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>USA | NBC XTRA  (LIVE DURING EPL)<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/russel/russel/4611.ts;streamtype=TSDOWNLOADER&;name=<link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>ML Astro Super Sport  HD<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/russel/russel/4621.ts;streamtype=TSDOWNLOADER&;name=<link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>ML:Astro Supersport 2HD<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/russel/russel/4622.ts;streamtype=TSDOWNLOADER&;name=<link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>ML Astro Super Sport 3 HD<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/russel/russel/4623.ts;streamtype=TSDOWNLOADER&;name=<link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>ML:Astro Supersport 4 HD<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/russel/russel/4624.ts;streamtype=TSDOWNLOADER&;name=<link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>BeIN MOVIES 4HD Backup<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/russel/russel/4673.ts;streamtype=TSDOWNLOADER&;name=<link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>BeIN MOVIES 3HD Backup<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/russel/russel/4674.ts;streamtype=TSDOWNLOADER&;name=<link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>BeIN MOVIES 2HD Backup<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/russel/russel/4675.ts;streamtype=TSDOWNLOADER&;name=<link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>BeIN MOVIES 1HD Backup<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/russel/russel/4676.ts;streamtype=TSDOWNLOADER&;name=<link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>OSN WWE Network HD<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/russel/russel/4586.ts;streamtype=TSDOWNLOADER&;name=<link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
 <title>WWE HD<title>
 <link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/russel/russel/4238.ts;streamtype=TSDOWNLOADER&;name=<link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>XingKongSTARTV<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/russel/russel/3984.ts;streamtype=TSDOWNLOADER&;name=<link>
 <thumbnail></thumbnail>
 </item>
 
@@ -1596,12 +834,6 @@
 </item>
 
 <item>
-<title>Vijay<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/russel/russel/3979.ts;streamtype=TSDOWNLOADER&;name=<link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
 <title>UTVIreland<title>
 <link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/russel/russel/4025.ts;streamtype=TSDOWNLOADER&;name=<link>
 <thumbnail></thumbnail>
@@ -1620,26 +852,14 @@
 </item>
 
 <item>
-<title>TRACESportStars<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/russel/russel/3986.ts;streamtype=TSDOWNLOADER&;name=<link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>tnt LOCAL<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/russel/russel/3714.ts;streamtype=TSDOWNLOADER&;name=<link>
+<title>tnt HD<title>
+<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/russel/russel/4503.ts;streamtype=TSDOWNLOADER&;name=<link>
 <thumbnail></thumbnail>
 </item>
 
 <item>
 <title>Rte Jr<title>
 <link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/russel/russel/4066.ts;streamtype=TSDOWNLOADER&;name=<link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>Really<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/russel/russel/4067.ts;streamtype=TSDOWNLOADER&;name=<link>
 <thumbnail></thumbnail>
 </item>
 
@@ -1680,26 +900,8 @@
 </item>
 
 <item>
-<title>Racing UK<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/russel/russel/4069.ts;streamtype=TSDOWNLOADER&;name=<link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
 <title>RTE ONE<title>
 <link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/russel/russel/4065.ts;streamtype=TSDOWNLOADER&;name=<link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>PremierSportsHD<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/russel/russel/4071.ts;streamtype=TSDOWNLOADER&;name=<link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>Quest<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/russel/russel/4070.ts;streamtype=TSDOWNLOADER&;name=<link>
 <thumbnail></thumbnail>
 </item>
 
@@ -1722,26 +924,8 @@
 </item>
 
 <item>
-<title>TimesNow<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/russel/russel/3967.ts;streamtype=TSDOWNLOADER&;name=<link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>TenCricket<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/russel/russel/4008.ts;streamtype=TSDOWNLOADER&;name=<link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>Turner Classic Movies<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/russel/russel/4169.ts;streamtype=TSDOWNLOADER&;name=<link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>tbs LOCAL<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/russel/russel/3713.ts;streamtype=TSDOWNLOADER&;name=<link>
+<title>tbs LOCAL HD<title>
+<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/russel/russel/4493.ts;streamtype=TSDOWNLOADER&;name=<link>
 <thumbnail></thumbnail>
 </item>
 
@@ -1764,42 +948,6 @@
 </item>
 
 <item>
-<title>StarUtsav<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/russel/russel/4160.ts;streamtype=TSDOWNLOADER&;name=<link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>STARPlus<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/russel/russel/3971.ts;streamtype=TSDOWNLOADER&;name=<link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>StarLifeOK<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/russel/russel/4161.ts;streamtype=TSDOWNLOADER&;name=<link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>STARGoldsing<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/russel/russel/3978.ts;streamtype=TSDOWNLOADER&;name=<link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>StarGOLD<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/russel/russel/4159.ts;streamtype=TSDOWNLOADER&;name=<link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>SonyTV<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/russel/russel/4036.ts;streamtype=TSDOWNLOADER&;name=<link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
 <title>SonyMAX<title>
 <link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/russel/russel/3968.ts;streamtype=TSDOWNLOADER&;name=<link>
 <thumbnail></thumbnail>
@@ -1818,32 +966,8 @@
 </item>
 
 <item>
-<title>Setanta Sports Singtel<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/russel/russel/4011.ts;streamtype=TSDOWNLOADER&;name=<link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>SET(HINDI)<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/russel/russel/3976.ts;streamtype=TSDOWNLOADER&;name=<link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>SABTV<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/russel/russel/3975.ts;streamtype=TSDOWNLOADER&;name=<link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
 <title>RTE TWO<title>
 <link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/russel/russel/4064.ts;streamtype=TSDOWNLOADER&;name=<link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>RishteyAsia<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/russel/russel/3974.ts;streamtype=TSDOWNLOADER&;name=<link>
 <thumbnail></thumbnail>
 </item>
 
@@ -1885,13 +1009,7 @@
 
 <item>
 <title>fox news LOCAL<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/russel/russel/3717.ts;streamtype=TSDOWNLOADER&;name=<link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>espn LOCAL<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/russel/russel/3708.ts;streamtype=TSDOWNLOADER&;name=<link>
+<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/russel/russel/4487.ts;streamtype=TSDOWNLOADER&;name=<link>
 <thumbnail></thumbnail>
 </item>
 
@@ -1914,32 +1032,8 @@
 </item>
 
 <item>
-<title>cnn LOCAL<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/russel/russel/3704.ts;streamtype=TSDOWNLOADER&;name=<link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>cnbc LOCAL<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/russel/russel/3705.ts;streamtype=TSDOWNLOADER&;name=<link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>cn LOCAL<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/russel/russel/3703.ts;streamtype=TSDOWNLOADER&;name=<link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>Citv<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/russel/russel/4126.ts;streamtype=TSDOWNLOADER&;name=<link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>cbs LOCAL<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/russel/russel/3697.ts;streamtype=TSDOWNLOADER&;name=<link>
+<title>cbs HD<title>
+<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/russel/russel/4489.ts;streamtype=TSDOWNLOADER&;name=<link>
 <thumbnail></thumbnail>
 </item>
 
@@ -1998,12 +1092,6 @@
 </item>
 
 <item>
-<title>NDTVIndia<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/russel/russel/3966.ts;streamtype=TSDOWNLOADER&;name=<link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
 <title>NatGeoWildHDsing<title>
 <link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/russel/russel/4001.ts;streamtype=TSDOWNLOADER&;name=<link>
 <thumbnail></thumbnail>
@@ -2022,68 +1110,8 @@
 </item>
 
 <item>
-<title>MioSports<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/russel/russel/4000.ts;streamtype=TSDOWNLOADER&;name=<link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>LifeOK<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/russel/russel/3972.ts;streamtype=TSDOWNLOADER&;name=<link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
 <title>Kix HD<title>
 <link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/russel/russel/3994.ts;streamtype=TSDOWNLOADER&;name=<link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>Eir Sports2<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/russel/russel/4062.ts;streamtype=TSDOWNLOADER&;name=<link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>Eir Sports1<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/russel/russel/4063.ts;streamtype=TSDOWNLOADER&;name=<link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>ITVChoice(HD)sing<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/russel/russel/3987.ts;streamtype=TSDOWNLOADER&;name=<link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>FootballFever1<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/russel/russel/4006.ts;streamtype=TSDOWNLOADER&;name=<link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>Five<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/russel/russel/4106.ts;streamtype=TSDOWNLOADER&;name=<link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>Eve(HD)sing<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/russel/russel/3990.ts;streamtype=TSDOWNLOADER&;name=<link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>Eleven Sports<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/russel/russel/4012.ts;streamtype=TSDOWNLOADER&;name=<link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>ElevenEuroHD<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/russel/russel/4010.ts;streamtype=TSDOWNLOADER&;name=<link>
 <thumbnail></thumbnail>
 </item>
 
@@ -2106,32 +1134,14 @@
 </item>
 
 <item>
-<title>DiscoveryHDWorldsing<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/russel/russel/4003.ts;streamtype=TSDOWNLOADER&;name=<link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>DiscoveryCh(HD)sing<title>
+<title>DiscoveryCh(HD)<title>
 <link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/russel/russel/4005.ts;streamtype=TSDOWNLOADER&;name=<link>
 <thumbnail></thumbnail>
 </item>
 
 <item>
-<title>ComedyCentral(HD)sing<title>
+<title>ComedyCentral(HD)<title>
 <link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/russel/russel/3988.ts;streamtype=TSDOWNLOADER&;name=<link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>Colors<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/russel/russel/3973.ts;streamtype=TSDOWNLOADER&;name=<link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>ChannelVIndia<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/russel/russel/3969.ts;streamtype=TSDOWNLOADER&;name=<link>
 <thumbnail></thumbnail>
 </item>
 
@@ -2154,206 +1164,32 @@
 </item>
 
 <item>
-<title>AstroVinmeenHD<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/russel/russel/3980.ts;streamtype=TSDOWNLOADER&;name=<link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>AstroVellithirai<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/russel/russel/3981.ts;streamtype=TSDOWNLOADER&;name=<link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>AstroPrima<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/russel/russel/3982.ts;streamtype=TSDOWNLOADER&;name=<link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
 <title>AnimalPlanet(HD)sing<title>
 <link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/russel/russel/3999.ts;streamtype=TSDOWNLOADER&;name=<link>
 <thumbnail></thumbnail>
 </item>
 
 <item>
-<title>108 Mio Stadium<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/russel/russel/4013.ts;streamtype=TSDOWNLOADER&;name=<link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>107 Mio Stadium<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/russel/russel/4014.ts;streamtype=TSDOWNLOADER&;name=<link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>106 Mio Stadium<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/russel/russel/4015.ts;streamtype=TSDOWNLOADER&;name=<link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>105 Mio Stadium<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/russel/russel/4016.ts;streamtype=TSDOWNLOADER&;name=<link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>104 Mio Stadium<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/russel/russel/4017.ts;streamtype=TSDOWNLOADER&;name=<link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>103 Mio Stadium<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/russel/russel/4018.ts;streamtype=TSDOWNLOADER&;name=<link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>102 Mio Stadium<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/russel/russel/4019.ts;streamtype=TSDOWNLOADER&;name=<link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>AR | OSN Movies Premiere HD<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/russel/russel/4242.ts;streamtype=TSDOWNLOADER&;name=<link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>AR | OSN MOVIES Kids HD<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/russel/russel/4243.ts;streamtype=TSDOWNLOADER&;name=<link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>AR | OSN Movies HD<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/russel/russel/4244.ts;streamtype=TSDOWNLOADER&;name=<link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>AR | OSN MOVIES Action   HD<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/russel/russel/4245.ts;streamtype=TSDOWNLOADER&;name=<link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>AR | OSN BOX Office<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/russel/russel/4246.ts;streamtype=TSDOWNLOADER&;name=<link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>AR | beIN Sports 13 HD<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/russel/russel/4249.ts;streamtype=TSDOWNLOADER&;name=<link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>AR | beIN Sports 12 HD<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/russel/russel/4250.ts;streamtype=TSDOWNLOADER&;name=<link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>AR | BEIN MOVIES 3 HD<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/russel/russel/4251.ts;streamtype=TSDOWNLOADER&;name=<link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>AR | Bein Movies 2 HD<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/russel/russel/4252.ts;streamtype=TSDOWNLOADER&;name=<link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>AR | Bein Movies  HD<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/russel/russel/4253.ts;streamtype=TSDOWNLOADER&;name=<link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>VIP Bein USA HD<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/russel/russel/4689.ts;streamtype=TSDOWNLOADER&;name=<link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
 <title>VIP USA : NBCSN HD**<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/russel/russel/4680.ts;streamtype=TSDOWNLOADER&;name=<link>
+<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/russel/russel/4667.ts;streamtype=TSDOWNLOADER&;name=<link>
 <thumbnail></thumbnail>
 </item>
 
 <item>
 <title>VIP USA : HISTORY HD**<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/russel/russel/4681.ts;streamtype=TSDOWNLOADER&;name=<link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>VIP USA : Fox Sports 2 HD<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/russel/russel/4682.ts;streamtype=TSDOWNLOADER&;name=<link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>VIP USA : Fox Sports  HD<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/russel/russel/4683.ts;streamtype=TSDOWNLOADER&;name=<link>
+<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/russel/russel/4515.ts;streamtype=TSDOWNLOADER&;name=<link>
 <thumbnail></thumbnail>
 </item>
 
 <item>
 <title>VIP USA : Discovery Science HD<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/russel/russel/4684.ts;streamtype=TSDOWNLOADER&;name=<link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>VIP Sportsnet West HD<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/russel/russel/4685.ts;streamtype=TSDOWNLOADER&;name=<link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>VIP Sportsnet East HD<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/russel/russel/4686.ts;streamtype=TSDOWNLOADER&;name=<link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>VIP Sportnet Pacific HD<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/russel/russel/4687.ts;streamtype=TSDOWNLOADER&;name=<link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>VIP Sportnet Ontario HD<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/russel/russel/4688.ts;streamtype=TSDOWNLOADER&;name=<link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>UFC Fight PASS<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/russel/russel/4713.ts;streamtype=TSDOWNLOADER&;name=<link>
+<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/russel/russel/4118.ts;streamtype=TSDOWNLOADER&;name=<link>
 <thumbnail></thumbnail>
 </item>
 
 <item>
 <title>USA HISTORY<title>
 <link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/russel/russel/4515.ts;streamtype=TSDOWNLOADER&;name=<link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>USA CINEMAX 5 STAR<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/russel/russel/4497.ts;streamtype=TSDOWNLOADER&;name=<link>
 <thumbnail></thumbnail>
 </item>
 
@@ -2366,12 +1202,6 @@
 <item>
 <title>USA : USA NETWORK HD<title>
 <link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/russel/russel/4501.ts;streamtype=TSDOWNLOADER&;name=<link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>USA : TRU TV HD<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/russel/russel/4495.ts;streamtype=TSDOWNLOADER&;name=<link>
 <thumbnail></thumbnail>
 </item>
 
@@ -2466,18 +1296,6 @@
 </item>
 
 <item>
-<title>USA : DISCOVERY FAMILY HD<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/russel/russel/4516.ts;streamtype=TSDOWNLOADER&;name=<link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>USA : DESTINATION AMERICA HD<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/russel/russel/4517.ts;streamtype=TSDOWNLOADER&;name=<link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
 <title>USA : COMEDY CENTRAL HD<title>
 <link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/russel/russel/4494.ts;streamtype=TSDOWNLOADER&;name=<link>
 <thumbnail></thumbnail>
@@ -2546,18 +1364,6 @@
 <item>
 <title>A&E HD<title>
 <link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/russel/russel/4512.ts;streamtype=TSDOWNLOADER&;name=<link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>Olympics 2016 - BBC Red Button<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/russel/russel/4479.ts;streamtype=TSDOWNLOADER&;name=<link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>Aberdeen TV (AUDIO)<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/russel/russel/4538.ts;streamtype=TSDOWNLOADER&;name=<link>
 <thumbnail></thumbnail>
 </item>
 
@@ -2663,545 +1469,8 @@
 <thumbnail></thumbnail>
 </item>
 
-<item>
-<title>The Boss<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/movie/russel/russel/4739.mp4;streamtype=TSDOWNLOADER&;name=<link>
-<thumbnail></thumbnail>
-</item>
 
-<item>
-<title>Batman v Superman Dawn of Justice<title>		
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/movie/russel/russel/4738.mp4;streamtype=TSDOWNLOADER&;name=<link>
-<thumbnail></thumbnail>
-</item>
 
-<item>
-<title>Allegiant<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/movie/russel/russel/4740.mp4;streamtype=TSDOWNLOADER&;name=<link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>A Bug's Life<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/movie/russel/russel/4737.mp4;streamtype=TSDOWNLOADER&;name=<link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>The Legend of Tarzan<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/movie/russel/russel/4736.mp4;streamtype=TSDOWNLOADER&;name=<link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>Neighbors 2: Sorority Rising<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/movie/russel/russel/4735.mp4;streamtype=TSDOWNLOADER&;name=<link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>Amateur Night<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/movie/russel/russel/4734.mp4;streamtype=TSDOWNLOADER&;name=<link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>Now You See Me 2<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/movie/russel/russel/4733.mp4;streamtype=TSDOWNLOADER&;name=<link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>Money Monster<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/movie/russel/russel/4732.mp4;streamtype=TSDOWNLOADER&;name=<link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>Barbershop: The Next Cut<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/movie/russel/russel/4731.mp4;streamtype=TSDOWNLOADER&;name=<link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>UFC 202 Preliminary Fights<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/movie/russel/russel/4728.mp4;streamtype=TSDOWNLOADER&;name=<link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>UFC 202 Early Prelims<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/movie/russel/russel/4729.mp4;streamtype=TSDOWNLOADER&;name=<link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>UFC PPV 202<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/movie/russel/russel/4727.mp4;streamtype=TSDOWNLOADER&;name=<link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>Sky Sports ireland 3pm's only<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/russel/russel/4652.ts;streamtype=TSDOWNLOADER&;name=<link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>Willow HD<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/russel/russel/4669.ts;streamtype=TSDOWNLOADER&;name=<link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>W<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/russel/russel/4641.ts;streamtype=TSDOWNLOADER&;name=<link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>Sportsnet World<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/russel/russel/4665.ts;streamtype=TSDOWNLOADER&;name=<link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>TLC   2<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/russel/russel/4643.ts;streamtype=TSDOWNLOADER&;name=<link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>TLC   <title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/russel/russel/4644.ts;streamtype=TSDOWNLOADER&;name=<link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>Ten  HD<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/russel/russel/4670.ts;streamtype=TSDOWNLOADER&;name=<link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>Syfy   <title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/russel/russel/4645.ts;streamtype=TSDOWNLOADER&;name=<link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>Sony Chnl   <title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/russel/russel/4646.ts;streamtype=TSDOWNLOADER&;name=<link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>S4C<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/russel/russel/4642.ts;streamtype=TSDOWNLOADER&;name=<link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>ID   <title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/russel/russel/4648.ts;streamtype=TSDOWNLOADER&;name=<link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>NBCSN<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/russel/russel/4667.ts;streamtype=TSDOWNLOADER&;name=<link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>C More First<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/russel/russel/4671.ts;streamtype=TSDOWNLOADER&;name=<link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>SC: C More Tennis<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/russel/russel/4653.ts;streamtype=TSDOWNLOADER&;name=<link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>SC: C More Sport<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/russel/russel/4654.ts;streamtype=TSDOWNLOADER&;name=<link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>SC: C More Series<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/russel/russel/4655.ts;streamtype=TSDOWNLOADER&;name=<link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>SC: C More Live<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/russel/russel/4656.ts;streamtype=TSDOWNLOADER&;name=<link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>SC: C More Hockey<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/russel/russel/4657.ts;streamtype=TSDOWNLOADER&;name=<link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>SC: C More Hits<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/russel/russel/4658.ts;streamtype=TSDOWNLOADER&;name=<link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>SC: C More Golf<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/russel/russel/4659.ts;streamtype=TSDOWNLOADER&;name=<link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>SC: C More Fotboll<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/russel/russel/4660.ts;streamtype=TSDOWNLOADER&;name=<link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>SC: C More First<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/russel/russel/4661.ts;streamtype=TSDOWNLOADER&;name=<link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>SC: C More Emotion<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/russel/russel/4662.ts;streamtype=TSDOWNLOADER&;name=<link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>SC: C More Action<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/russel/russel/4663.ts;streamtype=TSDOWNLOADER&;name=<link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>C More Action<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/russel/russel/4672.ts;streamtype=TSDOWNLOADER&;name=<link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>SC: C More Live<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/russel/russel/4656.ts;streamtype=TSDOWNLOADER&;name=<link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>SC: C More Hockey<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/russel/russel/4657.ts;streamtype=TSDOWNLOADER&;name=<link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>SC: C More Hits<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/russel/russel/4658.ts;streamtype=TSDOWNLOADER&;name=<link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>SC: C More Golf<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/russel/russel/4659.ts;streamtype=TSDOWNLOADER&;name=<link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>SC: C More Fotboll<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/russel/russel/4660.ts;streamtype=TSDOWNLOADER&;name=<link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>SC: C More First<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/russel/russel/4661.ts;streamtype=TSDOWNLOADER&;name=<link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>SC: C More Emotion<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/russel/russel/4662.ts;streamtype=TSDOWNLOADER&;name=<link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>SC: C More Action<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/russel/russel/4663.ts;streamtype=TSDOWNLOADER&;name=<link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>BBC Olympics HD 8<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/russel/russel/4471.ts;streamtype=TSDOWNLOADER&;name=<link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>BBC OLYMPICS HD 7<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/russel/russel/4472.ts;streamtype=TSDOWNLOADER&;name=<link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>BBC OLYMPICS HD 6<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/russel/russel/4473.ts;streamtype=TSDOWNLOADER&;name=<link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>BBC OLYMPICS HD 5<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/russel/russel/4474.ts;streamtype=TSDOWNLOADER&;name=<link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>BBC OLYMPICS HD 4<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/russel/russel/4475.ts;streamtype=TSDOWNLOADER&;name=<link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>BBC OLYMPICS HD 3<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/russel/russel/4476.ts;streamtype=TSDOWNLOADER&;name=<link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>BBC OLYMPICS HD 2<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/russel/russel/4477.ts;streamtype=TSDOWNLOADER&;name=<link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>BBC OLYMPICS HD <title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/russel/russel/4478.ts;streamtype=TSDOWNLOADER&;name=<link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>BT SPORTS 3 HD*<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/russel/russel/4466.ts;streamtype=TSDOWNLOADER&;name=<link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>BT SPORTS ESPN HD<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/russel/russel/4467.ts;streamtype=TSDOWNLOADER&;name=<link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>BT SPORTS 2 HD*<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/russel/russel/4468.ts;streamtype=TSDOWNLOADER&;name=<link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>BT SPORTS  HD*<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/russel/russel/4469.ts;streamtype=TSDOWNLOADER&;name=<link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>Bt Sport 2 HD<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/russel/russel/4462.ts;streamtype=TSDOWNLOADER&;name=<link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>Bt Sport 2 SD<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/russel/russel/4463.ts;streamtype=TSDOWNLOADER&;name=<link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>BT Sport  HD*<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/russel/russel/4464.ts;streamtype=TSDOWNLOADER&;name=<link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>BT Sport  Backup<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/russel/russel/4465.ts;streamtype=TSDOWNLOADER&;name=<link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>EXYU | ARENA SPORT 4<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/russel/russel/4438.ts;streamtype=TSDOWNLOADER&;name=<link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>EXYU | ARENA SPORT 4 HD<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/russel/russel/4439.ts;streamtype=TSDOWNLOADER&;name=<link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>EXYU | ARENA SPORT 3<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/russel/russel/4440.ts;streamtype=TSDOWNLOADER&;name=<link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>EXYU | ARENA SPORT 3 HD<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/russel/russel/4441.ts;streamtype=TSDOWNLOADER&;name=<link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>EXYU | ARENA SPORT 2<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/russel/russel/4442.ts;streamtype=TSDOWNLOADER&;name=<link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>EXYU | ARENA SPORT 2 HD<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/russel/russel/4443.ts;streamtype=TSDOWNLOADER&;name=<link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>EXYU | ARENA SPORT <title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/russel/russel/4444.ts;streamtype=TSDOWNLOADER&;name=<link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>EXYU | ARENA SPORT  HD<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/russel/russel/4445.ts;streamtype=TSDOWNLOADER&;name=<link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>beIN Sports 3 HD (FR)<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/russel/russel/4455.ts;streamtype=TSDOWNLOADER&;name=<link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>beIN Sports 2 HD (FR)<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/russel/russel/4454.ts;streamtype=TSDOWNLOADER&;name=<link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>beIN Sports  HD (FR)<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/russel/russel/4453.ts;streamtype=TSDOWNLOADER&;name=<link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>UK | Sky Sports News*<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/russel/russel/4425.ts;streamtype=TSDOWNLOADER&;name=<link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>UK | Sky Sports F1 HDS Streaming<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/russel/russel/4426.ts;streamtype=TSDOWNLOADER&;name=<link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>UK | Sky Sports 5*<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/russel/russel/4427.ts;streamtype=TSDOWNLOADER&;name=<link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>UK | Sky Sports 4*<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/russel/russel/4428.ts;streamtype=TSDOWNLOADER&;name=<link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>UK | Sky Sports 3*<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/russel/russel/4429.ts;streamtype=TSDOWNLOADER&;name=<link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>UK | Sky Sports 2*<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/russel/russel/4430.ts;streamtype=TSDOWNLOADER&;name=<link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>UK | Sky Sports  HDS Streaming<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/russel/russel/4431.ts;streamtype=TSDOWNLOADER&;name=<link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>UK | Racing UK*<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/russel/russel/4432.ts;streamtype=TSDOWNLOADER&;name=<link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>UK | Premier Live*<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/russel/russel/4433.ts;streamtype=TSDOWNLOADER&;name=<link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>UK | MUTV HDS Streaming<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/russel/russel/4434.ts;streamtype=TSDOWNLOADER&;name=<link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>UK | Eir Sports *<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/russel/russel/4435.ts;streamtype=TSDOWNLOADER&;name=<link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>UK | Box Nation*<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/russel/russel/4436.ts;streamtype=TSDOWNLOADER&;name=<link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>UK | At the Races*<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/russel/russel/4437.ts;streamtype=TSDOWNLOADER&;name=<link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>Celtic TV SD  (Bonus)<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/russel/russel/4421.ts;streamtype=TSDOWNLOADER&;name=<link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>SportKlub 3<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/russel/russel/4424.ts;streamtype=TSDOWNLOADER&;name=<link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>SportKlub 2<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/russel/russel/4423.ts;streamtype=TSDOWNLOADER&;name=<link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>SportKlub <title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/russel/russel/4422.ts;streamtype=TSDOWNLOADER&;name=<link>
-<thumbnail></thumbnail>
-</item>
 
 
 
