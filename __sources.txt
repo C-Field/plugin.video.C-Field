@@ -72,7 +72,7 @@
 
 <item>
 <title>ITV 3HD<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/dillon/dillon/4092.ts;streamtype=TSDOWNLOADER&;name=ITV3HD<link>
+<link>plugin://plugin.video.f4mTester/?url=http://cp.dmbshare.net:8000/live/alessandro/alessandro/6827.ts;streamtype=TSDOWNLOADER&;name=ITV3HD<link>
 <thumbnail></thumbnail>
 </item>
 
