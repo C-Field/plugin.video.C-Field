@@ -343,6 +343,12 @@
 </item>
 
 <item>
+<title>MTV BASE<title>
+<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/dillon/dillon/4318.ts;streamtype=TSDOWNLOADER&;name=MTVBASE<link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
 <title>Slam</title>
 <link>http://hls2.slamfm.nl/content/slamtv/slamtv_0.m3u8</link>
 <thumbnail>http://www.undergrowthproductions.com/wp-content/uploads/2015/11/SLAM-TV-thumbnail.jpg</thumbnail>
