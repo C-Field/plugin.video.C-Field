@@ -191,8 +191,8 @@
 </item>
 
 <item>
-<title>FILM4<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/dillon/dillon/4107.ts;streamtype=TSDOWNLOADER&;name=FILM4<link>
+<title>Film4<title>
+<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/Charly/Charly/445.ts;streamtype=TSDOWNLOADER&;name=Film4<link>
 <thumbnail></thumbnail>
 </item>
 
@@ -203,14 +203,32 @@
 </item>
 
 <item>
+<title>DAVE<title>
+<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/Charly/Charly/437.ts;streamtype=TSDOWNLOADER&;name=DAVE<link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
 <title>3e<title>
 <link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/dillon/dillon/4153.ts;streamtype=TSDOWNLOADER&;name=3e<link>
 <thumbnail></thumbnail>
 </item>
 
 <item>
+<title>3e<title>
+<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/Charly/Charly/2344.ts;streamtype=TSDOWNLOADER&;name=3e<link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
 <title>NICK JR<title>
 <link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/dillon/dillon/4075.ts;streamtype=TSDOWNLOADER&;name=NICK JR<link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>NICK JR<title>
+<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/Charly/Charly/2332.ts;streamtype=TSDOWNLOADER&;name=NICK JR<link>
 <thumbnail></thumbnail>
 </item>
 
@@ -233,14 +251,32 @@
 </item>
 
 <item>
+<title>DISNEY CHANNEL<title>
+<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/Charly/Charly/440.ts;streamtype=TSDOWNLOADER&;name=DISNEYCHANNEL<link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
 <title>DISNEY JUNIOR<title>
 <link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/dillon/dillon/4114.ts;streamtype=TSDOWNLOADER&;name=DISNEYJUNIOR<link>
 <thumbnail></thumbnail>
 </item>
 
 <item>
+<title>DISNEY JUNIOR<title>
+<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/Charly/Charly/440.ts;streamtype=TSDOWNLOADER&;name=DISNEYJUNIOR<link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
 <title>DISNEY XD<title>
 <link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/dillon/dillon/4113.ts;streamtype=TSDOWNLOADER&;name=DISNEYXD<link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>DISNEY XD<title>
+<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/Charly/Charly/2080.ts;streamtype=TSDOWNLOADER&;name=DISNEYXD<link>
 <thumbnail></thumbnail>
 </item>
 
@@ -263,8 +299,20 @@
 </item>
 
 <item>
+<title>Sky Movies Monster<title>
+<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/Charly/Charly/1389.ts;streamtype=TSDOWNLOADER&;name=SkyMoviesMonster<link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
 <title>Sky Movies Premiere HD<title>
 <link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/dillon/dillon/4743.ts;streamtype=TSDOWNLOADER&;name=SkyPremiereHD<link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>Sky Movies Premiere HD<title>
+<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/Charly/Charly/469.ts;streamtype=TSDOWNLOADER&;name=SkyPremiereHD<link>
 <thumbnail></thumbnail>
 </item>
 
@@ -275,8 +323,20 @@
 </item>
 
 <item>
+<title>SKY MOVIES CRIME & THRILLER<title>
+<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/Charly/Charly/472.ts;streamtype=TSDOWNLOADER&;name=SKYTHRILLER<link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
 <title>SKY MOVIES SELECT HD<title>
 <link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/dillon/dillon/4751.ts;streamtype=TSDOWNLOADER&;name=SKYSELECTHD<link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>SKY MOVIES SELECT HD<title>
+<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/Charly/Charly/471.ts;streamtype=TSDOWNLOADER&;name=SKYSELECTHD<link>
 <thumbnail></thumbnail>
 </item>
 
@@ -287,8 +347,20 @@
 </item>
 
 <item>
+<title>SKY MOVIES SCIFI HD<title>
+<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/Charly/Charly/470.ts;streamtype=TSDOWNLOADER&;name=SKYSCIFI<link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
 <title>SKY MOVIES MODERN GREAT<title>
 <link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/dillon/dillon/4053.ts;streamtype=TSDOWNLOADER&;name=SKYMODERN<link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>SKY MOVIES MODERN GREAT<title>
+<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/Charly/Charly/468.ts;streamtype=TSDOWNLOADER&;name=SKYMODERN<link>
 <thumbnail></thumbnail>
 </item>
 
@@ -299,8 +371,20 @@
 </item>
 
 <item>
+<title>SKY MOVIES DRAMA HD<title>
+<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/Charly/Charly/467.ts;streamtype=TSDOWNLOADER&;name=SKYDRAMA<link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
 <title>SKY MOVIES ACTION<title>
 <link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/dillon/dillon/4750.ts;streamtype=TSDOWNLOADER&;name=SKYACTION<link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>SKY MOVIES ACTION<title>
+<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/Charly/Charly/466.ts;streamtype=TSDOWNLOADER&;name=SKYACTION<link>
 <thumbnail></thumbnail>
 </item>
 
@@ -311,14 +395,32 @@
 </item>
 
 <item>
+<title>SKY MOVIES ATLANTIC<title>
+<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/Charly/Charly/465.ts;streamtype=TSDOWNLOADER&;name=SKY ATLANTIC<link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
 <title>SKY MOVIES FAMILY HD<title>
 <link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/dillon/dillon/4745.ts;streamtype=TSDOWNLOADER&;name=SKYFAMILY<link>
 <thumbnail></thumbnail>
 </item>
 
 <item>
+<title>SKY MOVIES FAMILY HD<title>
+<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/Charly/Charly/51.ts;streamtype=TSDOWNLOADER&;name=SKYFAMILY<link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
 <title>SKY MOVIES COMEDY HD<title>
 <link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/dillon/dillon/4746.ts;streamtype=TSDOWNLOADER&;name=SKYCOMEDY<link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>SKY MOVIES COMEDY HD<title>
+<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/Charly/Charly/49.ts;streamtype=TSDOWNLOADER&;name=SKYCOMEDY<link>
 <thumbnail></thumbnail>
 </item>
 
@@ -331,6 +433,12 @@
 <item>
 <title>SKY LIVING<title>
 <link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/dillon/dillon/4059.ts;streamtype=TSDOWNLOADER&;name=SKYLIVING<link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>SKY LIVING<title>
+<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/Charly/Charly/453.ts;streamtype=TSDOWNLOADER&;name=SKYLIVING<link>
 <thumbnail></thumbnail>
 </item>
 
