@@ -311,6 +311,12 @@
 </item>
 
 <item>
+<title>Sky Movies Showcase<title>
+<link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/julie/julie/1684.ts;streamtype=TSDOWNLOADER&;name=SkyMoviesshowcase<link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
 <title>Sky Movies Monster<title>
 <link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/Charly/Charly/1389.ts;streamtype=TSDOWNLOADER&;name=SkyMoviesMonster<link>
 <thumbnail></thumbnail>
