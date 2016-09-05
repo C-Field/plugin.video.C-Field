@@ -1,6 +1,6 @@
 <item>
 <title>SKY NEWS HD<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/dillon/dillon/5163.ts;streamtype=TSDOWNLOADER&;name=SKYNEWSHD<link>
+<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/dillon/dillon/5908.ts;streamtype=TSDOWNLOADER&;name=SKYNEWSHD<link>
 <thumbnail></thumbnail>
 </item>
 
