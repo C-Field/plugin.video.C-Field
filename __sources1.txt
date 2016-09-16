@@ -24,13 +24,13 @@
 
 <item>
 <title>BBC One<title>
-<link>plugin://plugin.video.f4mTester/?url=http://globalstream.noip.us:8000/live/redsea/redsea/687.ts;streamtype=TSDOWNLOADER&;name=BBC1<link>
+<link>plugin://plugin.video.f4mTester/?url=http://s1.finoip.com:20000/live/mio/mio/3633.ts;streamtype=TSDOWNLOADER&;name=BBC1<link>
 <thumbnail></thumbnail>
 </item>
 
 <item>
 <title>BBC Two<title>
-<link>plugin://plugin.video.f4mTester/?url=http://globalstream.noip.us:8000/live/redsea/redsea/688.ts;streamtype=TSDOWNLOADER&;name=BBC2<link>
+<link>plugin://plugin.video.f4mTester/?url=http://s1.finoip.com:20000/live/mio/mio/3635.ts;streamtype=TSDOWNLOADER&;name=BBC2<link>
 <thumbnail></thumbnail>
 </item>
 
