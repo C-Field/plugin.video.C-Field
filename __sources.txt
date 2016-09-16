@@ -1,6 +1,6 @@
 <item>
 <title>SKY NEWS HD<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/dillon/dillon/5908.ts;streamtype=TSDOWNLOADER&;name=SKYNEWSHD<link>
+<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/dillon/dillon/6976.ts;streamtype=TSDOWNLOADER&;name=SKYNEWSHD<link>
 <thumbnail></thumbnail>
 </item>
 
@@ -12,7 +12,7 @@
 
 <item>
 <title>SKY SPORTS NEWS<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/dillon/dillon/5442.ts;streamtype=TSDOWNLOADER&;name=SKYSPORTSNEWS<link>
+<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/dillon/dillon/6968.ts;streamtype=TSDOWNLOADER&;name=SKYSPORTSNEWS<link>
 <thumbnail></thumbnail>
 </item>
 
@@ -24,7 +24,7 @@
 
 <item>
 <title>ABC NEWS HD<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/dillon/dillon/4484.ts;streamtype=TSDOWNLOADER&;name=ABCNEWSHD<link>
+<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/dillon/dillon/6698.ts;streamtype=TSDOWNLOADER&;name=ABCNEWSHD<link>
 <thumbnail></thumbnail>
 </item>
 
@@ -42,7 +42,7 @@
 
 <item>
 <title>BBC 1HD<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/dillon/dillon/5312.ts;streamtype=TSDOWNLOADER&;name=BBC1HD<link>
+<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/dillon/dillon/7025.ts;streamtype=TSDOWNLOADER&;name=BBC1HD<link>
 <thumbnail></thumbnail>
 </item>
 
@@ -54,7 +54,7 @@
 
 <item>
 <title>BBC 2HD<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/dillon/dillon/5310.ts;streamtype=TSDOWNLOADER&;name=BBC2HD<link>
+<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/dillon/dillon/7023.ts;streamtype=TSDOWNLOADER&;name=BBC2HD<link>
 <thumbnail></thumbnail>
 </item>
 
@@ -66,13 +66,13 @@
 
 <item>
 <title>BBC Parliament<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/dillon/dillon/4446.ts;streamtype=TSDOWNLOADER&;name=BBCParliament<link>
+<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/dillon/dillon/6938.ts;streamtype=TSDOWNLOADER&;name=BBCParliament<link>
 <thumbnail></thumbnail>
 </item>
 
 <item>
 <title>ITV 1<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/dillon/dillon/5234.ts;streamtype=TSDOWNLOADER&;name=ITV1<link>
+<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/dillon/dillon/7021.ts;streamtype=TSDOWNLOADER&;name=ITV1<link>
 <thumbnail></thumbnail>
 </item>
 
@@ -83,14 +83,14 @@
 </item>
 
 <item>
-<title>ITV HD<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/dillon/dillon/4095.ts;streamtype=TSDOWNLOADER&;name=ITVHD<link>
+<title>ITV BE<title>
+<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/dillon/dillon/7022.ts;streamtype=TSDOWNLOADER&;name=ITVHD<link>
 <thumbnail></thumbnail>
 </item>
 
 <item>
 <title>ITV 2<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/dillon/dillon/5233.ts;streamtype=TSDOWNLOADER&;name=ITV2<link>
+<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/dillon/dillon/7020.ts;streamtype=TSDOWNLOADER&;name=ITV2<link>
 <thumbnail></thumbnail>
 </item>
 
@@ -102,7 +102,7 @@
 
 <item>
 <title>ITV 3HD<title>
-<link>plugin://plugin.video.f4mTester/?url=http://cp.dmbshare.net:8000/live/alessandro/alessandro/6827.ts;streamtype=TSDOWNLOADER&;name=ITV3HD<link>
+<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/dillon/dillon/7019.ts;streamtype=TSDOWNLOADER&;name=ITV3HD<link>
 <thumbnail></thumbnail>
 </item>
 
@@ -114,7 +114,7 @@
 
 <item>
 <title>ITV 4<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/dillon/dillon/5231.ts;streamtype=TSDOWNLOADER&;name=ITV4<link>
+<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/dillon/dillon/7018.ts;streamtype=TSDOWNLOADER&;name=ITV4<link>
 <thumbnail></thumbnail>
 </item>
 
@@ -126,19 +126,19 @@
 
 <item>
 <title>ITV ENCORE<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/dillon/dillon/5235.ts;streamtype=TSDOWNLOADER&;name=ITVENCORE<link>
+<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/dillon/dillon/6961.ts;streamtype=TSDOWNLOADER&;name=ITVENCORE<link>
 <thumbnail></thumbnail>
 </item>
 
 <item>
 <title>ITV BE<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/dillon/dillon/5236.ts;streamtype=TSDOWNLOADER&;name=ITVBE<link>
+<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/dillon/dillon/7022.ts;streamtype=TSDOWNLOADER&;name=ITVBE<link>
 <thumbnail></thumbnail>
 </item>
 
 <item>
 <title>ITV BE HD<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/dillon/dillon/5236.ts;streamtype=TSDOWNLOADER&;name=ITVBEHD<link>
+<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/dillon/dillon/7022.ts;streamtype=TSDOWNLOADER&;name=ITVBEHD<link>
 <thumbnail></thumbnail>
 </item>
 
@@ -150,7 +150,7 @@
 
 <item>
 <title>CHANNEL 4 HD<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/dillon/dillon/5285.ts;streamtype=TSDOWNLOADER&;name=CHANNEL4HD<link>
+<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/dillon/dillon/7013.ts;streamtype=TSDOWNLOADER&;name=CHANNEL4HD<link>
 <thumbnail></thumbnail>
 </item>
 
@@ -168,7 +168,7 @@
 
 <item>
 <title>FIVE USA<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/dillon/dillon/4151.ts;streamtype=TSDOWNLOADER&;name=FIVEUSA<link>
+<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/dillon/dillon/6966.ts;streamtype=TSDOWNLOADER&;name=FIVEUSA<link>
 <thumbnail></thumbnail>
 </item>
 
@@ -180,7 +180,7 @@
 
 <item>
 <title>Gold<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/dillon/dillon/5244.ts;streamtype=TSDOWNLOADER&;name=Gold<link>
+<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/dillon/dillon/7007.ts;streamtype=TSDOWNLOADER&;name=Gold<link>
 <thumbnail></thumbnail>
 </item>
 
@@ -192,13 +192,13 @@
 
 <item>
 <title>FILM 4<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/dillon/dillon/5251.ts;streamtype=TSDOWNLOADER&;name=FILM4<link>
+<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/dillon/dillon/7008.ts;streamtype=TSDOWNLOADER&;name=FILM4<link>
 <thumbnail></thumbnail>
 </item>
 
 <item>
 <title>DAVE<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/dillon/dillon/5275.ts;streamtype=TSDOWNLOADER&;name=DAVE<link>
+<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/dillon/dillon/7009.ts;streamtype=TSDOWNLOADER&;name=DAVE<link>
 <thumbnail></thumbnail>
 </item>
 
@@ -210,7 +210,7 @@
 
 <item>
 <title>3e<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/dillon/dillon/5327.ts;streamtype=TSDOWNLOADER&;name=3e<link>
+<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/dillon/dillon/6943.ts;streamtype=TSDOWNLOADER&;name=3e<link>
 <thumbnail></thumbnail>
 </item>
 
@@ -222,7 +222,7 @@
 
 <item>
 <title>NICK JR<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/dillon/dillon/5203.ts;streamtype=TSDOWNLOADER&;name=NICK JR<link>
+<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/dillon/dillon/6957.ts;streamtype=TSDOWNLOADER&;name=NICK JR<link>
 <thumbnail></thumbnail>
 </item>
 
@@ -233,20 +233,20 @@
 </item>
 
 <item>
-<title>NICK JR +1<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/dillon/dillon/4339.ts;streamtype=TSDOWNLOADER&;name=NICKJR+1<link>
+<title>NICK JR TOO<title>
+<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/dillon/dillon/6901.ts;streamtype=TSDOWNLOADER&;name=NICKJRTOO<link>
 <thumbnail></thumbnail>
 </item>
 
 <item>
 <title>CARTOON NETWORK<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/dillon/dillon/5292.ts;streamtype=TSDOWNLOADER&;name=CN<link>
+<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/dillon/dillon/6993.ts;streamtype=TSDOWNLOADER&;name=CN<link>
 <thumbnail></thumbnail>
 </item>
 
 <item>
 <title>DISNEY CHANNEL<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/dillon/dillon/5267.ts;streamtype=TSDOWNLOADER&;name=DISNEYCHANNEL<link>
+<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/dillon/dillon/6992.ts;streamtype=TSDOWNLOADER&;name=DISNEYCHANNEL<link>
 <thumbnail></thumbnail>
 </item>
 
@@ -258,7 +258,7 @@
 
 <item>
 <title>DISNEY JUNIOR<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/dillon/dillon/5266.ts;streamtype=TSDOWNLOADER&;name=DISNEYJUNIOR<link>
+<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/dillon/dillon/6991.ts;streamtype=TSDOWNLOADER&;name=DISNEYJUNIOR<link>
 <thumbnail></thumbnail>
 </item>
 
@@ -270,7 +270,7 @@
 
 <item>
 <title>DISNEY XD<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/dillon/dillon/5265.ts;streamtype=TSDOWNLOADER&;name=DISNEYXD<link>
+<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/dillon/dillon/6920.ts;streamtype=TSDOWNLOADER&;name=DISNEYXD<link>
 <thumbnail></thumbnail>
 </item>
 
@@ -282,19 +282,19 @@
 
 <item>
 <title>TINY POP<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/dillon/dillon/5138.ts;streamtype=TSDOWNLOADER&;name=TINYPOP<link>
+<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/dillon/dillon/6885.ts;streamtype=TSDOWNLOADER&;name=TINYPOP<link>
 <thumbnail></thumbnail>
 </item>
 
 <item>
-<title>TINY POP +1<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/dillon/dillon/4341.ts;streamtype=TSDOWNLOADER&;name=TINYPOP+1<link>
-<thumbnail></thumbnail>
+<title>NICKELODEN<title>
+<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/dillon/dillon/6956.ts;streamtype=TSDOWNLOADER&;name=NICK<link>
+<thumbnail>NICK</thumbnail>
 </item>
 
 <item>
 <title>BOOMERANG<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/dillon/dillon/5306.ts;streamtype=TSDOWNLOADER&;name=BOOMERANG<link>
+<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/dillon/dillon/6936.ts;streamtype=TSDOWNLOADER&;name=BOOMERANG<link>
 <thumbnail></thumbnail>
 </item>
 
@@ -324,7 +324,7 @@
 
 <item>
 <title>Sky Movies Premiere HD<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/dillon/dillon/4743.ts;streamtype=TSDOWNLOADER&;name=SkyPremiereHD<link>
+<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/dillon/dillon/6482.ts;streamtype=TSDOWNLOADER&;name=SkyPremiereHD<link>
 <thumbnail></thumbnail>
 </item>
 
@@ -336,7 +336,7 @@
 
 <item>
 <title>SKY MOVIESTHRILLER<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/dillon/dillon/5165.ts;streamtype=TSDOWNLOADER&;name=SKYTHRILLER<link>
+<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/dillon/dillon/6483.ts;streamtype=TSDOWNLOADER&;name=SKYTHRILLER<link>
 <thumbnail></thumbnail>
 </item>
 
@@ -348,7 +348,7 @@
 
 <item>
 <title>SKY MOVIES SELECT HD<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/dillon/dillon/4751.ts;streamtype=TSDOWNLOADER&;name=SKYSELECTHD<link>
+<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/dillon/dillon/6489.ts;streamtype=TSDOWNLOADER&;name=SKYSELECTHD<link>
 <thumbnail></thumbnail>
 </item>
 
@@ -360,7 +360,7 @@
 
 <item>
 <title>SKY MOVIES SCIFI HD<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/dillon/dillon/4749.ts;streamtype=TSDOWNLOADER&;name=SKYSCIFI<link>
+<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/dillon/dillon/6487.ts;streamtype=TSDOWNLOADER&;name=SKYSCIFI<link>
 <thumbnail></thumbnail>
 </item>
 
@@ -372,7 +372,7 @@
 
 <item>
 <title>SKY MOVIES MODERN GREAT HD<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/dillon/dillon/4748.ts;streamtype=TSDOWNLOADER&;name=SKYMODERN<link>
+<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/dillon/dillon/6486.ts;streamtype=TSDOWNLOADER&;name=SKYMODERN<link>
 <thumbnail></thumbnail>
 </item>
 
@@ -384,7 +384,7 @@
 
 <item>
 <title>SKY MOVIES DRAMA HD<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/dillon/dillon/5172.ts;streamtype=TSDOWNLOADER&;name=SKYDRAMA<link>
+<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/dillon/dillon/6485.ts;streamtype=TSDOWNLOADER&;name=SKYDRAMA<link>
 <thumbnail></thumbnail>
 </item>
 
@@ -396,7 +396,7 @@
 
 <item>
 <title>SKY MOVIES ACTION HD<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/dillon/dillon/4750.ts;streamtype=TSDOWNLOADER&;name=SKYACTION<link>
+<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/dillon/dillon/6488.ts;streamtype=TSDOWNLOADER&;name=SKYACTION<link>
 <thumbnail></thumbnail>
 </item>
 
@@ -408,7 +408,7 @@
 
 <item>
 <title>SKY MOVIES ATLANTIC<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/dillon/dillon/4060.ts;streamtype=TSDOWNLOADER&;name=SKY ATLANTIC<link>
+<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/dillon/dillon/7002.ts;streamtype=TSDOWNLOADER&;name=SKY ATLANTIC<link>
 <thumbnail></thumbnail>
 </item>
 
@@ -420,7 +420,7 @@
 
 <item>
 <title>SKY MOVIES FAMILY HD<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/dillon/dillon/4745.ts;streamtype=TSDOWNLOADER&;name=SKYFAMILY<link>
+<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/dillon/dillon/6481ts;streamtype=TSDOWNLOADER&;name=SKYFAMILY<link>
 <thumbnail></thumbnail>
 </item>
 
@@ -432,7 +432,7 @@
 
 <item>
 <title>SKY MOVIES COMEDY HD<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/dillon/dillon/4746.ts;streamtype=TSDOWNLOADER&;name=SKYCOMEDY<link>
+<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/dillon/dillon/6484.ts;streamtype=TSDOWNLOADER&;name=SKYCOMEDY<link>
 <thumbnail></thumbnail>
 </item>
 
@@ -444,13 +444,13 @@
 
 <item>
 <title>SKY MOVIES DISNEY HD<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/dillon/dillon/4744.ts;streamtype=TSDOWNLOADER&;name=SKYDISNEY<link>
+<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/dillon/dillon/6986.ts;streamtype=TSDOWNLOADER&;name=SKYDISNEY<link>
 <thumbnail></thumbnail>
 </item>
 
 <item>
 <title>SKY LIVING<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/dillon/dillon/5164.ts;streamtype=TSDOWNLOADER&;name=SKYLIVING<link>
+<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/dillon/dillon/6967.ts;streamtype=TSDOWNLOADER&;name=SKYLIVING<link>
 <thumbnail></thumbnail>
 </item>
 
@@ -461,8 +461,8 @@
 </item>
 
 <item>
-<title>SKY LIVING +1<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/dillon/dillon/4337.ts;streamtype=TSDOWNLOADER&;name=SKYALIVING+1<link>
+<title>TOM AND JERRY 24/7<title>
+<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/dillon/dillon/6341.ts;streamtype=TSDOWNLOADER&;name=TOMANDJERRY<link>
 <thumbnail></thumbnail>
 </item>
 
