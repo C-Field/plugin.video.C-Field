@@ -12,7 +12,7 @@
 
 <item>
 <title>3E<title>
-<link>plugin://plugin.video.f4mTester/?url=http://tv2iptv.com:8000/live/redsea/redsea/718.ts;streamtype=TSDOWNLOADER&;name=3E<link>
+<link>plugin://plugin.video.f4mTester/?url=http://globalstream.noip.us:8000/live/redsea/redsea/714.ts;streamtype=TSDOWNLOADER&;name=3E<link>
 <thumbnail></thumbnail>
 </item>
 
