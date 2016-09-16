@@ -1,5 +1,5 @@
 <item>
-<title>MTV <title>
+<title>MTV<title>
 <link>plugin://plugin.video.f4mTester/?url=http://s1.finoip.com:20000/live/mio/mio/3615.ts;streamtype=TSDOWNLOADER&;name=MTV<link>
 <thumbnail></thumbnail>
 </item>
