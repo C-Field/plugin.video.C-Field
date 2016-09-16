@@ -624,6 +624,12 @@ item>
 </item>
 
 <item>
+<title>History 2<title>
+<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/dillon/dillon/6990.ts;streamtype=TSDOWNLOADER&;name=History2<link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
 <title>History USA<title>
 <link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/dillon/dillon/6686.ts;streamtype=TSDOWNLOADER&;name=HistoryUSA<link>
 <thumbnail></thumbnail>
