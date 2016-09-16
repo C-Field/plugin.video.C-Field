@@ -586,6 +586,7 @@
 <thumbnail></thumbnail>
 </item>
 
+<item>
 <title>BoxNation<title>
 <link>plugin://plugin.video.f4mTester/?url=http://s1.finoip.com:20000/live/mio/mio/3552.ts;streamtype=TSDOWNLOADER&;name=BOXNAION<link>
 <thumbnail></thumbnail>
