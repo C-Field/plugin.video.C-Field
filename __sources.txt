@@ -491,6 +491,13 @@
 </item>
 
 <item>
+<title>KISS TV</title>
+<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/dillon/dillon/6960.ts;streamtype=TSDOWNLOADER&;name=KISSTV</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
 <title>VEVO MUSIC TV</title>
 <link>http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/05/prog_index.m3u8?key=tbd</link>
 <thumbnail>http://cordcutting.com/images/plex-images/vevo.jpg</thumbnail>
