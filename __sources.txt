@@ -1,4 +1,10 @@
 <item>
+<title>4K MOVIES<title>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/deb/deb/19827.ts;streamtype=TSDOWNLOADER&;name=4KMOVIES<link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
 <title>SKY NEWS HD<title>
 <link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/dillon/dillon/6976.ts;streamtype=TSDOWNLOADER&;name=SKYNEWSHD<link>
 <thumbnail></thumbnail>
