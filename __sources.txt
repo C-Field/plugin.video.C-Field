@@ -89,6 +89,12 @@
 </item>
 
 <item>
+<title>ITV +1<title>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/deb/deb/13578.ts;streamtype=TSDOWNLOADER&;name=ITV+1<link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
 <title>ITV BE<title>
 <link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/dillon/dillon/7022.ts;streamtype=TSDOWNLOADER&;name=ITVHD<link>
 <thumbnail></thumbnail>
