@@ -5,6 +5,12 @@
 </item>
 
 <item>
+<title>SKY NEWS<title>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/michael/michael/14514.ts;streamtype=TSDOWNLOADER&;name=SKYNEWS<link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
 <title>SKY NEWS HD<title>
 <link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/dillon/dillon/6976.ts;streamtype=TSDOWNLOADER&;name=SKYNEWSHD<link>
 <thumbnail></thumbnail>
@@ -13,6 +19,12 @@
 <item>
 <title>SKY NEWS<title>
 <link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/Charly/Charly/781.ts;streamtype=TSDOWNLOADER&;name=SKYNEWS<link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>SKY SPORTS NEWS HD<title>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/michael/michael/18269.ts;streamtype=TSDOWNLOADER&;name=SKYSPORTSNEWSHD<link>
 <thumbnail></thumbnail>
 </item>
 
@@ -36,6 +48,12 @@
 
 <item>
 <title>BBC NEWS<title>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/michael/michael/18213.ts;streamtype=TSDOWNLOADER&;name=BBC NEWS<link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>BBC NEWS<title>
 <link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/saib/fares/1065.ts;streamtype=TSDOWNLOADER&;name=BBC NEWS<link>
 <thumbnail></thumbnail>
 </item>
@@ -43,6 +61,12 @@
 <item>
 <title>BBC NEWS<title>
 <link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/Charly/Charly/1065.ts;streamtype=TSDOWNLOADER&;name=BBC NEWS<link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>BBC 1HD<title>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/michael/michael/14943.ts;streamtype=TSDOWNLOADER&;name=BBC1HD<link>
 <thumbnail></thumbnail>
 </item>
 
@@ -60,7 +84,13 @@
 
 <item>
 <title>BBC 2HD<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/dillon/dillon/7023.ts;streamtype=TSDOWNLOADER&;name=BBC2HD<link>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/michael/michael/14940.ts;streamtype=TSDOWNLOADER&;name=BBC2HD<link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>BBC 2HD<title>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/michael/michael/14940.ts;streamtype=TSDOWNLOADER&;name=BBC2HD<link>
 <thumbnail></thumbnail>
 </item>
 
@@ -77,13 +107,19 @@
 </item>
 
 <item>
-<title>ITV 1<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/dillon/dillon/7021.ts;streamtype=TSDOWNLOADER&;name=ITV1<link>
+<title>ITV HD<title>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/michael/michael/14952.ts;streamtype=TSDOWNLOADER&;name=ITVHD<link>
 <thumbnail></thumbnail>
 </item>
 
 <item>
-<title>ITV 1 HD<title>
+<title>ITV<title>
+<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/dillon/dillon/7021.ts;streamtype=TSDOWNLOADER&;name=ITV<link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>ITV HD<title>
 <link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/Charly/Charly/448.ts;streamtype=TSDOWNLOADER&;name=ITV1HD<link>
 <thumbnail></thumbnail>
 </item>
@@ -96,7 +132,19 @@
 
 <item>
 <title>ITV BE<title>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/michael/michael/13470.ts;streamtype=TSDOWNLOADER&;name=ITVHD<link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>ITV BE<title>
 <link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/dillon/dillon/7022.ts;streamtype=TSDOWNLOADER&;name=ITVHD<link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>ITV 2 HD<title>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/michael/michael/14947.ts;streamtype=TSDOWNLOADER&;name=ITV2HD<link>
 <thumbnail></thumbnail>
 </item>
 
@@ -109,6 +157,12 @@
 <item>
 <title>ITV 2HD<title>
 <link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/Charly/Charly/449.ts;streamtype=TSDOWNLOADER&;name=ITV2HD<link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>ITV 3<title>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/michael/michael/17679.ts;streamtype=TSDOWNLOADER&;name=ITV3<link>
 <thumbnail></thumbnail>
 </item>
 
@@ -133,6 +187,12 @@
 <item>
 <title>ITV 4<title>
 <link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/Charly/Charly/2084.ts;streamtype=TSDOWNLOADER&;name=ITV4<link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>ITV ENCORE<title>
+<link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/Julian/Julian/10155.ts;streamtype=TSDOWNLOADER&;name=ITVENCORE<link>
 <thumbnail></thumbnail>
 </item>
 
