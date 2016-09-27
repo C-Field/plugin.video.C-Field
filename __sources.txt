@@ -24,7 +24,7 @@
 
 <item>
 <title>SKY SPORTS NEWS HD<title>
-<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/deb/deb/13530.ts;streamtype=TSDOWNLOADER&;name=SKYSPORTSNEWSHD<link>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/deb/deb/13530.ts;streamtype=TSDOWNLOADER&;name=SKYSPORTSNEWS<link>
 <thumbnail></thumbnail>
 </item>
 
