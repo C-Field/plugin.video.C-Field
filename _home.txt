@@ -12,15 +12,6 @@
 
 <channels>
 <channel>
-<name>SERVER</name>
-<thumbnail></thumbnail>
-<externallink>https://raw.githubusercontent.com/stuartdrew/plugin.video.C-Field/master/__sources1.txt</externallink>
-<fanart></fanart>
-<info>SimpleKore.com</info>
-</channel>
-
-<channels>
-<channel>
 <name>SKY CHANNELS</name>
 <thumbnail></thumbnail>
 <externallink>https://raw.githubusercontent.com/stuartdrew/plugin.video.C-Field/master/__sources2.txt</externallink>
@@ -51,6 +42,15 @@
 <name>MUSIC CHANNELS</name>
 <thumbnail></thumbnail>
 <externallink></externallink>
+<fanart></fanart>
+<info>SimpleKore.com</info>
+</channel>
+
+<channels>
+<channel>
+<name>SERVER</name>
+<thumbnail></thumbnail>
+<externallink>https://raw.githubusercontent.com/stuartdrew/plugin.video.C-Field/master/__sources1.txt</externallink>
 <fanart></fanart>
 <info>SimpleKore.com</info>
 </channel>
