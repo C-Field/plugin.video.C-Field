@@ -23,7 +23,7 @@
 <channel>
 <name>KIDS CHANNELS</name>
 <thumbnail></thumbnail>
-<externallink></externallink>
+<externallink>https://raw.githubusercontent.com/stuartdrew/plugin.video.C-Field/master/__sources5.txt</externallink>
 <fanart></fanart>
 <info>SimpleKore.com</info>
 </channel>
