@@ -1,0 +1,106 @@
+<item>
+<title>KISS TV</title>
+<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/dillon/dillon/6960.ts;streamtype=TSDOWNLOADER&;name=KISSTV</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>VEVO MUSIC TV</title>
+<link>http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/05/prog_index.m3u8?key=tbd</link>
+<thumbnail>http://cordcutting.com/images/plex-images/vevo.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>VEVO ROCK TV</title>
+<link>http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/05/prog_index.m3u8</link>
+<thumbnail>http://cordcutting.com/images/plex-images/vevo.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>VIVA THE HITS<title>
+<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/dillon/dillon/6946.ts;streamtype=TSDOWNLOADER&;name=VIVATHEHITS<link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>MTV<title>
+<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/dillon/dillon/6903.ts;streamtype=TSDOWNLOADER&;name=MTV<link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>MTV +1<title>
+<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/dillon/dillon/4647.ts;streamtype=TSDOWNLOADER&;name=MTV+1<link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>MTV DANCE<title>
+<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/dillon/dillon/6905.ts;streamtype=TSDOWNLOADER&;name=MTVDANCE<link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>MTV BASE<title>
+<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/dillon/dillon/7017.ts;streamtype=TSDOWNLOADER&;name=MTVBASE<link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>Slam</title>
+<link>http://hls2.slamfm.nl/content/slamtv/slamtv_0.m3u8</link>
+<thumbnail>http://www.undergrowthproductions.com/wp-content/uploads/2015/11/SLAM-TV-thumbnail.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>ZOETERMEER FM</title>
+<link>rtmp://kippingmultimediaal.nl:1935/live/ZFM1</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>RETV JAMAICA</title>
+<link>http://univ-i.akamaihd.net/hls/live/222631/group1/playlist.m3u8</link>
+<thumbnail>http://www.dancehallreggaeworld.com/images/retv_logo.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>M6 MUSIC CLUB</title>
+<link>http://sslhls.m6tv.cdn.sfr.net/hls-live/livepkgr/_definst_/m6_music_hits_hls_aes/m6_music_hits_hls_aes_856.m3u8</link>
+<thumbnail>http://vignette2.wikia.nocookie.net/logopedia/images/e/e4/M6_Music_Club.png/revision/latest?cb=20100523111337</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>RADIO VIRGIN TV</title>
+<link>rtmp://fms.105.net:1935/live/virgin1</link>
+<thumbnail>http://vignette2.wikia.nocookie.net/logopedia/images/0/04/VIRGIN_RADIO_TV_2014.jpg/revision/latest?cb=20150316130915</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>RADIO 105 TV</title>
+<link>rtmp://fms.105.net:1935/live/105Test1</link>
+<thumbnail>http://vignette1.wikia.nocookie.net/saintsrow/images/d/d4/Ui_radio_105_world.png/revision/latest?cb=20140902201112</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>MFM TV</title>
+<link>http://ec.playmedia.fr/mfmtv/live/playlist.m3u8</link>
+<thumbnail>http://www.tunisie-radio.com/sites/default/files/radio/mfm-tunisie.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>VERSUS HD</title>
+<link>http://208.92.36.158/ipad/live/nba_ipad_1240.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
