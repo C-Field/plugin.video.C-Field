@@ -21,7 +21,7 @@
 
 <channels>
 <channel>
-<name>HD CHANNELS</name>
+<name>KIDS CHANNELS</name>
 <thumbnail></thumbnail>
 <externallink></externallink>
 <fanart></fanart>
