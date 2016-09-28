@@ -1,70 +1,4 @@
 <item>
-<title>4K MOVIES<title>
-<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/deb/deb/19827.ts;streamtype=TSDOWNLOADER&;name=4KMOVIES<link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>SKY NEWS<title>
-<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/deb/deb/14514.ts;streamtype=TSDOWNLOADER&;name=SKYNEWS<link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>SKY NEWS HD<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/dillon/dillon/6976.ts;streamtype=TSDOWNLOADER&;name=SKYNEWSHD<link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>SKY NEWS<title>
-<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/Charly/Charly/781.ts;streamtype=TSDOWNLOADER&;name=SKYNEWS<link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>SKY SPORTS NEWS HD<title>
-<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/deb/deb/13530.ts;streamtype=TSDOWNLOADER&;name=SKYSPORTSNEWS<link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>SKY SPORTS NEWS<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/dillon/dillon/6968.ts;streamtype=TSDOWNLOADER&;name=SKYSPORTSNEWS<link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>SKY SPORTS NEWS HD<title>
-<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/Charly/Charly/481.ts;streamtype=TSDOWNLOADER&;name=SKYSPORTSNEWS<link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>ABC NEWS HD<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/dillon/dillon/6698.ts;streamtype=TSDOWNLOADER&;name=ABCNEWSHD<link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>BBC NEWS<title>
-<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/deb/deb/18213.ts;streamtype=TSDOWNLOADER&;name=BBC NEWS<link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>BBC NEWS<title>
-<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/saib/fares/1065.ts;streamtype=TSDOWNLOADER&;name=BBC NEWS<link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>BBC NEWS<title>
-<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/Charly/Charly/1065.ts;streamtype=TSDOWNLOADER&;name=BBC NEWS<link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
 <title>BBC 1HD<title>
 <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/deb/deb/14943.ts;streamtype=TSDOWNLOADER&;name=BBC1HD<link>
 <thumbnail></thumbnail>
@@ -553,13 +487,6 @@ item>
 </item>
 
 <item>
-<title>CBS NEWS</title>
-<link>http://cbsnews-linear.mdialog.com/video_assets/cbsnews.m3u8?api_key=563b80c1ae4ce359830f572d2496a947&iu=/8264/vaw-can/mobile_web/cbsnews_mobile</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
 <title>SYFY<title>
 <link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/dillon/dillon/7053.ts;streamtype=TSDOWNLOADER&;name=SYFY<link>
 <thumbnail></thumbnail>
@@ -631,20 +558,6 @@ item>
 </item>
 
 <item>
-<title>BLOOMBERG TV</title>
-<link>http://btv-i.akamaihd.net/hls/live/202760/btvusa_ios/P1/M18K.m3u8</link>
-<thumbnail>https://upload.wikimedia.org/wikipedia/commons/7/73/BloombergTV.svg</thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title>ABC NEWS</title>
-<link>http://abclive.abcnews.com/i/abc_live4@136330/master.m3u8</link>
-<thumbnail>https://upload.wikimedia.org/wikipedia/en/f/fa/ABCNewsLogo.png</thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
 <title>WGN NES CHICAGO</title>
 <link>http://wgntribune-lh.akamaihd.net/i/WGNPrimary_1@304622/master.m3u8</link>
 <thumbnail></thumbnail>
@@ -694,51 +607,10 @@ item>
 </item>
 
 <item>
-<title>M6 MUSIC CLUB</title>
-<link>http://sslhls.m6tv.cdn.sfr.net/hls-live/livepkgr/_definst_/m6_music_hits_hls_aes/m6_music_hits_hls_aes_856.m3u8</link>
-<thumbnail>http://vignette2.wikia.nocookie.net/logopedia/images/e/e4/M6_Music_Club.png/revision/latest?cb=20100523111337</thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title>RADIO VIRGIN TV</title>
-<link>rtmp://fms.105.net:1935/live/virgin1</link>
-<thumbnail>http://vignette2.wikia.nocookie.net/logopedia/images/0/04/VIRGIN_RADIO_TV_2014.jpg/revision/latest?cb=20150316130915</thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title>RADIO 105 TV</title>
-<link>rtmp://fms.105.net:1935/live/105Test1</link>
-<thumbnail>http://vignette1.wikia.nocookie.net/saintsrow/images/d/d4/Ui_radio_105_world.png/revision/latest?cb=20140902201112</thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title>MFM TV</title>
-<link>http://ec.playmedia.fr/mfmtv/live/playlist.m3u8</link>
-<thumbnail>http://www.tunisie-radio.com/sites/default/files/radio/mfm-tunisie.png</thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
 <title>EUROSPORT</title>
 <link>http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_1000.m3u8</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
-</item>
-
-<item>
-<title>VERSUS HD</title>
-<link>http://208.92.36.158/ipad/live/nba_ipad_1240.m3u8</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title>VH1 HD<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/dillon/dillon/7014.ts;streamtype=TSDOWNLOADER&;name=VH1HD<link>
-<thumbnail></thumbnail>
 </item>
 
 <item>
