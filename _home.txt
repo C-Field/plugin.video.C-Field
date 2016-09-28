@@ -3,7 +3,7 @@
 
 <channels>
 <channel>
-<name>Live TV</name>
+<name>UK TV</name>
 <thumbnail></thumbnail>
 <externallink>https://raw.githubusercontent.com/stuartdrew/plugin.video.C-Field/master/__sources.txt</externallink>
 <fanart></fanart>
@@ -12,9 +12,45 @@
 
 <channels>
 <channel>
-<name>SERVER 1</name>
+<name>SKY CHANNELS</name>
 <thumbnail></thumbnail>
 <externallink>https://raw.githubusercontent.com/stuartdrew/plugin.video.C-Field/master/__sources1.txt</externallink>
+<fanart></fanart>
+<info>SimpleKore.com</info>
+</channel>
+
+<channels>
+<channel>
+<name>KIDS CHANNELS</name>
+<thumbnail></thumbnail>
+<externallink></externallink>
+<fanart></fanart>
+<info>SimpleKore.com</info>
+</channel>
+
+<channels>
+<channel>
+<name>HD CHANNELS</name>
+<thumbnail></thumbnail>
+<externallink></externallink>
+<fanart></fanart>
+<info>SimpleKore.com</info>
+</channel>
+
+<channels>
+<channel>
+<name>NEWS CHANNELS</name>
+<thumbnail></thumbnail>
+<externallink></externallink>
+<fanart></fanart>
+<info>SimpleKore.com</info>
+</channel>
+
+<channels>
+<channel>
+<name>MUSIC CHANNELS</name>
+<thumbnail></thumbnail>
+<externallink></externallink>
 <fanart></fanart>
 <info>SimpleKore.com</info>
 </channel>
