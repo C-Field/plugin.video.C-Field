@@ -23,7 +23,7 @@
 <channel>
 <name>SKY CHANNELS</name>
 <thumbnail></thumbnail>
-<externallink></externallink>
+<externallink>https://raw.githubusercontent.com/stuartdrew/plugin.video.C-Field/master/__sources2.txt</externallink>
 <fanart></fanart>
 <info>SimpleKore.com</info>
 </channel>
