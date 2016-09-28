@@ -22,7 +22,7 @@
 <channels>
 <channel>
 <name>KIDS CHANNELS</name>
-<thumbnail>http://image.shutterstock.com/display_pic_with_logo/3759446/364470923/stock-vector-vector-illustration-kids-channel-logo-kids-logo-kids-play-logo-vector-logo-template-364470923.jpg</thumbnail>
+<thumbnail>https://yt3.ggpht.com/-co8gqPEZ4wg/AAAAAAAAAAI/AAAAAAAAAAA/ns5vMzc8vzM/s900-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/stuartdrew/plugin.video.C-Field/master/__sources5.txt</externallink>
 <fanart></fanart>
 <info>SimpleKore.com</info>
