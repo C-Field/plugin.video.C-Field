@@ -12,7 +12,7 @@
 
 <channels>
 <channel>
-<name>SKY CHANNELS</name>
+<name>SERVER</name>
 <thumbnail></thumbnail>
 <externallink>https://raw.githubusercontent.com/stuartdrew/plugin.video.C-Field/master/__sources1.txt</externallink>
 <fanart></fanart>
@@ -21,7 +21,7 @@
 
 <channels>
 <channel>
-<name>KIDS CHANNELS</name>
+<name>SKY CHANNELS</name>
 <thumbnail></thumbnail>
 <externallink></externallink>
 <fanart></fanart>
