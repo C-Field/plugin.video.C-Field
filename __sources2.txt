@@ -192,7 +192,7 @@
 
 <item>
 <title>SKY MOVIES COMEDY HD<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/dillon/dillon/6484.ts;streamtype=TSDOWNLOADER&;name=SKYCOMEDY<link>
+<link>plugin://plugin.video.f4mTester/?url=http://globalstream.noip.us:8000/live/cam/cam/701.ts;streamtype=TSDOWNLOADER&;name=SKYCOMEDY<link>
 <thumbnail></thumbnail>
 </item>
 
@@ -210,7 +210,7 @@
 
 <item>
 <title>SKY MOVIES DISNEY HD<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/dillon/dillon/6986.ts;streamtype=TSDOWNLOADER&;name=SKYDISNEY<link>
+<link>plugin://plugin.video.f4mTester/?url=http://cp.dmbshare.net:8000/live/wayne/wayne/8416.ts;streamtype=TSDOWNLOADER&;name=SKYDISNEY<link>
 <thumbnail></thumbnail>
 </item>
 
