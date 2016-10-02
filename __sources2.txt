@@ -156,7 +156,7 @@
 
 <item>
 <title>SKY MOVIES ATLANTIC<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/dillon/dillon/7002.ts;streamtype=TSDOWNLOADER&;name=SKY ATLANTIC<link>
+<link>plugin://plugin.video.f4mTester/?url=http://globalstream.noip.us:8000/live/cam/cam/1359.ts;streamtype=TSDOWNLOADER&;name=SKY ATLANTIC<link>
 <thumbnail></thumbnail>
 </item>
 
@@ -174,7 +174,7 @@
 
 <item>
 <title>SKY MOVIES FAMILY HD<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/dillon/dillon/6481.ts;streamtype=TSDOWNLOADER&;name=SKYFAMILY<link>
+<link>plugin://plugin.video.f4mTester/?url=http://globalstream.noip.us:8000/live/cam/cam/702.ts;streamtype=TSDOWNLOADER&;name=SKYFAMILY<link>
 <thumbnail></thumbnail>
 </item>
 
