@@ -138,7 +138,7 @@
 
 <item>
 <title>SKY MOVIES ACTION HD<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/dillon/dillon/6488.ts;streamtype=TSDOWNLOADER&;name=SKYACTION<link>
+<link>plugin://plugin.video.f4mTester/?url=http://globalstream.noip.us:8000/live/cam/cam/700.ts;streamtype=TSDOWNLOADER&;name=SKYACTION<link>
 <thumbnail></thumbnail>
 </item>
 
