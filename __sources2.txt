@@ -120,7 +120,7 @@
 
 <item>
 <title>SKY MOVIES DRAMA HD<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/dillon/dillon/6485.ts;streamtype=TSDOWNLOADER&;name=SKYDRAMA<link>
+<link>plugin://plugin.video.f4mTester/?url=http://globalstream.noip.us:8000/live/marinko/marinko/1129.ts;streamtype=TSDOWNLOADER&;name=SKYDRAMA<link>
 <thumbnail></thumbnail>
 </item>
 
