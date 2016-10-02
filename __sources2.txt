@@ -96,7 +96,7 @@
 
 <item>
 <title>SKY MOVIES MODERN GREAT HD<title>
-<link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/Julian/Julian/10118.ts;streamtype=TSDOWNLOADER&;name=SKYMODERN<link>
+<link>plugin://plugin.video.f4mTester/?url=http://globalstream.noip.us:8000/live/cam/cam/1141.ts;streamtype=TSDOWNLOADER&;name=SKYMODERN<link>
 <thumbnail></thumbnail>
 </item>
 
