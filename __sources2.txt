@@ -48,7 +48,7 @@
 
 <item>
 <title>SKY MOVIES THRILLER<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/dillon/dillon/6483.ts;streamtype=TSDOWNLOADER&;name=SKYTHRILLER<link>
+<link>plugin://plugin.video.f4mTester/?url=http://globalstream.noip.us:8000/live/cam/cam/1132.ts;streamtype=TSDOWNLOADER&;name=SKYTHRILLER<link>
 <thumbnail></thumbnail>
 </item>
 
@@ -66,7 +66,7 @@
 
 <item>
 <title>SKY MOVIES SELECT HD<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/dillon/dillon/6489.ts;streamtype=TSDOWNLOADER&;name=SKYSELECTHD<link>
+<link>plugin://plugin.video.f4mTester/?url=http://globalstream.noip.us:8000/live/cam/cam/1131.ts;streamtype=TSDOWNLOADER&;name=SKYSELECTHD<link>
 <thumbnail></thumbnail>
 </item>
 
