@@ -30,6 +30,15 @@
 
 <channels>
 <channel>
+<name>DOCUMENTARY CHANNELS</name>
+<thumbnail>https://yt3.ggpht.com/-co8gqPEZ4wg/AAAAAAAAAAI/AAAAAAAAAAA/ns5vMzc8vzM/s900-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/stuartdrew/plugin.video.C-Field/master/__sources6.txt</externallink>
+<fanart></fanart>
+<info>SimpleKore.com</info>
+</channel>
+
+<channels>
+<channel>
 <name>NEWS CHANNELS</name>
 <thumbnail>http://cached.imagescaler.hbpl.co.uk/resize/scaleToFit/427/285/?sURL=http://offlinehbpl.hbpl.co.uk/news/OWM/807EC45A-C429-D27B-E5539266BD03930C.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/stuartdrew/plugin.video.C-Field/master/__sources4.txt</externallink>
