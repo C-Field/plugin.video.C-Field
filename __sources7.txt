@@ -4,3 +4,9 @@
 <thumbnail></thumbnail>
 </item>
 
+<item>
+<title>13 Hours: The Secret Soldiers of Benghazi (2016)<title>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/movie/lisa/lisa/14807.mp4;streamtype=TSDOWNLOADER&;name=13Hours:TheSecretSoldiersofBenghazi(2016)<link>
+<thumbnail></thumbnail>
+</item>
+
