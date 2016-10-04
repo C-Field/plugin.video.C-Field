@@ -1,108 +1,72 @@
 <item>
 <title>Discovery<title>
-<link>plugin://plugin.video.f4mTester/?url=http://s1.finoip.com:20000/live/mio/mio/3573.ts;streamtype=TSDOWNLOADER&;name=DISCOVERY<link>
+<link>plugin://plugin.video.f4mTester/?url=http://globalstream.noip.us:8000/live/techsupport/techsupport/730.ts;streamtype=TSDOWNLOADER&;name=DISCOVERY<link>
 <thumbnail></thumbnail>
 </item>
 
 <item>
 <title>Discovery Science<title>
-<link>plugin://plugin.video.f4mTester/?url=http://s1.finoip.com:20000/live/mio/mio/3576.ts;streamtype=TSDOWNLOADER&;name=DISCOVERYSCIENCE<link>
+<link>plugin://plugin.video.f4mTester/?url=http://globalstream.noip.us:8000/live/techsupport/techsupport/734.ts;streamtype=TSDOWNLOADER&;name=DISCOVERYSCIENCE<link>
 <thumbnail></thumbnail>
 </item>
 
 <item>
 <title>Discovery History<title>
-<link>plugin://plugin.video.f4mTester/?url=http://s1.finoip.com:20000/live/mio/mio/3574.ts;streamtype=TSDOWNLOADER&;name=DH<link>
+<link>plugin://plugin.video.f4mTester/?url=http://globalstream.noip.us:8000/live/techsupport/techsupport/1139.ts;streamtype=TSDOWNLOADER&;name=DH<link>
 <thumbnail></thumbnail>
 </item>
 
 <item>
 <title>Discovery TURBO<title>
-<link>plugin://plugin.video.f4mTester/?url=http://s1.finoip.com:20000/live/mio/mio/3577.ts;streamtype=TSDOWNLOADER&;name=DISCOVERYTURBO<link>
+<link>plugin://plugin.video.f4mTester/?url=http://globalstream.noip.us:8000/live/techsupport/techsupport/735.ts;streamtype=TSDOWNLOADER&;name=DISCOVERYTURBO<link>
 <thumbnail></thumbnail>
 </item>
 
 <item>
 <title>Nat Geo Wild<title>
-<link>plugin://plugin.video.f4mTester/?url=http://s1.finoip.com:20000/live/mio/mio/3620.ts;streamtype=TSDOWNLOADER&;name=NATGEOWILD<link>
+<link>plugin://plugin.video.f4mTester/?url=http://globalstream.noip.us:8000/live/techsupport/techsupport/717.ts;streamtype=TSDOWNLOADER&;name=NATGEOWILD<link>
 <thumbnail></thumbnail>
 </item>
 
 <item>
 <title>NatGeoWildHD<title>
-<link>plugin://plugin.video.f4mTester/?url=http://s1.finoip.com:20000/live/mio/mio/3620.ts;streamtype=TSDOWNLOADER&;name=NATGEOWILD<link>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/charlie12345/charlie12345/19275.ts;streamtype=TSDOWNLOADER&;name=NATGEOWILD<link>
 <thumbnail></thumbnail>
 </item>
 
 <item>
 <title>History<title>
-<link>plugin://plugin.video.f4mTester/?url=http://s1.finoip.com:20000/live/mio/mio/3592.ts;streamtype=TSDOWNLOADER&;name=HISTORY<link>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/charlie12345/charlie12345/14510.ts;streamtype=TSDOWNLOADER&;name=HISTORY<link>
 <thumbnail></thumbnail>
 </item>
 
 <item>
-<title>HISTORY<title>
-<link>plugin://plugin.video.f4mTester/?url=http://s1.finoip.com:20000/live/mio/mio/3592.ts;streamtype=TSDOWNLOADER&;name=HISTORY<link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>H2<title>
-<link>plugin://plugin.video.f4mTester/?url=http://s1.finoip.com:20000/live/mio/mio/3593.ts;streamtype=TSDOWNLOADER&;name=H2<link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>Home&Health<title>
-<link>plugin://plugin.video.f4mTester/?url=http://s1.finoip.com:20000/live/mio/mio/3595.ts;streamtype=TSDOWNLOADER&;name=HOME<link>
+<title>HISTORY 2<title>
+<link>plugin://plugin.video.f4mTester/?url=http://cp.dmbshare.net:8000/live/slavko/slavko/8374.ts;streamtype=TSDOWNLOADER&;name=HISTORY2<link>
 <thumbnail></thumbnail>
 </item>
 
 <item>
 <title>Discovery Turbo<title>
-<link>plugin://plugin.video.f4mTester/?url=http://s1.finoip.com:20000/live/mio/mio/3577.ts;streamtype=TSDOWNLOADER&;name=DISCOVERTURBO<link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>Discovery Science<title>
-<link>plugin://plugin.video.f4mTester/?url=http://s1.finoip.com:20000/live/mio/mio/3576.ts;streamtype=TSDOWNLOADER&;name=DISCOVERYSCIENCE<link>
+<link>plugin://plugin.video.f4mTester/?url=http://globalstream.noip.us:8000/live/techsupport/techsupport/735.ts;streamtype=TSDOWNLOADER&;name=DISCOVERTURBO<link>
 <thumbnail></thumbnail>
 </item>
 
 <item>
 <title>DiscoveryInvestigation<title>
-<link>plugin://plugin.video.f4mTester/?url=http://s1.finoip.com:20000/live/mio/mio/3575.ts;streamtype=TSDOWNLOADER&;name=DI<link>
+<link>plugin://plugin.video.f4mTester/?url=http://globalstream.noip.us:8000/live/techsupport/techsupport/733.ts;streamtype=TSDOWNLOADER&;name=DI<link>
 <thumbnail></thumbnail>
 </item>
 
 <item>
-<title>Discovery History<title>
-<link>plugin://plugin.video.f4mTester/?url=http://s1.finoip.com:20000/live/mio/mio/3574.ts;streamtype=TSDOWNLOADER&;name=<link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>Comedy central<title>
-<link>plugin://plugin.video.f4mTester/?url=http://s1.finoip.com:20000/live/mio/mio/3570.ts;streamtype=TSDOWNLOADER&;name=COMEDY<link>
+<title>DISCOVERY SHED<title>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/charlie12345/charlie12345/14388.ts;streamtype=TSDOWNLOADER&;name=DISCOVERYSHED<link>
 <thumbnail></thumbnail>
 </item>
 
 <item>
 <title>Animal Planet<title>
-<link>plugin://plugin.video.f4mTester/?url=http://s1.finoip.com:20000/live/mio/mio/3546.ts;streamtype=TSDOWNLOADER&;name=ANIMALPLANET<link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>Animal Planet<title>
-<link>plugin://plugin.video.f4mTester/?url=http://s1.finoip.com:20000/live/mio/mio/3546.ts;streamtype=TSDOWNLOADER&;name=ANIMALPLANET<link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>history<title>
-<link>plugin://plugin.video.f4mTester/?url=http://s1.finoip.com:20000/live/mio/mio/3592.ts;streamtype=TSDOWNLOADER&;name=HISTORY<link>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/charlie12345/charlie12345/13496.ts;streamtype=TSDOWNLOADER&;name=ANIMALPLANET<link>
 <thumbnail></thumbnail>
 </item>
 
@@ -112,17 +76,7 @@
 <thumbnail></thumbnail>
 </item>
 
-<item>
-<title>DiscoverySci<title>
-<link>plugin://plugin.video.f4mTester/?url=http://s1.finoip.com:20000/live/mio/mio/3576.ts;streamtype=TSDOWNLOADER&;name=DS<link>
-<thumbnail></thumbnail>
-</item>
 
-<item>
-<title>DiscoveryCh(HD)<title>
-<link>plugin://plugin.video.f4mTester/?url=http://s1.finoip.com:20000/live/mio/mio/3573.ts;streamtype=TSDOWNLOADER&;name=DS<link>
-<thumbnail></thumbnail>
-</item>
 
 
 <item>
