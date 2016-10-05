@@ -5,7 +5,7 @@
 </item>
 
 <item>
-<titleA Hologram for the King (2016)<title>
+<title>A Hologram for the King (2016)<title>
 <link>http://bulkyiptv.com:5750/movie/lisa/lisa/16715.mp4<link>
 <thumbnail></thumbnail>
 </item>
