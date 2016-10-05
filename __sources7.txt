@@ -1,7 +1,7 @@
 <item>
 <title>13 Hours: The Secret Soldiers of Benghazi (2016)<title>
 <link>http://bulkyiptv.com:5750/movie/lisa/lisa/14807.mp4<link>
-<thumbnail></thumbnail>
+<thumbnail>http://www.imdb.com/title/tt4172430/mediaviewer/rm1947656704?ref_=tt_ov_i</thumbnail>
 </item>
 
 <item>
