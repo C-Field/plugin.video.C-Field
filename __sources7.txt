@@ -7,7 +7,7 @@
 <item>
 <title>Hologram for the King (2016)<title>
 <link>http://bulkyiptv.com:5750/movie/lisa/lisa/16715.mp4<link>
-<thumbnail></thumbnail>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMTU2MzU1NTg4NV5BMl5BanBnXkFtZTgwNzQ5MjAzODE@._V1_SY500_CR0,0,337,500_AL_.jpg</thumbnail>
 </item>
 
 <item>
