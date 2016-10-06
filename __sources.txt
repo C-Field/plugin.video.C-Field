@@ -79,19 +79,19 @@
 <item>
 <title>ITV 2 HD<title>
 <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/deb/deb/14947.ts;streamtype=TSDOWNLOADER&;name=ITV2HD<link>
-<thumbnail>src="http://presscentre.itvstatic.com/presscentre/sites/presscentre/files/styles/pi_large/public/itv2-logo-hr.jpg?itok=DXQjCDbC"</thumbnail>
+<thumbnail>http://presscentre.itvstatic.com/presscentre/sites/presscentre/files/styles/pi_large/public/itv2-logo-hr.jpg</thumbnail>
 </item>
 
 <item>
 <title>ITV 2<title>
 <link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/dillon/dillon/7020.ts;streamtype=TSDOWNLOADER&;name=ITV2<link>
-<thumbnail>src="http://presscentre.itvstatic.com/presscentre/sites/presscentre/files/styles/pi_large/public/itv2-logo-hr.jpg?itok=DXQjCDbC"</thumbnail>
+<thumbnail>http://presscentre.itvstatic.com/presscentre/sites/presscentre/files/styles/pi_large/public/itv2-logo-hr.jpg</thumbnail>
 </item>
 
 <item>
 <title>ITV 2HD<title>
 <link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/Charly/Charly/449.ts;streamtype=TSDOWNLOADER&;name=ITV2HD<link>
-<thumbnail>src="http://presscentre.itvstatic.com/presscentre/sites/presscentre/files/styles/pi_large/public/itv2-logo-hr.jpg?itok=DXQjCDbC"</thumbnail>
+<thumbnail>http://presscentre.itvstatic.com/presscentre/sites/presscentre/files/styles/pi_large/public/itv2-logo-hr.jpg?itok=DXQjCDbC"</thumbnail>
 </item>
 
 <item>
