@@ -57,7 +57,7 @@
 
 <channels>
 <channel>
-<name>MOVIE CHANNELS</name>
+<name>FILM SECTION</name>
 <thumbnail>http://www.lightcast.com/images/featured_apps/roku/apps/00378_336x210.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/stuartdrew/plugin.video.C-Field/master/__sources7.txt</externallink>
 <fanart></fanart>
