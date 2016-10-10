@@ -1,263 +1,263 @@
 <item>
 <title>Sky Movies Showcase<title>
 <link>plugin://plugin.video.f4mTester/?url=http://cp.dmbshare.net:8000/live/wayne/wayne/8427.ts;streamtype=TSDOWNLOADER&;name=SkyMoviesshowcase<link>
-<thumbnail></thumbnail>
+<thumbnail>https://theident.gallery/skymovies/2011/SKYM-2011-ID-SHOWCASE-1-C.jpg</thumbnail>
 </item>
 
 <item>
 <title>Sky Movies Showcase<title>
 <link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/thomas/thomas/1684.ts;streamtype=TSDOWNLOADER&;name=SkyMoviesshowcase<link>
-<thumbnail></thumbnail>
+<thumbnail>https://theident.gallery/skymovies/2011/SKYM-2011-ID-SHOWCASE-1-C.jpg</thumbnail>
 </item>
 
 <item>
 <title>Sky Movies Showcase<title>
 <link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/thomas/thomas/1684.ts;streamtype=TSDOWNLOADER&;name=SkyMoviesshowcase<link>
-<thumbnail></thumbnail>
+<thumbnail>https://theident.gallery/skymovies/2011/SKYM-2011-ID-SHOWCASE-1-C.jpg</thumbnail>
 </item>
 
 <item>
 <title>Sky Cinema Harry Potter<title>
 <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/deb/deb/13550.ts;streamtype=TSDOWNLOADER&;name=SKYCINEMA<link>
-<thumbnail></thumbnail>
+<thumbnail>http://www.asset1.net/tv/pictures/356/200/movie/sm-harry-potter-do-not-publish-2015/SM-Harry-Potter-Harry-Voldemort-1.jpg</thumbnail>
 </item>
 
 <item>
 <title>Sky Movies Premiere HD<title>
 <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/deb/deb/15538.ts;streamtype=TSDOWNLOADER&;name=SkyPremiereHD<link>
-<thumbnail></thumbnail>
+<thumbnail>http://www.asset1.net/tv/pictures/channel/skymovies/Sky-Movies-Premiere-Logo-DI-1.jpg</thumbnail>
 </item>
 
 <item>
 <title>Sky Movies Premiere HD<title>
 <link>plugin://plugin.video.f4mTester/?url=http://globalstream.noip.us:8000/live/cam/cam/705.ts;streamtype=TSDOWNLOADER&;name=SkyPremiereHD<link>
-<thumbnail></thumbnail>
+<thumbnail>http://www.asset1.net/tv/pictures/channel/skymovies/Sky-Movies-Premiere-Logo-DI-1.jpg</thumbnail>
 </item>
 
 <item>
 <title>Sky Movies Premiere HD<title>
 <link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/Charly/Charly/469.ts;streamtype=TSDOWNLOADER&;name=SkyPremiereHD<link>
-<thumbnail></thumbnail>
+<thumbnail>http://www.asset1.net/tv/pictures/channel/skymovies/Sky-Movies-Premiere-Logo-DI-1.jpg</thumbnail>
 </item>
 
 <item>
 <title>SKY MOVIES THRILLER<title>
 <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/deb/deb/15543.ts;streamtype=TSDOWNLOADER&;name=SKYTHRILLER<link>
-<thumbnail></thumbnail>
+<thumbnail>http://www.premier-uktv.com/wp-content/uploads/2016/02/Sky-Movies-Crime-Thrillerv2.jpg</thumbnail>
 </item>
 
 <item>
 <title>SKY MOVIES THRILLER<title>
 <link>plugin://plugin.video.f4mTester/?url=http://globalstream.noip.us:8000/live/cam/cam/1132.ts;streamtype=TSDOWNLOADER&;name=SKYTHRILLER<link>
-<thumbnail></thumbnail>
+<thumbnail>http://www.premier-uktv.com/wp-content/uploads/2016/02/Sky-Movies-Crime-Thrillerv2.jpg</thumbnail>
 </item>
 
 <item>
-<title>SKY MOVIES CRIME THRILLER<title>
+<title>SKY MOVIES THRILLER<title>
 <link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/Charly/Charly/472.ts;streamtype=TSDOWNLOADER&;name=SKYTHRILLER<link>
-<thumbnail></thumbnail>
+<thumbnail>http://www.premier-uktv.com/wp-content/uploads/2016/02/Sky-Movies-Crime-Thrillerv2.jpg</thumbnail>
 </item>
 
 <item>
 <title>SKY MOVIES SELECT HD<title>
 <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/deb/deb/15545.ts;streamtype=TSDOWNLOADER&;name=SKYSELECTHD<link>
-<thumbnail></thumbnail>
+<thumbnail>https://i.ytimg.com/vi/RW25kuI6uWA/maxresdefault.jpg</thumbnail>
 </item>
 
 <item>
 <title>SKY MOVIES SELECT HD<title>
 <link>plugin://plugin.video.f4mTester/?url=http://globalstream.noip.us:8000/live/cam/cam/1131.ts;streamtype=TSDOWNLOADER&;name=SKYSELECTHD<link>
-<thumbnail></thumbnail>
+<thumbnail>https://i.ytimg.com/vi/RW25kuI6uWA/maxresdefault.jpg</thumbnail>
 </item>
 
 <item>
 <title>SKY MOVIES SELECT HD<title>
 <link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/Charly/Charly/471.ts;streamtype=TSDOWNLOADER&;name=SKYSELECTHD<link>
-<thumbnail></thumbnail>
+<thumbnail>https://i.ytimg.com/vi/RW25kuI6uWA/maxresdefault.jpg</thumbnail>
 </item>
 
 <item>
 <title>SKY MOVIES SCIFI HD<title>
 <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/deb/deb/15546.ts;streamtype=TSDOWNLOADER&;name=SKYSCIFI<link>
-<thumbnail></thumbnail>
+<thumbnail>http://www.premier-uktv.com/wp-content/uploads/2016/02/Sky-Movies-Sci-Fi-horrorv2.jpg</thumbnail>
 </item>
 
 <item>
 <title>SKY MOVIES SCIFI HD<title>
 <link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/dillon/dillon/6487.ts;streamtype=TSDOWNLOADER&;name=SKYSCIFI<link>
-<thumbnail></thumbnail>
+<thumbnail>http://www.premier-uktv.com/wp-content/uploads/2016/02/Sky-Movies-Sci-Fi-horrorv2.jpg</thumbnail>
 </item>
 
 <item>
 <title>SKY MOVIES SCIFI HD<title>
 <link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/Charly/Charly/470.ts;streamtype=TSDOWNLOADER&;name=SKYSCIFI<link>
-<thumbnail></thumbnail>
+<thumbnail>http://www.premier-uktv.com/wp-content/uploads/2016/02/Sky-Movies-Sci-Fi-horrorv2.jpg</thumbnail>
 </item>
 
 <item>
 <title>SKY MOVIES MODERN GREAT HD<title>
 <link>plugin://plugin.video.f4mTester/?url=http://globalstream.noip.us:8000/live/cam/cam/1141.ts;streamtype=TSDOWNLOADER&;name=SKYMODERN<link>
-<thumbnail></thumbnail>
+<thumbnail>http://www.premier-uktv.com/wp-content/uploads/2016/02/Sky-Movies-Modern-Greatsv2.jpg</thumbnail>
 </item>
 
 <item>
 <title>SKY MOVIES MODERN GREAT HD<title>
 <link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/dillon/dillon/6486.ts;streamtype=TSDOWNLOADER&;name=SKYMODERN<link>
-<thumbnail></thumbnail>
+<thumbnail>http://www.premier-uktv.com/wp-content/uploads/2016/02/Sky-Movies-Modern-Greatsv2.jpg</thumbnail>
 </item>
 
 <item>
 <title>SKY MOVIES MODERN GREAT<title>
 <link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/Charly/Charly/468.ts;streamtype=TSDOWNLOADER&;name=SKYMODERN<link>
-<thumbnail></thumbnail>
+<thumbnail>http://www.premier-uktv.com/wp-content/uploads/2016/02/Sky-Movies-Modern-Greatsv2.jpg</thumbnail>
 </item>
 
 <item>
 <title>SKY MOVIES DRAMA HD<title>
 <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/deb/deb/13533.ts;streamtype=TSDOWNLOADER&;name=SKYDRAMA<link>
-<thumbnail></thumbnail>
+<thumbnail>http://vignette1.wikia.nocookie.net/logopedia/images/0/0e/Sky_Movies_Drama_ident.jpg/revision/latest?cb=20100420134254</thumbnail>
 </item>
 
 <item>
 <title>SKY MOVIES DRAMA HD<title>
 <link>plugin://plugin.video.f4mTester/?url=http://globalstream.noip.us:8000/live/marinko/marinko/1129.ts;streamtype=TSDOWNLOADER&;name=SKYDRAMA<link>
-<thumbnail></thumbnail>
+<thumbnail>http://vignette1.wikia.nocookie.net/logopedia/images/0/0e/Sky_Movies_Drama_ident.jpg/revision/latest?cb=20100420134254</thumbnail>
 </item>
 
 <item>
 <title>SKY MOVIES DRAMA HD<title>
 <link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/Charly/Charly/467.ts;streamtype=TSDOWNLOADER&;name=SKYDRAMA<link>
-<thumbnail></thumbnail>
+<thumbnail>http://vignette1.wikia.nocookie.net/logopedia/images/0/0e/Sky_Movies_Drama_ident.jpg/revision/latest?cb=20100420134254</thumbnail>
 </item>
 
 <item>
 <title>SKY MOVIES ACTION HD<title>
 <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/deb/deb/15539.ts;streamtype=TSDOWNLOADER&;name=SKYACTION<link>
-<thumbnail></thumbnail>
+<thumbnail>http://www.premier-uktv.com/wp-content/uploads/2016/02/Sky-Movies-Action-Adventurev2.jpg</thumbnail>
 </item>
 
 <item>
 <title>SKY MOVIES ACTION HD<title>
 <link>plugin://plugin.video.f4mTester/?url=http://globalstream.noip.us:8000/live/cam/cam/700.ts;streamtype=TSDOWNLOADER&;name=SKYACTION<link>
-<thumbnail></thumbnail>
+<thumbnail>http://www.premier-uktv.com/wp-content/uploads/2016/02/Sky-Movies-Action-Adventurev2.jpg</thumbnail>
 </item>
 
 <item>
 <title>SKY MOVIES ACTION<title>
 <link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/Charly/Charly/466.ts;streamtype=TSDOWNLOADER&;name=SKYACTION<link>
-<thumbnail></thumbnail>
+<thumbnail>http://www.premier-uktv.com/wp-content/uploads/2016/02/Sky-Movies-Action-Adventurev2.jpg</thumbnail>
 </item>
 
 <item>
 <title>SKY MOVIES ATLANTIC<title>
 <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/deb/deb/13513.ts;streamtype=TSDOWNLOADER&;name=SKYATLANTIC<link>
-<thumbnail></thumbnail>
+<thumbnail>http://www.sat-multimedia.com/wp-content/uploads/2016/07/SKY-ATLANTIC.jpg</thumbnail>
 </item>
 
 <item>
 <title>SKY MOVIES ATLANTIC<title>
 <link>plugin://plugin.video.f4mTester/?url=http://globalstream.noip.us:8000/live/cam/cam/1359.ts;streamtype=TSDOWNLOADER&;name=SKY ATLANTIC<link>
-<thumbnail></thumbnail>
+<thumbnail>http://www.sat-multimedia.com/wp-content/uploads/2016/07/SKY-ATLANTIC.jpg</thumbnail>
 </item>
 
 <item>
 <title>SKY MOVIES ATLANTIC<title>
 <link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/Charly/Charly/465.ts;streamtype=TSDOWNLOADER&;name=SKY ATLANTIC<link>
-<thumbnail></thumbnail>
+<thumbnail>http://www.sat-multimedia.com/wp-content/uploads/2016/07/SKY-ATLANTIC.jpg</thumbnail>
 </item>
 
 <item>
 <title>SKY MOVIES FAMILY HD<title>
 <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/deb/deb/15542.ts;streamtype=TSDOWNLOADER&;name=SKYFAMILY<link>
-<thumbnail></thumbnail>
+<thumbnail>https://www.expatvision.tv/media/channel_logos//family_1426076100.jpg</thumbnail>
 </item>
 
 <item>
 <title>SKY MOVIES FAMILY HD<title>
 <link>plugin://plugin.video.f4mTester/?url=http://globalstream.noip.us:8000/live/cam/cam/702.ts;streamtype=TSDOWNLOADER&;name=SKYFAMILY<link>
-<thumbnail></thumbnail>
+<thumbnail>https://www.expatvision.tv/media/channel_logos//family_1426076100.jpg</thumbnail>
 </item>
 
 <item>
 <title>SKY MOVIES FAMILY HD<title>
 <link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/Charly/Charly/51.ts;streamtype=TSDOWNLOADER&;name=SKYFAMILY<link>
-<thumbnail></thumbnail>
+<thumbnail>https://www.expatvision.tv/media/channel_logos//family_1426076100.jpg</thumbnail>
 </item>
 
 <item>
 <title>SKY MOVIES COMEDY HD<title>
 <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/deb/deb/15540.ts;streamtype=TSDOWNLOADER&;name=SKYCOMEDY<link>
-<thumbnail></thumbnail>
+<thumbnail>http://www.sat-address.com/f/pics/logotipi/Sky-Movies-Comedy-HD-UK_o.jpg</thumbnail>
 </item>
 
 <item>
 <title>SKY MOVIES COMEDY HD<title>
 <link>plugin://plugin.video.f4mTester/?url=http://globalstream.noip.us:8000/live/cam/cam/701.ts;streamtype=TSDOWNLOADER&;name=SKYCOMEDY<link>
-<thumbnail></thumbnail>
+<thumbnail>http://www.sat-address.com/f/pics/logotipi/Sky-Movies-Comedy-HD-UK_o.jpg</thumbnail>
 </item>
 
 <item>
 <title>SKY MOVIES COMEDY HD<title>
 <link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/Charly/Charly/49.ts;streamtype=TSDOWNLOADER&;name=SKYCOMEDY<link>
-<thumbnail></thumbnail>
+<thumbnail>http://www.sat-address.com/f/pics/logotipi/Sky-Movies-Comedy-HD-UK_o.jpg</thumbnail>
 </item>
 
 <item>
 <title>SKY MOVIES DISNEY HD<title>
 <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/deb/deb/15541.ts;streamtype=TSDOWNLOADER&;name=SKYDISNEY<link>
-<thumbnail></thumbnail>
+<thumbnail>https://i.ytimg.com/vi/aZivNjdlFWk/maxresdefault.jpg</thumbnail>
 </item>
 
 <item>
 <title>SKY MOVIES DISNEY HD<title>
 <link>plugin://plugin.video.f4mTester/?url=http://cp.dmbshare.net:8000/live/wayne/wayne/8416.ts;streamtype=TSDOWNLOADER&;name=SKYDISNEY<link>
-<thumbnail></thumbnail>
+<thumbnail>https://i.ytimg.com/vi/aZivNjdlFWk/maxresdefault.jpg</thumbnail>
 </item>
 
 <item>
 <title>SKY LIVING<title>
 <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/deb/deb/13502.ts;streamtype=TSDOWNLOADER&;name=SKYLIVING<link>
-<thumbnail></thumbnail>
+<thumbnail>https://dm8eklel4s62k.cloudfront.net/images/sky/large/sky-living_on_dark-2015.png</thumbnail>
 </item>
 
 <item>
 <title>SKY LIVING<title>
 <link>plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/thomas/thomas/1771.ts;streamtype=TSDOWNLOADER&;name=SKYLIVING<link>
-<thumbnail></thumbnail>
+<thumbnail>https://dm8eklel4s62k.cloudfront.net/images/sky/large/sky-living_on_dark-2015.png</thumbnail>
 </item>
 
 <item>
 <title>SKY LIVING<title>
 <link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/Charly/Charly/453.ts;streamtype=TSDOWNLOADER&;name=SKYLIVING<link>
-<thumbnail></thumbnail>
+<thumbnail>https://dm8eklel4s62k.cloudfront.net/images/sky/large/sky-living_on_dark-2015.png</thumbnail>
 </item>
 
 <item>
 <title>SKY HITS HD<title>
 <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/deb/deb/17389.ts;streamtype=TSDOWNLOADER&;name=SKYHITSHD<link>
-<thumbnail></thumbnail>
+<thumbnail>https://www.skymedia.co.uk/wp-content/uploads/2016/01/Sky-Cinema-HITS.png</thumbnail>
 </item>
 
 <item>
 <title>SKY HITS HD<title>
 <link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/dillon/dillon/6979.ts;streamtype=TSDOWNLOADER&;name=SKYHITSHD<link>
-<thumbnail></thumbnail>
+<thumbnail>https://www.skymedia.co.uk/wp-content/uploads/2016/01/Sky-Cinema-HITS.png</thumbnail>
 </item>
 
 <item>
 <title>SKY ONE<title>
 <link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/dillon/dillon/7004.ts;streamtype=TSDOWNLOADER&;name=SKYONE<link>
-<thumbnail></thumbnail>
+<thumbnail>http://static1.squarespace.com/static/55b3e67ae4b06a14d457be75/55b3ee54e4b00b13a9542cb4/56c5b4ac22482e5343294e36/1455797565145/?format=2500w</thumbnail>
 </item>
 
 <item>
 <title>SKY TWO<title>
 <link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/dillon/dillon/7003.ts;streamtype=TSDOWNLOADER&;name=SKYTWO<link>
-<thumbnail></thumbnail>
+<thumbnail>https://ncrafts.files.wordpress.com/2013/05/sky-2-logo.jpg</thumbnail>
 </item>
 
 <item>
 <title>SKY ARTS<title>
 <link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/dillon/dillon/6998.ts;streamtype=TSDOWNLOADER&;name=SKYARTS<link>
-<thumbnail></thumbnail>
+<thumbnail>http://www.atvtoday.co.uk/wp-content/uploads/2016/02/sky-arts.jpg</thumbnail>
 </item>
