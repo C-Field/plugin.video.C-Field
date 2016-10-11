@@ -1,6 +1,6 @@
 <item>
 <title>Phoenix Nights-1x01 - Opening Night<title>
-<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/movie/deb/deb/9967.ts;streamtype=TSDOWNLOADER&;name=1x01<link>
+<link>http://bulkyiptv.com:5750/movie/deb/deb/9967.mp4<link>
 <thumbnail>http://www.comedyquotes.tv/wp-content/uploads/2016/03/Phoenix-Nights.jpg</thumbnail>
 </item>
 
