@@ -42,6 +42,12 @@
 
 <item>
 <title>ITV HD<title>
+<link>plugin://plugin.video.f4mTester/?url=http://hyper.de1-eu.com:8000/live/djking/djking/20619.ts;streamtype=TSDOWNLOADER&;name=ITVHD<link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/ITV_logo_2013.svg/2000px-ITV_logo_2013.svg.png</thumbnail>
+</item>
+
+<item>
+<title>ITV HD<title>
 <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/deb/deb/14952.ts;streamtype=TSDOWNLOADER&;name=ITVHD<link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/ITV_logo_2013.svg/2000px-ITV_logo_2013.svg.png</thumbnail>
 </item>
