@@ -1,0 +1,71 @@
+<item>
+<title>Phoenix Nights-1x01 - Opening Night<title>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/movie/deb/deb/9967.mp4;streamtype=TSDOWNLOADER&;name=DISCOVERY<link>
+<thumbnail>http://www.comedyquotes.tv/wp-content/uploads/2016/03/Phoenix-Nights.jpg</thumbnail>
+</item>
+
+<item>
+<title>Phoenix Nights-1x02 - Wild West Night<title>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/movie/deb/deb/9968.mp4;streamtype=TSDOWNLOADER&;name=DISCOVERY<link>
+<thumbnail>http://www.comedyquotes.tv/wp-content/uploads/2016/03/Phoenix-Nights.jpg</thumbnail>
+</item>
+
+<item>
+<title>Phoenix Nights-1x03 - Disco Inferno<title>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/movie/deb/deb/9969.mp4;streamtype=TSDOWNLOADER&;name=DISCOVERY<link>
+<thumbnail>http://www.comedyquotes.tv/wp-content/uploads/2016/03/Phoenix-Nights.jpg</thumbnail>
+</item>
+
+<item>
+<title>Phoenix Nights-1x04 - Singles Night<title>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/movie/deb/deb/9970.mp4;streamtype=TSDOWNLOADER&;name=DISCOVERY<link>
+<thumbnail>http://www.comedyquotes.tv/wp-content/uploads/2016/03/Phoenix-Nights.jpg</thumbnail>
+</item>
+
+<item>
+<title>Phoenix Nights-1x05 - Comedy Robot Wars<title>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/movie/deb/deb/9971.mp4;streamtype=TSDOWNLOADER&;name=DISCOVERY<link>
+<thumbnail>http://www.comedyquotes.tv/wp-content/uploads/2016/03/Phoenix-Nights.jpg</thumbnail>
+</item>
+
+<item>
+<title>Phoenix Nights-1x06 - Talent Trek Finals<title>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/movie/deb/deb/9972.mp4;streamtype=TSDOWNLOADER&;name=DISCOVERY<link>
+<thumbnail>http://www.comedyquotes.tv/wp-content/uploads/2016/03/Phoenix-Nights.jpg</thumbnail>
+</item>
+
+<item>
+<title>Phoenix Nights-2x01 - Brian Gets Everyone Back Together<title>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/movie/deb/deb/9973.mp4;streamtype=TSDOWNLOADER&;name=DISCOVERY<link>
+<thumbnail>http://www.comedyquotes.tv/wp-content/uploads/2016/03/Phoenix-Nights.jpg</thumbnail>
+</item>
+
+<item>
+<title>Phoenix Nights-2x02 - Family Fun Day<title>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/movie/deb/deb/9974.mp4;streamtype=TSDOWNLOADER&;name=DISCOVERY<link>
+<thumbnail>http://www.comedyquotes.tv/wp-content/uploads/2016/03/Phoenix-Nights.jpg</thumbnail>
+</item>
+
+<item>
+<title>Phoenix Nights-2x03 - Crimetime<title>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/movie/deb/deb/9975.mp4;streamtype=TSDOWNLOADER&;name=DISCOVERY<link>
+<thumbnail>http://www.comedyquotes.tv/wp-content/uploads/2016/03/Phoenix-Nights.jpg</thumbnail>
+</item>
+
+<item>
+<title>Phoenix Nights-2x04 - Quiz<title>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/movie/deb/deb/9976.mp4;streamtype=TSDOWNLOADER&;name=DISCOVERY<link>
+<thumbnail>http://www.comedyquotes.tv/wp-content/uploads/2016/03/Phoenix-Nights.jpg</thumbnail>
+</item>
+
+<item>
+<title>Phoenix Nights-2x05 - Ladies' Night<title>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/movie/deb/deb/9977.mp4;streamtype=TSDOWNLOADER&;name=DISCOVERY<link>
+<thumbnail>http://www.comedyquotes.tv/wp-content/uploads/2016/03/Phoenix-Nights.jpg</thumbnail>
+</item>
+
+<item>
+<title>Phoenix Nights-2x06 - Stars in Their Eyes<title>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/movie/deb/deb/9978.mp4;streamtype=TSDOWNLOADER&;name=DISCOVERY<link>
+<thumbnail>http://www.comedyquotes.tv/wp-content/uploads/2016/03/Phoenix-Nights.jpg</thumbnail>
+</item>
