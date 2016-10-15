@@ -318,21 +318,14 @@ item>
 </item>
 
 <item>
-<title>UFC FIGHT PASS</title>
-<link>http://smashtv.ddns.net:9090/load/e2db930f01d2/1247.mpegts</link>
-<thumbnail>https://pbs.twimg.com/profile_images/626557560666095616/XaueCX62.jpg</thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
 <title>SYFY<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/dillon/dillon/7053.ts;streamtype=TSDOWNLOADER&;name=SYFY<link>
+<link>plugin://plugin.video.f4mTester/?url=http://hyper.de1-eu.com:8000/live/djking/djking/20442.ts;streamtype=TSDOWNLOADER&;name=SYFY<link>
 <thumbnail>http://www.syfy.com/sites/syfy/themes/syfy/default.jpg</thumbnail>
 </item>
 
 <item>
 <title>USA SYFY<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/dillon/dillon/6676.ts;streamtype=TSDOWNLOADER&;name=USASYFY<link>
+<link>plugin://plugin.video.f4mTester/?url=http://hyper.de1-eu.com:8000/live/djking/djking/23177.ts;streamtype=TSDOWNLOADER&;name=USASYFY<link>
 <thumbnail>http://www.syfy.com/sites/syfy/themes/syfy/default.jpg</thumbnail>
 </item>
 
@@ -357,21 +350,14 @@ item>
 
 <item>
 <title>E4<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/dillon/dillon/6996.ts;streamtype=TSDOWNLOADER&;name=E4<link>
+<link>plugin://plugin.video.f4mTester/?url=http://hyper.de1-eu.com:8000/live/djking/djking/20460.ts;streamtype=TSDOWNLOADER&;name=E4<link>
 <thumbnail>http://static.bips.channel4.com/bips/300x225/e4/8c460e6a-404f-4b8a-b09b-8d069e00236d.jpg</thumbnail>
 </item>
 
 <item>
 <title>CHALLENGE<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/dillon/dillon/6926.ts;streamtype=TSDOWNLOADER&;name=CHALLENGE<link>
+<link>plugin://plugin.video.f4mTester/?url=http://hyper.de1-eu.com:8000/live/djking/djking/20428.ts;streamtype=TSDOWNLOADER&;name=CHALLENGE<link>
 <thumbnail>http://2.bp.blogspot.com/-wwuqxiBJZRw/Tm-U5JIHHtI/AAAAAAAACIQ/arFTLEm48_0/s1600/Challenge+logo+2011.png</thumbnail>
-</item>
-
-<item>
-<title>TVJ</title>
-<link>http://univ-i.akamaihd.net/hls/live/222629/HLS11/chunklist.m3u8</link>
-<thumbnail>http://www.marciaforbes.com/sites/default/files/public/tvj_logo%20(1)_1.jpg</thumbnail>
-<fanart></fanart>
 </item>
 
 <item>
@@ -439,67 +425,49 @@ item>
 
 <item>
 <title>TRU DRAMA<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/dillon/dillon/6883.ts;streamtype=TSDOWNLOADER&;name=TRUEDRAMA<link>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/JIM/JIM/13465.ts;streamtype=TSDOWNLOADER&;name=TRUEDRAMA<link>
 <thumbnail>https://theident.gallery/true/2005/TRUE-2013-ID-DRAMA-1-2.jpg</thumbnail>
 </item>
 
 <item>
 <title>TBS HD<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/dillon/dillon/6675.ts;streamtype=TSDOWNLOADER&;name=TBSHD<link>
+<link>plugin://plugin.video.f4mTester/?url=http://hyper.de1-eu.com:8000/live/djking/djking/23176.ts;streamtype=TSDOWNLOADER&;name=TBSHD<link>
 <thumbnail>http://i.cdn.turner.com/v5cache/TBS/images/logos/tbs_open_graph_icon.png</thumbnail>
 </item>
 
 <item>
 <title>SPIKE HD<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/dillon/dillon/6648.ts;streamtype=TSDOWNLOADER&;name=SPIKEHD<link>
+<link>plugin://plugin.video.f4mTester/?url=http://hyper.de1-eu.com:8000/live/djking/djking/23178.ts;streamtype=TSDOWNLOADER&;name=SPIKEHD<link>
 <thumbnail>http://www.underconsideration.com/brandnew/archives/spike_tv_2015_logo_detail.png</thumbnail>
 </item>
 
 <item>
 <title>SHOWTIME HD<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/dillon/dillon/6650.ts;streamtype=TSDOWNLOADER&;name=SHOWTIMEHD<link>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/paulo/paulo/1439.ts;streamtype=TSDOWNLOADER&;name=SHOWTIMEHD<link>
 <thumbnail>http://logodatabases.com/wp-content/uploads/2012/05/showtime-logo.jpg</thumbnail>
 </item>
 
 <item>
-<title>OWN HD<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/dillon/dillon/6612.ts;streamtype=TSDOWNLOADER&;name=OWNHD<link>
-<thumbnail>http://tvseriesfinale.com/wp-content/uploads/2016/01/OWN-logo.jpg</thumbnail>
-</item>
-
-<item>
-<title>MORE MAX HD<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/dillon/dillon/4509.ts;streamtype=TSDOWNLOADER&;name=MOREMAXHD<link>
-<thumbnail>http://vignette3.wikia.nocookie.net/logopedia/images/4/4d/MoreMax_logo.svg/revision/latest?cb=20100321192742</thumbnail>
-</item>
-
-<item>
-<title>HBO HD<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/dillon/dillon/6661.ts;streamtype=TSDOWNLOADER&;name=HBOHD<link>
-<thumbnail>http://hboasiapromos.s3.amazonaws.com/0_core/fb-hbo-480x320.jpg</thumbnail>
-</item>
-
-<item>
 <title>HALLMARK HD<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/dillon/dillon/6702.ts;streamtype=TSDOWNLOADER&;name=HALLMARKHD<link>
+<link>plugin://plugin.video.f4mTester/?url=http://hyper.de1-eu.com:8000/live/djking/djking/23191.ts;streamtype=TSDOWNLOADER&;name=HALLMARKHD<link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Hallmark_logo.svg/2000px-Hallmark_logo.svg.png</thumbnail>
 </item>
 
 <item>
 <title>FREE FORM HD<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/dillon/dillon/6615.ts;streamtype=TSDOWNLOADER&;name=FREEFORMHD<link>
+<link>plugin://plugin.video.f4mTester/?url=http://hyper.de1-eu.com:8000/live/djking/djking/23077.ts;streamtype=TSDOWNLOADER&;name=FREEFORMHD<link>
 <thumbnail>http://cdn.abclocal.go.com/content/wls/images/cms/automation/images/1156076_1280x720.jpg</thumbnail>
 </item>
 
 <item>
 <title>DIY NETWORK HD<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/dillon/dillon/6667.ts;streamtype=TSDOWNLOADER&;name=DIYNETWORKHD<link>
+<link>plugin://plugin.video.f4mTester/?url=http://hyper.de1-eu.com:8000/live/djking/djking/23165.ts;streamtype=TSDOWNLOADER&;name=DIYNETWORKHD<link>
 <thumbnail>http://tvseriesfinale.com/wp-content/uploads/2015/12/DIY-network.jpg"</thumbnail>
 </item>
 
 <item>
 <title>CBS HD<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/dillon/dillon/4489.ts;streamtype=TSDOWNLOADER&;name=CBSHD<link>
+<link>plugin://plugin.video.f4mTester/?url=http://hyper.de1-eu.com:8000/live/djking/djking/23150.ts;streamtype=TSDOWNLOADER&;name=CBSHD<link>
 <thumbnail>http://i.forbesimg.com/media/lists/companies/cbs_416x416.jpg</thumbnail>
 </item>
 
