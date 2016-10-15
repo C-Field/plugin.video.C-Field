@@ -1,0 +1,575 @@
+<item>
+<title>BT SPORT 1<title>
+<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/luke/luke/7031.ts;streamtype=TSDOWNLOADER&;name=BTSPORT11080p<link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>BT SPORT 1<title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/jay/jay/543.ts;streamtype=TSDOWNLOADER&;name=BTSPORT1<link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>BT SPORT 1 HD 1080p<title>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/JIM/JIM/19927.ts;streamtype=TSDOWNLOADER&;name=BTSPORT1HD<link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>BT SPORT 1 HD<title>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/deb/deb/13532.ts;streamtype=TSDOWNLOADER&;name=BTSPORT1HD<link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>BT SPORT 2<title>
+<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/luke/luke/7030.ts;streamtype=TSDOWNLOADER&;name=BTSPORTS2<link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>BT SPORT 2 HD 1080p<title>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/JIM/JIM/19928.ts;streamtype=TSDOWNLOADER&;name=BTSPORTS2<link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>BT SPORTS 2 HD<title>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/JIM/JIM/13510.ts;streamtype=TSDOWNLOADER&;name=BTSPORTS2HD<link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>BT SPORTS 2 HD<title>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/deb/deb/15352.ts;streamtype=TSDOWNLOADER&;name=BTSPORTS2HD<link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>BT SPORTS 3<title>
+<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/luke/luke/6965.ts;streamtype=TSDOWNLOADER&;name=BTSPORTS31080p<link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>BT SPORTS 3<title>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/redcoat/redcoat/13542.ts;streamtype=TSDOWNLOADER&;name=BTSPORTS3<link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>BT SPORT 3 HD<title>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/redcoat/redcoat/16990.ts;streamtype=TSDOWNLOADER&;name=BTSPORT3HD<link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>BT SPORTS 3 HD<title>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/redcoat/redcoat/18976.ts;streamtype=TSDOWNLOADER&;name=BTSPORT3HD<link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>BT SPORTS ESPN<title>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/redcoat/redcoat/13512.ts;streamtype=TSDOWNLOADER&;name=BTSPORTSESPN<link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>BT SPORTS EXTRA 1<title>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/redcoat/redcoat/13556.ts;streamtype=TSDOWNLOADER&;name=BTSPORTSEXTRA1<link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>BT SPORTS EXTRA 2<title>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/redcoat/redcoat/14437.ts;streamtype=TSDOWNLOADER&;name=BTSPORTSEXTRA2<link>
+<thumbnail>NICK</thumbnail>
+</item>
+
+<item>
+<title>BT SPORTS EXTRA 3<title>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/redcoat/redcoat/14529.ts;streamtype=TSDOWNLOADER&;name=BTSPORTSEXTRA3<link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>BT SPORTS EXTRA 4<title>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/redcoat/redcoat/14434.ts;streamtype=TSDOWNLOADER&;name=BTSPORTSEXTRA4<link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>BT SPORTS EXTRA 5<title>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/redcoat/redcoat/14435.ts;streamtype=TSDOWNLOADER&;name=BTSPORTSEXTRA5<link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>BT SPORTS MOSAIC<title>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/redcoat/redcoat/13503.ts;streamtype=TSDOWNLOADER&;name=BTSPORTMOSAIC<link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>BT SPORTS MOSAIC 2<title>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/redcoat/redcoat/14438.ts;streamtype=TSDOWNLOADER&;name=BTSPORTMOSAIC<link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>SKY SPORTS 1 HD<title>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/redcoat/redcoat/18263.ts;streamtype=TSDOWNLOADER&;name=SKYSPORTS1HD<link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>SKY SPORTS 1<title>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/redcoat/redcoat/13555.ts;streamtype=TSDOWNLOADER&;name=SKYSPORTS1<link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>SKY SPORTS 2 HD<title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/jay/jay/654.ts;streamtype=TSDOWNLOADER&;name=SKYSPORTS2HD<link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>SKY SPORTS 2<title>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/redcoat/redcoat/13560.ts;streamtype=TSDOWNLOADER&;name=SKYSPORTS2<link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>SKY SPORTS 3 HD<title>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/redcoat/redcoat/18265.ts;streamtype=TSDOWNLOADER&;name=SKYSPORTS3<link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>SKY SPORTS 3<title>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/redcoat/redcoat/13561.ts;streamtype=TSDOWNLOADER&;name=SKYSPORTS3<link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>SKY SPORTS 4 HD<title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/jay/jay/545.ts;streamtype=TSDOWNLOADER&;name=SKYSPORTS4HD<link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>SKY SPORTS 4<title>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/redcoat/redcoat/13538.ts;streamtype=TSDOWNLOADER&;name=SKYSPORTS4<link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>SKY SPORTS 5 HD<title>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/redcoat/redcoat/18267.ts;streamtype=TSDOWNLOADER&;name=SKYSPORTS5HD<link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>SKY SPORTS 5<title>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/redcoat/redcoat/13514.ts;streamtype=TSDOWNLOADER&;name=SKYSPORTS5<link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>SKY SPORT MIX<title>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/rocky123/rocky123/17283.ts;streamtype=TSDOWNLOADER&;name=SKYSPORTMIX<link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>SKYSP BOXOFF<title>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/lisa/lisa/8978.ts;streamtype=TSDOWNLOADER&;name=SKYSP BOXOFF<link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>SKYSP BOXOFF<title>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/lisa/lisa/18055.ts;streamtype=TSDOWNLOADER&;name=SKYSPBOXOFF<link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>SKY NET FOOTBALL<title>
+<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/luke/luke/7093.ts;streamtype=TSDOWNLOADER&;name=SKYNETFOOTBALL<link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>BOX NATION<title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/jay/jay/490.ts;streamtype=TSDOWNLOADER&;name=BOXNATION<link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>BOX NATION<title>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/deb/deb/14520.ts;streamtype=TSDOWNLOADER&;name=BOXNATION<link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>BOX NATION<title>
+<link>plugin://plugin.video.f4mTester/?url=http://globalstream.noip.us:8000/live/redsea/redsea/1340.ts;streamtype=TSDOWNLOADER&;name=BOXNATION<link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>BOX NATION<title>
+<link>plugin://plugin.video.f4mTester/?url=http://cp.dmbshare.net:8000/live/francesco2/francesco2/8336.ts;streamtype=TSDOWNLOADER&;name=BOXNATION<link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>FIGHT SPORT<title>
+<link>plugin://plugin.video.f4mTester/?url=http://hyper.de1-eu.com:8000/live/djking/djking/23205.ts;streamtype=TSDOWNLOADER&;name=FIGHTSPORT<link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>PREMIER SPORT<title>
+<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/luke/luke/6953.ts;streamtype=TSDOWNLOADER&;name=PREMIERSPORT<link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>PREMIER SPORT<title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/jay/jay/513.ts;streamtype=TSDOWNLOADER&;name=PREMIERSPORT<link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>EURO SPORT 1<title>
+<link>plugin://plugin.video.f4mTester/?url=http://globalstream.noip.us:8000/live/redsea/redsea/740.ts;streamtype=TSDOWNLOADER&;name=EUROSPORT1<link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>EURO SPORT 1<title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/jay/jay/541.ts;streamtype=TSDOWNLOADER&;name=EUROSPORT1<link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>EURO SPORT 2<title>
+<link>plugin://plugin.video.f4mTester/?url=http://globalstream.noip.us:8000/live/redsea/redsea/741.ts;streamtype=TSDOWNLOADER&;name=EUROSPORT2<link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>EURO SPORT 2<title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/jay/jay/540.ts;streamtype=TSDOWNLOADER&;name=EUROSPORT2<link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>SKY SPORTS F1<title>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/lisa/lisa/13507.ts;streamtype=TSDOWNLOADER&;name=SKYSPORTSF1<link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>SKY SPORTS F1<title>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/redcoat/redcoat/20218.ts;streamtype=TSDOWNLOADER&;name=SKYSPORTSF1<link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>RACING UK<title>
+<link>plugin://plugin.video.f4mTester/?url=http://globalstream.noip.us:8000/live/redsea/redsea/769.ts;streamtype=TSDOWNLOADER&;name=RACINGUK<link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>RACING UK<title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/jay/jay/458.ts;streamtype=TSDOWNLOADER&;name=RACINGUK<link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>FOX SPORT 1<title>
+<link>plugin://plugin.video.f4mTester/?url=http://hyper.de1-eu.com:8000/live/djking/djking/22083.ts;streamtype=TSDOWNLOADER&;name=FOXSPORT1<link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>FOX SPORT 2<title>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/redcoat/redcoat/16415.ts;streamtype=TSDOWNLOADER&;name=FOXSPORT2<link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>FOX NFL NOW<title>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/rocky123/rocky123/17225.ts;streamtype=TSDOWNLOADER&;name=FOXNFLNOW<link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>C MORE FOOTBALL<title>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/deb/deb/17235.ts;streamtype=TSDOWNLOADER&;name=CMOREFOOTBALL<link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>C MORE FOOTBALL<title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/jay/jay/1090.ts;streamtype=TSDOWNLOADER&;name=CMOREFOOTBALL<link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>NBC SPORTS 1<title>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/lisa/lisa/17406.ts;streamtype=TSDOWNLOADER&;name=NBCSPORTS1<link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>CNBC<title>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/lisa/lisa/18101.ts;streamtype=TSDOWNLOADER&;name=CNBC<link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>BEIN SPORTS 1 HD<title>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/rocky123/rocky123/19287.ts;streamtype=TSDOWNLOADER&;name=beINSPORTS1HD<link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>BEIN SPORTS 2 HD<title>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/rocky123/rocky123/19288.ts;streamtype=TSDOWNLOADER&;name=beINSPORTS2HD<link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>BEIN SPORTS 3 HD<title>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/rocky123/rocky123/19289.ts;streamtype=TSDOWNLOADER&;name=BEINSPORTS3HD<link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>BEIN SPORTS 4 HD<title>
+<link>plugin://plugin.video.f4mTester/?url=http://globalstream.noip.us:8000/live/redsea/redsea/1858.ts;streamtype=TSDOWNLOADER&;name=BEINSPORTS4HD<link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>BEIN SPORTS 5 HD<title>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/redcoat/redcoat/20231.ts;streamtype=TSDOWNLOADER&;name=BEINSPORTS5HD<link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>BEIN SPORTS 6 HD<title>
+<link>plugin://plugin.video.f4mTester/?url=http://globalstream.noip.us:8000/live/redsea/redsea/1856.ts;streamtype=TSDOWNLOADER&;name=BEINSPORTS6HD<link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>BEIN SPORTS 7 HD<title>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/redcoat/redcoat/20229.ts;streamtype=TSDOWNLOADER&;name=BEINSPORTS7HD<link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>STAR SPORTS 1<title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/jay/jay/1774.ts;streamtype=TSDOWNLOADER&;name=STARSPORTS1<link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>STAR SPORTS 2<title>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/lisa/lisa/17278.ts;streamtype=TSDOWNLOADER&;name=STARSPORTS2<link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>STAR SPORTS 4<title>
+<link>plugin://plugin.video.f4mTester/?url=http://hyper.de1-eu.com:8000/live/djking/djking/21116.ts;streamtype=TSDOWNLOADER&;name=STARSPORTS4<link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>eirSPORT 1<title>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/rocky123/rocky123/15574.ts;streamtype=TSDOWNLOADER&;name=eirSPORT1<link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>eir SPORT 2<title>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/rocky123/rocky123/15575.ts;streamtype=TSDOWNLOADER&;name=eirSPORT1<link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>Sportnet Pacific HD<title>
+<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/luke/luke/6591.ts;streamtype=TSDOWNLOADER&;name=SportnetPacificHD<link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>TEN GOLF HD<title>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/rocky123/rocky123/17281.ts;streamtype=TSDOWNLOADER&;name=TENGOLFHD<link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>WWE NETWORK<title>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/rocky123/rocky123/15698.ts;streamtype=TSDOWNLOADER&;name=WWENETWORK<link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>TEN SPORT 1<title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/jay/jay/419.ts;streamtype=TSDOWNLOADER&;name=TENSPORT1<link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>TEN SPORT 2<title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/jay/jay/1769.ts;streamtype=TSDOWNLOADER&;name=TENSPORT2<link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>EXTREME SPORTS<title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/jay/jay/743.ts;streamtype=TSDOWNLOADER&;name=EXTREMESPORT<link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>MOTORS<title>
+<link>plugin://plugin.video.f4mTester/?url=http://hyper.de1-eu.com:8000/live/djking/djking/20374.ts;streamtype=TSDOWNLOADER&;name=MOTORS<link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title> FOX SPORTS 506 HD<title>
+<link>plugin://plugin.video.f4mTester/?url=http://hyper.de1-eu.com:8000/live/djking/djking/23208.ts;streamtype=TSDOWNLOADER&;name= FOXSPORTS506HD<link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>VIASAT MOTORS<title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/jay/jay/1129.ts;streamtype=TSDOWNLOADER&;name=VIASATMOTORS<link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>CHELSEA TV<title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/jay/jay/537.ts;streamtype=TSDOWNLOADER&;name=CHELSEATV<link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>MUNTV<title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/jay/jay/535.ts;streamtype=TSDOWNLOADER&;name=MUNTV<link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>LIVERPOOLTV<title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/jay/jay/536.ts;streamtype=TSDOWNLOADER&;name=LIVERPOOLTV<link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>SBK<title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/jay/jay/1436.ts;streamtype=TSDOWNLOADER&;name=SBK<link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>TSN 1<title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/jay/jay/1177.ts;streamtype=TSDOWNLOADER&;name=TSN 1<link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>TSN 2<title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/jay/jay/1438.ts;streamtype=TSDOWNLOADER&;name=TSN 2<link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>TSN 3<title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/jay/jay/1169.ts;streamtype=TSDOWNLOADER&;name=TSN 3<link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>TSN 4<title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/jay/jay/1175.ts;streamtype=TSDOWNLOADER&;name=TSN 4<link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>TSN 5<title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/jay/jay/1176.ts;streamtype=TSDOWNLOADER&;name=TSN 5<link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>CANAL+<title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/jay/jay/350.ts;streamtype=TSDOWNLOADER&;name=CANAL+<link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>VIASAT SPORT<title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/jay/jay/1117.ts;streamtype=TSDOWNLOADER&;name=VIASATSPORT<link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>ASTRO SUPER SPORT 1<title>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/redcoat/redcoat/19934.ts;streamtype=TSDOWNLOADER&;name=ASTROSUPERSPORT1<link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>ASTRO SUPER SPORT 2<title>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/redcoat/redcoat/19933.ts;streamtype=TSDOWNLOADER&;name=ASTROSUPERSPORT2<link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>ASTRO SUPER SPORT 3<title>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/redcoat/redcoat/19932.ts;streamtype=TSDOWNLOADER&;name=ASTROSUPERSPORT3<link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>ASTRO SUPER SPORT 4<title>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/redcoat/redcoat/19931.ts;streamtype=TSDOWNLOADER&;name=ASTROSUPERSPORT4<link>
+<thumbnail></thumbnail>
+</item>GINXeSportsTV
+
+<item>
+<title>GINXeSportsTV<title>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/redcoat/redcoat/15528.ts;streamtype=TSDOWNLOADER&;name=GINXeSportsTV<link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>COMBAT SPORT<title>
+<link>plugin://plugin.video.f4mTester/?url=http://hyper.de1-eu.com:8000/live/djking/djking/21375.ts;streamtype=TSDOWNLOADER&;name=COMBATSPORT<link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>BBC RED BUTTON<title>
+<link>plugin://plugin.video.f4mTester/?url=http://hyper.de1-eu.com:8000/live/djking/djking/20330.ts;streamtype=TSDOWNLOADER&;name=BBCREDBUTTON<link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>BIKE<title>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/deb/deb/13570.ts;streamtype=TSDOWNLOADER&;name=BIKE<link>
+<thumbnail></thumbnail>
+</item>
