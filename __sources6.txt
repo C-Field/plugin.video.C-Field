@@ -6,7 +6,7 @@
 
 <item>
 <title>Discovery HD<title>
-<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/paulo/paulo/1150.ts;streamtype=TSDOWNLOADER&;name=DISCOVERYHD<link>
+<link>plugin://plugin.video.f4mTester/?url=http://hyper.de1-eu.com:8000/live/djking/djking/23179.ts;streamtype=TSDOWNLOADER&;name=DISCOVERYHD<link>
 <thumbnail>http://www.etcentric.org/wp-content/uploads/2013/11/Discovery_Channel.jpg</thumbnail>
 </item>
 
