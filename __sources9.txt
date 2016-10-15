@@ -48,85 +48,85 @@
 
 <item>
 <title>BT SPORTS 3<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/luke/luke/6965.ts;streamtype=TSDOWNLOADER&;name=BTSPORTS31080p<link>
+<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/luke/luke/6965.ts;streamtype=TSDOWNLOADER&;name=BTSPORTS3<link>
 <thumbnail></thumbnail>
 </item>
 
 <item>
 <title>BT SPORTS 3<title>
-<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/redcoat/redcoat/13542.ts;streamtype=TSDOWNLOADER&;name=BTSPORTS3<link>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/JIM/JIM/13542.ts;streamtype=TSDOWNLOADER&;name=BTSPORTS3<link>
 <thumbnail></thumbnail>
 </item>
 
 <item>
 <title>BT SPORT 3 HD<title>
-<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/redcoat/redcoat/16990.ts;streamtype=TSDOWNLOADER&;name=BTSPORT3HD<link>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/JIM/JIM/16990.ts;streamtype=TSDOWNLOADER&;name=BTSPORT3HD<link>
 <thumbnail></thumbnail>
 </item>
 
 <item>
 <title>BT SPORTS 3 HD<title>
-<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/redcoat/redcoat/18976.ts;streamtype=TSDOWNLOADER&;name=BTSPORT3HD<link>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/JIM/JIM/18976.ts;streamtype=TSDOWNLOADER&;name=BTSPORT3HD<link>
 <thumbnail></thumbnail>
 </item>
 
 <item>
 <title>BT SPORTS ESPN<title>
-<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/redcoat/redcoat/13512.ts;streamtype=TSDOWNLOADER&;name=BTSPORTSESPN<link>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/JIM/JIM/13512.ts;streamtype=TSDOWNLOADER&;name=BTSPORTSESPN<link>
 <thumbnail></thumbnail>
 </item>
 
 <item>
 <title>BT SPORTS EXTRA 1<title>
-<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/redcoat/redcoat/13556.ts;streamtype=TSDOWNLOADER&;name=BTSPORTSEXTRA1<link>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/JIM/JIM/13556.ts;streamtype=TSDOWNLOADER&;name=BTSPORTSEXTRA1<link>
 <thumbnail></thumbnail>
 </item>
 
 <item>
 <title>BT SPORTS EXTRA 2<title>
-<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/redcoat/redcoat/14437.ts;streamtype=TSDOWNLOADER&;name=BTSPORTSEXTRA2<link>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/JIM/JIM/14437.ts;streamtype=TSDOWNLOADER&;name=BTSPORTSEXTRA2<link>
 <thumbnail>NICK</thumbnail>
 </item>
 
 <item>
 <title>BT SPORTS EXTRA 3<title>
-<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/redcoat/redcoat/14529.ts;streamtype=TSDOWNLOADER&;name=BTSPORTSEXTRA3<link>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/JIM/JIM/14529.ts;streamtype=TSDOWNLOADER&;name=BTSPORTSEXTRA3<link>
 <thumbnail></thumbnail>
 </item>
 
 <item>
 <title>BT SPORTS EXTRA 4<title>
-<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/redcoat/redcoat/14434.ts;streamtype=TSDOWNLOADER&;name=BTSPORTSEXTRA4<link>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/JIM/JIM/14434.ts;streamtype=TSDOWNLOADER&;name=BTSPORTSEXTRA4<link>
 <thumbnail></thumbnail>
 </item>
 
 <item>
 <title>BT SPORTS EXTRA 5<title>
-<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/redcoat/redcoat/14435.ts;streamtype=TSDOWNLOADER&;name=BTSPORTSEXTRA5<link>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/JIM/JIM/14435.ts;streamtype=TSDOWNLOADER&;name=BTSPORTSEXTRA5<link>
 <thumbnail></thumbnail>
 </item>
 
 <item>
 <title>BT SPORTS MOSAIC<title>
-<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/redcoat/redcoat/13503.ts;streamtype=TSDOWNLOADER&;name=BTSPORTMOSAIC<link>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/JIM/JIM/13503.ts;streamtype=TSDOWNLOADER&;name=BTSPORTMOSAIC<link>
 <thumbnail></thumbnail>
 </item>
 
 <item>
 <title>BT SPORTS MOSAIC 2<title>
-<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/redcoat/redcoat/14438.ts;streamtype=TSDOWNLOADER&;name=BTSPORTMOSAIC<link>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/JIM/JIM/14438.ts;streamtype=TSDOWNLOADER&;name=BTSPORTMOSAIC<link>
 <thumbnail></thumbnail>
 </item>
 
 <item>
 <title>SKY SPORTS 1 HD<title>
-<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/redcoat/redcoat/18263.ts;streamtype=TSDOWNLOADER&;name=SKYSPORTS1HD<link>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/JIM/JIM/18263.ts;streamtype=TSDOWNLOADER&;name=SKYSPORTS1HD<link>
 <thumbnail></thumbnail>
 </item>
 
 <item>
 <title>SKY SPORTS 1<title>
-<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/redcoat/redcoat/13555.ts;streamtype=TSDOWNLOADER&;name=SKYSPORTS1<link>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/JIM/JIM/18263.ts;streamtype=TSDOWNLOADER&;name=SKYSPORTS1<link>
 <thumbnail></thumbnail>
 </item>
 
@@ -138,19 +138,19 @@
 
 <item>
 <title>SKY SPORTS 2<title>
-<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/redcoat/redcoat/13560.ts;streamtype=TSDOWNLOADER&;name=SKYSPORTS2<link>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/JIM/JIM/18264.ts;streamtype=TSDOWNLOADER&;name=SKYSPORTS2<link>
 <thumbnail></thumbnail>
 </item>
 
 <item>
 <title>SKY SPORTS 3 HD<title>
-<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/redcoat/redcoat/18265.ts;streamtype=TSDOWNLOADER&;name=SKYSPORTS3<link>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/paulo/paulo/546.ts;streamtype=TSDOWNLOADER&;name=SKYSPORTS3<link>
 <thumbnail></thumbnail>
 </item>
 
 <item>
 <title>SKY SPORTS 3<title>
-<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/redcoat/redcoat/13561.ts;streamtype=TSDOWNLOADER&;name=SKYSPORTS3<link>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/paulo/paulo/546.tss;streamtype=TSDOWNLOADER&;name=SKYSPORTS3<link>
 <thumbnail></thumbnail>
 </item>
 
@@ -162,19 +162,19 @@
 
 <item>
 <title>SKY SPORTS 4<title>
-<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/redcoat/redcoat/13538.ts;streamtype=TSDOWNLOADER&;name=SKYSPORTS4<link>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/JIM/JIM/18266.ts;streamtype=TSDOWNLOADER&;name=SKYSPORTS4<link>
 <thumbnail></thumbnail>
 </item>
 
 <item>
 <title>SKY SPORTS 5 HD<title>
-<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/redcoat/redcoat/18267.ts;streamtype=TSDOWNLOADER&;name=SKYSPORTS5HD<link>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/JIM/JIM/18267.ts;streamtype=TSDOWNLOADER&;name=SKYSPORTS5HD<link>
 <thumbnail></thumbnail>
 </item>
 
 <item>
 <title>SKY SPORTS 5<title>
-<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/redcoat/redcoat/13514.ts;streamtype=TSDOWNLOADER&;name=SKYSPORTS5<link>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/JIM/JIM/13514.ts;streamtype=TSDOWNLOADER&;name=SKYSPORTS5<link>
 <thumbnail></thumbnail>
 </item>
 
@@ -276,7 +276,7 @@
 
 <item>
 <title>SKY SPORTS F1<title>
-<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/redcoat/redcoat/20218.ts;streamtype=TSDOWNLOADER&;name=SKYSPORTSF1<link>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/JIM/JIM/20218.ts;streamtype=TSDOWNLOADER&;name=SKYSPORTSF1<link>
 <thumbnail></thumbnail>
 </item>
 
@@ -300,7 +300,7 @@
 
 <item>
 <title>FOX SPORT 2<title>
-<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/redcoat/redcoat/16415.ts;streamtype=TSDOWNLOADER&;name=FOXSPORT2<link>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/JIM/JIM/16415.ts;streamtype=TSDOWNLOADER&;name=FOXSPORT2<link>
 <thumbnail></thumbnail>
 </item>
 
@@ -360,7 +360,7 @@
 
 <item>
 <title>BEIN SPORTS 5 HD<title>
-<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/redcoat/redcoat/20231.ts;streamtype=TSDOWNLOADER&;name=BEINSPORTS5HD<link>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/JIM/JIM/20231.ts;streamtype=TSDOWNLOADER&;name=BEINSPORTS5HD<link>
 <thumbnail></thumbnail>
 </item>
 
@@ -372,7 +372,7 @@
 
 <item>
 <title>BEIN SPORTS 7 HD<title>
-<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/redcoat/redcoat/20229.ts;streamtype=TSDOWNLOADER&;name=BEINSPORTS7HD<link>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/JIM/JIM/20229.ts;streamtype=TSDOWNLOADER&;name=BEINSPORTS7HD<link>
 <thumbnail></thumbnail>
 </item>
 
@@ -528,31 +528,31 @@
 
 <item>
 <title>ASTRO SUPER SPORT 1<title>
-<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/redcoat/redcoat/19934.ts;streamtype=TSDOWNLOADER&;name=ASTROSUPERSPORT1<link>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/JIM/JIM/19934.ts;streamtype=TSDOWNLOADER&;name=ASTROSUPERSPORT1<link>
 <thumbnail></thumbnail>
 </item>
 
 <item>
 <title>ASTRO SUPER SPORT 2<title>
-<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/redcoat/redcoat/19933.ts;streamtype=TSDOWNLOADER&;name=ASTROSUPERSPORT2<link>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/JIM/JIM/19933.ts;streamtype=TSDOWNLOADER&;name=ASTROSUPERSPORT2<link>
 <thumbnail></thumbnail>
 </item>
 
 <item>
 <title>ASTRO SUPER SPORT 3<title>
-<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/redcoat/redcoat/19932.ts;streamtype=TSDOWNLOADER&;name=ASTROSUPERSPORT3<link>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/JIM/JIM/19932.ts;streamtype=TSDOWNLOADER&;name=ASTROSUPERSPORT3<link>
 <thumbnail></thumbnail>
 </item>
 
 <item>
 <title>ASTRO SUPER SPORT 4<title>
-<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/redcoat/redcoat/19931.ts;streamtype=TSDOWNLOADER&;name=ASTROSUPERSPORT4<link>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/JIM/JIM/19931.ts;streamtype=TSDOWNLOADER&;name=ASTROSUPERSPORT4<link>
 <thumbnail></thumbnail>
 </item>GINXeSportsTV
 
 <item>
-<title>GINXeSportsTV<title>
-<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/redcoat/redcoat/15528.ts;streamtype=TSDOWNLOADER&;name=GINXeSportsTV<link>
+<title>*GINXeSportsTV*<title>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/JIM/JIM/15528.ts;streamtype=TSDOWNLOADER&;name=GINXeSportsTV<link>
 <thumbnail></thumbnail>
 </item>
 
