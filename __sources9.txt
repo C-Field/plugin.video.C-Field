@@ -168,13 +168,13 @@
 
 <item>
 <title>SKY SPORTS 5 HD<title>
-<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/JIM/JIM/18267.ts;streamtype=TSDOWNLOADER&;name=SKYSPORTS5HD<link>
+<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/Charly/Charly/479.ts;streamtype=TSDOWNLOADER&;name=SKYSPORTS5HD<link>
 <thumbnail></thumbnail>
 </item>
 
 <item>
 <title>SKY SPORTS 5<title>
-<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/JIM/JIM/13514.ts;streamtype=TSDOWNLOADER&;name=SKYSPORTS5<link>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/potnoodle/potnoodle/13514.ts;streamtype=TSDOWNLOADER&;name=SKYSPORTS5<link>
 <thumbnail></thumbnail>
 </item>
 
