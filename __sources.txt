@@ -293,14 +293,8 @@
 </item>
 
 <item>
-<title>SONY CHANNEL 1<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/dillon/dillon/6890.ts;streamtype=TSDOWNLOADER&;name=SONYCHANNEL1<link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
 <title>TCM<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/dillon/dillon/7075.ts;streamtype=TSDOWNLOADER&;name=TCM<link>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/paulo/paulo/459.ts;streamtype=TSDOWNLOADER&;name=TCM<link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/TCM_logo.svg/2000px-TCM_logo.svg.png</thumbnail>
 </item>
 
@@ -315,84 +309,6 @@ item>
 <link>http://wgntribune-lh.akamaihd.net/i/WGNPrimary_1@304622/index_700_av-b.m3u8?sd=10&rebase=on</link>
 <thumbnail>http://www.tvnewscheck.com/marketshare/wp-content/uploads/2014/07/WGN-tv-chicago.jpg</thumbnail>
 <fanart></fanart>
-</item>
-
-<item>
-<title>History Channel<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/dillon/dillon/6989.ts;streamtype=TSDOWNLOADER&;name=History Channel<link>
-<thumbnail>src="http://www.freelogovectors.net/wp-content/uploads/2012/04/history_channel-logo.jpg"</thumbnail>
-</item>
-
-<item>
-<title>History 2<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/dillon/dillon/6990.ts;streamtype=TSDOWNLOADER&;name=History2<link>
-<thumbnail>http://vignette2.wikia.nocookie.net/logopedia/images/f/fd/H2more2history.png/revision/latest?cb=20150801195220</thumbnail>
-</item>
-
-<item>
-<title>History USA<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/dillon/dillon/6686.ts;streamtype=TSDOWNLOADER&;name=HistoryUSA<link>
-<thumbnail>http://blogs-images.forbes.com/bradlockwood/files/2011/10/history-channel-logo.jpg</thumbnail>
-</item>
-
-<item>
-<title>Discovery Channel<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/dillon/dillon/7039.ts;streamtype=TSDOWNLOADER&;name=Discovery Channel<link>
-<thumbnail>http://vignette1.wikia.nocookie.net/logopedia/images/3/34/Discovery_Channel_2000.png/revision/latest?cb=20100728112637</thumbnail>
-</item>
-
-<item>
-<title>DISCOVERYHISTORY<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/dillon/dillon/7038.ts;streamtype=TSDOWNLOADER&;name=DHISTORY<link>
-<thumbnail>src="http://cached.imagescaler.hbpl.co.uk/resize/scaleWidth/815/offlinehbpl.hbpl.co.uk/news/OWM/85B1580A-9FA6-F2E6-EC5F13E7C57BD7A7.jpg"</thumbnail>
-</item>
-
-<item>
-<title>USA HISTORY<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/dillon/dillon/6686.ts;streamtype=TSDOWNLOADER&;name=USAHISTORY<link>
-<thumbnail>http://www.inprogen.co.uk/img/nowwatchtvlive_history_channel.jpg</thumbnail>
-</item>
-
-<item>
-<title>DISCOVERY TURBO<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/dillon/dillon/7034.ts;streamtype=TSDOWNLOADER&;name=DISCOVERYTURBO<link>
-<thumbnail>http://tvimages.burrp.com/images/channels2/documentary/Discovery-Turbo.png</thumbnail>
-</item>
-
-<item>
-<title>DISCOVERY SHED<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/dillon/dillon/6921.ts;streamtype=TSDOWNLOADER&;name=DISCOVERYSHED<link>
-<thumbnail>https://cdn4.static.ovimg.com/m/05mxljt/?width=1200&mode=thumb</thumbnail>
-</item>
-
-<item>
-<title>USA DISCOVERY HD<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/dillon/dillon/6690.ts;streamtype=TSDOWNLOADER&;name=USADISCOVERYHD<link>
-<thumbnail>https://media.glassdoor.com/sqll/13849/discovery-usa-squarelogo-1449526126278.png</thumbnail>
-</item>
-
-<item>
-<title>DISCOVERY SCIENCE<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/dillon/dillon/7035.ts;streamtype=TSDOWNLOADER&;name=DSCIENCE<link>
-<thumbnail>http://blog.asteroidday.org/wp-content/uploads/sites/5/2016/06/sciencechannel-hor.png</thumbnail>
-</item>
-
-<item>
-<title>DISCOVERY ID<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/dillon/dillon/7036.ts;streamtype=TSDOWNLOADER&;name=DISCOVERYID<link>
-<thumbnail>https://upload.wikimedia.org/wikipedia/en/e/ef/Discovery_ID.png</thumbnail>
-</item>
-
-<item>
-<title>NAT GEO WILD<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/dillon/dillon/6994.ts;streamtype=TSDOWNLOADER&;name=NATGEOWILD<link>
-<thumbnail>http://www.paulickreport.com/wp-content/uploads/2015/09/nat-geo-wild-34d22bd9cfeb208abd0e802c83d08489.png</thumbnail>
-</item>
-
-<item>
-<title>ANIMAL PLANET<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/dillon/dillon/7040.ts;streamtype=TSDOWNLOADER&;name=ANIMALPLANET<link>
-<thumbnail>http://vignette4.wikia.nocookie.net/logopedia/images/5/55/Animal_Planet_2006.png/revision/latest?cb=20091123075339</thumbnail>
 </item>
 
 <item>
@@ -436,13 +352,6 @@ item>
 <title>RT HD</title>
 <link>http://rt.ashttp14.visionip.tv/live/rt-global-live-HD/playlist.m3u8</link>
 <thumbnail>http://thehilltalk.com/wp-content/uploads/2016/04/rt-tv.jpg</thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title>H2</title>
-<link>http://fluvod1.giniko.com/all-documentaries/all-documentaries/tracks-5,6/index.m3u8</link>
-<thumbnail>http://www.tvwise.co.uk/wp-content/uploads/2013/04/H2-300x260.jpg</thumbnail>
 <fanart></fanart>
 </item>
 
@@ -529,13 +438,6 @@ item>
 </item>
 
 <item>
-<title>EUROSPORT</title>
-<link>http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_1000.m3u8</link>
-<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Eurosport_Logo.svg/2000px-Eurosport_Logo.svg.png</thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
 <title>TRU DRAMA<title>
 <link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/dillon/dillon/6883.ts;streamtype=TSDOWNLOADER&;name=TRUEDRAMA<link>
 <thumbnail>https://theident.gallery/true/2005/TRUE-2013-ID-DRAMA-1-2.jpg</thumbnail>
@@ -596,22 +498,12 @@ item>
 </item>
 
 <item>
-<title>DISCOVERY HD<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/dillon/dillon/6690.ts;streamtype=TSDOWNLOADER&;name=DISCOVERYHD<link>
-<thumbnail>http://vignette1.wikia.nocookie.net/logopedia/images/3/34/Discovery_Channel_2000.png/revision/latest?cb=20100728112637</thumbnail>
-</item>
-
-<item>
 <title>CBS HD<title>
 <link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/dillon/dillon/4489.ts;streamtype=TSDOWNLOADER&;name=CBSHD<link>
 <thumbnail>http://i.forbesimg.com/media/lists/companies/cbs_416x416.jpg</thumbnail>
 </item>
 
-<item>
-<title>HISTORY<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/dillon/dillon/6989.ts;streamtype=TSDOWNLOADER&;name=HISTORY<link>
-<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/2000px-History_Logo.svg.png</thumbnail>
-</item>
+
 
 
 
