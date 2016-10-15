@@ -72,7 +72,7 @@
 
 <item>
 <title>ITV +1<title>
-<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/redcoat/redcoat/13578.ts;streamtype=TSDOWNLOADER&;name=ITV+1<link>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/JIM/JIM/13578.ts;streamtype=TSDOWNLOADER&;name=ITV+1<link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/ITV_%2B1.svg/2000px-ITV_%2B1.svg.png</thumbnail>
 </item>
 
@@ -114,7 +114,7 @@
 
 <item>
 <title>ITV 3HD<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/dillon/dillon/7019.ts;streamtype=TSDOWNLOADER&;name=ITV3HD<link>
+<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/Charly/Charly/450.ts;streamtype=TSDOWNLOADER&;name=ITV3HD<link>
 <thumbnail>http://vignette3.wikia.nocookie.net/dreamlogos/images/0/04/Itv_3.png/revision/latest?cb=20140108230235</thumbnail>
 </item>
 
@@ -126,7 +126,7 @@
 
 <item>
 <title>ITV 4<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/dillon/dillon/7018.ts;streamtype=TSDOWNLOADER&;name=ITV4<link>
+<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/Charly/Charly/2084.ts;streamtype=TSDOWNLOADER&;name=ITV4<link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/ITV4.svg/1024px-ITV4.svg.png</thumbnail>
 </item>
 
