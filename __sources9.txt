@@ -150,7 +150,7 @@
 
 <item>
 <title>SKY SPORTS 3<title>
-<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/paulo/paulo/546.tss;streamtype=TSDOWNLOADER&;name=SKYSPORTS3<link>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/paulo/paulo/546.ts;streamtype=TSDOWNLOADER&;name=SKYSPORTS3<link>
 <thumbnail></thumbnail>
 </item>
 
