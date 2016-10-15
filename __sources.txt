@@ -144,19 +144,19 @@
 
 <item>
 <title>ITV ENCORE<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/dillon/dillon/6961.ts;streamtype=TSDOWNLOADER&;name=ITVENCORE<link>
+<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/Charly/Charly/2341.ts;streamtype=TSDOWNLOADER&;name=ITVENCORE<link>
 <thumbnail>http://www.actonthis.tv/wp-content/uploads/2014/11/More-great-drama-for-ITV-Encore.jpg</thumbnail>
 </item>
 
 <item>
 <title>ITV BE<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/dillon/dillon/7022.ts;streamtype=TSDOWNLOADER&;name=ITVBE<link>
+<link>plugin://plugin.video.f4mTester/?url=http://hyper.de1-eu.com:8000/live/djking/djking/20381.ts;streamtype=TSDOWNLOADER&;name=ITVBE<link>
 <thumbnail>http://cdn.itv.com/uploads/editor/fueVEODDx1AknYpGeZDK0h4C8N_Nu8IAs0T6KSZkTnM.jpg</thumbnail>
 </item>
 
 <item>
 <title>ITV BE HD<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/dillon/dillon/7022.ts;streamtype=TSDOWNLOADER&;name=ITVBEHD<link>
+<link>plugin://plugin.video.f4mTester/?url=http://hyper.de1-eu.com:8000/live/djking/djking/20381.ts;streamtype=TSDOWNLOADER&;name=ITVBEHD<link>
 <thumbnail>http://cdn.itv.com/uploads/editor/fueVEODDx1AknYpGeZDK0h4C8N_Nu8IAs0T6KSZkTnM.jpg</thumbnail>
 </item>
 
@@ -168,7 +168,7 @@
 
 <item>
 <title>CHANNEL 4 HD<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/dillon/dillon/7013.ts;streamtype=TSDOWNLOADER&;name=CHANNEL4HD<link>
+<link>plugin://plugin.video.f4mTester/?url=http://hyper.de1-eu.com:8000/live/djking/djking/20477.ts;streamtype=TSDOWNLOADER&;name=CHANNEL4HD<link>
 <thumbnail>http://static.bips.channel4.com/static/bips/global/socialmedia/network-logo-1200x630.jpg</thumbnail>
 </item>
 
@@ -180,7 +180,7 @@
 
 <item>
 <title>FIVE HD<title>
-<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/jay/jay/473.ts;streamtype=TSDOWNLOADER&;name=FIVEHD<link>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/paulo/paulo/473.ts;streamtype=TSDOWNLOADER&;name=FIVEHD<link>
 <thumbnail>https://s3-eu-central-1.amazonaws.com/centaur-wp/creativereview/prod/content/uploads/2016/02/FiveLogo10.png</thumbnail>
 </item>
 
@@ -192,7 +192,7 @@
 
 <item>
 <title>FIVE USA<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/dillon/dillon/6966.ts;streamtype=TSDOWNLOADER&;name=FIVEUSA<link>
+<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/Charly/Charly/1146.ts;streamtype=TSDOWNLOADER&;name=FIVEUSA<link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Channel_5_USA.svg/2000px-Channel_5_USA.svg.png</thumbnail>
 </item>
 
@@ -210,7 +210,7 @@
 
 <item>
 <title>Gold<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/dillon/dillon/7007.ts;streamtype=TSDOWNLOADER&;name=Gold<link>
+<link>plugin://plugin.video.f4mTester/?url=http://hyper.de1-eu.com:8000/live/djking/djking/20625.ts;streamtype=TSDOWNLOADER&;name=Gold<link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/c/c8/Gold_2014.svg/1280px-Gold_2014.svg.png</thumbnail>
 </item>
 
@@ -234,13 +234,13 @@
 
 <item>
 <title>FILM 4<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/dillon/dillon/7008.ts;streamtype=TSDOWNLOADER&;name=FILM4<link>
+<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/Charly/Charly/445.ts;streamtype=TSDOWNLOADER&;name=FILM4<link>
 <thumbnail>http://filmdoctor.co.uk/wp-content/uploads/2013/07/film4-logo.jpg</thumbnail>
 </item>
 
 <item>
 <title>DAVE<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/dillon/dillon/7009.ts;streamtype=TSDOWNLOADER&;name=DAVE<link>
+<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/Charly/Charly/437.ts;streamtype=TSDOWNLOADER&;name=DAVE<link>
 <thumbnail>http://davemclean.com/2016/wp-content/uploads/2016/01/Dave.png</thumbnail>
 </item>
 
@@ -264,13 +264,13 @@
 
 <item>
 <title>MORE 4<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/dillon/dillon/6959.ts;streamtype=TSDOWNLOADER&;name=MORE4<link>
+<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/Charly/Charly/437.ts;streamtype=TSDOWNLOADER&;name=MORE4<link>
 <thumbnail>https://pbs.twimg.com/profile_images/1817366974/160px-More4_logo.svg_400x400.png</thumbnail>
 </item>
 
 <item>
-<title>FOX HD<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/dillon/dillon/6666.ts;streamtype=TSDOWNLOADER&;name=FOXHD<link>
+<title>FOX<title>
+<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/dillon/dillon/7001.ts;streamtype=TSDOWNLOADER&;name=FOX<link>
 <thumbnail>http://vignette4.wikia.nocookie.net/logopedia/images/c/c8/Fox_logo.svg/revision/latest?cb=20131022024606</thumbnail>
 </item>
 
