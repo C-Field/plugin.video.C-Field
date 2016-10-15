@@ -305,8 +305,8 @@
 </item>
 
 <item>
-<title>FOX NFL NOW<title>
-<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/rocky123/rocky123/17225.ts;streamtype=TSDOWNLOADER&;name=FOXNFLNOW<link>
+<title>NFL NETWORK<title>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/rocky123/rocky123/19371.ts;streamtype=TSDOWNLOADER&;name=NFLNETWORK<link>
 <thumbnail></thumbnail>
 </item>
 
