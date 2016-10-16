@@ -1,6 +1,6 @@
 <item>
 <title>BBC 1HD<title>
-<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/paulo/paulo/488.ts;streamtype=TSDOWNLOADER&;name=BBC1HD<link>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/les/les/488.ts;streamtype=TSDOWNLOADER&;name=BBC1HD<link>
 <thumbnail>https://ichef.bbci.co.uk/images/ic/480x270/p03r0t9m.jpg</thumbnail>
 </item>
 
@@ -18,7 +18,7 @@
 
 <item>
 <title>BBC 2HD<title>
-<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/paulo/paulo/487.ts;streamtype=TSDOWNLOADER&;name=BBC2HD<link>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/les/les/487.ts;streamtype=TSDOWNLOADER&;name=BBC2HD<link>
 <thumbnail>http://www.fishingmagic.com/thumbnail.php?file=BBC2logo400x300_275729547.jpg&size=article_medium</thumbnail>
 </item>
 
@@ -180,7 +180,7 @@
 
 <item>
 <title>FIVE HD<title>
-<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/paulo/paulo/473.ts;streamtype=TSDOWNLOADER&;name=FIVEHD<link>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/les/les/473.ts;streamtype=TSDOWNLOADER&;name=FIVEHD<link>
 <thumbnail>https://s3-eu-central-1.amazonaws.com/centaur-wp/creativereview/prod/content/uploads/2016/02/FiveLogo10.png</thumbnail>
 </item>
 
@@ -294,7 +294,7 @@
 
 <item>
 <title>TCM<title>
-<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/paulo/paulo/459.ts;streamtype=TSDOWNLOADER&;name=TCM<link>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/les/les/459.ts;streamtype=TSDOWNLOADER&;name=TCM<link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/TCM_logo.svg/2000px-TCM_logo.svg.png</thumbnail>
 </item>
 
@@ -443,7 +443,7 @@ item>
 
 <item>
 <title>SHOWTIME HD<title>
-<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/paulo/paulo/1439.ts;streamtype=TSDOWNLOADER&;name=SHOWTIMEHD<link>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/les/les/1439.ts;streamtype=TSDOWNLOADER&;name=SHOWTIMEHD<link>
 <thumbnail>http://logodatabases.com/wp-content/uploads/2012/05/showtime-logo.jpg</thumbnail>
 </item>
 
