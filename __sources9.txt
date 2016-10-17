@@ -419,14 +419,14 @@
 </item>
 
 <item>
-<title>BEIN SPORTS 13 HD<title>
-<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/les/les/1263.ts;streamtype=TSDOWNLOADER&;name=BEINSPORTS13HD<link>
+<title>BEIN SPORTS 12 HD<title>
+<link>plugin://plugin.video.f4mTester/?url=http://globalstream.noip.us:8000/live/marinko/marinko/832.ts;streamtype=TSDOWNLOADER&;name=BEINSPORTS12HD<link>
 <thumbnail>http://allfootballvideo.com/images/channel-logo/BeIN%20Sports%2013%20HD.png</thumbnail>
 </item>
 
 <item>
 <title>BEIN SPORTS 13 HD<title>
-<link>plugin://plugin.video.f4mTester/?url=http://globalstream.noip.us:8000/live/marinko/marinko/833.ts;streamtype=TSDOWNLOADER&;name=BEINSPORTS13HD<link>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/les/les/1263.ts;streamtype=TSDOWNLOADER&;name=BEINSPORTS13HD<link>
 <thumbnail>http://allfootballvideo.com/images/channel-logo/BeIN%20Sports%2013%20HD.png</thumbnail>
 </item>
 
@@ -630,7 +630,7 @@
 
 <item>
 <title>TV3 Sport 1<title>
-<link>plugin://plugin.video.f4mTester/?url=http://globalstream.noip.us:8000/live/marinko/marinko/1651.ts;streamtype=TSDOWNLOADER&;name=TV3Sport1<link>
+<link>plugin://plugin.video.f4mTester/?url=http://globalstream.noip.us:8000/live/marinko/marinko/1650.ts;streamtype=TSDOWNLOADER&;name=TV3Sport1<link>
 <thumbnail></thumbnail>
 </item>
 
