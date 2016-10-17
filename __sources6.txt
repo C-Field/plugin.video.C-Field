@@ -1,6 +1,6 @@
 <item>
 <title>Discovery<title>
-<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/deb/deb/13488.ts;streamtype=TSDOWNLOADER&;name=DISCOVERY<link>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/jan1/jan1/13488.ts;streamtype=TSDOWNLOADER&;name=DISCOVERY<link>
 <thumbnail>http://www.etcentric.org/wp-content/uploads/2013/11/Discovery_Channel.jpg</thumbnail>
 </item>
 
@@ -12,67 +12,67 @@
 
 <item>
 <title>Discovery +1<title>
-<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/deb/deb/13575.ts;streamtype=TSDOWNLOADER&;name=DISCOVERY+1<link>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/jan1/jan1/13575.ts;streamtype=TSDOWNLOADER&;name=DISCOVERY+1<link>
 <thumbnail>http://www.etcentric.org/wp-content/uploads/2013/11/Discovery_Channel.jpg</thumbnail>
 </item>
 
 <item>
 <title>Discovery +1<title>
-<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/redcoat/redcoat/13575.ts;streamtype=TSDOWNLOADER&;name=DISCOVERY+1<link>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/jan1/jan1/13575.ts;streamtype=TSDOWNLOADER&;name=DISCOVERY+1<link>
 <thumbnail>http://www.etcentric.org/wp-content/uploads/2013/11/Discovery_Channel.jpg</thumbnail>
 </item>
 
 <item>
 <title>Discovery Science<title>
-<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/deb/deb/13481.ts;streamtype=TSDOWNLOADER&;name=DISCOVERYSCIENCE<link>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/jan1/jan1/13481.ts;streamtype=TSDOWNLOADER&;name=DISCOVERYSCIENCE<link>
 <thumbnail>https://www.foxtel.com.au/content/dam/foxtel/shared/channel/DSC/discovery-science-horizontal-colour-lightbg.png</thumbnail>
 </item>
 
 <item>
 <title>Discovery History<title>
-<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/deb/deb/13568.ts;streamtype=TSDOWNLOADER&;name=DH<link>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/jan1/jan1/13568.ts;streamtype=TSDOWNLOADER&;name=DH<link>
 <thumbnail>http://cached.imagescaler.hbpl.co.uk/resize/scaleWidth/815/offlinehbpl.hbpl.co.uk/news/OWM/85B1580A-9FA6-F2E6-EC5F13E7C57BD7A7.jpg</thumbnail>
 </item>
 
 <item>
 <title>History<title>
-<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/deb/deb/14510.ts;streamtype=TSDOWNLOADER&;name=HISTORY<link>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/jan1/jan1/14510.ts;streamtype=TSDOWNLOADER&;name=HISTORY<link>
 <thumbnail>https://static1.squarespace.com/static/52ae8d8be4b042887e9f8813/t/57252f2c1d07c02f9c239e45/1462054702827/History%2BChannel-Logo-.jpg?format=300w</thumbnail>
 </item>
 
 <item>
 <title>History<title>
-<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/jay/jay/496.ts;streamtype=TSDOWNLOADER&;name=HISTORY<link>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/djking/djking/496.ts;streamtype=TSDOWNLOADER&;name=HISTORY<link>
 <thumbnail>https://static1.squarespace.com/static/52ae8d8be4b042887e9f8813/t/57252f2c1d07c02f9c239e45/1462054702827/History%2BChannel-Logo-.jpg?format=300w</thumbnail>
 </item>
 
 <item>
 <title>HISTORY +1<title>
-<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/deb/deb/14500.ts;streamtype=TSDOWNLOADER&;name=HISTORY+1<link>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/jan1/jan1/14500.ts;streamtype=TSDOWNLOADER&;name=HISTORY+1<link>
 <thumbnail>https://static1.squarespace.com/static/52ae8d8be4b042887e9f8813/t/57252f2c1d07c02f9c239e45/1462054702827/History%2BChannel-Logo-.jpg?format=300w</thumbnail>
 </item>
 
 <item>
 <title>HISTORY +1<title>
-<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/redcoat/redcoat/14500.ts;streamtype=TSDOWNLOADER&;name=HISTORY+1<link>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/jan1/jan1/14500.ts;streamtype=TSDOWNLOADER&;name=HISTORY+1<link>
 <thumbnail>https://static1.squarespace.com/static/52ae8d8be4b042887e9f8813/t/57252f2c1d07c02f9c239e45/1462054702827/History%2BChannel-Logo-.jpg?format=300w</thumbnail>
 </item>
 
 <item>
 <title>HISTORY 2<title>
-<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/deb/deb/14501.ts;streamtype=TSDOWNLOADER&;name=HISTORY2<link>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/jan1/jan1/14501.ts;streamtype=TSDOWNLOADER&;name=HISTORY2<link>
 <thumbnail>http://media.history.ca/uploadedimages/smart_forms/hero_images/h2_header.jpg</thumbnail>
 </item>
 
 <item>
 <title>Discovery Turbo<title>
-<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/deb/deb/13566.ts;streamtype=TSDOWNLOADER&;name=DISCOVERTURBO<link>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/jan1/jan1/13566.ts;streamtype=TSDOWNLOADER&;name=DISCOVERTURBO<link>
 <thumbnail>http://payload.cargocollective.com/1/0/891/407649/TURBO-LOGO.jpg</thumbnail>
 </item>
 
 <item>
 <title>Discovery TURBO<title>
-<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/deb/deb/13566.ts;streamtype=TSDOWNLOADER&;name=DISCOVERYTURBO<link>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/jan1/jan1/13566.ts;streamtype=TSDOWNLOADER&;name=DISCOVERYTURBO<link>
 <thumbnail>http://payload.cargocollective.com/1/0/891/407649/TURBO-LOGO.jpg</thumbnail>
 </item>
 
@@ -108,7 +108,7 @@
 
 <item>
 <title>DMAX<title>
-<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/redcoat/redcoat/14397.ts;streamtype=TSDOWNLOADER&;name=DMAX<link>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/jan1/jan1/14397.ts;streamtype=TSDOWNLOADER&;name=DMAX<link>
 <thumbnail></thumbnail>
 </item>
 
