@@ -11,7 +11,7 @@
 </item>
 
 <item>
-<title>E PLUS<title>http://cp.dmbshare.net:8000/live/billy/billy/8537.ts
+<title>E PLUS<title>http://cp.dmbshare.net:8000/live/billy/billy/8160.ts
 <link>plugin://plugin.video.f4mTester/?url=http://89.163.148.31:8000/live/paul/paul/8538.ts;streamtype=TSDOWNLOADER&;name=EPLUS<link>
 <thumbnail></thumbnail>
 </item>
@@ -138,13 +138,13 @@
 
 <item>
 <title>SKY SPORTS 1 HD<title>
-<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/JIM/JIM/18263.ts;streamtype=TSDOWNLOADER&;name=SKYSPORTS1HD<link>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/JIM/JIM/18256.ts;streamtype=TSDOWNLOADER&;name=SKYSPORTS1HD<link>
 <thumbnail>http://www.skysports.com/core/img/channels/Sky-Sports-1-Logo.png</thumbnail>
 </item>
 
 <item>
 <title>SKY SPORTS 1<title>
-<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/JIM/JIM/18263.ts;streamtype=TSDOWNLOADER&;name=SKYSPORTS1<link>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/JIM/JIM/18256.ts;streamtype=TSDOWNLOADER&;name=SKYSPORTS1<link>
 <thumbnail>http://www.skysports.com/core/img/channels/Sky-Sports-1-Logo.png</thumbnail>
 </item>
 
