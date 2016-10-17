@@ -1,11 +1,29 @@
 <item>
+<title>MIO STADIUM<title>
+<link>plugin://plugin.video.f4mTester/?url=http://cp.dmbshare.net:8000/live/billy/billy/8537.ts;streamtype=TSDOWNLOADER&;name=MIOSTADIUM<link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>UFC<title>
+<link>plugin://plugin.video.f4mTester/?url=http://37.187.164.175:8080/mike/mike/392.ch;streamtype=TSDOWNLOADER&;name=UFC<link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>E PLUS<title>http://cp.dmbshare.net:8000/live/billy/billy/8537.ts
+<link>plugin://plugin.video.f4mTester/?url=http://89.163.148.31:8000/live/paul/paul/8538.ts;streamtype=TSDOWNLOADER&;name=EPLUS<link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
 <title>BT SPORT 1<title>
 <link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/luke/luke/7031.ts;streamtype=TSDOWNLOADER&;name=BTSPORT11080p<link>
 <thumbnail>http://images.pitchero.com/nl/1423850524_original.jpg</thumbnail>
 </item>
 
 <item>
-<title>BT SPORT 1<title>
+<title>BT SPORT 1<title>http://37.187.164.175:8080/mike/mike/392.ch
 <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/les/les/543.ts;streamtype=TSDOWNLOADER&;name=BTSPORT1<link>
 <thumbnail>http://images.pitchero.com/nl/1423850524_original.jpg</thumbnail>
 </item>
@@ -389,6 +407,12 @@
 </item>
 
 <item>
+<title>BEIN SPORTS 11 HD<title>
+<link>plugin://plugin.video.f4mTester/?url=http://globalstream.noip.us:8000/live/marinko/marinko/831.ts;streamtype=TSDOWNLOADER&;name=BEINSPORTS11HD<link>
+<thumbnail>http://tv-online.in/wp-content/uploads/2014/05/bein-sports-11-Live.gif</thumbnail>
+</item>
+
+<item>
 <title>BEIN SPORTS 12 HD<title>
 <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/les/les/1262.ts;streamtype=TSDOWNLOADER&;name=BEINSPORTS12HD<link>
 <thumbnail>http://scrat.hellocoton.fr/img/classic/bein-sport-12-live-regarder-bein-sport-12-en-direct-gratuit-sur-internet-11329742.jpg</thumbnail>
@@ -397,6 +421,12 @@
 <item>
 <title>BEIN SPORTS 13 HD<title>
 <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/les/les/1263.ts;streamtype=TSDOWNLOADER&;name=BEINSPORTS13HD<link>
+<thumbnail>http://allfootballvideo.com/images/channel-logo/BeIN%20Sports%2013%20HD.png</thumbnail>
+</item>
+
+<item>
+<title>BEIN SPORTS 13 HD<title>
+<link>plugin://plugin.video.f4mTester/?url=http://globalstream.noip.us:8000/live/marinko/marinko/833.ts;streamtype=TSDOWNLOADER&;name=BEINSPORTS13HD<link>
 <thumbnail>http://allfootballvideo.com/images/channel-logo/BeIN%20Sports%2013%20HD.png</thumbnail>
 </item>
 
@@ -596,4 +626,16 @@
 <title>BIKE<title>
 <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/deb/deb/13570.ts;streamtype=TSDOWNLOADER&;name=BIKE<link>
 <thumbnail>http://www.bikechannel.co.uk/wp-content/uploads/2016/03/Bike-Logo-RGB.png</thumbnail>
+</item>
+
+<item>
+<title>TV3 Sport 1<title>
+<link>plugin://plugin.video.f4mTester/?url=http://globalstream.noip.us:8000/live/marinko/marinko/1651.ts;streamtype=TSDOWNLOADER&;name=TV3Sport1<link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>TV3 Sport 2<title>
+<link>plugin://plugin.video.f4mTester/?url=http://globalstream.noip.us:8000/live/marinko/marinko/1651.ts;streamtype=TSDOWNLOADER&;name=TV3Sport2<link>
+<thumbnail></thumbnail>
 </item>
