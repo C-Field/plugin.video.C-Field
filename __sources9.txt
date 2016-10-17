@@ -156,7 +156,7 @@
 
 <item>
 <title>SKY SPORTS 2<title>
-<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/JIM/JIM/18264.ts;streamtype=TSDOWNLOADER&;name=SKYSPORTS2<link>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/JIM/JIM/18257.ts;streamtype=TSDOWNLOADER&;name=SKYSPORTS2<link>
 <thumbnail>https://s-media-cache-ak0.pinimg.com/236x/a2/22/13/a2221373c9bd651e725b013ab55ddc7d.jpg</thumbnail>
 </item>
 
@@ -180,7 +180,7 @@
 
 <item>
 <title>SKY SPORTS 4<title>
-<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/JIM/JIM/18266.ts;streamtype=TSDOWNLOADER&;name=SKYSPORTS4<link>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/JIM/JIM/18259.ts;streamtype=TSDOWNLOADER&;name=SKYSPORTS4<link>
 <thumbnail>http://www.skysports.com/core/img/channels/Sky-Sports-4-Logo.png</thumbnail>
 </item>
 
