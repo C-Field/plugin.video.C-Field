@@ -198,7 +198,7 @@
 
 <item>
 <title>SKY SPORT MIX<title>
-<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/jim/jim/17283.ts;streamtype=TSDOWNLOADER&;name=SKYSPORTMIX<link>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/JIM/JIM/17283.ts;streamtype=TSDOWNLOADER&;name=SKYSPORTMIX<link>
 <thumbnail>http://static.trustedreviews.com/94/00003824b/9dba/sky-sports-mix.jpg</thumbnail>
 </item>
 
@@ -324,7 +324,7 @@
 
 <item>
 <title>NFL NETWORK<title>
-<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/jim/jim/19371.ts;streamtype=TSDOWNLOADER&;name=NFLNETWORK<link>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/JIM/JIM/19371.ts;streamtype=TSDOWNLOADER&;name=NFLNETWORK<link>
 <thumbnail>http://www.adweek.com/tvnewser/files/2010/08/nfl_network-logo.jpg</thumbnail>
 </item>
 
