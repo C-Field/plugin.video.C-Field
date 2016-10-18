@@ -5,7 +5,13 @@
 </item>
 
 <item>
-<title>Discovery HD<title>
+<title>Discovery<title>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/JIM/JIM/13488.ts;streamtype=TSDOWNLOADER&;name=DISCOVERY<link>
+<thumbnail>http://www.etcentric.org/wp-content/uploads/2013/11/Discovery_Channel.jpg</thumbnail>
+</item>
+
+<item>
+<title>Discovery HD<title>http://bulkyiptv.com:5750/live/JIM/JIM/13488.ts
 <link>plugin://plugin.video.f4mTester/?url=http://hyper.de1-eu.com:8000/live/djking/djking/23179.ts;streamtype=TSDOWNLOADER&;name=DISCOVERYHD<link>
 <thumbnail>http://www.etcentric.org/wp-content/uploads/2013/11/Discovery_Channel.jpg</thumbnail>
 </item>
