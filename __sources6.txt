@@ -6,7 +6,7 @@
 
 <item>
 <title>Discovery<title>
-<link>plugin://plugin.video.f4mTester/?url=http://globalstream.noip.us:8000/live/marinko/marinko/730.ts;streamtype=TSDOWNLOADER&;name=DISCOVERY<link>
+<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/dillon/dillon/7039.ts;streamtype=TSDOWNLOADER&;name=DISCOVERY<link>
 <thumbnail>http://www.etcentric.org/wp-content/uploads/2013/11/Discovery_Channel.jpg</thumbnail>
 </item>
 
