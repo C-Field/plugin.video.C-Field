@@ -48,13 +48,13 @@
 
 <item>
 <title>ITV HD<title>
-<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/jan1/jan1/13468.ts;streamtype=TSDOWNLOADER&;name=ITVHD<link>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/charlie12345/charlie12345/13468.ts;streamtype=TSDOWNLOADER&;name=ITVHD<link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/ITV_logo_2013.svg/2000px-ITV_logo_2013.svg.png</thumbnail>
 </item>
 
 <item>
 <title>ITV<title>
-<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/jan1/jan1/13468.ts;streamtype=TSDOWNLOADER&;name=ITV<link>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/charlie12345/charlie12345/13468.ts;streamtype=TSDOWNLOADER&;name=ITV<link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/ITV_logo_2013.svg/2000px-ITV_logo_2013.svg.png</thumbnail>
 </item>
 
@@ -72,13 +72,13 @@
 
 <item>
 <title>ITV +1<title>
-<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/JIM/JIM/13578.ts;streamtype=TSDOWNLOADER&;name=ITV+1<link>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/charlie12345/charlie12345/13578.ts;streamtype=TSDOWNLOADER&;name=ITV+1<link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/ITV_%2B1.svg/2000px-ITV_%2B1.svg.png</thumbnail>
 </item>
 
 <item>
 <title>ITV BE<title>
-<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/jan1/jan1/13470.ts;streamtype=TSDOWNLOADER&;name=ITVHD<link>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/charlie12345/charlie12345/13470.ts;streamtype=TSDOWNLOADER&;name=ITVHD<link>
 <thumbnail>http://cdn.itv.com/uploads/editor/fueVEODDx1AknYpGeZDK0h4C8N_Nu8IAs0T6KSZkTnM.jpg</thumbnail>
 </item>
 
@@ -90,13 +90,13 @@
 
 <item>
 <title>ITV 2 HD<title>
-<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/jan1/jan1/14947.ts;streamtype=TSDOWNLOADER&;name=ITV2HD<link>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/charlie12345/charlie12345/14947.ts;streamtype=TSDOWNLOADER&;name=ITV2HD<link>
 <thumbnail>http://presscentre.itvstatic.com/presscentre/sites/presscentre/files/styles/pi_large/public/itv2-logo-hr.jpg</thumbnail>
 </item>
 
 <item>
 <title>ITV 2<title>
-<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/jan1/jan1/14947.ts;streamtype=TSDOWNLOADER&;name=ITV2<link>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/charlie12345/charlie12345/14947.ts;streamtype=TSDOWNLOADER&;name=ITV2<link>
 <thumbnail>http://presscentre.itvstatic.com/presscentre/sites/presscentre/files/styles/pi_large/public/itv2-logo-hr.jpg</thumbnail>
 </item>
 
@@ -108,7 +108,7 @@
 
 <item>
 <title>ITV 3<title>
-<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/jan1/jan1/17679.ts;streamtype=TSDOWNLOADER&;name=ITV3<link>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/charlie12345/charlie12345/17679.ts;streamtype=TSDOWNLOADER&;name=ITV3<link>
 <thumbnail>http://vignette3.wikia.nocookie.net/dreamlogos/images/0/04/Itv_3.png/revision/latest?cb=20140108230235</thumbnail>
 </item>
 
@@ -204,7 +204,7 @@
 
 <item>
 <title>Gold<title>
-<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/jan1/jan1/14371.ts;streamtype=TSDOWNLOADER&;name=Gold<link>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/charlie12345/charlie12345/14371.ts;streamtype=TSDOWNLOADER&;name=Gold<link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/c/c8/Gold_2014.svg/1280px-Gold_2014.svg.png</thumbnail>
 </item>
 
@@ -222,13 +222,13 @@
 
 <item>
 <title>Gold +1<title>
-<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/jan1/jan1/14374.ts;streamtype=TSDOWNLOADER&;name=Gold+1<link>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/charlie12345/charlie12345/14374.ts;streamtype=TSDOWNLOADER&;name=Gold+1<link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/c/c8/Gold_2014.svg/1280px-Gold_2014.svg.png</thumbnail>
 </item>
 
 <item>
 <title>FILM 4<title>
-<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/jan1/jan1/13475.ts;streamtype=TSDOWNLOADER&;name=FILM4<link>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/charlie12345/charlie12345/13475.ts;streamtype=TSDOWNLOADER&;name=FILM4<link>
 <thumbnail>http://filmdoctor.co.uk/wp-content/uploads/2013/07/film4-logo.jpg</thumbnail>
 </item>
 
@@ -425,7 +425,7 @@ item>
 
 <item>
 <title>TRU DRAMA<title>
-<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/JIM/JIM/13465.ts;streamtype=TSDOWNLOADER&;name=TRUEDRAMA<link>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/charlie12345/charlie12345/13465.ts;streamtype=TSDOWNLOADER&;name=TRUEDRAMA<link>
 <thumbnail>https://theident.gallery/true/2005/TRUE-2013-ID-DRAMA-1-2.jpg</thumbnail>
 </item>
 
@@ -470,8 +470,6 @@ item>
 <link>plugin://plugin.video.f4mTester/?url=http://hyper.de1-eu.com:8000/live/djking/djking/23150.ts;streamtype=TSDOWNLOADER&;name=CBSHD<link>
 <thumbnail>http://i.forbesimg.com/media/lists/companies/cbs_416x416.jpg</thumbnail>
 </item>
-
-
 
 
 
