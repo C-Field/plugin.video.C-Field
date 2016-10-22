@@ -54,7 +54,7 @@
 
 <item>
 <title>History<title>
-<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/djking/djking/496.ts;streamtype=TSDOWNLOADER&;name=HISTORY<link>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/rani/rani/496.ts;streamtype=TSDOWNLOADER&;name=HISTORY<link>
 <thumbnail>https://static1.squarespace.com/static/52ae8d8be4b042887e9f8813/t/57252f2c1d07c02f9c239e45/1462054702827/History%2BChannel-Logo-.jpg?format=300w</thumbnail>
 </item>
 
