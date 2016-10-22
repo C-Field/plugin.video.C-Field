@@ -6,7 +6,7 @@
 
 <item>
 <title>BBC 1HD<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/dillon/dillon/7025.ts;streamtype=TSDOWNLOADER&;name=BBC1HD<link>
+<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/luke/luke/7025.ts;streamtype=TSDOWNLOADER&;name=BBC1HD<link>
 <thumbnail>https://ichef.bbci.co.uk/images/ic/480x270/p03r0t9m.jpg</thumbnail>
 </item>
 
@@ -36,7 +36,7 @@
 
 <item>
 <title>BBC Parliament<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/dillon/dillon/6938.ts;streamtype=TSDOWNLOADER&;name=BBCParliament<link>
+<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/luke/luke/6938.ts;streamtype=TSDOWNLOADER&;name=BBCParliament<link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/4/49/BBC_Parliament_Logo.svg/1280px-BBC_Parliament_Logo.svg.png</thumbnail>
 </item>
 
@@ -84,7 +84,7 @@
 
 <item>
 <title>ITV BE<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/dillon/dillon/7022.ts;streamtype=TSDOWNLOADER&;name=ITVHD<link>
+<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/luke/luke/7022.ts;streamtype=TSDOWNLOADER&;name=ITVHD<link>
 <thumbnail>http://cdn.itv.com/uploads/editor/fueVEODDx1AknYpGeZDK0h4C8N_Nu8IAs0T6KSZkTnM.jpg</thumbnail>
 </item>
 
@@ -252,7 +252,7 @@
 
 <item>
 <title>3e<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/dillon/dillon/6943.ts;streamtype=TSDOWNLOADER&;name=3e<link>
+<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/luke/luke/6943.ts;streamtype=TSDOWNLOADER&;name=3e<link>
 <thumbnail>http://vignette2.wikia.nocookie.net/logopedia/images/1/1e/3e_logo.png/revision/latest?cb=20100402171646</thumbnail>
 </item>
 
@@ -270,25 +270,25 @@
 
 <item>
 <title>FOX<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/dillon/dillon/7001.ts;streamtype=TSDOWNLOADER&;name=FOX<link>
+<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/luke/luke/7001.ts;streamtype=TSDOWNLOADER&;name=FOX<link>
 <thumbnail>http://vignette4.wikia.nocookie.net/logopedia/images/c/c8/Fox_logo.svg/revision/latest?cb=20131022024606</thumbnail>
 </item>
 
 <item>
 <title>CBS REALITY<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/dillon/dillon/6963.ts;streamtype=TSDOWNLOADER&;name=CBSREALITY<link>
+<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/luke/luke/6963.ts;streamtype=TSDOWNLOADER&;name=CBSREALITY<link>
 <thumbnail>http://www.watchallchannels.com/wp-content/uploads/2015/02/CBS-Reality-TV.jpg</thumbnail>
 </item>
 
 <item>
 <title>CBS DRAMA<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/dillon/dillon/7000.ts;streamtype=TSDOWNLOADER&;name=CBSDRAMA<link>
+<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/luke/luke/7000.ts;streamtype=TSDOWNLOADER&;name=CBSDRAMA<link>
 <thumbnail>http://www.cbsdrama.tv/pictures/programs/big/cbsdrama.jpg</thumbnail>
 </item>
 
 <item>
 <title>CBS ACTION<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/dillon/dillon/6964.ts;streamtype=TSDOWNLOADER&;name=CBSACTION<link>
+<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/luke/luke/6964.ts;streamtype=TSDOWNLOADER&;name=CBSACTION<link>
 <thumbnail>https://pbs.twimg.com/profile_images/476321313431093248/b3AvSxrZ_400x400.jpeg</thumbnail>
 </item>
 
@@ -300,7 +300,7 @@
 
 <item>
 <title>FOX USA HD<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/dillon/dillon/7001.ts;streamtype=TSDOWNLOADER&;name=FOXHD<link>
+<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/luke/luke/7001.ts;streamtype=TSDOWNLOADER&;name=FOXHD<link>
 <thumbnail>http://www.fox.com/sites/default/files/fox_logo_1.jpg</thumbnail>
 </item>
 
@@ -313,7 +313,7 @@ item>
 
 <item>
 <title>EDEN<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/dillon/dillon/7047.ts;streamtype=TSDOWNLOADER&;name=EDEN<link>
+<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/luke/luke/7047.ts;streamtype=TSDOWNLOADER&;name=EDEN<link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/en/a/a4/Eden_logo.png</thumbnail>
 </item>
 
@@ -331,13 +331,13 @@ item>
 
 <item>
 <title>FOOD NETWORK<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/dillon/dillon/6914.ts;streamtype=TSDOWNLOADER&;name=FOODNETWORK<link>
+<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/luke/luke/6914.ts;streamtype=TSDOWNLOADER&;name=FOODNETWORK<link>
 <thumbnail>http://foodnetwork.sndimg.com/content/dam/images/food/fullset/2013/11/13/0/FN-3D-Logo-336x252.jpg.rend.sniipadlarge.jpeg</thumbnail>
 </item>
 
 <item>
 <title>TLC<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/dillon/dillon/7006.ts;streamtype=TSDOWNLOADER&;name=TLC<link>
+<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/luke/luke/7006.ts;streamtype=TSDOWNLOADER&;name=TLC<link>
 <thumbnail>http://www.astro.com.my/whats-on/logoimages/ChannelLogo/Pos/707_300.png</thumbnail>
 </item>
 
@@ -470,6 +470,7 @@ item>
 <link>plugin://plugin.video.f4mTester/?url=http://hyper.de1-eu.com:8000/live/djking/djking/23150.ts;streamtype=TSDOWNLOADER&;name=CBSHD<link>
 <thumbnail>http://i.forbesimg.com/media/lists/companies/cbs_416x416.jpg</thumbnail>
 </item>
+
 
 
 
