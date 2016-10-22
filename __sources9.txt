@@ -204,13 +204,13 @@
 
 <item>
 <title>SKYSP BOXOFF<title>
-<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/lisa/lisa/8978.ts;streamtype=TSDOWNLOADER&;name=SKYSP BOXOFF<link>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/charlie12345/charlie12345/8978.ts;streamtype=TSDOWNLOADER&;name=SKYSP BOXOFF<link>
 <thumbnail>http://4.bp.blogspot.com/-_Blox-8k_Sc/VlyRV6Tw_eI/AAAAAAAAAi0/pNCQHtyGgqg/s1600/tv-tv-channels-sports-channels-a16-1.jpg</thumbnail>
 </item>
 
 <item>
 <title>SKYSP BOXOFF<title>
-<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/lisa/lisa/18055.ts;streamtype=TSDOWNLOADER&;name=SKYSPBOXOFF<link>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/charlie12345/charlie12345/18055.ts;streamtype=TSDOWNLOADER&;name=SKYSPBOXOFF<link>
 <thumbnail>http://4.bp.blogspot.com/-_Blox-8k_Sc/VlyRV6Tw_eI/AAAAAAAAAi0/pNCQHtyGgqg/s1600/tv-tv-channels-sports-channels-a16-1.jpg</thumbnail>
 </item>
 
@@ -288,7 +288,7 @@
 
 <item>
 <title>SKY SPORTS F1<title>
-<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/lisa/lisa/13507.ts;streamtype=TSDOWNLOADER&;name=SKYSPORTSF1<link>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/charlie12345/charlie12345/13507.ts;streamtype=TSDOWNLOADER&;name=SKYSPORTSF1<link>
 <thumbnail>http://www.skysports.com/core/img/channels/Sky-Sports-F1-Logo.png</thumbnail>
 </item>
 
@@ -342,13 +342,13 @@
 
 <item>
 <title>NBC SPORTS 1<title>
-<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/lisa/lisa/17406.ts;streamtype=TSDOWNLOADER&;name=NBCSPORTS1<link>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/charlie12345/charlie12345/17406.ts;streamtype=TSDOWNLOADER&;name=NBCSPORTS1<link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/NBC_Sports_logo_1989-2011.svg/2000px-NBC_Sports_logo_1989-2011.svg.png</thumbnail>
 </item>
 
 <item>
 <title>CNBC<title>
-<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/lisa/lisa/18101.ts;streamtype=TSDOWNLOADER&;name=CNBC<link>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/charlie12345/charlie12345/18101.ts;streamtype=TSDOWNLOADER&;name=CNBC<link>
 <thumbnail>http://fm.cnbc.com/applications/cnbc.com/staticcontent/img/cnbc_logo.gif</thumbnail>
 </item>
 
@@ -438,7 +438,7 @@
 
 <item>
 <title>STAR SPORTS 2<title>
-<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/lisa/lisa/17278.ts;streamtype=TSDOWNLOADER&;name=STARSPORTS2<link>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/charlie12345/charlie12345/17278.ts;streamtype=TSDOWNLOADER&;name=STARSPORTS2<link>
 <thumbnail>https://1.bp.blogspot.com/-Rzz3BFviYso/Vt3u60fvq9I/AAAAAAAADoY/9xTVesWcD4Y/s1600/star%2Bsport%2B2.png</thumbnail>
 </item>
 
