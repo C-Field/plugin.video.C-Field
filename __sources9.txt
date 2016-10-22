@@ -24,7 +24,7 @@
 
 <item>
 <title>BT SPORT 1<title>
-<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/les/les/543.ts;streamtype=TSDOWNLOADER&;name=BTSPORT1<link>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/rani/rani/543.ts;streamtype=TSDOWNLOADER&;name=BTSPORT1<link>
 <thumbnail>http://images.pitchero.com/nl/1423850524_original.jpg</thumbnail>
 </item>
 
@@ -150,7 +150,7 @@
 
 <item>
 <title>SKY SPORTS 2 HD<title>
-<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/les/les/654.ts;streamtype=TSDOWNLOADER&;name=SKYSPORTS2HD<link>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/rani/rani/654.ts;streamtype=TSDOWNLOADER&;name=SKYSPORTS2HD<link>
 <thumbnail>https://s-media-cache-ak0.pinimg.com/236x/a2/22/13/a2221373c9bd651e725b013ab55ddc7d.jpg</thumbnail>
 </item>
 
@@ -162,7 +162,7 @@
 
 <item>
 <title>SKY SPORTS 3 HD<title>
-<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/les/les/546.ts;streamtype=TSDOWNLOADER&;name=SKYSPORTS3<link>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/rani/rani/546.ts;streamtype=TSDOWNLOADER&;name=SKYSPORTS3<link>
 <thumbnail>http://www.skysports.com/core/img/channels/Sky-Sports-3-Logo.png</thumbnail>
 </item>
 
@@ -192,7 +192,7 @@
 
 <item>
 <title>SKY SPORTS 5<title>
-<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/les/les/544.ts;streamtype=TSDOWNLOADER&;name=SKYSPORTS5<link>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/rani/rani/544.ts;streamtype=TSDOWNLOADER&;name=SKYSPORTS5<link>
 <thumbnail>http://www.skysports.com/core/img/channels/Sky-Sports-5-Logo.png</thumbnail>
 </item>
 
@@ -222,7 +222,7 @@
 
 <item>
 <title>BOX NATION<title>
-<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/les/les/490.ts;streamtype=TSDOWNLOADER&;name=BOXNATION<link>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/rani/rani/490.ts;streamtype=TSDOWNLOADER&;name=BOXNATION<link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/commons/c/c3/BoxNation_logo.jpg</thumbnail>
 </item>
 
@@ -258,7 +258,7 @@
 
 <item>
 <title>PREMIER SPORT<title>
-<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/les/les/513.ts;streamtype=TSDOWNLOADER&;name=PREMIERSPORT<link>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/rani/rani/513.ts;streamtype=TSDOWNLOADER&;name=PREMIERSPORT<link>
 <thumbnail>https://bookings.premiersport.org/img/logo-bg.png</thumbnail>
 </item>
 
@@ -270,7 +270,7 @@
 
 <item>
 <title>EURO SPORT 1<title>
-<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/les/les/541.ts;streamtype=TSDOWNLOADER&;name=EUROSPORT1<link>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/rani/rani/541.ts;streamtype=TSDOWNLOADER&;name=EUROSPORT1<link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Eurosport_Logo.svg/2000px-Eurosport_Logo.svg.png</thumbnail>
 </item>
 
@@ -282,7 +282,7 @@
 
 <item>
 <title>EURO SPORT 2<title>
-<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/les/les/540.ts;streamtype=TSDOWNLOADER&;name=EUROSPORT2<link>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/rani/rani/540.ts;streamtype=TSDOWNLOADER&;name=EUROSPORT2<link>
 <thumbnail>http://seeklogo.com/images/E/Eurosport_2-logo-069CDF80FA-seeklogo.com.gif</thumbnail>
 </item>
 
@@ -306,7 +306,7 @@
 
 <item>
 <title>RACING UK<title>
-<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/les/les/458.ts;streamtype=TSDOWNLOADER&;name=RACINGUK<link>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/rani/rani/458.ts;streamtype=TSDOWNLOADER&;name=RACINGUK<link>
 <thumbnail>http://www.redcarracing.co.uk/public/uploads/sitefiles/image/RUK%20logo%20Pure%20Racing%20Entertainment.jpg</thumbnail>
 </item>
 
@@ -336,7 +336,7 @@
 
 <item>
 <title>C MORE FOOTBALL<title>
-<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/les/les/1090.ts;streamtype=TSDOWNLOADER&;name=CMOREFOOTBALL<link>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/rani/rani/1090.ts;streamtype=TSDOWNLOADER&;name=CMOREFOOTBALL<link>
 <thumbnail>http://www.tv-logo.com/pt-data/uploads/images/logo/c_more_fotball.jpg</thumbnail>
 </item>
 
@@ -414,7 +414,7 @@
 
 <item>
 <title>BEIN SPORTS 12 HD<title>
-<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/les/les/1262.ts;streamtype=TSDOWNLOADER&;name=BEINSPORTS12HD<link>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/rani/rani/1262.ts;streamtype=TSDOWNLOADER&;name=BEINSPORTS12HD<link>
 <thumbnail>http://scrat.hellocoton.fr/img/classic/bein-sport-12-live-regarder-bein-sport-12-en-direct-gratuit-sur-internet-11329742.jpg</thumbnail>
 </item>
 
@@ -426,13 +426,13 @@
 
 <item>
 <title>BEIN SPORTS 13 HD<title>
-<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/les/les/1263.ts;streamtype=TSDOWNLOADER&;name=BEINSPORTS13HD<link>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/rani/rani/1263.ts;streamtype=TSDOWNLOADER&;name=BEINSPORTS13HD<link>
 <thumbnail>http://allfootballvideo.com/images/channel-logo/BeIN%20Sports%2013%20HD.png</thumbnail>
 </item>
 
 <item>
 <title>STAR SPORTS 1<title>
-<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/les/les/1774.ts;streamtype=TSDOWNLOADER&;name=STARSPORTS1<link>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/rani/rani/1774.ts;streamtype=TSDOWNLOADER&;name=STARSPORTS1<link>
 <thumbnail>http://desistreem.com/wp-content/uploads/2014/05/STAR-Sports-1.png</thumbnail>
 </item>
 
@@ -480,19 +480,19 @@
 
 <item>
 <title>TEN SPORT 1<title>
-<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/les/les/419.ts;streamtype=TSDOWNLOADER&;name=TENSPORT1<link>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/rani/rani/419.ts;streamtype=TSDOWNLOADER&;name=TENSPORT1<link>
 <thumbnail>http://tvimages.burrp.com/images/channels2/sports/Ten%201%20Sports.png</thumbnail>
 </item>
 
 <item>
 <title>TEN SPORT 2<title>
-<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/les/les/1769.ts;streamtype=TSDOWNLOADER&;name=TENSPORT2<link>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/rani/rani/1769.ts;streamtype=TSDOWNLOADER&;name=TENSPORT2<link>
 <thumbnail>http://www.televisionpost.com/wp-content/uploads/2016/03/TEN-2.png</thumbnail>
 </item>
 
 <item>
 <title>EXTREME SPORTS<title>
-<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/les/les/743.ts;streamtype=TSDOWNLOADER&;name=EXTREMESPORT<link>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/rani/rani/743.ts;streamtype=TSDOWNLOADER&;name=EXTREMESPORT<link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/f/f0/Extreme_Sports_Channel.svg/1280px-Extreme_Sports_Channel.svg.png</thumbnail>
 </item>
 
@@ -510,73 +510,73 @@
 
 <item>
 <title>VIASAT MOTORS<title>
-<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/les/les/1129.ts;streamtype=TSDOWNLOADER&;name=VIASATMOTORS<link>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/rani/rani/1129.ts;streamtype=TSDOWNLOADER&;name=VIASATMOTORS<link>
 <thumbnail>http://vignette2.wikia.nocookie.net/logopedia/images/f/f5/Viasat_Motor_2008.png/revision/latest?cb=20100122153323</thumbnail>
 </item>
 
 <item>
 <title>CHELSEA TV<title>
-<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/les/les/537.ts;streamtype=TSDOWNLOADER&;name=CHELSEATV<link>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/rani/rani/537.ts;streamtype=TSDOWNLOADER&;name=CHELSEATV<link>
 <thumbnail>http://www.chelseafc.com/content/cfc/en/homepage/news/boilerplate-config/latest-news/2016/09/efl-trophy-live-on-chelsea-tv.img.png</thumbnail>
 </item>
 
 <item>
 <title>MUNTV<title>
-<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/les/les/535.ts;streamtype=TSDOWNLOADER&;name=MUNTV<link>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/rani/rani/535.ts;streamtype=TSDOWNLOADER&;name=MUNTV<link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/en/b/b8/MUTV_logo.png</thumbnail>
 </item>
 
 <item>
 <title>LIVERPOOLTV<title>
-<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/les/les/536.ts;streamtype=TSDOWNLOADER&;name=LIVERPOOLTV<link>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/rani/rani/536.ts;streamtype=TSDOWNLOADER&;name=LIVERPOOLTV<link>
 <thumbnail>https://pbs.twimg.com/profile_images/529559315049238528/_Y6PqLxc.jpeg</thumbnail>
 </item>
 
 <item>
 <title>SBK<title>
-<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/les/les/1436.ts;streamtype=TSDOWNLOADER&;name=SBK<link>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/rani/rani/1436.ts;streamtype=TSDOWNLOADER&;name=SBK<link>
 <thumbnail>http://upload.wikimedia.org/wikipedia/it/9/9f/Nuovo_logo_SBK.jpg</thumbnail>
 </item>
 
 <item>
 <title>TSN 1<title>
-<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/les/les/1177.ts;streamtype=TSDOWNLOADER&;name=TSN 1<link>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/rani/rani/1177.ts;streamtype=TSDOWNLOADER&;name=TSN 1<link>
 <thumbnail>http://zetv.ca/images/logos/png_440x440/sports/tsn1.png</thumbnail>
 </item>
 
 <item>
 <title>TSN 2<title>
-<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/les/les/1438.ts;streamtype=TSDOWNLOADER&;name=TSN 2<link>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/rani/rani/1438.ts;streamtype=TSDOWNLOADER&;name=TSN 2<link>
 <thumbnail>http://contact.sourcecable.ca/wp-content/uploads/2015/05/TSN2_CMYK.jpg</thumbnail>
 </item>
 
 <item>
 <title>TSN 3<title>
-<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/les/les/1169.ts;streamtype=TSDOWNLOADER&;name=TSN 3<link>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/rani/rani/1169.ts;streamtype=TSDOWNLOADER&;name=TSN 3<link>
 <thumbnail>http://www.nwtel.ca/sites/default/files/channel-logos/tsn3_0_0.jpg</thumbnail>
 </item>
 
 <item>
 <title>TSN 4<title>
-<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/les/les/1175.ts;streamtype=TSDOWNLOADER&;name=TSN 4<link>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/rani/rani/1175.ts;streamtype=TSDOWNLOADER&;name=TSN 4<link>
 <thumbnail>http://www.nwtel.ca/sites/default/files/channel-logos/tsn4.jpg</thumbnail>
 </item>
 
 <item>
 <title>TSN 5<title>
-<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/les/les/1176.ts;streamtype=TSDOWNLOADER&;name=TSN 5<link>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/rani/rani/1176.ts;streamtype=TSDOWNLOADER&;name=TSN 5<link>
 <thumbnail>http://www.nwtel.ca/sites/default/files/channel-logos/tsn5_0.jpg</thumbnail>
 </item>
 
 <item>
 <title>CANAL+<title>
-<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/les/les/350.ts;streamtype=TSDOWNLOADER&;name=CANAL+<link>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/rani/rani/350.ts;streamtype=TSDOWNLOADER&;name=CANAL+<link>
 <thumbnail>http://cdn.embed.ly/providers/logos/canalplus.png</thumbnail>
 </item>
 
 <item>
 <title>VIASAT SPORT<title>
-<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/les/les/1117.ts;streamtype=TSDOWNLOADER&;name=VIASATSPORT<link>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/rani/rani/1117.ts;streamtype=TSDOWNLOADER&;name=VIASATSPORT<link>
 <thumbnail>http://vignette2.wikia.nocookie.net/logopedia/images/9/9b/Viasat_Sport_2008.png/revision/latest?cb=20100122152914</thumbnail>
 </item>
 
