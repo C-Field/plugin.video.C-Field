@@ -1,6 +1,6 @@
 <item>
 <title>NICK JR<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/dillon/dillon/6957.ts;streamtype=TSDOWNLOADER&;name=NICK JR<link>
+<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/luke/luke/6957.ts;streamtype=TSDOWNLOADER&;name=NICK JR<link>
 <thumbnail></thumbnail>
 </item>
 
@@ -12,19 +12,19 @@
 
 <item>
 <title>NICK JR TOO<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/dillon/dillon/6901.ts;streamtype=TSDOWNLOADER&;name=NICKJRTOO<link>
+<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/luke/luke/6901.ts;streamtype=TSDOWNLOADER&;name=NICKJRTOO<link>
 <thumbnail></thumbnail>
 </item>
 
 <item>
 <title>CARTOON NETWORK<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/dillon/dillon/6993.ts;streamtype=TSDOWNLOADER&;name=CN<link>
+<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/luke/luke/6993.ts;streamtype=TSDOWNLOADER&;name=CN<link>
 <thumbnail></thumbnail>
 </item>
 
 <item>
 <title>DISNEY CHANNEL<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/dillon/dillon/6992.ts;streamtype=TSDOWNLOADER&;name=DISNEYCHANNEL<link>
+<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/luke/luke/6992.ts;streamtype=TSDOWNLOADER&;name=DISNEYCHANNEL<link>
 <thumbnail></thumbnail>
 </item>
 
@@ -36,7 +36,7 @@
 
 <item>
 <title>DISNEY JUNIOR<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/dillon/dillon/6991.ts;streamtype=TSDOWNLOADER&;name=DISNEYJUNIOR<link>
+<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/luke/luke/6991.ts;streamtype=TSDOWNLOADER&;name=DISNEYJUNIOR<link>
 <thumbnail></thumbnail>
 </item>
 
@@ -48,7 +48,7 @@
 
 <item>
 <title>DISNEY XD<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/dillon/dillon/6920.ts;streamtype=TSDOWNLOADER&;name=DISNEYXD<link>
+<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/luke/luke/6920.ts;streamtype=TSDOWNLOADER&;name=DISNEYXD<link>
 <thumbnail></thumbnail>
 </item>
 
@@ -60,25 +60,25 @@
 
 <item>
 <title>TINY POP<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/dillon/dillon/6885.ts;streamtype=TSDOWNLOADER&;name=TINYPOP<link>
+<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/luke/luke/6885.ts;streamtype=TSDOWNLOADER&;name=TINYPOP<link>
 <thumbnail></thumbnail>
 </item>
 
 <item>
 <title>NICKELODEN<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/dillon/dillon/6956.ts;streamtype=TSDOWNLOADER&;name=NICK<link>
+<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/luke/luke/6956.ts;streamtype=TSDOWNLOADER&;name=NICK<link>
 <thumbnail>NICK</thumbnail>
 </item>
 
 <item>
 <title>TOM AND JERRY 24/7<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/dillon/dillon/6341.ts;streamtype=TSDOWNLOADER&;name=TOMANDJERRY<link>
+<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/luke/luke/6341.ts;streamtype=TSDOWNLOADER&;name=TOMANDJERRY<link>
 <thumbnail></thumbnail>
 </item>
 
 <item>
 <title>BOOMERANG<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/dillon/dillon/6936.ts;streamtype=TSDOWNLOADER&;name=BOOMERANG<link>
+<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/luke/luke/6936.ts;streamtype=TSDOWNLOADER&;name=BOOMERANG<link>
 <thumbnail></thumbnail>
 </item>
 
