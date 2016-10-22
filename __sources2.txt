@@ -114,7 +114,7 @@
 
 <item>
 <title>SKY MOVIES DRAMA HD<title>
-<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/charlie12345/charlie12345/13533.ts;streamtype=TSDOWNLOADER&;name=SKYDRAMA<link>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/charlie12345/charlie12345/15548.ts;streamtype=TSDOWNLOADER&;name=SKYDRAMA<link>
 <thumbnail>http://vignette1.wikia.nocookie.net/logopedia/images/0/0e/Sky_Movies_Drama_ident.jpg/revision/latest?cb=20100420134254</thumbnail>
 </item>
 
@@ -132,7 +132,7 @@
 
 <item>
 <title>SKY MOVIES ACTION HD<title>
-<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/charlie12345/charlie12345/15539.ts;streamtype=TSDOWNLOADER&;name=SKYACTION<link>
+<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/luke/luke/6988.ts;streamtype=TSDOWNLOADER&;name=SKYACTION<link>
 <thumbnail>http://www.premier-uktv.com/wp-content/uploads/2016/02/Sky-Movies-Action-Adventurev2.jpg</thumbnail>
 </item>
 
