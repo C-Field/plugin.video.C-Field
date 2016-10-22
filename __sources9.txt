@@ -168,13 +168,13 @@
 
 <item>
 <title>SKY SPORTS 3<title>
-<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/paulo/paulo/546.ts;streamtype=TSDOWNLOADER&;name=SKYSPORTS3<link>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/rani/rani/546.ts;streamtype=TSDOWNLOADER&;name=SKYSPORTS3<link>
 <thumbnail>http://www.skysports.com/core/img/channels/Sky-Sports-3-Logo.png</thumbnail>
 </item>
 
 <item>
 <title>SKY SPORTS 4 HD<title>
-<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/paulo/paulo/545.ts;streamtype=TSDOWNLOADER&;name=SKYSPORTS4HD<link>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/rani/rani/545.ts;streamtype=TSDOWNLOADER&;name=SKYSPORTS4HD<link>
 <thumbnail>http://www.skysports.com/core/img/channels/Sky-Sports-4-Logo.png</thumbnail>
 </item>
 
