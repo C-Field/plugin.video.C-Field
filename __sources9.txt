@@ -228,7 +228,7 @@
 
 <item>
 <title>BOX NATION<title>
-<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/jan1/jan1/14520.ts;streamtype=TSDOWNLOADER&;name=BOXNATION<link>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/charlie12345/charlie12345/14520.ts;streamtype=TSDOWNLOADER&;name=BOXNATION<link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/commons/c/c3/BoxNation_logo.jpg</thumbnail>
 </item>
 
@@ -330,7 +330,7 @@
 
 <item>
 <title>C MORE FOOTBALL<title>
-<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/jan1/jan1/17235.ts;streamtype=TSDOWNLOADER&;name=CMOREFOOTBALL<link>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/charlie12345/charlie12345/17235.ts;streamtype=TSDOWNLOADER&;name=CMOREFOOTBALL<link>
 <thumbnail>http://www.tv-logo.com/pt-data/uploads/images/logo/c_more_fotball.jpg</thumbnail>
 </item>
 
@@ -624,7 +624,7 @@
 
 <item>
 <title>BIKE<title>
-<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/jan1/jan1/13570.ts;streamtype=TSDOWNLOADER&;name=BIKE<link>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/charlie12345/charlie12345/13570.ts;streamtype=TSDOWNLOADER&;name=BIKE<link>
 <thumbnail>http://www.bikechannel.co.uk/wp-content/uploads/2016/03/Bike-Logo-RGB.png</thumbnail>
 </item>
 
