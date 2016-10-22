@@ -1,18 +1,12 @@
 <item>
-<title>MIO STADIUM<title>
-<link>plugin://plugin.video.f4mTester/?url=http://cp.dmbshare.net:8000/live/billy/billy/8537.ts;streamtype=TSDOWNLOADER&;name=MIOSTADIUM<link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
 <title>UFC<title>
 <link>plugin://plugin.video.f4mTester/?url=http://37.187.164.175:8080/mike/mike/392.ch;streamtype=TSDOWNLOADER&;name=UFC<link>
 <thumbnail></thumbnail>
 </item>
 
 <item>
-<title>E PLUS<title>http://cp.dmbshare.net:8000/live/billy/billy/8160.ts
-<link>plugin://plugin.video.f4mTester/?url=http://89.163.148.31:8000/live/paul/paul/8538.ts;streamtype=TSDOWNLOADER&;name=EPLUS<link>
+<title>E PLUS<title>
+<link>plugin://plugin.video.f4mTester/?url=http://cp.dmbshare.net:8000/live/billy/billy/8160.ts;streamtype=TSDOWNLOADER&;name=EPLUS<link>
 <thumbnail></thumbnail>
 </item>
 
