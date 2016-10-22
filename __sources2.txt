@@ -18,13 +18,13 @@
 
 <item>
 <title>Sky Cinema Harry Potter<title>
-<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/jan1/jan1/13550.ts;streamtype=TSDOWNLOADER&;name=SKYCINEMA<link>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/charlie12345/charlie12345/13550.ts;streamtype=TSDOWNLOADER&;name=SKYCINEMA<link>
 <thumbnail>http://www.asset1.net/tv/pictures/356/200/movie/sm-harry-potter-do-not-publish-2015/SM-Harry-Potter-Harry-Voldemort-1.jpg</thumbnail>
 </item>
 
 <item>
 <title>Sky Movies Premiere HD<title>
-<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/jan1/jan1/13537.ts;streamtype=TSDOWNLOADER&;name=SkyPremiereHD<link>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/charlie12345/charlie12345/13537.ts;streamtype=TSDOWNLOADER&;name=SkyPremiereHD<link>
 <thumbnail>http://www.asset1.net/tv/pictures/channel/skymovies/Sky-Movies-Premiere-Logo-DI-1.jpg</thumbnail>
 </item>
 
@@ -42,7 +42,7 @@
 
 <item>
 <title>SKY MOVIES THRILLER<title>
-<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/jan1/jan1/15543.ts;streamtype=TSDOWNLOADER&;name=SKYTHRILLER<link>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/charlie12345/charlie12345/15543.ts;streamtype=TSDOWNLOADER&;name=SKYTHRILLER<link>
 <thumbnail>http://www.premier-uktv.com/wp-content/uploads/2016/02/Sky-Movies-Crime-Thrillerv2.jpg</thumbnail>
 </item>
 
@@ -60,7 +60,7 @@
 
 <item>
 <title>SKY MOVIES SELECT HD<title>
-<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/jan1/jan1/15545.ts;streamtype=TSDOWNLOADER&;name=SKYSELECTHD<link>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/charlie12345/charlie12345/15545.ts;streamtype=TSDOWNLOADER&;name=SKYSELECTHD<link>
 <thumbnail>https://i.ytimg.com/vi/RW25kuI6uWA/maxresdefault.jpg</thumbnail>
 </item>
 
@@ -78,13 +78,13 @@
 
 <item>
 <title>SKY MOVIES SCIFI HD<title>
-<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/jan1/jan1/15546.ts;streamtype=TSDOWNLOADER&;name=SKYSCIFI<link>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/charlie12345/charlie12345/15546.ts;streamtype=TSDOWNLOADER&;name=SKYSCIFI<link>
 <thumbnail>http://www.premier-uktv.com/wp-content/uploads/2016/02/Sky-Movies-Sci-Fi-horrorv2.jpg</thumbnail>
 </item>
 
 <item>
 <title>SKY MOVIES SCIFI HD<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/dillon/dillon/6487.ts;streamtype=TSDOWNLOADER&;name=SKYSCIFI<link>
+<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/luke/luke/6487.ts;streamtype=TSDOWNLOADER&;name=SKYSCIFI<link>
 <thumbnail>http://www.premier-uktv.com/wp-content/uploads/2016/02/Sky-Movies-Sci-Fi-horrorv2.jpg</thumbnail>
 </item>
 
@@ -102,7 +102,7 @@
 
 <item>
 <title>SKY MOVIES MODERN GREAT HD<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/dillon/dillon/6486.ts;streamtype=TSDOWNLOADER&;name=SKYMODERN<link>
+<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/luke/luke/6486.ts;streamtype=TSDOWNLOADER&;name=SKYMODERN<link>
 <thumbnail>http://www.premier-uktv.com/wp-content/uploads/2016/02/Sky-Movies-Modern-Greatsv2.jpg</thumbnail>
 </item>
 
@@ -114,7 +114,7 @@
 
 <item>
 <title>SKY MOVIES DRAMA HD<title>
-<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/jan1/jan1/13533.ts;streamtype=TSDOWNLOADER&;name=SKYDRAMA<link>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/charlie12345/charlie12345/13533.ts;streamtype=TSDOWNLOADER&;name=SKYDRAMA<link>
 <thumbnail>http://vignette1.wikia.nocookie.net/logopedia/images/0/0e/Sky_Movies_Drama_ident.jpg/revision/latest?cb=20100420134254</thumbnail>
 </item>
 
@@ -132,7 +132,7 @@
 
 <item>
 <title>SKY MOVIES ACTION HD<title>
-<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/jan1/jan1/15539.ts;streamtype=TSDOWNLOADER&;name=SKYACTION<link>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/charlie12345/charlie12345/15539.ts;streamtype=TSDOWNLOADER&;name=SKYACTION<link>
 <thumbnail>http://www.premier-uktv.com/wp-content/uploads/2016/02/Sky-Movies-Action-Adventurev2.jpg</thumbnail>
 </item>
 
@@ -150,7 +150,7 @@
 
 <item>
 <title>SKY MOVIES ATLANTIC<title>
-<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/jan1/jan1/13513.ts;streamtype=TSDOWNLOADER&;name=SKYATLANTIC<link>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/charlie12345/charlie12345/13513.ts;streamtype=TSDOWNLOADER&;name=SKYATLANTIC<link>
 <thumbnail>http://www.sat-multimedia.com/wp-content/uploads/2016/07/SKY-ATLANTIC.jpg</thumbnail>
 </item>
 
@@ -168,7 +168,7 @@
 
 <item>
 <title>SKY MOVIES FAMILY HD<title>
-<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/jan1/jan1/15542.ts;streamtype=TSDOWNLOADER&;name=SKYFAMILY<link>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/charlie12345/charlie12345/15542.ts;streamtype=TSDOWNLOADER&;name=SKYFAMILY<link>
 <thumbnail>https://www.expatvision.tv/media/channel_logos//family_1426076100.jpg</thumbnail>
 </item>
 
@@ -186,7 +186,7 @@
 
 <item>
 <title>SKY MOVIES COMEDY HD<title>
-<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/jan1/jan1/15540.ts;streamtype=TSDOWNLOADER&;name=SKYCOMEDY<link>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/charlie12345/charlie12345/15540.ts;streamtype=TSDOWNLOADER&;name=SKYCOMEDY<link>
 <thumbnail>http://www.sat-address.com/f/pics/logotipi/Sky-Movies-Comedy-HD-UK_o.jpg</thumbnail>
 </item>
 
@@ -204,7 +204,7 @@
 
 <item>
 <title>SKY MOVIES DISNEY HD<title>
-<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/jan1/jan1/15541.ts;streamtype=TSDOWNLOADER&;name=SKYDISNEY<link>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/charlie12345/charlie12345/15541.ts;streamtype=TSDOWNLOADER&;name=SKYDISNEY<link>
 <thumbnail>https://i.ytimg.com/vi/aZivNjdlFWk/maxresdefault.jpg</thumbnail>
 </item>
 
@@ -216,7 +216,7 @@
 
 <item>
 <title>SKY LIVING<title>
-<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/jan1/jan1/13502.ts;streamtype=TSDOWNLOADER&;name=SKYLIVING<link>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/charlie12345/charlie12345/13502.ts;streamtype=TSDOWNLOADER&;name=SKYLIVING<link>
 <thumbnail>https://dm8eklel4s62k.cloudfront.net/images/sky/large/sky-living_on_dark-2015.png</thumbnail>
 </item>
 
@@ -234,30 +234,30 @@
 
 <item>
 <title>SKY HITS HD<title>
-<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/jan1/jan1/17389.ts;streamtype=TSDOWNLOADER&;name=SKYHITSHD<link>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/charlie12345/charlie12345/17389.ts;streamtype=TSDOWNLOADER&;name=SKYHITSHD<link>
 <thumbnail>https://www.skymedia.co.uk/wp-content/uploads/2016/01/Sky-Cinema-HITS.png</thumbnail>
 </item>
 
 <item>
 <title>SKY HITS HD<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/dillon/dillon/6979.ts;streamtype=TSDOWNLOADER&;name=SKYHITSHD<link>
+<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/luke/luke/6979.ts;streamtype=TSDOWNLOADER&;name=SKYHITSHD<link>
 <thumbnail>https://www.skymedia.co.uk/wp-content/uploads/2016/01/Sky-Cinema-HITS.png</thumbnail>
 </item>
 
 <item>
 <title>SKY ONE<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/dillon/dillon/7004.ts;streamtype=TSDOWNLOADER&;name=SKYONE<link>
+<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/luke/luke/7004.ts;streamtype=TSDOWNLOADER&;name=SKYONE<link>
 <thumbnail>http://static1.squarespace.com/static/55b3e67ae4b06a14d457be75/55b3ee54e4b00b13a9542cb4/56c5b4ac22482e5343294e36/1455797565145/?format=2500w</thumbnail>
 </item>
 
 <item>
 <title>SKY TWO<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/dillon/dillon/7003.ts;streamtype=TSDOWNLOADER&;name=SKYTWO<link>
+<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/luke/luke/7003.ts;streamtype=TSDOWNLOADER&;name=SKYTWO<link>
 <thumbnail>https://ncrafts.files.wordpress.com/2013/05/sky-2-logo.jpg</thumbnail>
 </item>
 
 <item>
 <title>SKY ARTS<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/dillon/dillon/6998.ts;streamtype=TSDOWNLOADER&;name=SKYARTS<link>
+<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/luke/luke/6998.ts;streamtype=TSDOWNLOADER&;name=SKYARTS<link>
 <thumbnail>http://www.atvtoday.co.uk/wp-content/uploads/2016/02/sky-arts.jpg</thumbnail>
 </item>
