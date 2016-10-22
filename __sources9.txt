@@ -29,14 +29,14 @@
 </item>
 
 <item>
-<title>BT SPORT 1 HD<title>
-<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/charlie12345/charlie12345/13532.ts;streamtype=TSDOWNLOADER&;name=BTSPORT1HD<link>
+<title>BT SPORT 1 HD 1080p<title>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/charlie12345/charlie12345/19927.ts;streamtype=TSDOWNLOADER&;name=BTSPORT1HD<link>
 <thumbnail>http://images.pitchero.com/nl/1423850524_original.jpg</thumbnail>
 </item>
 
 <item>
 <title>BT SPORT 1 HD<title>
-<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/deb/deb/19927.ts;streamtype=TSDOWNLOADER&;name=BTSPORT1HD<link>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/charlie12345/charlie12345/19927.ts;streamtype=TSDOWNLOADER&;name=BTSPORT1HD<link>
 <thumbnail>http://images.pitchero.com/nl/1423850524_original.jpg</thumbnail>
 </item>
 
@@ -60,7 +60,7 @@
 
 <item>
 <title>BT SPORTS 2 HD<title>
-<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/deb/deb/15352.ts;streamtype=TSDOWNLOADER&;name=BTSPORTS2HD<link>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/charlie12345/charlie12345/15352.ts;streamtype=TSDOWNLOADER&;name=BTSPORTS2HD<link>
 <thumbnail>http://www.indosports.tv/images/bt-sport-2.png</thumbnail>
 </item>
 
