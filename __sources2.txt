@@ -42,7 +42,7 @@
 
 <item>
 <title>SKY MOVIES THRILLER<title>
-<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/charlie12345/charlie12345/15543.ts;streamtype=TSDOWNLOADER&;name=SKYTHRILLER<link>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/charlie12345/charlie12345/13524.ts;streamtype=TSDOWNLOADER&;name=SKYTHRILLER<link>
 <thumbnail>http://www.premier-uktv.com/wp-content/uploads/2016/02/Sky-Movies-Crime-Thrillerv2.jpg</thumbnail>
 </item>
 
