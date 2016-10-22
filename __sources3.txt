@@ -1,58 +1,58 @@
 <item>
 <title>KISS TV</title>
-<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/deb/deb/14399.ts;streamtype=TSDOWNLOADER&;name=KISSTV</link>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/charlie12345/charlie12345/14399.ts;streamtype=TSDOWNLOADER&;name=KISSTV</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
 <title>VEVO MUSIC TV 1</title>
-<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/deb/deb/2574.ts;streamtype=TSDOWNLOADER&;name=VEVO1</link>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/charlie12345/charlie12345/2574.ts;streamtype=TSDOWNLOADER&;name=VEVO1</link>
 <thumbnail>http://cordcutting.com/images/plex-images/vevo.jpg</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
 <title>VEVO MUSIC TV 2</title>
-<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/deb/deb/2575.ts;streamtype=TSDOWNLOADER&;name=VEVO2</link>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/charlie12345/charlie12345/2575.ts;streamtype=TSDOWNLOADER&;name=VEVO2</link>
 <thumbnail>http://cordcutting.com/images/plex-images/vevo.jpg</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
 <title>VEVO MUSIC TV 3</title>
-<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/deb/deb/2576.ts;streamtype=TSDOWNLOADER&;name=VEVO3</link>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/charlie12345/charlie12345/2576.ts;streamtype=TSDOWNLOADER&;name=VEVO3</link>
 <thumbnail>http://cordcutting.com/images/plex-images/vevo.jpg</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
 <title>VIVA THE HITS<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/dillon/dillon/6946.ts;streamtype=TSDOWNLOADER&;name=VIVATHEHITS<link>
+<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/luke/luke/6946.ts;streamtype=TSDOWNLOADER&;name=VIVATHEHITS<link>
 <thumbnail></thumbnail>
 </item>
 
 <item>
 <title>MTV<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/dillon/dillon/6903.ts;streamtype=TSDOWNLOADER&;name=MTV<link>
+<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/luke/luke/6903.ts;streamtype=TSDOWNLOADER&;name=MTV<link>
 <thumbnail></thumbnail>
 </item>
 
 <item>
 <title>MTV +1<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/dillon/dillon/4647.ts;streamtype=TSDOWNLOADER&;name=MTV+1<link>
+<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/luke/luke/4647.ts;streamtype=TSDOWNLOADER&;name=MTV+1<link>
 <thumbnail></thumbnail>
 </item>
 
 <item>
 <title>MTV DANCE<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/dillon/dillon/6905.ts;streamtype=TSDOWNLOADER&;name=MTVDANCE<link>
+<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/luke/luke/6905.ts;streamtype=TSDOWNLOADER&;name=MTVDANCE<link>
 <thumbnail></thumbnail>
 </item>
 
 <item>
 <title>MTV BASE<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/dillon/dillon/7017.ts;streamtype=TSDOWNLOADER&;name=MTVBASE<link>
+<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/luke/luke/7017.ts;streamtype=TSDOWNLOADER&;name=MTVBASE<link>
 <thumbnail></thumbnail>
 </item>
 
