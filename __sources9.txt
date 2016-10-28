@@ -270,7 +270,7 @@
 
 <item>
 <title>PREMIER SPORT<title>
-<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/rani/rani/513.ts;streamtype=TSDOWNLOADER&;name=PREMIERSPORT<link>
+<link>plugin://plugin.video.f4mTester/?url=http://s1.finoip.com:20000/live/AntonioS/AntonioS/3652.ts;streamtype=TSDOWNLOADER&;name=PREMIERSPORT<link>
 <thumbnail>https://bookings.premiersport.org/img/logo-bg.png</thumbnail>
 </item>
 
