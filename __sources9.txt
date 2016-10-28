@@ -210,7 +210,7 @@
 
 <item>
 <title>SKY SPORTS 5<title>
-<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/charlie12345/charlie12345/13514.ts;streamtype=TSDOWNLOADER&;name=SKYSPORTS5<link>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/charlie12345/charlie12345/20219.ts;streamtype=TSDOWNLOADER&;name=SKYSPORTS5<link>
 <thumbnail>http://www.skysports.com/core/img/channels/Sky-Sports-5-Logo.png</thumbnail>
 </item>
 
