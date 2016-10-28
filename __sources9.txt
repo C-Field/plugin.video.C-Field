@@ -336,7 +336,7 @@
 
 <item>
 <title>NFL NETWORK<title>
-<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/charlie12345/charlie12345/19371.ts;streamtype=TSDOWNLOADER&;name=NFLNETWORK<link>
+<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/dillon/dillon/6625.ts;streamtype=TSDOWNLOADER&;name=NFLNETWORK<link>
 <thumbnail>http://www.adweek.com/tvnewser/files/2010/08/nfl_network-logo.jpg</thumbnail>
 </item>
 
