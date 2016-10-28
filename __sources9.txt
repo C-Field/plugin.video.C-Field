@@ -222,7 +222,7 @@
 
 <item>
 <title>SKYSP BOXOFF<title>
-<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/charlie12345/charlie12345/8978.ts;streamtype=TSDOWNLOADER&;name=SKYSP BOXOFF<link>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/charlie12345/charlie12345/18055.ts;streamtype=TSDOWNLOADER&;name=SKYSP BOXOFF<link>
 <thumbnail>http://4.bp.blogspot.com/-_Blox-8k_Sc/VlyRV6Tw_eI/AAAAAAAAAi0/pNCQHtyGgqg/s1600/tv-tv-channels-sports-channels-a16-1.jpg</thumbnail>
 </item>
 
