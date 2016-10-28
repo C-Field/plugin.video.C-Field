@@ -102,7 +102,7 @@
 
 <item>
 <title>BT SPORTS 3 HD<title>
-<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/charlie12345/charlie12345/18976.ts;streamtype=TSDOWNLOADER&;name=BTSPORT3HD<link>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/charlie12345/charlie12345/19929.ts;streamtype=TSDOWNLOADER&;name=BTSPORT3HD<link>
 <thumbnail>http://sport.bt.com/s/assets/ucl/images/btsport3.png</thumbnail>
 </item>
 
