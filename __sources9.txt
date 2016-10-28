@@ -348,14 +348,8 @@
 
 <item>
 <title>C MORE FOOTBALL<title>
-<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/rani/rani/1090.ts;streamtype=TSDOWNLOADER&;name=CMOREFOOTBALL<link>
+<link>plugin://plugin.video.f4mTester/?url=http://s1.finoip.com:20000/live/AntonioS/AntonioS/2774.ts;streamtype=TSDOWNLOADER&;name=CMOREFOOTBALL<link>
 <thumbnail>http://www.tv-logo.com/pt-data/uploads/images/logo/c_more_fotball.jpg</thumbnail>
-</item>
-
-<item>
-<title>NBC SPORTS 1<title>
-<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/charlie12345/charlie12345/20053.ts;streamtype=TSDOWNLOADER&;name=NBCSPORTS1<link>
-<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/NBC_Sports_logo_1989-2011.svg/2000px-NBC_Sports_logo_1989-2011.svg.png</thumbnail>
 </item>
 
 <item>
@@ -420,14 +414,8 @@
 
 <item>
 <title>BEIN SPORTS 11 HD<title>
-<link>plugin://plugin.video.f4mTester/?url=http://globalstream.noip.us:8000/live/marinko/marinko/831.ts;streamtype=TSDOWNLOADER&;name=BEINSPORTS11HD<link>
+<link>plugin://plugin.video.f4mTester/?url=http://s1.finoip.com:20000/live/AntonioS/AntonioS/3683.ts;streamtype=TSDOWNLOADER&;name=BEINSPORTS11HD<link>
 <thumbnail>http://tv-online.in/wp-content/uploads/2014/05/bein-sports-11-Live.gif</thumbnail>
-</item>
-
-<item>
-<title>BEIN SPORTS 12 HD<title>
-<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/rani/rani/1262.ts;streamtype=TSDOWNLOADER&;name=BEINSPORTS12HD<link>
-<thumbnail>http://scrat.hellocoton.fr/img/classic/bein-sport-12-live-regarder-bein-sport-12-en-direct-gratuit-sur-internet-11329742.jpg</thumbnail>
 </item>
 
 <item>
@@ -440,24 +428,6 @@
 <title>BEIN SPORTS 13 HD<title>
 <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/rani/rani/1263.ts;streamtype=TSDOWNLOADER&;name=BEINSPORTS13HD<link>
 <thumbnail>http://allfootballvideo.com/images/channel-logo/BeIN%20Sports%2013%20HD.png</thumbnail>
-</item>
-
-<item>
-<title>STAR SPORTS 1<title>
-<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/rani/rani/1774.ts;streamtype=TSDOWNLOADER&;name=STARSPORTS1<link>
-<thumbnail>http://desistreem.com/wp-content/uploads/2014/05/STAR-Sports-1.png</thumbnail>
-</item>
-
-<item>
-<title>STAR SPORTS 2<title>
-<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/charlie12345/charlie12345/17278.ts;streamtype=TSDOWNLOADER&;name=STARSPORTS2<link>
-<thumbnail>https://1.bp.blogspot.com/-Rzz3BFviYso/Vt3u60fvq9I/AAAAAAAADoY/9xTVesWcD4Y/s1600/star%2Bsport%2B2.png</thumbnail>
-</item>
-
-<item>
-<title>STAR SPORTS 4<title>
-<link>plugin://plugin.video.f4mTester/?url=http://hyper.de1-eu.com:8000/live/djking/djking/21116.ts;streamtype=TSDOWNLOADER&;name=STARSPORTS4<link>
-<thumbnail>http://desistreem.com/wp-content/uploads/2014/05/STAR-Sports-4.png</thumbnail>
 </item>
 
 <item>
@@ -492,20 +462,14 @@
 
 <item>
 <title>TEN SPORT 1<title>
-<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/rani/rani/419.ts;streamtype=TSDOWNLOADER&;name=TENSPORT1<link>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/charlie12345/charlie12345/17280.ts;streamtype=TSDOWNLOADER&;name=TENSPORT1<link>
 <thumbnail>http://tvimages.burrp.com/images/channels2/sports/Ten%201%20Sports.png</thumbnail>
 </item>
 
 <item>
 <title>TEN SPORT 2<title>
-<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/rani/rani/1769.ts;streamtype=TSDOWNLOADER&;name=TENSPORT2<link>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/charlie12345/charlie12345/17282.ts;streamtype=TSDOWNLOADER&;name=TENSPORT2<link>
 <thumbnail>http://www.televisionpost.com/wp-content/uploads/2016/03/TEN-2.png</thumbnail>
-</item>
-
-<item>
-<title>EXTREME SPORTS<title>
-<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/rani/rani/743.ts;streamtype=TSDOWNLOADER&;name=EXTREMESPORT<link>
-<thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/f/f0/Extreme_Sports_Channel.svg/1280px-Extreme_Sports_Channel.svg.png</thumbnail>
 </item>
 
 <item>
@@ -521,75 +485,33 @@
 </item>
 
 <item>
-<title>VIASAT MOTORS<title>
-<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/rani/rani/1129.ts;streamtype=TSDOWNLOADER&;name=VIASATMOTORS<link>
-<thumbnail>http://vignette2.wikia.nocookie.net/logopedia/images/f/f5/Viasat_Motor_2008.png/revision/latest?cb=20100122153323</thumbnail>
-</item>
-
-<item>
 <title>CHELSEA TV<title>
-<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/rani/rani/537.ts;streamtype=TSDOWNLOADER&;name=CHELSEATV<link>
+<link>plugin://plugin.video.f4mTester/?url=http://s1.finoip.com:20000/live/AntonioS/AntonioS/3568.ts;streamtype=TSDOWNLOADER&;name=CHELSEATV<link>
 <thumbnail>http://www.chelseafc.com/content/cfc/en/homepage/news/boilerplate-config/latest-news/2016/09/efl-trophy-live-on-chelsea-tv.img.png</thumbnail>
 </item>
 
 <item>
 <title>MUNTV<title>
-<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/rani/rani/535.ts;streamtype=TSDOWNLOADER&;name=MUNTV<link>
+<link>plugin://plugin.video.f4mTester/?url=http://s1.finoip.com:20000/live/AntonioS/AntonioS/3619.ts;streamtype=TSDOWNLOADER&;name=MUNTV<link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/en/b/b8/MUTV_logo.png</thumbnail>
 </item>
 
 <item>
 <title>LIVERPOOLTV<title>
-<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/rani/rani/536.ts;streamtype=TSDOWNLOADER&;name=LIVERPOOLTV<link>
+<link>plugin://plugin.video.f4mTester/?url=http://s1.finoip.com:20000/live/AntonioS/AntonioS/3606.ts;streamtype=TSDOWNLOADER&;name=LIVERPOOLTV<link>
 <thumbnail>https://pbs.twimg.com/profile_images/529559315049238528/_Y6PqLxc.jpeg</thumbnail>
 </item>
 
 <item>
-<title>SBK<title>
-<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/rani/rani/1436.ts;streamtype=TSDOWNLOADER&;name=SBK<link>
-<thumbnail>http://upload.wikimedia.org/wikipedia/it/9/9f/Nuovo_logo_SBK.jpg</thumbnail>
-</item>
-
-<item>
 <title>TSN 1<title>
-<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/rani/rani/1177.ts;streamtype=TSDOWNLOADER&;name=TSN 1<link>
+<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/dillon/dillon/6596.ts;streamtype=TSDOWNLOADER&;name=TSN 1<link>
 <thumbnail>http://zetv.ca/images/logos/png_440x440/sports/tsn1.png</thumbnail>
 </item>
 
 <item>
-<title>TSN 2<title>
-<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/rani/rani/1438.ts;streamtype=TSDOWNLOADER&;name=TSN 2<link>
-<thumbnail>http://contact.sourcecable.ca/wp-content/uploads/2015/05/TSN2_CMYK.jpg</thumbnail>
-</item>
-
-<item>
-<title>TSN 3<title>
-<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/rani/rani/1169.ts;streamtype=TSDOWNLOADER&;name=TSN 3<link>
-<thumbnail>http://www.nwtel.ca/sites/default/files/channel-logos/tsn3_0_0.jpg</thumbnail>
-</item>
-
-<item>
-<title>TSN 4<title>
-<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/rani/rani/1175.ts;streamtype=TSDOWNLOADER&;name=TSN 4<link>
-<thumbnail>http://www.nwtel.ca/sites/default/files/channel-logos/tsn4.jpg</thumbnail>
-</item>
-
-<item>
-<title>TSN 5<title>
-<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/rani/rani/1176.ts;streamtype=TSDOWNLOADER&;name=TSN 5<link>
-<thumbnail>http://www.nwtel.ca/sites/default/files/channel-logos/tsn5_0.jpg</thumbnail>
-</item>
-
-<item>
 <title>CANAL+<title>
-<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/rani/rani/350.ts;streamtype=TSDOWNLOADER&;name=CANAL+<link>
+<link>plugin://plugin.video.f4mTester/?url=http://s1.finoip.com:20000/live/AntonioS/AntonioS/5233.ts;streamtype=TSDOWNLOADER&;name=CANAL+<link>
 <thumbnail>http://cdn.embed.ly/providers/logos/canalplus.png</thumbnail>
-</item>
-
-<item>
-<title>VIASAT SPORT<title>
-<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/rani/rani/1117.ts;streamtype=TSDOWNLOADER&;name=VIASATSPORT<link>
-<thumbnail>http://vignette2.wikia.nocookie.net/logopedia/images/9/9b/Viasat_Sport_2008.png/revision/latest?cb=20100122152914</thumbnail>
 </item>
 
 <item>
