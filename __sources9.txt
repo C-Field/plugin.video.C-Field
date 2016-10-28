@@ -156,61 +156,61 @@
 
 <item>
 <title>SKY SPORTS 1 HD<title>
-<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/charlie12345/charlie12345/18256.ts;streamtype=TSDOWNLOADER&;name=SKYSPORTS1HD<link>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/charlie12345/charlie12345/20223.ts;streamtype=TSDOWNLOADER&;name=SKYSPORTS1HD<link>
 <thumbnail>http://www.skysports.com/core/img/channels/Sky-Sports-1-Logo.png</thumbnail>
 </item>
 
 <item>
 <title>SKY SPORTS 1<title>
-<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/charlie12345/charlie12345/18256.ts;streamtype=TSDOWNLOADER&;name=SKYSPORTS1<link>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/charlie12345/charlie12345/21466.ts;streamtype=TSDOWNLOADER&;name=SKYSPORTS1<link>
 <thumbnail>http://www.skysports.com/core/img/channels/Sky-Sports-1-Logo.png</thumbnail>
 </item>
 
 <item>
 <title>SKY SPORTS 2 HD<title>
-<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/rani/rani/654.ts;streamtype=TSDOWNLOADER&;name=SKYSPORTS2HD<link>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/charlie12345/charlie12345/20222.ts;streamtype=TSDOWNLOADER&;name=SKYSPORTS2HD<link>
 <thumbnail>https://s-media-cache-ak0.pinimg.com/236x/a2/22/13/a2221373c9bd651e725b013ab55ddc7d.jpg</thumbnail>
 </item>
 
 <item>
 <title>SKY SPORTS 2<title>
-<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/charlie12345/charlie12345/18257.ts;streamtype=TSDOWNLOADER&;name=SKYSPORTS2<link>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/charlie12345/charlie12345/13560.ts;streamtype=TSDOWNLOADER&;name=SKYSPORTS2<link>
 <thumbnail>https://s-media-cache-ak0.pinimg.com/236x/a2/22/13/a2221373c9bd651e725b013ab55ddc7d.jpg</thumbnail>
 </item>
 
 <item>
 <title>SKY SPORTS 3 HD<title>
-<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/rani/rani/546.ts;streamtype=TSDOWNLOADER&;name=SKYSPORTS3<link>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/charlie12345/charlie12345/20221.ts;streamtype=TSDOWNLOADER&;name=SKYSPORTS3<link>
 <thumbnail>http://www.skysports.com/core/img/channels/Sky-Sports-3-Logo.png</thumbnail>
 </item>
 
 <item>
 <title>SKY SPORTS 3<title>
-<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/rani/rani/546.ts;streamtype=TSDOWNLOADER&;name=SKYSPORTS3<link>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/charlie12345/charlie12345/13561.ts;streamtype=TSDOWNLOADER&;name=SKYSPORTS3<link>
 <thumbnail>http://www.skysports.com/core/img/channels/Sky-Sports-3-Logo.png</thumbnail>
 </item>
 
 <item>
 <title>SKY SPORTS 4 HD<title>
-<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/rani/rani/545.ts;streamtype=TSDOWNLOADER&;name=SKYSPORTS4HD<link>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/charlie12345/charlie12345/20220.ts;streamtype=TSDOWNLOADER&;name=SKYSPORTS4HD<link>
 <thumbnail>http://www.skysports.com/core/img/channels/Sky-Sports-4-Logo.png</thumbnail>
 </item>
 
 <item>
 <title>SKY SPORTS 4<title>
-<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/charlie12345/charlie12345/18259.ts;streamtype=TSDOWNLOADER&;name=SKYSPORTS4<link>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/charlie12345/charlie12345/13538.ts;streamtype=TSDOWNLOADER&;name=SKYSPORTS4<link>
 <thumbnail>http://www.skysports.com/core/img/channels/Sky-Sports-4-Logo.png</thumbnail>
 </item>
 
 <item>
 <title>SKY SPORTS 5 HD<title>
-<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/Charly/Charly/479.ts;streamtype=TSDOWNLOADER&;name=SKYSPORTS5HD<link>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/charlie12345/charlie12345/20219.ts;streamtype=TSDOWNLOADER&;name=SKYSPORTS5HD<link>
 <thumbnail>http://www.skysports.com/core/img/channels/Sky-Sports-5-Logo.png</thumbnail>
 </item>
 
 <item>
 <title>SKY SPORTS 5<title>
-<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/rani/rani/544.ts;streamtype=TSDOWNLOADER&;name=SKYSPORTS5<link>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/charlie12345/charlie12345/13514.ts;streamtype=TSDOWNLOADER&;name=SKYSPORTS5<link>
 <thumbnail>http://www.skysports.com/core/img/channels/Sky-Sports-5-Logo.png</thumbnail>
 </item>
 
