@@ -282,7 +282,7 @@
 
 <item>
 <title>EURO SPORT 1<title>
-<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/rani/rani/541.ts;streamtype=TSDOWNLOADER&;name=EUROSPORT1<link>
+<link>plugin://plugin.video.f4mTester/?url=http://s1.finoip.com:20000/live/AntonioS/AntonioS/4389.ts;streamtype=TSDOWNLOADER&;name=EUROSPORT1<link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Eurosport_Logo.svg/2000px-Eurosport_Logo.svg.png</thumbnail>
 </item>
 
@@ -294,7 +294,7 @@
 
 <item>
 <title>EURO SPORT 2<title>
-<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/rani/rani/540.ts;streamtype=TSDOWNLOADER&;name=EUROSPORT2<link>
+<link>plugin://plugin.video.f4mTester/?url=http://s1.finoip.com:20000/live/AntonioS/AntonioS/4390.ts;streamtype=TSDOWNLOADER&;name=EUROSPORT2<link>
 <thumbnail>http://seeklogo.com/images/E/Eurosport_2-logo-069CDF80FA-seeklogo.com.gif</thumbnail>
 </item>
 
@@ -318,7 +318,7 @@
 
 <item>
 <title>RACING UK<title>
-<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/rani/rani/458.ts;streamtype=TSDOWNLOADER&;name=RACINGUK<link>
+<link>plugin://plugin.video.f4mTester/?url=http://s1.finoip.com:20000/live/AntonioS/AntonioS/3626.ts;streamtype=TSDOWNLOADER&;name=RACINGUK<link>
 <thumbnail>http://www.redcarracing.co.uk/public/uploads/sitefiles/image/RUK%20logo%20Pure%20Racing%20Entertainment.jpg</thumbnail>
 </item>
 
