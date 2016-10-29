@@ -1,10 +1,4 @@
 <item>
-<title>http://bulkyiptv.com:5750/get.php?username=charlie12345&password=charlie12345&type=m3u<title>
-<link>http://bulkyiptv.com:5750/get.php?username=charlie12345&password=charlie12345&type=m3u<link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
 <title>Fox<title>
 <f4m>http://tv2iptv.com:8000/live/harry/Harry/698.ts<f4m>
 <f4m>http://globalstream.noip.us:8000/live/redsea/redsea/1461.ts<f4m>
