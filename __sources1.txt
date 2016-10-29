@@ -1,5 +1,5 @@
 <item>
-<title>BIG ONE<title>
+<title>http://bulkyiptv.com:5750/get.php?username=charlie12345&password=charlie12345&type=m3u<title>
 <link>http://bulkyiptv.com:5750/get.php?username=charlie12345&password=charlie12345&type=m3u<link>
 <thumbnail></thumbnail>
 </item>
