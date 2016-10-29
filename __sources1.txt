@@ -1,6 +1,6 @@
 <item>
 <title>BIG ONE<title>
-<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/get.php?username=charlie12345&password=charlie12345&type=m3u;streamtype=TSDOWNLOADER&;name=MTV<link>
+<link>http://bulkyiptv.com:5750/get.php?username=charlie12345&password=charlie12345&type=m3u<link>
 <thumbnail></thumbnail>
 </item>
 
