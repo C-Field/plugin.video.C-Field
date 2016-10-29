@@ -1,6 +1,6 @@
 <item>
-<title>MTV<title>
-<link>plugin://plugin.video.f4mTester/?url=http://s1.finoip.com:20000/live/mio/mio/3616.ts.ts;streamtype=TSDOWNLOADER&;name=MTV<link>
+<title>BIG ONE<title>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/get.php?username=charlie12345&password=charlie12345&type=m3u;streamtype=TSDOWNLOADER&;name=MTV<link>
 <thumbnail></thumbnail>
 </item>
 
