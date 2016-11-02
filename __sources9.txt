@@ -11,6 +11,12 @@
 </item>
 
 <item>
+<title>NBCSN<title>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/charlie12345/charlie12345/21822.ts;streamtype=TSDOWNLOADER&;name=NBCSN<link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
 <title>NFL NETWORK 1<title>NBC LIVE SPORTS EXTRA 1 HD Match Time
 <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/charlie12345/charlie12345/19371.ts;streamtype=TSDOWNLOADER&;name=NFLNETWORK1<link>
 <thumbnail></thumbnail>
