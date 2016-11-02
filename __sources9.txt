@@ -41,6 +41,48 @@
 </item>
 
 <item>
+<title>SKY NET SPORT HD<title>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/charlie12345/charlie12345/21520.ts;streamtype=TSDOWNLOADER&;name=SKYNETSPORTHD<link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>SKY NET SPORT 1<title>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/charlie12345/charlie12345/21519.ts;streamtype=TSDOWNLOADER&;name=SKYNETSPORT1<link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>SKY NET SPORT 2<title>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/charlie12345/charlie12345/21518.ts;streamtype=TSDOWNLOADER&;name=SKYNETSPORT2<link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>SKY NET SPORT 3<title>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/charlie12345/charlie12345/21517.ts;streamtype=TSDOWNLOADER&;name=SKYNETSPORT3<link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>SKY NET SPORT 4<title>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/charlie12345/charlie12345/21516.ts;streamtype=TSDOWNLOADER&;name=SKYNETSPORT4<link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>SKY NET SPORT 5<title>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/charlie12345/charlie12345/21515.ts;streamtype=TSDOWNLOADER&;name=SKYNETSPORT5<link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>SKY NET SPORT 6<title>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/charlie12345/charlie12345/21514.ts;streamtype=TSDOWNLOADER&;name=SKYNETSPORT6<link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
 <title>BT SPORT 1<title>
 <link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/luke/luke/7031.ts;streamtype=TSDOWNLOADER&;name=BTSPORT11080p<link>
 <thumbnail>http://images.pitchero.com/nl/1423850524_original.jpg</thumbnail>
