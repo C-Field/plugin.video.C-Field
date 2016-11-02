@@ -167,6 +167,12 @@
 </item>
 
 <item>
+<title>ESPN 2<title>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/charlie12345/charlie12345/19949.ts;streamtype=TSDOWNLOADER&;name=ESPN2<link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/e/e4/BT_Sport_ESPN_logo.png</thumbnail>
+</item>
+
+<item>
 <title>BT SPORTS EXTRA 1<title>
 <link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/dillon/dillon/7029.ts;streamtype=TSDOWNLOADER&;name=BTSPORTSEXTRA1<link>
 <thumbnail>https://s3.uswitchstatic.com/_img/library/news_image/bt_sport_extra_634x306x24_expand_h98c87b69.jpg</thumbnail>
