@@ -281,6 +281,12 @@
 </item>
 
 <item>
+<title>CBS REALITY +1<title>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/charlie12345/charlie12345/13528.ts;streamtype=TSDOWNLOADER&;name=CBSREALITY+1<link>
+<thumbnail>http://www.watchallchannels.com/wp-content/uploads/2015/02/CBS-Reality-TV.jpg</thumbnail>
+</item>
+
+<item>
 <title>CBS DRAMA<title>
 <link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/luke/luke/7000.ts;streamtype=TSDOWNLOADER&;name=CBSDRAMA<link>
 <thumbnail>http://www.cbsdrama.tv/pictures/programs/big/cbsdrama.jpg</thumbnail>
