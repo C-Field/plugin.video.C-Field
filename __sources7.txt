@@ -1,4 +1,4 @@
-<item>[COLOR yellow]******** NEW UPDATE IN YELLOW FROM AS OF 11/14/2016***********[/COLOR]</item>
+<title>[COLOR yellow]******** NEW UPDATE IN YELLOW FROM AS OF 11/14/2016***********[/COLOR]<title>
 
 <item>
 <title>13 Hours: The Secret Soldiers of Benghazi (2016)<title>
