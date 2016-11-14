@@ -17,15 +17,21 @@
 </item>
 
 <item>
-<title>[COLOR blue]Abattoir (2016)[/COLOR]<title>
+<title>[COLOR yellow]Alienate (2016)[/COLOR]<title>
+<link>http://bulkyiptv.com:5750/movie/charlie12345/charlie12345/22921.mp4<link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMTgyMjMzMjQxOV5BMl5BanBnXkFtZTcwNjEzOTI5OA@@._V1_SY1000_CR0,0,675,1000_AL_.jpg</thumbnail>
+</item>
+
+<item>
+<title>Abattoir (2016)<title>
 <link>http://bulkyiptv.com:5750/movie/charlie12345/charlie12345/19861.mp4<link>
 <thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BNmIyMjAxNTAtNmRjNy00NzFhLThmMDYtNzBiYmFlMGI3YmM3XkEyXkFqcGdeQXVyNjUyNTk1MjY@._V1_SX270_CR0,0,270,399_AL_.jpg</thumbnail>
 </item>
 
 <item>
-<title>Alice Through the Looking Glass (2016)<title>
-<link>http://bulkyiptv.com:5750/movie/charlie12345/charlie12345/19915.mp4<link>
-<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMTc2NjExMTIyN15BMl5BanBnXkFtZTgwMjg0OTIwODE@._V1_SY500_CR0,0,337,500_AL_.jpg</thumbnail>
+<title>[COLOR yellow]Allegiant (2016) 4K Version[/COLOR]<title>
+<link>http://bulkyiptv.com:5750/movie/charlie12345/charlie12345/20204.mp4<link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BNmIyMjAxNTAtNmRjNy00NzFhLThmMDYtNzBiYmFlMGI3YmM3XkEyXkFqcGdeQXVyNjUyNTk1MjY@._V1_SX270_CR0,0,270,399_AL_.jpg</thumbnail>
 </item>
 
 <item>
@@ -35,9 +41,45 @@
 </item>
 
 <item>
+<title>[COLOR yellow]Altamira (2016)[/COLOR]<title>
+<link>http://bulkyiptv.com:5750/movie/charlie12345/charlie12345/20619.mp4<link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMTUyMjEzNjE5Ml5BMl5BanBnXkFtZTgwNTQ0ODA2OTE@._V1_SY500_CR0,0,352,500_AL_.jpg</thumbnail>
+</item>
+
+<item>
+<title>Alice Through the Looking Glass (2016)<title>
+<link>http://bulkyiptv.com:5750/movie/charlie12345/charlie12345/19915.mp4<link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMTc2NjExMTIyN15BMl5BanBnXkFtZTgwMjg0OTIwODE@._V1_SY500_CR0,0,337,500_AL_.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR yellow]Amanda Knox (2016)[/COLOR]<title>
+<link>http://bulkyiptv.com:5750/movie/charlie12345/charlie12345/20822.mp4<link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BNTY5NjE4MTQyNF5BMl5BanBnXkFtZTgwMzg1NjEwMDI@._V1_SY500_CR0,0,337,500_AL_.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR yellow]AmStarDam (2016)[/COLOR]<title>
+<link>http://bulkyiptv.com:5750/movie/charlie12345/charlie12345/21492.mp4<link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BNjhkY2I1MTItMTUwYy00OTg4LWJlZmYtZTgyOTcyMTM4YjQ5XkEyXkFqcGdeQXVyMTIxMzA5MDI@._V1_SY999_CR0,0,715,999_AL_.jpg</thumbnail>
+</item>
+
+<item>
 <title>Anne of Green Gables (2016)<title>
 <link>http://bulkyiptv.com:5750/movie/charlie12345/charlie12345/16728.mp4<link>
 <thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMzIyOTI5MjMxMl5BMl5BanBnXkFtZTgwODE4NDY3NzE@._V1_SY500_CR0,0,352,500_AL_.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR yellow]Anthropoid (2016)[/COLOR]<title>
+<link>http://bulkyiptv.com:5750/movie/charlie12345/charlie12345/21442.mp4<link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMjIxNzE0NjY1Nl5BMl5BanBnXkFtZTgwNjYzOTkxOTE@._V1_SY500_CR0,0,337,500_AL_.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR yellow]Army of One (2016)[/COLOR]<title>
+<link>http://bulkyiptv.com:5750/movie/charlie12345/charlie12345/21846.mp4<link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BZWY4NzQwNWUtYzVkYS00YjIwLWJkYmEtYmU4MmE5ZjJmMjEzXkEyXkFqcGdeQXVyNTU2NDMyOTM@._V1_SY250_CR0,0,177,250_AL_.jpg</thumbnail>
 </item>
 
 <item>
@@ -47,9 +89,21 @@
 </item>
 
 <item>
+<title>[COLOR yellow]Baked in Brooklyn (2016)[/COLOR]<title>
+<link>http://bulkyiptv.com:5750/movie/charlie12345/charlie12345/22457.mp4<link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMTc1Mzk4NDI1Ml5BMl5BanBnXkFtZTgwNTgwMTE1MDI@._V1_SY500_SX375_AL_.jpg</thumbnail>
+</item>
+
+<item>
 <title>Barbershop: The Next Cut (2016)<title>
 <link>http://bulkyiptv.com:5750/movie/charlie12345/charlie12345/16163.mp4<link>
 <thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMzUxMzM5MjIxNF5BMl5BanBnXkFtZTgwMDk1NzMzNzE@._V1_SY500_CR0,0,337,500_AL_.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR yellow]Barbie: Star Light Adventure (2016)[/COLOR]<title>
+<link>http://bulkyiptv.com:5750/movie/charlie12345/charlie12345/20620.mp4<link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BYmM0Y2ZjZWUtNTk5NC00Nzc4LTgxM2QtNjkyMTVkZmFiZDIxXkEyXkFqcGdeQXVyMzI4MjI5NTE@._V1_SY220_SX155_AL_.jpg</thumbnail>
 </item>
 
 <item>
@@ -68,6 +122,12 @@
 <title>Batman v Superman: Dawn of Justice (2016)<title>
 <link>http://bulkyiptv.com:5750/movie/charlie12345/charlie12345/14643.mkv<link>
 <thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BYThjYzcyYzItNTVjNy00NDk0LTgwMWQtYjMwNmNlNWJhMzMyXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SY500_CR0,0,337,500_AL_.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR yellow]Batman: Return of the Caped Crusaders (2016)[/COLOR]<title>
+<link>http://bulkyiptv.com:5750/movie/charlie12345/charlie12345/21488.mp4<link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BYzg0MmNlOTMtNTY3Yi00NmJhLWFjMWUtNzkzNzJjMDk2ZmJlXkEyXkFqcGdeQXVyNjUwNzk3NDc@._V1_SY284_CR0,0,223,284_AL_.jpg</thumbnail>
 </item>
 
 <item>
@@ -119,9 +179,21 @@
 </item>
 
 <item>
+<title>[COLOR yellow]Café Society (2016)[/COLOR]<title>
+<link>http://bulkyiptv.com:5750/movie/charlie12345/charlie12345/20621.mp4<link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BNjk1NjY4NjE5N15BMl5BanBnXkFtZTgwMTU0NDg0OTE@._V1_SY500_CR0,0,333,500_AL_.jpg</thumbnail>
+</item>
+
+<item>
 <title>Captain America: Civil War (2016)<title>
 <link>http://bulkyiptv.com:5750/movie/charlie12345/charlie12345/18051.mp4<link>
 <thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMjQ0MTgyNjAxMV5BMl5BanBnXkFtZTgwNjUzMDkyODE@._V1_SY500_CR0,0,337,500_AL_.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR yellow]Captain Fantastic (2016)[/COLOR]<title>
+<link>http://bulkyiptv.com:5750/movie/charlie12345/charlie12345/20622.mp4<link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMjE5OTM0OTY5NF5BMl5BanBnXkFtZTgwMDcxOTQ3ODE@._V1_SY500_CR0,0,337,500_AL_.jpg</thumbnail>
 </item>
 
 <item>
