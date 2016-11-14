@@ -31,7 +31,7 @@
 <item>
 <title>[COLOR yellow]Allegiant (2016) 4K Version[/COLOR]<title>
 <link>http://bulkyiptv.com:5750/movie/charlie12345/charlie12345/20204.mp4<link>
-<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BNmIyMjAxNTAtNmRjNy00NzFhLThmMDYtNzBiYmFlMGI3YmM3XkEyXkFqcGdeQXVyNjUyNTk1MjY@._V1_SX270_CR0,0,270,399_AL_.jpg</thumbnail>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMjEyOTI3NDQwN15BMl5BanBnXkFtZTgwNjExOTIwODE@._V1_SY500_CR0,0,323,500_AL_.jpg</thumbnail>
 </item>
 
 <item>
