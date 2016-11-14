@@ -911,6 +911,12 @@
 </item>
 
 <item>
+<title>[COLOR yellow]Texas Rein (2016)[/COLOR]<title>
+<link>http://bulkyiptv.com:5750/movie/charlie12345/charlie12345/21500.mp4<link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BNjg4MzQwMjQyM15BMl5BanBnXkFtZTgwODAzNjU0NjE@._V1_SY500_CR0,0,345,500_AL_.jpg</thumbnail>
+</item>
+
+<item>
 <title>The 5th Wave (2016)<title>
 <link>http://bulkyiptv.com:5750/movie/charlie12345/charlie12345/14345.mp4<link>
 <thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMjQwOTc0Mzg3Nl5BMl5BanBnXkFtZTgwOTg3NjI2NzE@._V1_SY500_CR0,0,337,500_AL_.jpg</thumbnail>
@@ -953,6 +959,12 @@
 </item>
 
 <item>
+<title>[COLOR yellow]The Church (2016)[/COLOR]<title>
+<link>http://bulkyiptv.com:5750/movie/charlie12345/charlie12345/21490.mp4<link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMTYwMjUxNDk1OF5BMl5BanBnXkFtZTgwMzA2MzE1MTE@._V1_SY500_CR0,0,333,500_AL_.jpg</thumbnail>
+</item>
+
+<item>
 <title>The Conjuring 2 (2016)<title>
 <link>http://bulkyiptv.com:5750/movie/charlie12345/charlie12345/17416.mp4<link>
 <thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BZjU5OWVlN2EtODNlYy00MjhhLWI0MDUtMTA3MmQ5MGMwYTZmXkEyXkFqcGdeQXVyNjE5MTM4MzY@._V1_SY500_CR0,0,337,500_AL_.jpg</thumbnail>
@@ -968,6 +980,12 @@
 <title>The Duel (2016)<title>
 <link>http://bulkyiptv.com:5750/movie/charlie12345/charlie12345/17390.mp4<link>
 <thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMjQwMTA2MDEyMl5BMl5BanBnXkFtZTgwNjU1MDY3ODE@._V1_SY500_CR0,0,337,500_AL_.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR yellow]The Evil in Us (2016)[/COLOR]<title>
+<link>http://bulkyiptv.com:5750/movie/charlie12345/charlie12345/20639.mp4<link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BZDZiYmZlNjMtYjlhMy00MmMwLWJkMTMtN2IyYjc4ODM4ZjZlXkEyXkFqcGdeQXVyNTM0NjQyMg@@._V1_SY500_CR0,0,388,500_AL_.jpg</thumbnail>
 </item>
 
 <item>
@@ -989,15 +1007,33 @@
 </item>
 
 <item>
+<title>[COLOR yellow]The Hatching (2016)[/COLOR]<title>
+<link>http://bulkyiptv.com:5750/movie/charlie12345/charlie12345/20641.mp4<link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMjMzNzM3NDgxOF5BMl5BanBnXkFtZTgwNDA3NzY4NzE@._V1_SY500_CR0,0,341,500_AL_.jpg</thumbnail>
+</item>
+
+<item>
 <title>The High Frontier (2016)<title>
 <link>http://bulkyiptv.com:5750/movie/charlie12345/charlie12345/19865.mp4<link>
 <thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BZDNiNjNlZjAtMzI5OC00OWM3LWFkMDYtMjZmYTU3ZTdkZDMwXkEyXkFqcGdeQXVyMTc4MzI2NQ@@._V1_SY500_CR0,0,346,500_AL_.jpg</thumbnail>
 </item>
 
 <item>
+<title>[COLOR yellow]The Hollow (2016)[/COLOR]<title>
+<link>http://bulkyiptv.com:5750/movie/charlie12345/charlie12345/22241.mp4<link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMTUyNzE5MDEwOF5BMl5BanBnXkFtZTgwODczMTA5OTE@._V1_SY500_CR0,0,337,500_AL_.jpg</thumbnail>
+</item>
+
+<item>
 <title>The Huntsman Winter's War (2016)<title>
 <link>http://bulkyiptv.com:5750/movie/charlie12345/charlie12345/14642.mkv<link>
 <thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMTkzNzc2MDQ1N15BMl5BanBnXkFtZTgwNTAyNzkyNzE@._V1_SY500_CR0,0,315,500_AL_.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR yellow]The Infiltrator (2016)[/COLOR]<title>
+<link>http://bulkyiptv.com:5750/movie/charlie12345/charlie12345/22463.mp4<link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMTEwNzM2NjY2MTNeQTJeQWpwZ15BbWU4MDQ3MDI3Njgx._V1_SY500_CR0,0,341,500_AL_.jpg</thumbnail>
 </item>
 
 <item>
@@ -1025,9 +1061,21 @@
 </item>
 
 <item>
+<title>[COLOR yellow]The Magnificent Seven (2016)[/COLOR]<title>
+<link>http://bulkyiptv.com:5750/movie/charlie12345/charlie12345/20272.mp4<link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMTUzNTc0NTAyM15BMl5BanBnXkFtZTgwMTk1ODA5OTE@._V1_SY500_CR0,0,337,500_AL_.jpg</thumbnail>
+</item>
+
+<item>
 <title>The Man Who Knew Infinity (2015)<title>
 <link>http://bulkyiptv.com:5750/movie/charlie12345/charlie12345/17353.mp4<link>
 <thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMTU3Njg4MDM3OV5BMl5BanBnXkFtZTgwMjE5ODM3ODE@._V1_SY500_CR0,0,337,500_AL_.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR yellow]The Neon Demon (2016)[/COLOR]<title>
+<link>http://bulkyiptv.com:5750/movie/charlie12345/charlie12345/20643.mp4<link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BNTAyOTkxNTQ3NV5BMl5BanBnXkFtZTgwMjQ1NzQxOTE@._V1_SY500_CR0,0,324,500_AL_.jpg</thumbnail>
 </item>
 
 <item>
@@ -1040,6 +1088,12 @@
 <title>The Perfect Match (2016)<title>
 <link>http://bulkyiptv.com:5750/movie/charlie12345/charlie12345/15524.mp4<link>
 <thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMTY2NDY5NDUzMV5BMl5BanBnXkFtZTgwMTEyNDQ3NzE@._V1_.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR yellow]The Phenom (2016)[/COLOR]<title>
+<link>http://bulkyiptv.com:5750/movie/charlie12345/charlie12345/20644.mp4<link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMTg0Mjg5MTY2NF5BMl5BanBnXkFtZTgwNzM4NjEwOTE@._V1_SY500_CR0,0,338,500_AL_.jpg</thumbnail>
 </item>
 
 <item>
@@ -1067,15 +1121,45 @@
 </item>
 
 <item>
+<title>[COLOR yellow]The Siege of Jadotville (2016)[/COLOR]<title>
+<link>http://bulkyiptv.com:5750/movie/charlie12345/charlie12345/20563.mp4<link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BZTAxZWViYTUtMDljNi00MmQ5LTk2MzEtYmIwZDNkOTFhZjk0XkEyXkFqcGdeQXVyNjkxOTcwNjc@._V1_SY375_CR0,0,234,375_AL_.jpg</thumbnail>
+</item>
+
+<item>
 <title>The Trust (2016)<title>
 <link>http://bulkyiptv.com:5750/movie/charlie12345/charlie12345/11755.mp4<link>
 <thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMTA4NjE3OTk1MzdeQTJeQWpwZ15BbWU4MDMwMTk1Mjgx._V1_SY500_CR0,0,337,500_AL_.jpg</thumbnail>
 </item>
 
 <item>
+<title>[COLOR yellow]The Whole Truth (2016)[/COLOR]<title>
+<link>http://bulkyiptv.com:5750/movie/charlie12345/charlie12345/21493.mp4<link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMzI5MjYzNTEyNF5BMl5BanBnXkFtZTgwNjE5NTgwMDI@._V1_SY500_CR0,0,337,500_AL_.jpg</thumbnail>
+</item>
+
+<item>
 <title>Triple 9 (2016)<title>
 <link>http://bulkyiptv.com:5750/movie/charlie12345/charlie12345/13185.mp4<link>
 <thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMTU0NDcxMzczMV5BMl5BanBnXkFtZTgwODkxNTUwODE@._V1_SY500_CR0,0,333,500_AL_.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR yellow]Trolland (2016)[/COLOR]<title>
+<link>http://bulkyiptv.com:5750/movie/charlie12345/charlie12345/22927.mp4<link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>[COLOR yellow]Trolls (2016)[/COLOR]<title>
+<link>http://bulkyiptv.com:5750/movie/charlie12345/charlie12345/22522.mp4<link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMTkxNDc3OTcxMV5BMl5BanBnXkFtZTgwODk2NjAzOTE@._V1_SY500_CR0,0,336,500_AL_.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR yellow]True Memoirs of an International Assassin (2016)[/COLOR]<title>
+<link>http://bulkyiptv.com:5750/movie/charlie12345/charlie12345/22928.mp4<link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMjEzMjI0Mzc5MV5BMl5BanBnXkFtZTgwODExMDgxMDI@._V1_SY500_CR0,0,337,500_AL_.jpg</thumbnail>
 </item>
 
 <item>
@@ -1094,6 +1178,12 @@
 <title>USS Indianapolis: Men of Courage (2016)<title>
 <link>http://bulkyiptv.com:5750/movie/charlie12345/charlie12345/18073.mp4<link>
 <thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BYmYxYjAxNDItZWY2NC00MTE1LWIxNGMtZjkzOTM3MzIwM2RjXkEyXkFqcGdeQXVyNDI0MTYyNzU@._V1_SY474_SX320_AL_.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR yellow]Viking Legacy (2016)[/COLOR]<title>
+<link>http://bulkyiptv.com:5750/movie/charlie12345/charlie12345/21491.mp4<link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMzIyOTI5ZmQtMmQ3YS00NWM2LWFjNGItNWViZGUwZGJkMDQ5XkEyXkFqcGdeQXVyMTc3NTg3ODI@._V1_SY250_CR0,0,176,250_AL_.jpg</thumbnail>
 </item>
 
 <item>
@@ -1118,6 +1208,12 @@
 <title>Whiskey Tango Foxtrot (2016)<title>
 <link>http://bulkyiptv.com:5750/movie/charlie12345/charlie12345/15181.mp4<link>
 <thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMjIxOTIzMTM5OF5BMl5BanBnXkFtZTgwNDIxNTA1NzE@._V1_SY500_CR0,0,320,500_AL_.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR yellow]White Island (2016)[/COLOR]<title>
+<link>http://bulkyiptv.com:5750/movie/charlie12345/charlie12345/22428.mp4<link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMWY4MDVhYzgtYTIzZi00MjI0LTk4YjAtZjJiY2JjMjc4ZDRhXkEyXkFqcGdeQXVyMTE2ODA5Nzk@._V1_SY500_CR0,0,337,500_AL_.jpg</thumbnail>
 </item>
 
 <item>
