@@ -215,6 +215,18 @@
 </item>
 
 <item>
+<title>[COLOR yellow]Certain Women (2016)[/COLOR]<title>
+<link>http://bulkyiptv.com:5750/movie/charlie12345/charlie12345/22459.mp4<link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMjIyOTY0MjcxMV5BMl5BanBnXkFtZTgwODgxMTE5OTE@._V1_SY500_CR0,0,337,500_AL_.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR yellow]Citizen Soldier (2016)[/COLOR]<title>
+<link>http://bulkyiptv.com:5750/movie/charlie12345/charlie12345/20623.mp4<link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMzA5Njg1NjI2N15BMl5BanBnXkFtZTgwNjI4MjA1OTE@._V1_SY500_CR0,0,337,500_AL_.jpg</thumbnail>
+</item>
+
+<item>
 <title>Code of Honor (2016)<title>
 <link>http://bulkyiptv.com:5750/movie/charlie12345/charlie12345/15316.mp4<link>
 <thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMGI1ODNkYTQtZGM5YS00Y2NkLWJhZDQtMWQ2MzkxOGVjOGViXkEyXkFqcGdeQXVyMjMzMzY4Njk@._V1_SY500_CR0,0,339,500_AL_.jpg</thumbnail>
@@ -245,6 +257,18 @@
 </item>
 
 <item>
+<title>[COLOR yellow]DEAD 7 (2016)[/COLOR]<title>
+<link>http://bulkyiptv.com:5750/movie/charlie12345/charlie12345/21443.mp4<link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BZjI4ZGE1N2YtYmI4OS00Nzk1LWJkYzQtYzJlZjlhNzE2ZDIyXkEyXkFqcGdeQXVyNjU3NjgwNjI@._V1_SX276_CR0,0,276,391_AL_.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR yellow]Dead Rising: Endgame (2016)[/COLOR]<title>
+<link>http://bulkyiptv.com:5750/movie/charlie12345/charlie12345/22251.mp4<link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMTU1NzY2MzgxMF5BMl5BanBnXkFtZTgwMzIxNjE1OTE@._V1_SY500_CR0,0,337,500_AL_.jpg</thumbnail>
+</item>
+
+<item>
 <title>Deadpool (2016)<title>
 <link>http://bulkyiptv.com:5750/movie/charlie12345/charlie12345/13602.mp4<link>
 <thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMjQyODg5Njc4N15BMl5BanBnXkFtZTgwMzExMjE3NzE@._V1_SY1000_SX686_AL_.jpg</thumbnail>
@@ -254,6 +278,12 @@
 <title>Deadpool 4k Version (2016)<title>
 <link>http://bulkyiptv.com:5750/movie/charlie12345/charlie12345/17394.mkv<link>
 <thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMjQyODg5Njc4N15BMl5BanBnXkFtZTgwMzExMjE3NzE@._V1_SY500_SX343_AL_.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR yellow]Deepwater Horizon (2016)[/COLOR]<title>
+<link>http://bulkyiptv.com:5750/movie/charlie12345/charlie12345/20270.mp4<link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BOTEzNDU0OTgxM15BMl5BanBnXkFtZTgwNjA0ODM2OTE@._V1_SY500_CR0,0,337,500_AL_.jpg</thumbnail>
 </item>
 
 <item>
@@ -299,6 +329,12 @@
 </item>
 
 <item>
+<title>[COLOR yellow]Everybody Wants Some!! (2016)[/COLOR]<title>
+<link>http://bulkyiptv.com:5750/movie/charlie12345/charlie12345/21486.mp4<link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMTk2NDcyNDE5N15BMl5BanBnXkFtZTgwNDA0MzQ1NzE@._V1_SY500_CR0,0,321,500_AL_.jpg</thumbnail>
+</item>
+
+<item>
 <title>Exposed (2016)<title>
 <link>http://bulkyiptv.com:5750/movie/charlie12345/charlie12345/8744.mp4<link>
 <thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMjAwMzk1MDI1OF5BMl5BanBnXkFtZTgwMDYxODkzNzE@._V1_SY500_CR0,0,337,500_AL_.jpg</thumbnail>
@@ -308,6 +344,12 @@
 <title>Eye in the Sky (2015)<title>
 <link>http://bulkyiptv.com:5750/movie/charlie12345/charlie12345/15131.mp4<link>
 <thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BNTY4Nzg5MTU0OV5BMl5BanBnXkFtZTgwMjY2MjU2NzE@._V1_SY500_CR0,0,337,500_AL_.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR yellow]INC (2016)[/COLOR]<title>
+<link>http://bulkyiptv.com:5750/movie/charlie12345/charlie12345/22250.mp4<link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMTc0OTA5OTU2NF5BMl5BanBnXkFtZTgwMjU2NTU5OTE@._V1_SY500_CR0,0,337,500_AL_.jpg</thumbnail>
 </item>
 
 <item>
@@ -359,15 +401,39 @@
 </item>
 
 <item>
+<title>[COLOR yellow]GOOD KIDS (2016)[/COLOR]<title>
+<link>http://bulkyiptv.com:5750/movie/charlie12345/charlie12345/22460.mp4<link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMjQ3NjMyNDgzM15BMl5BanBnXkFtZTgwOTA5MDExMDI@._V1_SY500_CR0,0,337,500_AL_.jpg</thumbnail>
+</item>
+
+<item>
 <title>Green Room (2016)<title>
 <link>http://bulkyiptv.com:5750/movie/charlie12345/charlie12345/15523.mp4<link>
 <thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BZWI2MWEzOTQtMWEyZC00YmIyLTllZWYtZmU2MWRjY2E0ZDJhXkEyXkFqcGdeQXVyMTk3ODgzMzU@._V1_SY500_CR0,0,333,500_AL_.jpg</thumbnail>
 </item>
 
 <item>
+<title>[COLOR yellow]Hands of Stone (2016)[/COLOR]<title>
+<link>http://bulkyiptv.com:5750/movie/charlie12345/charlie12345/22394.mp4<link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMjQxNzE4ODU1Nl5BMl5BanBnXkFtZTgwMDA4Njk0ODE@._V1_SY500_CR0,0,337,500_AL_.jpg</thumbnail>
+</item>
+
+<item>
 <title>Hard Target 2 (2016)<title>
 <link>http://bulkyiptv.com:5750/movie/charlie12345/charlie12345/17414.mp4<link>
 <thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BOTBjNzJiZmItMjQyZi00OWNjLWE4NTktMWVmYzA1NjdlNTU4XkEyXkFqcGdeQXVyNjQ4NDUyMzc@._V1_SY500_CR0,0,359,500_AL_.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR yellow]Hatton Garden the Heist (2016)[/COLOR]<title>
+<link>http://bulkyiptv.com:5750/movie/charlie12345/charlie12345/21444.mp4<link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BOTRlNTJkM2YtOTRiNC00OTc5LThiMjAtYmIxMDIwNjAwZTkzXkEyXkFqcGdeQXVyMjk4MDE2MTE@._V1_SY500_CR0,0,354,500_AL_.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR yellow]Hell or High Water (2016)[/COLOR]<title>
+<link>http://bulkyiptv.com:5750/movie/charlie12345/charlie12345/22923.mp4<link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMTg4NDA1OTA5NF5BMl5BanBnXkFtZTgwMDQ2MDM5ODE@._V1_SY500_CR0,0,337,500_AL_.jpg</thumbnail>
 </item>
 
 <item>
@@ -437,21 +503,33 @@
 </item>
 
 <item>
+<title>[COLOR yellow]In a Valley of Violence (2016)[/COLOR]<title>
+<link>http://bulkyiptv.com:5750/movie/charlie12345/charlie12345/22240.mp4<link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMTUxODkxMjcxNl5BMl5BanBnXkFtZTgwNTU1Mzk5OTE@._V1_SY500_CR0,0,337,500_AL_.jpg</thumbnail>
+</item>
+
+<item>
 <title>Independence Day: Resurgence (2016)<title>
 <link>http://bulkyiptv.com:5750/movie/charlie12345/charlie12345/16643.mp4<link>
 <thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMjIyMTg5MTg4OV5BMl5BanBnXkFtZTgwMzkzMjY5NzE@._V1_SY500_CR0,0,337,500_AL_.jpg</thumbnail>
 </item>
 
 <item>
-<title>Independents' Day (2016)<title>
-<link>http://bulkyiptv.com:5750/movie/charlie12345/charlie12345/15127.mp4<link>
-<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BNGQ5NmMxYWYtYTYyMC00ZjYzLThjOGEtNTU4MmFhNTQ2OWUwXkEyXkFqcGdeQXVyMTk0NDc2ODY@._V1_SX280_CR0,0,280,396_AL_.jpg</thumbnail>
+<title>[COLOR yellow]Indignation (2016)[/COLOR]<title>
+<link>http://bulkyiptv.com:5750/movie/charlie12345/charlie12345/21500.mp4<link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMjIyNDg4OTYwOF5BMl5BanBnXkFtZTgwOTQ3ODgwOTE@._V1_SY500_CR0,0,337,500_AL_.jpg</thumbnail>
 </item>
 
 <item>
 <title>Interrogation (2016)<title>
 <link>http://bulkyiptv.com:5750/movie/charlie12345/charlie12345/19286.mp4<link>
 <thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMTUyMjg4MTM4Ml5BMl5BanBnXkFtZTgwMzk2MTI0OTE@._V1_SY307_SX216_AL_.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR yellow]Jack Goes Home (2016)[/COLOR]<title>
+<link>http://bulkyiptv.com:5750/movie/charlie12345/charlie12345/20628.mp4<link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMjEzNTI3MzE4MV5BMl5BanBnXkFtZTgwNjk5OTU4OTE@._V1_SY500_SX346_AL_.jpg</thumbnail>
 </item>
 
 <item>
@@ -497,6 +575,12 @@
 </item>
 
 <item>
+<title>[COLOR yellow]KING COBRA (2016)[/COLOR]<title>
+<link>http://bulkyiptv.com:5750/movie/charlie12345/charlie12345/22249.mp4<link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMTU1Njk2NzMxOF5BMl5BanBnXkFtZTgwMzY4ODUxMDI@._V1_SY500_CR0,0,337,500_AL_.jpg</thumbnail>
+</item>
+
+<item>
 <title>Kung Fu Panda 3 (2016)<title>
 <link>http://bulkyiptv.com:5750/movie/charlie12345/charlie12345/15130.mp4<link>
 <thumbnail>src="https://images-na.ssl-images-amazon.com/images/M/MV5BMTUyNzgxNjg2M15BMl5BanBnXkFtZTgwMTY1NDI1NjE@._V1_SY489_SX330_AL_.jpg"</thumbnail>
@@ -506,6 +590,24 @@
 <title>Laid in America (2016)<title>
 <link>http://bulkyiptv.com:5750/movie/charlie12345/charlie12345/19476.mp4<link>
 <thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BYjY1MzY1NDItNzAzMS00MWQ1LTgwYTEtOGY3YzA4NGFhYTk4XkEyXkFqcGdeQXVyNjMxOTMwNzA@._V1_SY500_CR0,0,349,500_AL_.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR yellow]Lake Eerie (2016)[/COLOR]<title>
+<link>http://bulkyiptv.com:5750/movie/charlie12345/charlie12345/22924.mp4<link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMjQyOTcwOTc2N15BMl5BanBnXkFtZTgwMTY1Nzk5NjE@._V1_SY500_CR0,0,333,500_AL_.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR yellow]Level Up (2016)[/COLOR]<title>
+<link>http://bulkyiptv.com:5750/movie/charlie12345/charlie12345/20629.mp4<link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BNDk5NTgyMTc3OF5BMl5BanBnXkFtZTgwOTAxNTU1OTE@._V1_SY500_CR0,0,340,500_AL_.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR yellow]LIGHTS OUT (2016)[/COLOR]<title>
+<link>http://bulkyiptv.com:5750/movie/charlie12345/charlie12345/20630.mp4<link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMTg1OTkxNDgyMV5BMl5BanBnXkFtZTgwMjEzNTc0ODE@._V1_SY500_CR0,0,337,500_AL_.jpg</thumbnail>
 </item>
 
 <item>
@@ -611,6 +713,18 @@
 </item>
 
 <item>
+<title>[COLOR yellow]Nerve (2016)[/COLOR]<title>
+<link>http://bulkyiptv.com:5750/movie/charlie12345/charlie12345/20633.mp4<link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMTUzOTg1OTM4NV5BMl5BanBnXkFtZTgwMTg2Mjg0OTE@._V1_SY500_CR0,0,324,500_AL_.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR yellow]NINE LIVES (2016)[/COLOR]<title>
+<link>http://bulkyiptv.com:5750/movie/charlie12345/charlie12345/21485.mp4<link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMzEzMjkwMjc3NV5BMl5BanBnXkFtZTgwMzc0NjY5ODE@._V1_SY500_CR0,0,337,500_AL_.jpg</thumbnail>
+</item>
+
+<item>
 <title>Norm of the North (2016)<title>
 <link>http://bulkyiptv.com:5750/movie/charlie12345/charlie12345/11754.mp4<link>
 <thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BNTY4MDk4Mjc4NV5BMl5BanBnXkFtZTgwNzg4OTk0NzE@._V1_SY500_CR0,0,328,500_AL_.jpg</thumbnail>
@@ -629,7 +743,7 @@
 </item>
 
 <item>
-<title>Pel麠Birth of a Legend (2016)<title>
+<title>Pel Birth of a Legend (2016)<title>
 <link>http://bulkyiptv.com:5750/movie/charlie12345/charlie12345/16978.mp4<link>
 <thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMTg2NzQwMzQyMF5BMl5BanBnXkFtZTgwNzkzODk2ODE@._V1_SY500_CR0,0,333,500_AL_.jpg</thumbnail>
 </item>
@@ -677,6 +791,12 @@
 </item>
 
 <item>
+<title>[COLOR yellow]RECOVERY (2016)[/COLOR]<title>
+<link>http://bulkyiptv.com:5750/movie/charlie12345/charlie12345/22462.mp4<link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMTUyNDY3NjkyNl5BMl5BanBnXkFtZTgwNzEyNDYzMDI@._V1_SY500_CR0,0,337,500_AL_.jpg</thumbnail>
+</item>
+
+<item>
 <title>Ride Along 2 (2016)<title>
 <link>http://bulkyiptv.com:5750/movie/charlie12345/charlie12345/14639.mp4<link>
 <thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMTU4ODAzMzcxOV5BMl5BanBnXkFtZTgwODkxMDI1NjE@._V1_SY500_CR0,0,315,500_AL_.jpg</thumbnail>
@@ -719,6 +839,12 @@
 </item>
 
 <item>
+<title>[COLOR yellow]Skiptrace (2016)[/COLOR]<title>
+<link>http://bulkyiptv.com:5750/movie/charlie12345/charlie12345/20634.mp4<link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMTc2NzgxMjY2NV5BMl5BanBnXkFtZTgwMzcxMjc0OTE@._V1_SY500_CR0,0,337,500_AL_.jpg</thumbnail>
+</item>
+
+<item>
 <title>Sniper Special Ops (2016)<title>
 <link>http://bulkyiptv.com:5750/movie/charlie12345/charlie12345/15834.mp4<link>
 <thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMTgyNTI3MDE0MF5BMl5BanBnXkFtZTgwMTkwNTc3NzE@._V1_SY500_CR0,0,349,500_AL_.jpg</thumbnail>
@@ -737,6 +863,12 @@
 </item>
 
 <item>
+<title>[COLOR yellow]Storks (2016)[/COLOR]<title>
+<link>http://bulkyiptv.com:5750/movie/charlie12345/charlie12345/20271.mp4<link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMTYxNjI3MzcwMF5BMl5BanBnXkFtZTgwOTIyNDY5OTE@._V1_SY500_CR0,0,337,500_AL_.jpg</thumbnail>
+</item>
+
+<item>
 <title>Suicide Squad (2016)<title>
 <link>http://bulkyiptv.com:5750/movie/charlie12345/charlie12345/17226.mp4<link>
 <thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMjM1OTMxNzUyM15BMl5BanBnXkFtZTgwNjYzMTIzOTE@._V1_SY500_CR0,0,337,500_AL_.jpg</thumbnail>
@@ -749,9 +881,21 @@
 </item>
 
 <item>
+<title>[COLOR yellow]Supersonic (2016)[/COLOR]<title>
+<link>http://bulkyiptv.com:5750/movie/charlie12345/charlie12345/22155.mp4<link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BOTMzMDcwZjQtNzJiMy00MDJmLTkxMzItMDIyZjk0NTVmYmIwXkEyXkFqcGdeQXVyMjY3MDI3ODE@._V1_SX310_CR0,0,310,461_AL_.jpg</thumbnail>
+</item>
+
+<item>
 <title>Swiss Army Man (2016)<title>
 <link>http://bulkyiptv.com:5750/movie/charlie12345/charlie12345/19439.mp4<link>
 <thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMTk0OTEyMjM1OF5BMl5BanBnXkFtZTgwMzMzODM4ODE@._V1_SY500_CR0,0,337,500_AL_.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR yellow]TAKE DOWN (2016)[/COLOR]<title>
+<link>http://bulkyiptv.com:5750/movie/charlie12345/charlie12345/22248.mp4<link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BNzUxZTQzOWQtYzkxMi00ZTAzLTk1NTAtMTdhN2NkNDk4MjE4XkEyXkFqcGdeQXVyNDY2Mzc2Mzc@._V1_SY500_CR0,0,281,500_AL_.jpg</thumbnail>
 </item>
 
 <item>
