@@ -1,6 +1,6 @@
 <item>
 <title>BBC 1HD<title>
-<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/rani/rani/488.ts;streamtype=TSDOWNLOADER&;name=BBC1HD<link>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/paulb/paulb/14943.ts;streamtype=TSDOWNLOADER&;name=BBC1HD<link>
 <thumbnail>https://ichef.bbci.co.uk/images/ic/480x270/p03r0t9m.jpg</thumbnail>
 </item>
 
@@ -12,37 +12,31 @@
 
 <item>
 <title>BBC 1HD<title>
-<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/Charly/Charly/428.ts;streamtype=TSDOWNLOADER&;name=BBC1HD<link>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/paulb/paulb/14943.ts;streamtype=TSDOWNLOADER&;name=BBC1HD<link>
 <thumbnail>https://ichef.bbci.co.uk/images/ic/480x270/p03r0t9m.jpg</thumbnail>
 </item>
 
 <item>
 <title>BBC 2HD<title>
-<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/rani/rani/487.ts;streamtype=TSDOWNLOADER&;name=BBC2HD<link>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/paulb/paulb/14940.ts;streamtype=TSDOWNLOADER&;name=BBC2HD<link>
 <thumbnail>http://www.fishingmagic.com/thumbnail.php?file=BBC2logo400x300_275729547.jpg&size=article_medium</thumbnail>
 </item>
 
 <item>
 <title>BBC 2HD<title>
-<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/Charly/Charly/429.ts;streamtype=TSDOWNLOADER&;name=BBC2HD<link>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/paulb/paulb/14940.ts;streamtype=TSDOWNLOADER&;name=BBC2HD<link>
 <thumbnail>http://www.fishingmagic.com/thumbnail.php?file=BBC2logo400x300_275729547.jpg&size=article_medium</thumbnail>
 </item>
 
 <item>
 <title>BBC 2HD<title>
-<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/Charly/Charly/429.ts;streamtype=TSDOWNLOADER&;name=BBC2HD<link>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/paulb/paulb/14940.ts;streamtype=TSDOWNLOADER&;name=BBC2HD<link>
 <thumbnail>http://www.fishingmagic.com/thumbnail.php?file=BBC2logo400x300_275729547.jpg&size=article_medium</thumbnail>
-</item>
-
-<item>
-<title>BBC Parliament<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/luke/luke/6938.ts;streamtype=TSDOWNLOADER&;name=BBCParliament<link>
-<thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/4/49/BBC_Parliament_Logo.svg/1280px-BBC_Parliament_Logo.svg.png</thumbnail>
 </item>
 
 <item>
 <title>ITV HD<title>
-<link>plugin://plugin.video.f4mTester/?url=http://hyper.de1-eu.com:8000/live/djking/djking/20619.ts;streamtype=TSDOWNLOADER&;name=ITVHD<link>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/paulb/paulb/14952.ts;streamtype=TSDOWNLOADER&;name=ITVHD<link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/ITV_logo_2013.svg/2000px-ITV_logo_2013.svg.png</thumbnail>
 </item>
 
@@ -60,7 +54,7 @@
 
 <item>
 <title>ITV HD<title>
-<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/Charly/Charly/448.ts;streamtype=TSDOWNLOADER&;name=ITV1HD<link>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/paulb/paulb/14952.ts;streamtype=TSDOWNLOADER&;name=ITV1HD<link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/ITV_logo_2013.svg/2000px-ITV_logo_2013.svg.png</thumbnail>
 </item>
 
@@ -102,7 +96,7 @@
 
 <item>
 <title>ITV 2HD<title>
-<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/Charly/Charly/449.ts;streamtype=TSDOWNLOADER&;name=ITV2HD<link>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/paulb/paulb/14947.ts;streamtype=TSDOWNLOADER&;name=ITV2HD<link>
 <thumbnail>http://presscentre.itvstatic.com/presscentre/sites/presscentre/files/styles/pi_large/public/itv2-logo-hr.jpg?itok=DXQjCDbC"</thumbnail>
 </item>
 
@@ -114,91 +108,91 @@
 
 <item>
 <title>ITV 3HD<title>
-<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/Charly/Charly/450.ts;streamtype=TSDOWNLOADER&;name=ITV3HD<link>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/paulb/paulb/17679.ts;streamtype=TSDOWNLOADER&;name=ITV3HD<link>
 <thumbnail>http://vignette3.wikia.nocookie.net/dreamlogos/images/0/04/Itv_3.png/revision/latest?cb=20140108230235</thumbnail>
 </item>
 
 <item>
 <title>ITV 3HD<title>
-<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/Charly/Charly/450.ts;streamtype=TSDOWNLOADER&;name=ITV3HD<link>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/paulb/paulb/17679.ts;streamtype=TSDOWNLOADER&;name=ITV3HD<link>
 <thumbnail>http://vignette3.wikia.nocookie.net/dreamlogos/images/0/04/Itv_3.png/revision/latest?cb=20140108230235</thumbnail>
 </item>
 
 <item>
 <title>ITV 4<title>
-<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/Charly/Charly/2084.ts;streamtype=TSDOWNLOADER&;name=ITV4<link>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/paulb/paulb/14950.ts;streamtype=TSDOWNLOADER&;name=ITV4<link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/ITV4.svg/1024px-ITV4.svg.png</thumbnail>
 </item>
 
 <item>
 <title>ITV 4<title>
-<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/Charly/Charly/2084.ts;streamtype=TSDOWNLOADER&;name=ITV4<link>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/paulb/paulb/14950.ts;streamtype=TSDOWNLOADER&;name=ITV4<link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/ITV4.svg/1024px-ITV4.svg.png</thumbnail>
 </item>
 
 <item>
 <title>ITV ENCORE<title>
-<link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/Julian/Julian/10155.ts;streamtype=TSDOWNLOADER&;name=ITVENCORE<link>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/paulb/paulb/17572.ts;streamtype=TSDOWNLOADER&;name=ITVENCORE<link>
 <thumbnail>http://www.actonthis.tv/wp-content/uploads/2014/11/More-great-drama-for-ITV-Encore.jpg</thumbnail>
 </item>
 
 <item>
 <title>ITV ENCORE<title>
-<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/Charly/Charly/2341.ts;streamtype=TSDOWNLOADER&;name=ITVENCORE<link>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/paulb/paulb/17572.ts;streamtype=TSDOWNLOADER&;name=ITVENCORE<link>
 <thumbnail>http://www.actonthis.tv/wp-content/uploads/2014/11/More-great-drama-for-ITV-Encore.jpg</thumbnail>
 </item>
 
 <item>
 <title>ITV BE<title>
-<link>plugin://plugin.video.f4mTester/?url=http://hyper.de1-eu.com:8000/live/djking/djking/20381.ts;streamtype=TSDOWNLOADER&;name=ITVBE<link>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/paulb/paulb/13470.ts;streamtype=TSDOWNLOADER&;name=ITVBE<link>
 <thumbnail>http://cdn.itv.com/uploads/editor/fueVEODDx1AknYpGeZDK0h4C8N_Nu8IAs0T6KSZkTnM.jpg</thumbnail>
 </item>
 
 <item>
 <title>ITV BE HD<title>
-<link>plugin://plugin.video.f4mTester/?url=http://hyper.de1-eu.com:8000/live/djking/djking/20381.ts;streamtype=TSDOWNLOADER&;name=ITVBEHD<link>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/paulb/paulb/13470.ts;streamtype=TSDOWNLOADER&;name=ITVBEHD<link>
 <thumbnail>http://cdn.itv.com/uploads/editor/fueVEODDx1AknYpGeZDK0h4C8N_Nu8IAs0T6KSZkTnM.jpg</thumbnail>
 </item>
 
 <item>
 <title>CHANNEL 4<title>
-<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/Charly/Charly/2141.ts;streamtype=TSDOWNLOADER&;name=CHANNEL4<link>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/paulb/paulb/17031.ts;streamtype=TSDOWNLOADER&;name=CHANNEL4<link>
 <thumbnail>http://static.bips.channel4.com/static/bips/global/socialmedia/network-logo-1200x630.jpg</thumbnail>
 </item>
 
 <item>
 <title>CHANNEL 4 HD<title>
-<link>plugin://plugin.video.f4mTester/?url=http://hyper.de1-eu.com:8000/live/djking/djking/20477.ts;streamtype=TSDOWNLOADER&;name=CHANNEL4HD<link>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/paulb/paulb/17031.ts;streamtype=TSDOWNLOADER&;name=CHANNEL4HD<link>
 <thumbnail>http://static.bips.channel4.com/static/bips/global/socialmedia/network-logo-1200x630.jpg</thumbnail>
 </item>
 
 <item>
 <title>FIVE<title>
-<link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/Julian/Julian/10187.ts;streamtype=TSDOWNLOADER&;name=FIVE<link>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/paulb/paulb/14387.ts;streamtype=TSDOWNLOADER&;name=FIVE<link>
 <thumbnail>https://s3-eu-central-1.amazonaws.com/centaur-wp/creativereview/prod/content/uploads/2016/02/FiveLogo10.png</thumbnail>
 </item>
 
 <item>
 <title>FIVE HD<title>
-<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/rani/rani/473.ts;streamtype=TSDOWNLOADER&;name=FIVEHD<link>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/paulb/paulb/14387.ts;streamtype=TSDOWNLOADER&;name=FIVEHD<link>
 <thumbnail>https://s3-eu-central-1.amazonaws.com/centaur-wp/creativereview/prod/content/uploads/2016/02/FiveLogo10.png</thumbnail>
 </item>
 
 <item>
 <title>FIVE HD<title>
-<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/Charly/Charly/23.ts;streamtype=TSDOWNLOADER&;name=FIVEHD<link>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/paulb/paulb/14387.ts;streamtype=TSDOWNLOADER&;name=FIVEHD<link>
 <thumbnail>https://s3-eu-central-1.amazonaws.com/centaur-wp/creativereview/prod/content/uploads/2016/02/FiveLogo10.png</thumbnail>
 </item>
 
 <item>
 <title>FIVE USA<title>
-<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/Charly/Charly/1146.ts;streamtype=TSDOWNLOADER&;name=FIVEUSA<link>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/paulb/paulb/14378.ts;streamtype=TSDOWNLOADER&;name=FIVEUSA<link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Channel_5_USA.svg/2000px-Channel_5_USA.svg.png</thumbnail>
 </item>
 
 <item>
 <title>FIVE USA<title>
-<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/Charly/Charly/1146.ts;streamtype=TSDOWNLOADER&;name=FIVEUSA<link>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/paulb/paulb/14378.ts;streamtype=TSDOWNLOADER&;name=FIVEUSA<link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Channel_5_USA.svg/2000px-Channel_5_USA.svg.png</thumbnail>
 </item>
 
@@ -210,13 +204,13 @@
 
 <item>
 <title>Gold<title>
-<link>plugin://plugin.video.f4mTester/?url=http://hyper.de1-eu.com:8000/live/djking/djking/20625.ts;streamtype=TSDOWNLOADER&;name=Gold<link>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/paulb/paulb/14371.ts;streamtype=TSDOWNLOADER&;name=Gold<link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/c/c8/Gold_2014.svg/1280px-Gold_2014.svg.png</thumbnail>
 </item>
 
 <item>
 <title>Gold<title>
-<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/Charly/Charly/447.ts;streamtype=TSDOWNLOADER&;name=Gold<link>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/paulb/paulb/14371.ts;streamtype=TSDOWNLOADER&;name=Gold<link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/c/c8/Gold_2014.svg/1280px-Gold_2014.svg.png</thumbnail>
 </item>
 
