@@ -17,7 +17,7 @@
 </item>
 
 <item>
-<title>NFL NETWORK 1<title>NBC LIVE SPORTS EXTRA 1 HD Match Time
+<title>NFL NETWORK<title>
 <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/paulb/paulb/19371.ts;streamtype=TSDOWNLOADER&;name=NFLNETWORK1<link>
 <thumbnail></thumbnail>
 </item>
@@ -90,13 +90,13 @@
 
 <item>
 <title>BT SPORT 1<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/luke/luke/7031.ts;streamtype=TSDOWNLOADER&;name=BTSPORT11080p<link>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/paulb/paulb/13532.ts;streamtype=TSDOWNLOADER&;name=BTSPORT11080p<link>
 <thumbnail>http://images.pitchero.com/nl/1423850524_original.jpg</thumbnail>
 </item>
 
 <item>
 <title>BT SPORT 1<title>
-<link>plugin://plugin.video.f4mTester/?url=http://s1.finoip.com:20000/live/AntonioS/AntonioS/3554.ts;streamtype=TSDOWNLOADER&;name=BTSPORT1<link>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/paulb/paulb/13532.ts;streamtype=TSDOWNLOADER&;name=BTSPORT1<link>
 <thumbnail>http://images.pitchero.com/nl/1423850524_original.jpg</thumbnail>
 </item>
 
@@ -114,7 +114,7 @@
 
 <item>
 <title>BT SPORT 2<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/luke/luke/7030.ts;streamtype=TSDOWNLOADER&;name=BTSPORTS2<link>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/paulb/paulb/13510.ts;streamtype=TSDOWNLOADER&;name=BTSPORTS2<link>
 <thumbnail>http://www.indosports.tv/images/bt-sport-2.png</thumbnail>
 </item>
 
@@ -126,19 +126,19 @@
 
 <item>
 <title>BT SPORTS 2 HD<title>
-<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/paulb/paulb/15352.ts;streamtype=TSDOWNLOADER&;name=BTSPORTS2HD<link>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/paulb/paulb/13510.ts;streamtype=TSDOWNLOADER&;name=BTSPORTS2HD<link>
 <thumbnail>http://www.indosports.tv/images/bt-sport-2.png</thumbnail>
 </item>
 
 <item>
 <title>BT SPORTS 2 HD<title>
-<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/paulb/paulb/15352.ts;streamtype=TSDOWNLOADER&;name=BTSPORTS2HD<link>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/paulb/paulb/13510.ts;streamtype=TSDOWNLOADER&;name=BTSPORTS2HD<link>
 <thumbnail>http://www.indosports.tv/images/bt-sport-2.png</thumbnail>
 </item>
 
 <item>
 <title>BT SPORTS 3<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/luke/luke/6965.ts;streamtype=TSDOWNLOADER&;name=BTSPORTS3<link>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/paulb/paulb/13542.ts;streamtype=TSDOWNLOADER&;name=BTSPORTS3<link>
 <thumbnail>http://sport.bt.com/s/assets/ucl/images/btsport3.png</thumbnail>
 </item>
 
@@ -150,7 +150,7 @@
 
 <item>
 <title>BT SPORT 3 HD<title>
-<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/paulb/paulb/16990.ts;streamtype=TSDOWNLOADER&;name=BTSPORT3HD<link>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/paulb/paulb/19929.ts;streamtype=TSDOWNLOADER&;name=BTSPORT3HD<link>
 <thumbnail>http://sport.bt.com/s/assets/ucl/images/btsport3.png</thumbnail>
 </item>
 
@@ -168,7 +168,7 @@
 
 <item>
 <title>ESPN 2<title>
-<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/paulb/paulb/19949.ts;streamtype=TSDOWNLOADER&;name=ESPN2<link>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/paulb/paulb/20207.ts;streamtype=TSDOWNLOADER&;name=ESPN2<link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/en/e/e4/BT_Sport_ESPN_logo.png</thumbnail>
 </item>
 
