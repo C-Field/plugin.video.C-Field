@@ -228,19 +228,19 @@
 
 <item>
 <title>FILM 4<title>
-<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/Charly/Charly/445.ts;streamtype=TSDOWNLOADER&;name=FILM4<link>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/paulb/paulb/13475.ts;streamtype=TSDOWNLOADER&;name=FILM4<link>
 <thumbnail>http://filmdoctor.co.uk/wp-content/uploads/2013/07/film4-logo.jpg</thumbnail>
 </item>
 
 <item>
 <title>DAVE<title>
-<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/Charly/Charly/437.ts;streamtype=TSDOWNLOADER&;name=DAVE<link>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/paulb/paulb/14381.ts;streamtype=TSDOWNLOADER&;name=DAVE<link>
 <thumbnail>http://davemclean.com/2016/wp-content/uploads/2016/01/Dave.png</thumbnail>
 </item>
 
 <item>
 <title>DAVE<title>
-<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/Charly/Charly/437.ts;streamtype=TSDOWNLOADER&;name=DAVE<link>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/paulb/paulb/14381.ts;streamtype=TSDOWNLOADER&;name=DAVE<link>
 <thumbnail>http://davemclean.com/2016/wp-content/uploads/2016/01/Dave.png</thumbnail>
 </item>
 
@@ -252,13 +252,13 @@
 
 <item>
 <title>3e<title>
-<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/Charly/Charly/2344.ts;streamtype=TSDOWNLOADER&;name=3e<link>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/paulb/paulb/15530.ts;streamtype=TSDOWNLOADER&;name=3e<link>
 <thumbnail>http://vignette2.wikia.nocookie.net/logopedia/images/1/1e/3e_logo.png/revision/latest?cb=20100402171646</thumbnail>
 </item>
 
 <item>
 <title>MORE 4<title>
-<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/Charly/Charly/437.ts;streamtype=TSDOWNLOADER&;name=MORE4<link>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/paulb/paulb/14404.ts;streamtype=TSDOWNLOADER&;name=MORE4<link>
 <thumbnail>https://pbs.twimg.com/profile_images/1817366974/160px-More4_logo.svg_400x400.png</thumbnail>
 </item>
 
@@ -294,7 +294,7 @@
 
 <item>
 <title>TCM<title>
-<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/rani/rani/459.ts;streamtype=TSDOWNLOADER&;name=TCM<link>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/paulb/paulb/13546.ts;streamtype=TSDOWNLOADER&;name=TCM<link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/TCM_logo.svg/2000px-TCM_logo.svg.png</thumbnail>
 </item>
 
@@ -319,13 +319,13 @@ item>
 
 <item>
 <title>SYFY<title>
-<link>plugin://plugin.video.f4mTester/?url=http://hyper.de1-eu.com:8000/live/djking/djking/20442.ts;streamtype=TSDOWNLOADER&;name=SYFY<link>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/paulb/paulb/21394.ts;streamtype=TSDOWNLOADER&;name=SYFY<link>
 <thumbnail>http://www.syfy.com/sites/syfy/themes/syfy/default.jpg</thumbnail>
 </item>
 
 <item>
 <title>USA SYFY<title>
-<link>plugin://plugin.video.f4mTester/?url=http://hyper.de1-eu.com:8000/live/djking/djking/23177.ts;streamtype=TSDOWNLOADER&;name=USASYFY<link>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/paulb/paulb/19954.ts;streamtype=TSDOWNLOADER&;name=USASYFY<link>
 <thumbnail>http://www.syfy.com/sites/syfy/themes/syfy/default.jpg</thumbnail>
 </item>
 
@@ -350,13 +350,13 @@ item>
 
 <item>
 <title>E4<title>
-<link>plugin://plugin.video.f4mTester/?url=http://hyper.de1-eu.com:8000/live/djking/djking/20460.ts;streamtype=TSDOWNLOADER&;name=E4<link>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/paulb/paulb/14419.ts;streamtype=TSDOWNLOADER&;name=E4<link>
 <thumbnail>http://static.bips.channel4.com/bips/300x225/e4/8c460e6a-404f-4b8a-b09b-8d069e00236d.jpg</thumbnail>
 </item>
 
 <item>
 <title>CHALLENGE<title>
-<link>plugin://plugin.video.f4mTester/?url=http://hyper.de1-eu.com:8000/live/djking/djking/20428.ts;streamtype=TSDOWNLOADER&;name=CHALLENGE<link>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/paulb/paulb/14497.ts;streamtype=TSDOWNLOADER&;name=CHALLENGE<link>
 <thumbnail>http://2.bp.blogspot.com/-wwuqxiBJZRw/Tm-U5JIHHtI/AAAAAAAACIQ/arFTLEm48_0/s1600/Challenge+logo+2011.png</thumbnail>
 </item>
 
@@ -431,43 +431,43 @@ item>
 
 <item>
 <title>TBS HD<title>
-<link>plugin://plugin.video.f4mTester/?url=http://hyper.de1-eu.com:8000/live/djking/djking/23176.ts;streamtype=TSDOWNLOADER&;name=TBSHD<link>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/paulb/paulb/23197.ts;streamtype=TSDOWNLOADER&;name=TBSHD<link>
 <thumbnail>http://i.cdn.turner.com/v5cache/TBS/images/logos/tbs_open_graph_icon.png</thumbnail>
 </item>
 
 <item>
 <title>SPIKE HD<title>
-<link>plugin://plugin.video.f4mTester/?url=http://hyper.de1-eu.com:8000/live/djking/djking/23178.ts;streamtype=TSDOWNLOADER&;name=SPIKEHD<link>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/paulb/paulb/14376.ts;streamtype=TSDOWNLOADER&;name=SPIKEHD<link>
 <thumbnail>http://www.underconsideration.com/brandnew/archives/spike_tv_2015_logo_detail.png</thumbnail>
 </item>
 
 <item>
 <title>SHOWTIME HD<title>
-<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/rani/rani/1439.ts;streamtype=TSDOWNLOADER&;name=SHOWTIMEHD<link>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/paulb/paulb/23240.ts;streamtype=TSDOWNLOADER&;name=SHOWTIMEHD<link>
 <thumbnail>http://logodatabases.com/wp-content/uploads/2012/05/showtime-logo.jpg</thumbnail>
 </item>
 
 <item>
 <title>HALLMARK HD<title>
-<link>plugin://plugin.video.f4mTester/?url=http://hyper.de1-eu.com:8000/live/djking/djking/23191.ts;streamtype=TSDOWNLOADER&;name=HALLMARKHD<link>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/paulb/paulb/23226.ts;streamtype=TSDOWNLOADER&;name=HALLMARKHD<link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Hallmark_logo.svg/2000px-Hallmark_logo.svg.png</thumbnail>
 </item>
 
 <item>
 <title>FREE FORM HD<title>
-<link>plugin://plugin.video.f4mTester/?url=http://hyper.de1-eu.com:8000/live/djking/djking/23077.ts;streamtype=TSDOWNLOADER&;name=FREEFORMHD<link>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/paulb/paulb/23258.ts;streamtype=TSDOWNLOADER&;name=FREEFORMHD<link>
 <thumbnail>http://cdn.abclocal.go.com/content/wls/images/cms/automation/images/1156076_1280x720.jpg</thumbnail>
 </item>
 
 <item>
 <title>DIY NETWORK HD<title>
-<link>plugin://plugin.video.f4mTester/?url=http://hyper.de1-eu.com:8000/live/djking/djking/23165.ts;streamtype=TSDOWNLOADER&;name=DIYNETWORKHD<link>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/paulb/paulb/23262.ts;streamtype=TSDOWNLOADER&;name=DIYNETWORKHD<link>
 <thumbnail>http://tvseriesfinale.com/wp-content/uploads/2015/12/DIY-network.jpg"</thumbnail>
 </item>
 
 <item>
 <title>CBS HD<title>
-<link>plugin://plugin.video.f4mTester/?url=http://hyper.de1-eu.com:8000/live/djking/djking/23150.ts;streamtype=TSDOWNLOADER&;name=CBSHD<link>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/paulb/paulb/19940.ts;streamtype=TSDOWNLOADER&;name=CBSHD<link>
 <thumbnail>http://i.forbesimg.com/media/lists/companies/cbs_416x416.jpg</thumbnail>
 </item>
 
