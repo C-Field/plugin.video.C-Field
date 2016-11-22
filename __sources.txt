@@ -42,7 +42,7 @@
 
 <item>
 <title>ITV HD<title>
-<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/paulb/paulb/13468.ts;streamtype=TSDOWNLOADER&;name=ITVHD<link>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/paulb/paulb/14952.ts;streamtype=TSDOWNLOADER&;name=ITVHD<link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/ITV_logo_2013.svg/2000px-ITV_logo_2013.svg.png</thumbnail>
 </item>
 
