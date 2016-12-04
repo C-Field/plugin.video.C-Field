@@ -42,13 +42,13 @@
 
 <item>
 <title>ITV HD<title>
-<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/paulb/paulb/13468.ts;streamtype=TSDOWNLOADER&;name=ITVHD<link>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/charlie12345/charlie12345/14952.ts;streamtype=TSDOWNLOADER&;name=ITVHD<link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/ITV_logo_2013.svg/2000px-ITV_logo_2013.svg.png</thumbnail>
 </item>
 
 <item>
 <title>ITV<title>
-<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/paulb/paulb/13468.ts;streamtype=TSDOWNLOADER&;name=ITV<link>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/charlie12345/charlie12345/13468.ts;streamtype=TSDOWNLOADER&;name=ITV<link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/ITV_logo_2013.svg/2000px-ITV_logo_2013.svg.png</thumbnail>
 </item>
 
@@ -66,7 +66,7 @@
 
 <item>
 <title>ITV +1<title>
-<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/paulb/paulb/13578.ts;streamtype=TSDOWNLOADER&;name=ITV+1<link>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/charlie12345/charlie12345/13578.ts;streamtype=TSDOWNLOADER&;name=ITV+1<link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/ITV_%2B1.svg/2000px-ITV_%2B1.svg.png</thumbnail>
 </item>
 
@@ -97,6 +97,12 @@
 <item>
 <title>ITV 2HD<title>
 <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/paulb/paulb/14947.ts;streamtype=TSDOWNLOADER&;name=ITV2HD<link>
+<thumbnail>http://presscentre.itvstatic.com/presscentre/sites/presscentre/files/styles/pi_large/public/itv2-logo-hr.jpg?itok=DXQjCDbC"</thumbnail>
+</item>
+
+<item>
+<title>ITV 2HD +1<title>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/charlie12345/charlie12345/14650.ts;streamtype=TSDOWNLOADER&;name=ITV2HD+1<link>
 <thumbnail>http://presscentre.itvstatic.com/presscentre/sites/presscentre/files/styles/pi_large/public/itv2-logo-hr.jpg?itok=DXQjCDbC"</thumbnail>
 </item>
 
