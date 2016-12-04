@@ -84,7 +84,7 @@
 
 <channels>
 <channel>
-<name>SERVER</name>
+<name>24/7 Channels</name>
 <thumbnail>https://i.ytimg.com/vi/ZYqGcA3OqKQ/maxresdefault.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/stuartdrew/plugin.video.C-Field/master/__sources1.txt</externallink>
 <fanart></fanart>
