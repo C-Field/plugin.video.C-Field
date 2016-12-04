@@ -1,614 +1,74 @@
 <item>
-<title>Fox<title>
-<f4m>http://tv2iptv.com:8000/live/harry/Harry/698.ts<f4m>
-<f4m>http://globalstream.noip.us:8000/live/redsea/redsea/1461.ts<f4m>
+<title>24/7 Tom And Jerry<title>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/charlie12345/charlie12345/23152.ts;streamtype=TSDOWNLOADER&;name=24/7TomAndJerry<link>
 <thumbnail></thumbnail>
 </item>
 
 <item>
-<title>3E<title>
-<link>plugin://plugin.video.f4mTester/?url=http://globalstream.noip.us:8000/live/redsea/redsea/714.ts;streamtype=TSDOWNLOADER&;name=3E<link>
+<title>24/7 Simpsons<title>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/charlie12345/charlie12345/23153.ts;streamtype=TSDOWNLOADER&;name=24/7Simpsons<link>
 <thumbnail></thumbnail>
 </item>
 
 <item>
-<title>MTV HITS<title>
-<link>plugin://plugin.video.f4mTester/?url=http://globalstream.noip.us:8000/live/redsea/redsea/1461.ts;streamtype=TSDOWNLOADER&;name=MTVHITS<link>
+<title>24/7 Shaun The Sheep<title>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/charlie12345/charlie12345/23154.ts;streamtype=TSDOWNLOADER&;name=BBC1<link>
 <thumbnail></thumbnail>
 </item>
 
 <item>
-<title>BBC One<title>
-<link>plugin://plugin.video.f4mTester/?url=http://s1.finoip.com:20000/live/mio/mio/3633.ts;streamtype=TSDOWNLOADER&;name=BBC1<link>
+<title>24/7 Peppa Pig<title>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/charlie12345/charlie12345/23155.ts;streamtype=TSDOWNLOADER&;name=24/7PeppaPig<link>
 <thumbnail></thumbnail>
 </item>
 
 <item>
-<title>BBC Two<title>
-<link>plugin://plugin.video.f4mTester/?url=http://s1.finoip.com:20000/live/mio/mio/3635.ts;streamtype=TSDOWNLOADER&;name=BBC2<link>
+<title>24/7 Paw Patrol<title>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/charlie12345/charlie12345/23156.ts;streamtype=TSDOWNLOADER&;name=24/7PawPatrol<link>
 <thumbnail></thumbnail>
 </item>
 
 <item>
-<title>ABC NEWS<title>
-<link>plugin://plugin.video.f4mTester/?url=http://tv2iptv.com:8000/live/harry/Harry/3394.ts;streamtype=TSDOWNLOADER&;name=ABCNEWS<link>
+<title>24/7 The Three Stooges<title>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/charlie12345/charlie12345/23149.ts;streamtype=TSDOWNLOADER&;name=24/7TheThreeStooges<link>
 <thumbnail></thumbnail>
 </item>
 
 <item>
-<title>A&E HD<title>
-<link>plugin://plugin.video.f4mTester/?url=http://tv2iptv.com:8000/live/harry/Harry/3378.ts;streamtype=TSDOWNLOADER&;name=A&EHD<link>
+<title>24/7 Rick & Morty<title>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/charlie12345/charlie12345/23150.ts;streamtype=TSDOWNLOADER&;name=24/7Rick&Morty<link>
 <thumbnail></thumbnail>
 </item>
 
 <item>
-<title>CNBC<title>
-<link>plugin://plugin.video.f4mTester/?url=http://tv2iptv.com:8000/live/redsea/redsea/1376.ts;streamtype=TSDOWNLOADER&;name=CNBC<link>
+<title>24/7 Criminal Minds<title>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/charlie12345/charlie12345/23157.ts;streamtype=TSDOWNLOADER&;name=24/7CriminalMinds<link>
 <thumbnail></thumbnail>
 </item>
 
 <item>
-<title>Fox<title>
-<link>plugin://plugin.video.f4mTester/?url=http://tv2iptv.com:8000/live/harry/Harry/698.ts;streamtype=TSDOWNLOADER&;name=FOX<link>
+<title>24/7 American Dad<title>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/charlie12345/charlie12345/23148.ts;streamtype=TSDOWNLOADER&;name=24/7AmericanDad<link>
 <thumbnail></thumbnail>
 </item>
 
 <item>
-<title>AMC HD (US)<title>
-<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/Charly/Charly/2733.ts;streamtype=TSDOWNLOADER&;name=<link>
+<title>24/7 Futurama<title>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/charlie12345/charlie12345/23146.ts;streamtype=TSDOWNLOADER&;name=24/7Futurama<link>
 <thumbnail></thumbnail>
 </item>
 
 <item>
-<title>BBC One HD<title>
-<link>plugin://plugin.video.f4mTester/?url=http://s1.finoip.com:20000/live/mio/mio/3633.ts;streamtype=TSDOWNLOADER&;name=BBC1HD<link>
+<title>24/7 Family Guy<title>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/charlie12345/charlie12345/23147.ts;streamtype=TSDOWNLOADER&;name=24/7FamilyGuy<link>
 <thumbnail></thumbnail>
 </item>
 
 <item>
-<title>BBC One<title>
-<link>plugin://plugin.video.f4mTester/?url=http://tv2iptv.com:8000/live/harry/Harry/1531.ts;streamtype=TSDOWNLOADER&;name=BBC1<link>
+<title>Insanity Workout Channel<title>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/charlie12345/charlie12345/23151.ts;streamtype=TSDOWNLOADER&;name=InsanityWorkoutChannel<link>
 <thumbnail></thumbnail>
 </item>
 
-<item>
-<title>BBC 2HD<title>
-<link>plugin://plugin.video.f4mTester/?url=http://s1.finoip.com:20000/live/mio/mio/3635.ts;streamtype=TSDOWNLOADER&;name=BBC2<link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>BBC Two<title>
-<link>plugin://plugin.video.f4mTester/?url=http://tv2iptv.com:8000/live/redsea/redsea/4130.ts;streamtype=TSDOWNLOADER&;name=BBC2<link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>Channel 4<title>
-<link>plugin://plugin.video.f4mTester/?url=http://tv2iptv.com:8000/live/redsea/redsea/707.ts;streamtype=TSDOWNLOADER&;name=CHANNEL4<link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>Channel 4 HD<title>
-<link>plugin://plugin.video.f4mTester/?url=http://s1.finoip.com:20000/live/mio/mio/3566.ts;streamtype=TSDOWNLOADER&;name=CHANNEL 4<link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>CHANNEL 5 HD<title>
-<link>plugin://plugin.video.f4mTester/?url=http://s1.finoip.com:20000/live/mio/mio/3567.ts;streamtype=TSDOWNLOADER&;name=Channel5<link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>5 USA<title>
-<link>plugin://plugin.video.f4mTester/?url=http://s1.finoip.com:20000/live/mio/mio/3544.ts;streamtype=TSDOWNLOADER&;name=5USA<link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>ITV1 HD<title>
-<link>plugin://plugin.video.f4mTester/?url=http://s1.finoip.com:20000/live/mio/mio/3599.ts;streamtype=TSDOWNLOADER&;name=ITVHD<link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>ITV1<title>
-<link>plugin://plugin.video.f4mTester/?url=http://tv2iptv.com:8000/live/redsea/redsea/721.ts;streamtype=TSDOWNLOADER&;name=ITV1<link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>ITV ENCORE<title>
-<link>plugin://plugin.video.f4mTester/?url=http://s1.finoip.com:20000/live/mio/mio/3601.ts;streamtype=TSDOWNLOADER&;name=ITVENCORE<link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>ITV BE HD<title>
-<link>plugin://plugin.video.f4mTester/?url=http://s1.finoip.com:20000/live/mio/mio/3600.ts;streamtype=TSDOWNLOADER&;name=ITVBE<link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>ITV4<title>
-<link>plugin://plugin.video.f4mTester/?url=http://s1.finoip.com:20000/live/mio/mio/3605.ts;streamtype=TSDOWNLOADER&;name=<link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>ITV3<title>
-<link>plugin://plugin.video.f4mTester/?url=http://s1.finoip.com:20000/live/mio/mio/3604.ts;streamtype=TSDOWNLOADER&;name=<link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>ITV2 HD<title>
-<link>plugin://plugin.video.f4mTester/?url=http://tv2iptv.com:8000/live/redsea/redsea/3603.ts;streamtype=TSDOWNLOADER&;name=ITV2HD<link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>ITV2<title>
-<link>plugin://plugin.video.f4mTester/?url=http://tv2iptv.com:8000/live/redsea/redsea/723.ts;streamtype=TSDOWNLOADER&;name=ITV2<link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>CBS Reality<title>
-<link>plugin://plugin.video.f4mTester/?url=http://s1.finoip.com:20000/live/mio/mio/3564.ts;streamtype=TSDOWNLOADER&;name=CBSREALITY<link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>CBS Drama<title>
-<link>plugin://plugin.video.f4mTester/?url=http://s1.finoip.com:20000/live/mio/mio/3563.ts;streamtype=TSDOWNLOADER&;name=CBSDRAMA<link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>CBS Action<title>
-<link>plugin://plugin.video.f4mTester/?url=http://s1.finoip.com:20000/live/mio/mio/3562.ts;streamtype=TSDOWNLOADER&;name=CBSACTION<link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>Cartoon Network HD<title>
-<link>plugin://plugin.video.f4mTester/?url=http://s1.finoip.com:20000/live/mio/mio/3559.ts;streamtype=TSDOWNLOADER&;name=CARTOONNETWORK<link>
-<thumbnail>CARTOONNETWORKHD</thumbnail>
-</item>
-
-<item>
-<title>baby tv<title>
-<link>plugin://plugin.video.f4mTester/?url=http://s1.finoip.com:20000/live/mio/mio/3632.ts;streamtype=TSDOWNLOADER&;name=BABYTV<link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>Disney XD<title>
-<link>plugin://plugin.video.f4mTester/?url=http://s1.finoip.com:20000/live/mio/mio/3580.ts;streamtype=TSDOWNLOADER&;name=DISNEYHD<link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>Disney Junior<title>
-<link>plugin://plugin.video.f4mTester/?url=http://tv2iptv.com:8000/live/redsea/redsea/4114.ts;streamtype=TSDOWNLOADER&;name=DISNEYJUNIOUR<link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>Disney Channel<title>
-<link>plugin://plugin.video.f4mTester/?url=http://s1.finoip.com:20000/live/mio/mio/3578.ts;streamtype=TSDOWNLOADER&;name=<link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>nick junior<title>
-<link>plugin://plugin.video.f4mTester/?url=http://s1.finoip.com:20000/live/mio/mio/3622.ts;streamtype=TSDOWNLOADER&;name=DISNEYJUNIOR<link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>Sky Living<title>
-<link>plugin://plugin.video.f4mTester/?url=http://s1.finoip.com:20000/live/mio/mio/3637.ts;streamtype=TSDOWNLOADER&;name=SKYLIVING<link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>Food Network<title>
-<link>plugin://plugin.video.f4mTester/?url=http://tv2iptv.com:8000/live/harry/Harry/1216.ts;streamtype=TSDOWNLOADER&;name=FOODNETWORK<link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>Sy-Fy HD<title>
-<link>plugin://plugin.video.f4mTester/?url=http://s1.finoip.com:20000/live/mio/mio/3666.ts;streamtype=TSDOWNLOADER&;name=SY-FY<link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>TLC<title>
-<link>plugin://plugin.video.f4mTester/?url=http://s1.finoip.com:20000/live/mio/mio/3669.ts;streamtype=TSDOWNLOADER&;name=TLC<link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>Sky Atlantic<title>
-<link>plugin://plugin.video.f4mTester/?url=http://s1.finoip.com:20000/live/mio/mio/3639.ts;streamtype=TSDOWNLOADER&;name=SKYALANTIC<link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>Sky One<title>
-<link>plugin://plugin.video.f4mTester/?url=http://s1.finoip.com:20000/live/mio/mio/3651.ts;streamtype=TSDOWNLOADER&;name=SKYONE<link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>Sky Two<title>
-<link>plugin://plugin.video.f4mTester/?url=http://s1.finoip.com:20000/live/mio/mio/3665.ts;streamtype=TSDOWNLOADER&;name=SKYTWO<link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>Sky Living<title>
-<link>plugin://plugin.video.f4mTester/?url=http://s1.finoip.com:20000/live/mio/mio/3637.ts;streamtype=TSDOWNLOADER&;name=SKYLIVING<link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>Sky Arts<title>
-<link>plugin://plugin.video.f4mTester/?url=http://s1.finoip.com:20000/live/mio/mio/3631.ts;streamtype=TSDOWNLOADER&;name=SKYARTS<link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>Sky News<title>
-<link>plugin://plugin.video.f4mTester/?url=http://s1.finoip.com:20000/live/mio/mio/3650.ts;streamtype=TSDOWNLOADER&;name=SKYNEWS<link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>Comedy CENTRAL<title>
-<link>plugin://plugin.video.f4mTester/?url=http://s1.finoip.com:20000/live/mio/mio/3570.ts;streamtype=TSDOWNLOADER&;name=COMEDYCENTRAL<link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>CHALLENGE<title>
-<link>plugin://plugin.video.f4mTester/?url=http://tv2iptv.com:8000/live/redsea/redsea/1331.ts;streamtype=TSDOWNLOADER&;name=CHALLENGE<link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>More4<title>
-<link>plugin://plugin.video.f4mTester/?url=http://s1.finoip.com:20000/live/mio/mio/3608.ts;streamtype=TSDOWNLOADER&;name=MORE4<link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>Good Food<title>
-<link>plugin://plugin.video.f4mTester/?url=http://s1.finoip.com:20000/live/mio/mio/3590.ts;streamtype=TSDOWNLOADER&;name=GOODFOOD<link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>Gold<title>
-<link>plugin://plugin.video.f4mTester/?url=http://s1.finoip.com:20000/live/mio/mio/3589.ts;streamtype=TSDOWNLOADER&;name=GOLD<link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>FOXNews<title>
-<link>plugin://plugin.video.f4mTester/?url=http://tv2iptv.com:8000/live/harry/Harry/681.ts;streamtype=TSDOWNLOADER&;name=FOXNEWS<link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>FOX<title>
-<link>plugin://plugin.video.f4mTester/?url=http://tv2iptv.com:8000/live/harry/Harry/698.ts;streamtype=TSDOWNLOADER&;name=FOX<link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>Film4<title>
-<link>plugin://plugin.video.f4mTester/?url=http://tv2iptv.com:8000/live/harry/Harry/1217.ts;streamtype=TSDOWNLOADER&;name=FILM4<link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>E4<title>
-<link>plugin://plugin.video.f4mTester/?url=http://s1.finoip.com:20000/live/mio/mio/3583.ts;streamtype=TSDOWNLOADER&;name=E4<link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>E!<title>
-<link>plugin://plugin.video.f4mTester/?url=http://s1.finoip.com:20000/live/mio/mio/3582.ts;streamtype=TSDOWNLOADER&;name=E<link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>Boomerang<title>
-<link>plugin://plugin.video.f4mTester/?url=http://s1.finoip.com:20000/live/mio/mio/3685.ts;streamtype=TSDOWNLOADER&;name=BOOMERANG<link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>Dave<title>
-<link>plugin://plugin.video.f4mTester/?url=http://s1.finoip.com:20000/live/mio/mio/3572.ts;streamtype=TSDOWNLOADER&;name=DAVE<link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>3e<title>
-<link>plugin://plugin.video.f4mTester/?url=http://s1.finoip.com:20000/live/mio/mio/3542.ts;streamtype=TSDOWNLOADER&;name=3E<link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>Heart TV UK<title>
-<link>plugin://plugin.video.f4mTester/?url=http://s1.finoip.com:20000/live/mio/mio/3687.ts;streamtype=TSDOWNLOADER&;name=HEARTTV<link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>MTV Rocks HD<title>
-<link>plugin://plugin.video.f4mTester/?url=http://s1.finoip.com:20000/live/mio/mio/3618.ts;streamtype=TSDOWNLOADER&;name=MTVROCKS<link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>MTV Hits!<title>
-<link>plugin://plugin.video.f4mTester/?url=http://s1.finoip.com:20000/live/mio/mio/3615.ts;streamtype=TSDOWNLOADER&;name=MTVHITS<link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>MTV Base UK<title>
-<link>plugin://plugin.video.f4mTester/?url=http://s1.finoip.com:20000/live/mio/mio/3612.ts;streamtype=TSDOWNLOADER&;name=MTVBASE<link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>VH1 Classic<title>
-<link>plugin://plugin.video.f4mTester/?url=http://s1.finoip.com:20000/live/mio/mio/3688.ts;streamtype=TSDOWNLOADER&;name=VH1CLASSIC<link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>VH1<title>
-<link>plugin://plugin.video.f4mTester/?url=http://s1.finoip.com:20000/live/mio/mio/3677.ts;streamtype=TSDOWNLOADER&;name=VH1<link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>MTV MUSIC<title>
-<link>plugin://plugin.video.f4mTester/?url=http://s1.finoip.com:20000/live/mio/mio/3617.ts;streamtype=TSDOWNLOADER&;name=MTVMUSIC<link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>MTV LIVE<title>
-<link>plugin://plugin.video.f4mTester/?url=http://s1.finoip.com:20000/live/mio/mio/3617.ts;streamtype=TSDOWNLOADER&;name=MTVLIVE<link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>MTV Hits<title>
-<link>plugin://plugin.video.f4mTester/?url=http://s1.finoip.com:20000/live/mio/mio/3615.ts;streamtype=TSDOWNLOADER&;name=MTVHITS<link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>MTV DANCE<title>
-<link>plugin://plugin.video.f4mTester/?url=http://s1.finoip.com:20000/live/mio/mio/3614.ts;streamtype=TSDOWNLOADER&;name=MTVDANCE<link>
-<thumbnail></thumbnail>
-</item>
-
-<item
-<title>MTVClassic<title>
-<link>plugin://plugin.video.f4mTester/?url=http://s1.finoip.com:20000/live/mio/mio/3613.ts;streamtype=TSDOWNLOADER&;name=MTVC<link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>MTV Base<title>
-<link>plugin://plugin.video.f4mTester/?url=http://s1.finoip.com:20000/live/mio/mio/3612.ts;streamtype=TSDOWNLOADER&;name=MTVBASE<link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>Sky Cinema Crime & Thriller<title>
-<link>plugin://plugin.video.f4mTester/?url=http://s1.finoip.com:20000/live/mio/mio/3649.ts;streamtype=TSDOWNLOADER&;name=SKYTHRILLER<link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>Sky Cinema Select<title>
-<link>plugin://plugin.video.f4mTester/?url=http://s1.finoip.com:20000/live/mio/mio/3647.ts;streamtype=TSDOWNLOADER&;name=SKYSELECT<link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>Sky Cinema Sci-Fi & Horror<title>
-<link>plugin://plugin.video.f4mTester/?url=http://s1.finoip.com:20000/live/mio/mio/3646.ts;streamtype=TSDOWNLOADER&;name=SKYSCIFI<link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>Sky Cinema Premiere<title>
-<link>plugin://plugin.video.f4mTester/?url=http://s1.finoip.com:20000/live/mio/mio/3645.ts;streamtype=TSDOWNLOADER&;name=SKYPREM<link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>Sky Cinema Modern Greats<title>
-<link>plugin://plugin.video.f4mTester/?url=http://s1.finoip.com:20000/live/mio/mio/3644.ts;streamtype=TSDOWNLOADER&;name=SKYMODERNGREATS<link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>Sky Cinema SHOWCASE<title>
-<link>plugin://plugin.video.f4mTester/?url=http://s1.finoip.com:20000/live/mio/mio/3648.ts;streamtype=TSDOWNLOADER&;name=SKYSHOWCASE<link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>Sky Cinema Family<title>
-<link>plugin://plugin.video.f4mTester/?url=http://s1.finoip.com:20000/live/mio/mio/3643.ts;streamtype=TSDOWNLOADER&;name=SKYFAMILY<link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>Sky Cinema Drama & Romance<title>
-<link>plugin://plugin.video.f4mTester/?url=http://s1.finoip.com:20000/live/mio/mio/3642.ts;streamtype=TSDOWNLOADER&;name=SKYDRAMA<link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>Sky Cinema Disney<title>
-<link>plugin://plugin.video.f4mTester/?url=http://s1.finoip.com:20000/live/mio/mio/3641.ts;streamtype=TSDOWNLOADER&;name=SKYDISNEY<link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>Sky Cinema Comedy<title>
-<link>plugin://plugin.video.f4mTester/?url=http://s1.finoip.com:20000/live/mio/mio/3640.ts;streamtype=TSDOWNLOADER&;name=SKYCOMEDY<link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>Sky Cinema Action & Adventure<title>
-<link>plugin://plugin.video.f4mTester/?url=http://s1.finoip.com:20000/live/mio/mio/3638.ts;streamtype=TSDOWNLOADER&;name=SKYACTION<link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>Sky Sports News HQ<title>
-<link>plugin://plugin.video.f4mTester/?url=http://s1.finoip.com:20000/live/mio/mio/3664.ts;streamtype=TSDOWNLOADER&;name=SKYSPORTSNEWS<link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>BoxNation<title>
-<link>plugin://plugin.video.f4mTester/?url=http://s1.finoip.com:20000/live/mio/mio/3552.ts;streamtype=TSDOWNLOADER&;name=BOXNAION<link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>UK Motors<title>
-<link>plugin://plugin.video.f4mTester/?url=http://s1.finoip.com:20000/live/mio/mio/3609.ts;streamtype=TSDOWNLOADER&;name=UKMOTORS<link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>TravelChannelHD<title>
-<link>plugin://plugin.video.f4mTester/?url=http://s1.finoip.com:20000/live/mio/mio/3671.ts;streamtype=TSDOWNLOADER&;name=TRAVEL<link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>Watch<title>
-<link>plugin://plugin.video.f4mTester/?url=http://s1.finoip.com:20000/live/mio/mio/3680.ts;streamtype=TSDOWNLOADER&;name=WATCH<link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>True Movies2<title>
-<link>plugin://plugin.video.f4mTester/?url=http://s1.finoip.com:20000/live/mio/mio/3675.ts;streamtype=TSDOWNLOADER&;name=TRUEMOVIES2<link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>True Movies <title>
-<link>plugin://plugin.video.f4mTester/?url=http://s1.finoip.com:20000/live/mio/mio/3674.ts;streamtype=TSDOWNLOADER&;name=TRUEMOVIES<link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>Horror Channel<title>
-<link>plugin://plugin.video.f4mTester/?url=http://s1.finoip.com:20000/live/mio/mio/3596.ts;streamtype=TSDOWNLOADER&;name=HORRORCHANNEL<link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>Cartoon Network<title>
-<link>plugin://plugin.video.f4mTester/?url=http://s1.finoip.com:20000/live/mio/mio/3559.ts;streamtype=TSDOWNLOADER&;name=CARTOONNETWOK<link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>WWE HD<title>
-<link>plugin://plugin.video.f4mTester/?url=http://s1.finoip.com:20000/live/mio/mio/3681.ts;streamtype=TSDOWNLOADER&;name=WWE<link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>NickToons<title>
-<link>plugin://plugin.video.f4mTester/?url=http://s1.finoip.com:20000/live/mio/mio/3676.ts;streamtype=TSDOWNLOADER&;name=NICKTOONS<link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>Nick Jr<title>
-<link>plugin://plugin.video.f4mTester/?url=http://s1.finoip.com:20000/live/mio/mio/3622.ts;streamtype=TSDOWNLOADER&;name=NICKJR<link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>Nickelodeon<title>
-<link>plugin://plugin.video.f4mTester/?url=http://s1.finoip.com:20000/live/mio/mio/3623.ts;streamtype=TSDOWNLOADER&;name=NICKLODEON<link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>Real Lives<title>
-<link>plugin://plugin.video.f4mTester/?url=http://s1.finoip.com:20000/live/mio/mio/3653.ts;streamtype=TSDOWNLOADER&;name=SKYREALLIVES<link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>RTE ONE<title>
-<link>plugin://plugin.video.f4mTester/?url=http://s1.finoip.com:20000/live/mio/mio/3654.ts;streamtype=TSDOWNLOADER&;name=RTE1<link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>DMAX<title>
-<link>plugin://plugin.video.f4mTester/?url=http://s1.finoip.com:20000/live/mio/mio/3581.ts;streamtype=TSDOWNLOADER&;name=DMAX<link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>tbs<title>
-<link>plugin://plugin.video.f4mTester/?url=http://tv2iptv.com:8000/live/harry/Harry/3358.ts;streamtype=TSDOWNLOADER&;name=TBS<link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>SkyNewsHD<title>
-<link>plugin://plugin.video.f4mTester/?url=http://s1.finoip.com:20000/live/mio/mio/3650.ts;streamtype=TSDOWNLOADER&;name=SKYNEWS<link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>abc news<title>
-<link>plugin://plugin.video.f4mTester/?url=http://tv2iptv.com:8000/live/harry/Harry/3394.ts;streamtype=TSDOWNLOADER&;name=ABCNEWS<link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>DMAX<title>
-<link>plugin://plugin.video.f4mTester/?url=http://s1.finoip.com:20000/live/mio/mio/3581.ts;streamtype=TSDOWNLOADER&;name=DMAX<link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>ComedyCentral(HD)<title>
-<link>plugin://plugin.video.f4mTester/?url=http://s1.finoip.com:20000/live/mio/mio/3570.ts;streamtype=TSDOWNLOADER&;name=CC<link>
-<thumbnail></thumbnail>
-</item>
 
 
