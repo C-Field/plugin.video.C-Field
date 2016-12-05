@@ -47,8 +47,8 @@
 </item>
 
 <item>
-<title>Sky Movies Premiere HD<title>
-<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/paulb/paulb/13537.ts;streamtype=TSDOWNLOADER&;name=SkyPremiereHD<link>
+<title>Sky Movies Premiere +1<title>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/charlie12345/charlie12345/13529.ts;streamtype=TSDOWNLOADER&;name=SkyPremiere+1<link>
 <thumbnail>http://www.asset1.net/tv/pictures/channel/skymovies/Sky-Movies-Premiere-Logo-DI-1.jpg</thumbnail>
 </item>
 
@@ -150,7 +150,7 @@
 
 <item>
 <title>SKY MOVIES ACTION HD<title>
-<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/paulb/paulb/13549.ts;streamtype=TSDOWNLOADER&;name=SKYACTION<link>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/charlie12345/charlie12345/15539.ts;streamtype=TSDOWNLOADER&;name=SKYACTION<link>
 <thumbnail>http://www.premier-uktv.com/wp-content/uploads/2016/02/Sky-Movies-Action-Adventurev2.jpg</thumbnail>
 </item>
 
@@ -198,7 +198,7 @@
 
 <item>
 <title>SKY MOVIES COMEDY HD<title>
-<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/paulb/paulb/13545.ts;streamtype=TSDOWNLOADER&;name=SKYCOMEDY<link>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/charlie12345/charlie12345/15540.ts;streamtype=TSDOWNLOADER&;name=SKYCOMEDY<link>
 <thumbnail>http://www.sat-address.com/f/pics/logotipi/Sky-Movies-Comedy-HD-UK_o.jpg</thumbnail>
 </item>
 
