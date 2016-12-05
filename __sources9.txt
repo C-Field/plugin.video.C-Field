@@ -1,18 +1,18 @@
 <item>
-<title>MIO 1<title>
-<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/paulb/paulb/17158.ts;streamtype=TSDOWNLOADER&;name=MIO1<link>
+<title>ELEVEN PLUS<title>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/charlie12345/charlie12345/17157.ts;streamtype=TSDOWNLOADER&;name=ELEVENPLUS<link>
 <thumbnail></thumbnail>
 </item>
 
 <item>
-<title>NBCSN<title>
-<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/paulb/paulb/23230.ts;streamtype=TSDOWNLOADER&;name=NBCSN<link>
+<title>ELEVEN<title>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/charlie12345/charlie12345/18957.ts;streamtype=TSDOWNLOADER&;name=ELEVEN<link>
 <thumbnail></thumbnail>
 </item>
 
 <item>
-<title>NBCSN<title>
-<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/paulb/paulb/23230.ts;streamtype=TSDOWNLOADER&;name=NBCSN<link>
+<title>ELEVEN SPORTS<title>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/charlie12345/charlie12345/18926.ts;streamtype=TSDOWNLOADER&;name=ELEVENSPORTS<link>
 <thumbnail></thumbnail>
 </item>
 
