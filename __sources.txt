@@ -54,8 +54,14 @@
 
 <item>
 <title>ITV HD<title>
-<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/paulb/paulb/13468.ts;streamtype=TSDOWNLOADER&;name=ITV1HD<link>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/Gaston/Gaston/471.ts;streamtype=TSDOWNLOADER&;name=ITV1HD<link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/ITV_logo_2013.svg/2000px-ITV_logo_2013.svg.png</thumbnail>
+</item>
+
+<item>
+<title>STV<title>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/charlie12345/charlie12345/17678.ts;streamtype=TSDOWNLOADER&;name=STV<link>
+<thumbnail></thumbnail>
 </item>
 
 <item>
