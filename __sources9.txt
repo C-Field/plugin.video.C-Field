@@ -47,6 +47,12 @@
 </item>
 
 <item>
+<title>C MORE<title>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/charlie12345/charlie12345/20803.ts;streamtype=TSDOWNLOADER&;name=CMORE<link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
 <title>SKY NET SPORT HD<title>
 <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/paulb/paulb/21520.ts;streamtype=TSDOWNLOADER&;name=SKYNETSPORTHD<link>
 <thumbnail></thumbnail>
