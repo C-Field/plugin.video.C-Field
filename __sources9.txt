@@ -1,6 +1,48 @@
 <item>
-<title>ELEVEN PLUS<title>
-<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/charlie12345/charlie12345/17157.ts;streamtype=TSDOWNLOADER&;name=ELEVENPLUS<link>
+<title>TEN 1 SPORTS<title>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/charlie12345/charlie12345/17280.ts;streamtype=TSDOWNLOADER&;name=TEN1SPORTS<link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>Sportsnet Ontario<title>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/charlie12345/charlie12345/23181.ts;streamtype=TSDOWNLOADER&;name=SporetOntario<link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>TEN GOLF HD<title>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/charlie12345/charlie12345/17281.ts;streamtype=TSDOWNLOADER&;name=TENGOLFHD<link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>NEO SPORTS<title>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/charlie12345/charlie12345/21730.ts;streamtype=TSDOWNLOADER&;name=NEOSPORTS<link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>DE Sky Sport Bundesliga 1 HD<title>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/charlie12345/charlie12345/19282.ts;streamtype=TSDOWNLOADER&;name=DESkySportBundesliga1HD<link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>TEN 3 CRICKET<title>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/charlie12345/charlie12345/22443.ts;streamtype=TSDOWNLOADER&;name=TEN3CRICKET<link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>WILLOW HD<title>DE Sky Sport Bundesliga 1 HD
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/charlie12345/charlie12345/15236.ts;streamtype=TSDOWNLOADER&;name=WILLOWHD<link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>NBA TV HD<title>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/charlie12345/charlie12345/19935.ts;streamtype=TSDOWNLOADER&;name=NBATVHD<link>
 <thumbnail></thumbnail>
 </item>
 
