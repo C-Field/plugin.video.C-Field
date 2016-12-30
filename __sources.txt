@@ -18,7 +18,7 @@
 
 <item>
 <title>BBC 1<title>
-<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/maz/maz/13576.m3u8;streamtype=TSDOWNLOADER&;name=BBC1<link>
+<link>http://bulkyiptv.com:5750/live/maz/maz/13576.m3u8<link>
 <thumbnail>https://ichef.bbci.co.uk/images/ic/480x270/p03r0t9m.jpg</thumbnail>
 </item>
 
