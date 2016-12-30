@@ -143,9 +143,15 @@
 </item>
 
 <item>
-<title>ITV 2HD +1<title>
-<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/charlie12345/charlie12345/14650.ts;streamtype=TSDOWNLOADER&;name=ITV2HD+1<link>
+<title>ITV 2+1<title>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/charlie12345/charlie12345/14650.ts;streamtype=TSDOWNLOADER&;name=ITV2+1<link>
 <thumbnail>http://presscentre.itvstatic.com/presscentre/sites/presscentre/files/styles/pi_large/public/itv2-logo-hr.jpg?itok=DXQjCDbC"</thumbnail>
+</item>
+
+<item>
+<title>ITV 3HD<title>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/charlie12345/charlie12345/17571.ts;streamtype=TSDOWNLOADER&;name=ITV3HD<link>
+<thumbnail>http://vignette3.wikia.nocookie.net/dreamlogos/images/0/04/Itv_3.png/revision/latest?cb=20140108230235</thumbnail>
 </item>
 
 <item>
@@ -156,13 +162,13 @@
 
 <item>
 <title>ITV 3HD<title>
-<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/charlie12345/charlie12345/17679.ts;streamtype=TSDOWNLOADER&;name=ITV3HD<link>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/maz/maz/17571.ts;streamtype=TSDOWNLOADER&;name=ITV3HD<link>
 <thumbnail>http://vignette3.wikia.nocookie.net/dreamlogos/images/0/04/Itv_3.png/revision/latest?cb=20140108230235</thumbnail>
 </item>
 
 <item>
-<title>ITV 3HD<title>
-<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/charlie12345/charlie12345/17679.ts;streamtype=TSDOWNLOADER&;name=ITV3HD<link>
+<title>ITV 3<title>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/maz/maz/17679.ts;streamtype=TSDOWNLOADER&;name=ITV3<link>
 <thumbnail>http://vignette3.wikia.nocookie.net/dreamlogos/images/0/04/Itv_3.png/revision/latest?cb=20140108230235</thumbnail>
 </item>
 
