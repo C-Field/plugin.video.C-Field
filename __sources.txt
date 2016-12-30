@@ -173,14 +173,26 @@
 </item>
 
 <item>
-<title>ITV 4<title>
-<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/charlie12345/charlie12345/14950.ts;streamtype=TSDOWNLOADER&;name=ITV4<link>
+<title>ITV 4HD<title>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/charlie12345/charlie12345/14950.ts;streamtype=TSDOWNLOADER&;name=ITV4HD<link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/ITV4.svg/1024px-ITV4.svg.png</thumbnail>
 </item>
 
 <item>
 <title>ITV 4<title>
-<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/charlie12345/charlie12345/14950.ts;streamtype=TSDOWNLOADER&;name=ITV4<link>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/charlie12345/charlie12345/13571.ts;streamtype=TSDOWNLOADER&;name=ITV4<link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/ITV4.svg/1024px-ITV4.svg.png</thumbnail>
+</item>
+
+<item>
+<title>ITV 4HD<title>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/maz/maz/14950.ts;streamtype=TSDOWNLOADER&;name=ITV4HD<link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/ITV4.svg/1024px-ITV4.svg.png</thumbnail>
+</item>
+
+<item>
+<title>ITV 4<title>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/maz/maz/13571.ts;streamtype=TSDOWNLOADER&;name=ITV4<link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/ITV4.svg/1024px-ITV4.svg.png</thumbnail>
 </item>
 
