@@ -95,14 +95,14 @@
 </item>
 
 <item>
-<title>SKY MOVIES MODERN GREAT HD<title>
-<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/charlie12345/charlie12345/22995.ts;streamtype=TSDOWNLOADER&;name=SKYMODERN<link>
+<title>SKY MOVIES MODERN GREAT<title>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/charlie12345/charlie12345/22995.ts;streamtype=TSDOWNLOADER&;name=SKYMODERNGREAT<link>
 <thumbnail>http://www.premier-uktv.com/wp-content/uploads/2016/02/Sky-Movies-Modern-Greatsv2.jpg</thumbnail>
 </item>
 
 <item>
 <title>SKY MOVIES MODERN GREAT HD<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/luke/luke/6486.ts;streamtype=TSDOWNLOADER&;name=SKYMODERN<link>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/maz/maz/22996.ts;streamtype=TSDOWNLOADER&;name=SKYMODERN<link>
 <thumbnail>http://www.premier-uktv.com/wp-content/uploads/2016/02/Sky-Movies-Modern-Greatsv2.jpg</thumbnail>
 </item>
 
