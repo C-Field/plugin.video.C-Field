@@ -342,7 +342,7 @@
 
 <item>
 <title>CBS REALITY<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/luke/luke/6963.ts;streamtype=TSDOWNLOADER&;name=CBSREALITY<link>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/maz/maz/13517.ts;streamtype=TSDOWNLOADER&;name=CBSREALITY<link>
 <thumbnail>http://www.watchallchannels.com/wp-content/uploads/2015/02/CBS-Reality-TV.jpg</thumbnail>
 </item>
 
@@ -354,13 +354,13 @@
 
 <item>
 <title>CBS DRAMA<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/luke/luke/7000.ts;streamtype=TSDOWNLOADER&;name=CBSDRAMA<link>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/maz/maz/13525.ts;streamtype=TSDOWNLOADER&;name=CBSDRAMA<link>
 <thumbnail>http://www.cbsdrama.tv/pictures/programs/big/cbsdrama.jpg</thumbnail>
 </item>
 
 <item>
 <title>CBS ACTION<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/luke/luke/6964.ts;streamtype=TSDOWNLOADER&;name=CBSACTION<link>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/maz/maz/13536.ts;streamtype=TSDOWNLOADER&;name=CBSACTION<link>
 <thumbnail>https://pbs.twimg.com/profile_images/476321313431093248/b3AvSxrZ_400x400.jpeg</thumbnail>
 </item>
 
