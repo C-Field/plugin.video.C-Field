@@ -300,13 +300,13 @@
 
 <item>
 <title>FILM 4<title>
-<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/charlie12345/charlie12345/13475.ts;streamtype=TSDOWNLOADER&;name=FILM4<link>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/maz/maz/13475.ts;streamtype=TSDOWNLOADER&;name=FILM4<link>
 <thumbnail>http://filmdoctor.co.uk/wp-content/uploads/2013/07/film4-logo.jpg</thumbnail>
 </item>
 
 <item>
-<title>DAVE<title>
-<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/charlie12345/charlie12345/14381.ts;streamtype=TSDOWNLOADER&;name=DAVE<link>
+<title>DAVE HD<title>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/maz/maz/24911.ts;streamtype=TSDOWNLOADER&;name=DAVEHD<link>
 <thumbnail>http://davemclean.com/2016/wp-content/uploads/2016/01/Dave.png</thumbnail>
 </item>
 
