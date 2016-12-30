@@ -336,7 +336,7 @@
 
 <item>
 <title>FOX<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/luke/luke/7001.ts;streamtype=TSDOWNLOADER&;name=FOX<link>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/maz/maz/13518.ts;streamtype=TSDOWNLOADER&;name=FOX<link>
 <thumbnail>http://vignette4.wikia.nocookie.net/logopedia/images/c/c8/Fox_logo.svg/revision/latest?cb=20131022024606</thumbnail>
 </item>
 
