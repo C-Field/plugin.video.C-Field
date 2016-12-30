@@ -114,7 +114,7 @@
 
 <item>
 <title>ITV BE<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/luke/luke/7022.ts;streamtype=TSDOWNLOADER&;name=ITVHD<link>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/maz/maz/13470.ts;streamtype=TSDOWNLOADER&;name=ITVBE<link>
 <thumbnail>http://cdn.itv.com/uploads/editor/fueVEODDx1AknYpGeZDK0h4C8N_Nu8IAs0T6KSZkTnM.jpg</thumbnail>
 </item>
 
@@ -126,13 +126,19 @@
 
 <item>
 <title>ITV 2<title>
-<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/charlie12345/charlie12345/14947.ts;streamtype=TSDOWNLOADER&;name=ITV2<link>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/charlie12345/charlie12345/13495.ts;streamtype=TSDOWNLOADER&;name=ITV2<link>
 <thumbnail>http://presscentre.itvstatic.com/presscentre/sites/presscentre/files/styles/pi_large/public/itv2-logo-hr.jpg</thumbnail>
 </item>
 
 <item>
 <title>ITV 2HD<title>
-<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/charlie12345/charlie12345/14947.ts;streamtype=TSDOWNLOADER&;name=ITV2HD<link>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/maz/maz/14947.ts;streamtype=TSDOWNLOADER&;name=ITV2HD<link>
+<thumbnail>http://presscentre.itvstatic.com/presscentre/sites/presscentre/files/styles/pi_large/public/itv2-logo-hr.jpg?itok=DXQjCDbC"</thumbnail>
+</item>
+
+<item>
+<title>ITV 2<title>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/maz/maz/13495.ts;streamtype=TSDOWNLOADER&;name=ITV2<link>
 <thumbnail>http://presscentre.itvstatic.com/presscentre/sites/presscentre/files/styles/pi_large/public/itv2-logo-hr.jpg?itok=DXQjCDbC"</thumbnail>
 </item>
 
