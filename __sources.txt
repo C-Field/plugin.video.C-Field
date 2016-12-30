@@ -71,14 +71,26 @@
 </item>
 
 <item>
+<title>STV HD<title>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/charlie12345/charlie12345/17574.ts;streamtype=TSDOWNLOADER&;name=STVHD<link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
 <title>STV<title>
 <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/charlie12345/charlie12345/17678.ts;streamtype=TSDOWNLOADER&;name=STV<link>
 <thumbnail></thumbnail>
 </item>
 
 <item>
-<title>STVHD<title>
-<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/charlie12345/charlie12345/17574.ts;streamtype=TSDOWNLOADER&;name=STVHD<link>
+<title>STV HD<title>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/maz/maz/17574.ts;streamtype=TSDOWNLOADER&;name=STVHD<link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>STV<title>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/maz/maz/17678.ts;streamtype=TSDOWNLOADER&;name=STV<link>
 <thumbnail></thumbnail>
 </item>
 
