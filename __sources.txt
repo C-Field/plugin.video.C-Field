@@ -370,12 +370,6 @@
 <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/TCM_logo.svg/2000px-TCM_logo.svg.png</thumbnail>
 </item>
 
-<item>
-<title>FOX USA HD<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/luke/luke/7001.ts;streamtype=TSDOWNLOADER&;name=FOXHD<link>
-<thumbnail>http://www.fox.com/sites/default/files/fox_logo_1.jpg</thumbnail>
-</item>
-
 item>
 <title>WGN TV</title>
 <link>http://wgntribune-lh.akamaihd.net/i/WGNPrimary_1@304622/index_700_av-b.m3u8?sd=10&rebase=on</link>
