@@ -197,8 +197,8 @@
 </item>
 
 <item>
-<title>ITV ENCORE HD<title>
-<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/charlie12345/charlie12345/17572.ts;streamtype=TSDOWNLOADER&;name=ITVENCOREHD<link>
+<title>ITV ENCORE<title>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/maz/maz/14663.ts;streamtype=TSDOWNLOADER&;name=ITVENCORE<link>
 <thumbnail>http://www.actonthis.tv/wp-content/uploads/2014/11/More-great-drama-for-ITV-Encore.jpg</thumbnail>
 </item>
 
