@@ -221,14 +221,14 @@
 </item>
 
 <item>
-<title>CHANNEL 4<title>
-<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/charlie12345/charlie12345/17031.ts;streamtype=TSDOWNLOADER&;name=CHANNEL4<link>
+<title>CHANNEL 4HD<title>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/charlie12345/charlie12345/17031.ts;streamtype=TSDOWNLOADER&;name=CHANNEL4HD<link>
 <thumbnail>http://static.bips.channel4.com/static/bips/global/socialmedia/network-logo-1200x630.jpg</thumbnail>
 </item>
 
 <item>
-<title>CHANNEL 4 HD<title>
-<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/charlie12345/charlie12345/17031.ts;streamtype=TSDOWNLOADER&;name=CHANNEL4HD<link>
+<title>CHANNEL 4<title>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/charlie12345/charlie12345/13476.ts;streamtype=TSDOWNLOADER&;name=CHANNEL4<link>
 <thumbnail>http://static.bips.channel4.com/static/bips/global/socialmedia/network-logo-1200x630.jpg</thumbnail>
 </item>
 
