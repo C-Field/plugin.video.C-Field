@@ -318,7 +318,7 @@
 
 <item>
 <title>3e<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/luke/luke/6943.ts;streamtype=TSDOWNLOADER&;name=3e<link>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/maz/maz/15530.ts;streamtype=TSDOWNLOADER&;name=3e<link>
 <thumbnail>http://vignette2.wikia.nocookie.net/logopedia/images/1/1e/3e_logo.png/revision/latest?cb=20100402171646</thumbnail>
 </item>
 
