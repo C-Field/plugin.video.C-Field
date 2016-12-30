@@ -215,8 +215,8 @@
 </item>
 
 <item>
-<title>ITV BE HD<title>
-<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/charlie12345/charlie12345/13470.ts;streamtype=TSDOWNLOADER&;name=ITVBEHD<link>
+<title>ITV BE<title>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/charlie12345/charlie12345/13470.ts;streamtype=TSDOWNLOADER&;name=ITVBE<link>
 <thumbnail>http://cdn.itv.com/uploads/editor/fueVEODDx1AknYpGeZDK0h4C8N_Nu8IAs0T6KSZkTnM.jpg</thumbnail>
 </item>
 
