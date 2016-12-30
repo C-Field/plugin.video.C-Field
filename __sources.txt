@@ -233,20 +233,26 @@
 </item>
 
 <item>
+<title>FIVE HD<title>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/charlie12345/charlie12345/14387.ts;streamtype=TSDOWNLOADER&;name=FIVEHD<link>
+<thumbnail>https://s3-eu-central-1.amazonaws.com/centaur-wp/creativereview/prod/content/uploads/2016/02/FiveLogo10.png</thumbnail>
+</item>
+
+<item>
 <title>FIVE<title>
-<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/charlie12345/charlie12345/14387.ts;streamtype=TSDOWNLOADER&;name=FIVE<link>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/charlie12345/charlie12345/14369.ts;streamtype=TSDOWNLOADER&;name=FIVE<link>
 <thumbnail>https://s3-eu-central-1.amazonaws.com/centaur-wp/creativereview/prod/content/uploads/2016/02/FiveLogo10.png</thumbnail>
 </item>
 
 <item>
 <title>FIVE HD<title>
-<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/charlie12345/charlie12345/14387.ts;streamtype=TSDOWNLOADER&;name=FIVEHD<link>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/maz/maz/14387.ts;streamtype=TSDOWNLOADER&;name=FIVEHD<link>
 <thumbnail>https://s3-eu-central-1.amazonaws.com/centaur-wp/creativereview/prod/content/uploads/2016/02/FiveLogo10.png</thumbnail>
 </item>
 
 <item>
-<title>FIVE HD<title>
-<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/charlie12345/charlie12345/14387.ts;streamtype=TSDOWNLOADER&;name=FIVEHD<link>
+<title>FIVE<title>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/maz/maz/14369.ts;streamtype=TSDOWNLOADER&;name=FIVE<link>
 <thumbnail>https://s3-eu-central-1.amazonaws.com/centaur-wp/creativereview/prod/content/uploads/2016/02/FiveLogo10.png</thumbnail>
 </item>
 
