@@ -275,14 +275,14 @@
 </item>
 
 <item>
-<title>Gold<title>
-<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/charlie12345/charlie12345/14371.ts;streamtype=TSDOWNLOADER&;name=Gold<link>
+<title>Gold +1<title>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/maz/maz/14371.ts;streamtype=TSDOWNLOADER&;name=Gold+1<link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/c/c8/Gold_2014.svg/1280px-Gold_2014.svg.png</thumbnail>
 </item>
 
 <item>
 <title>Gold<title>
-<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/charlie12345/charlie12345/14371.ts;streamtype=TSDOWNLOADER&;name=Gold<link>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/maz/maz/14371.ts;streamtype=TSDOWNLOADER&;name=Gold<link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/c/c8/Gold_2014.svg/1280px-Gold_2014.svg.png</thumbnail>
 </item>
 
