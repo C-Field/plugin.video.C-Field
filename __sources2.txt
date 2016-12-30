@@ -84,7 +84,7 @@
 
 <item>
 <title>SKY MOVIES SCIFI HD<title>
-<link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/luke/luke/6487.ts;streamtype=TSDOWNLOADER&;name=SKYSCIFI<link>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/maz/maz/15546.ts;streamtype=TSDOWNLOADER&;name=SKYSCIFI<link>
 <thumbnail>http://www.premier-uktv.com/wp-content/uploads/2016/02/Sky-Movies-Sci-Fi-horrorv2.jpg</thumbnail>
 </item>
 
