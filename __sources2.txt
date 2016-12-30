@@ -29,8 +29,8 @@
 </item>
 
 <item>
-<title>Sky Movies Premiere HD<title>
-<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/charlie12345/charlie12345/13537.ts;streamtype=TSDOWNLOADER&;name=SkyPremiereHD<link>
+<title>Sky Movies Premiere<title>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/charlie12345/charlie12345/13537.ts;streamtype=TSDOWNLOADER&;name=SkyPremiere<link>
 <thumbnail>http://www.asset1.net/tv/pictures/channel/skymovies/Sky-Movies-Premiere-Logo-DI-1.jpg</thumbnail>
 </item>
 
