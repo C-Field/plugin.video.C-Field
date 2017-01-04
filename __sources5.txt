@@ -6,13 +6,13 @@
 
 <item>
 <title>NICK JR<title>
-<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/paulb/paulb/13499.ts;streamtype=TSDOWNLOADER&;name=NICK JR<link>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/maz/maz/13499.ts;streamtype=TSDOWNLOADER&;name=NICK JR<link>
 <thumbnail></thumbnail>
 </item>
 
 <item>
 <title>NICK JR TOO<title>
-<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/paulb/paulb/13489.ts;streamtype=TSDOWNLOADER&;name=NICKJRTOO<link>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/maz/maz/13489.ts;streamtype=TSDOWNLOADER&;name=NICKJRTOO<link>
 <thumbnail></thumbnail>
 </item>
 
@@ -30,7 +30,7 @@
 
 <item>
 <title>DISNEY CHANNEL<title>
-<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/paulb/paulb/13515.ts;streamtype=TSDOWNLOADER&;name=DISNEYCHANNEL<link>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/maz/maz/13515.ts;streamtype=TSDOWNLOADER&;name=DISNEYCHANNEL<link>
 <thumbnail></thumbnail>
 </item>
 
@@ -42,7 +42,7 @@
 
 <item>
 <title>DISNEY JUNIOR<title>
-<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/paulb/paulb/13526.ts;streamtype=TSDOWNLOADER&;name=DISNEYJUNIOR<link>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/maz/maz/13526.ts;streamtype=TSDOWNLOADER&;name=DISNEYJUNIOR<link>
 <thumbnail></thumbnail>
 </item>
 
@@ -54,7 +54,7 @@
 
 <item>
 <title>DISNEY XD<title>
-<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/paulb/paulb/13543.ts;streamtype=TSDOWNLOADER&;name=DISNEYXD<link>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/maz/maz/13543.ts;streamtype=TSDOWNLOADER&;name=DISNEYXD<link>
 <thumbnail></thumbnail>
 </item>
 
@@ -72,12 +72,12 @@
 
 <item>
 <title>BOOMERANG<title>
-<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/paulb/paulb/13562.ts;streamtype=TSDOWNLOADER&;name=BOOMERANG<link>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/maz/maz/13562.ts;streamtype=TSDOWNLOADER&;name=BOOMERANG<link>
 <thumbnail></thumbnail>
 </item>
 
 <item>
 <title>BOOMERANG<title>
-<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/paulb/paulb/13562.ts;streamtype=TSDOWNLOADER&;name=BOOMERANG<link>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/maz/maz/13562.ts;streamtype=TSDOWNLOADER&;name=BOOMERANG<link>
 <thumbnail></thumbnail>
 </item>
