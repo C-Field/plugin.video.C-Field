@@ -1,222 +1,222 @@
 <item>
 <title>TEN 1 SPORTS<title>
-<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/charlie12345/charlie12345/17280.ts;streamtype=TSDOWNLOADER&;name=TEN1SPORTS<link>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/maz/maz/17280.ts;streamtype=TSDOWNLOADER&;name=TEN1SPORTS<link>
 <thumbnail></thumbnail>
 </item>
 
 <item>
 <title>Sportsnet Ontario<title>
-<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/charlie12345/charlie12345/23181.ts;streamtype=TSDOWNLOADER&;name=SporetOntario<link>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/maz/maz/23181.ts;streamtype=TSDOWNLOADER&;name=SporetOntario<link>
 <thumbnail></thumbnail>
 </item>
 
 <item>
 <title>TEN GOLF HD<title>
-<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/charlie12345/charlie12345/17281.ts;streamtype=TSDOWNLOADER&;name=TENGOLFHD<link>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/maz/maz/17281.ts;streamtype=TSDOWNLOADER&;name=TENGOLFHD<link>
 <thumbnail></thumbnail>
 </item>
 
 <item>
 <title>NEO SPORTS<title>
-<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/charlie12345/charlie12345/21730.ts;streamtype=TSDOWNLOADER&;name=NEOSPORTS<link>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/maz/maz/21730.ts;streamtype=TSDOWNLOADER&;name=NEOSPORTS<link>
 <thumbnail></thumbnail>
 </item>
 
 <item>
 <title>DE Sky Sport Bundesliga 1 HD<title>
-<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/charlie12345/charlie12345/19282.ts;streamtype=TSDOWNLOADER&;name=DESkySportBundesliga1HD<link>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/maz/maz/19282.ts;streamtype=TSDOWNLOADER&;name=DESkySportBundesliga1HD<link>
 <thumbnail></thumbnail>
 </item>
 
 <item>
 <title>TEN 3 CRICKET<title>
-<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/charlie12345/charlie12345/22443.ts;streamtype=TSDOWNLOADER&;name=TEN3CRICKET<link>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/maz/maz/22443.ts;streamtype=TSDOWNLOADER&;name=TEN3CRICKET<link>
 <thumbnail></thumbnail>
 </item>
 
 <item>
 <title>WILLOW HD<title>DE Sky Sport Bundesliga 1 HD
-<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/charlie12345/charlie12345/15236.ts;streamtype=TSDOWNLOADER&;name=WILLOWHD<link>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/maz/maz/15236.ts;streamtype=TSDOWNLOADER&;name=WILLOWHD<link>
 <thumbnail></thumbnail>
 </item>
 
 <item>
 <title>NBA TV HD<title>
-<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/charlie12345/charlie12345/19935.ts;streamtype=TSDOWNLOADER&;name=NBATVHD<link>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/maz/maz/19935.ts;streamtype=TSDOWNLOADER&;name=NBATVHD<link>
 <thumbnail></thumbnail>
 </item>
 
 <item>
 <title>ELEVEN<title>
-<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/charlie12345/charlie12345/18957.ts;streamtype=TSDOWNLOADER&;name=ELEVEN<link>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/maz/maz/18957.ts;streamtype=TSDOWNLOADER&;name=ELEVEN<link>
 <thumbnail></thumbnail>
 </item>
 
 <item>
 <title>ELEVEN SPORTS<title>
-<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/charlie12345/charlie12345/18926.ts;streamtype=TSDOWNLOADER&;name=ELEVENSPORTS<link>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/maz/maz/18926.ts;streamtype=TSDOWNLOADER&;name=ELEVENSPORTS<link>
 <thumbnail></thumbnail>
 </item>
 
 <item>
 <title>NFL NETWORK<title>
-<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/paulb/paulb/19371.ts;streamtype=TSDOWNLOADER&;name=NFLNETWORK1<link>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/maz/maz/19371.ts;streamtype=TSDOWNLOADER&;name=NFLNETWORK1<link>
 <thumbnail></thumbnail>
 </item>
 
 <item>
 <title>VIASAT: TV2 Sport Premium 1<title>
-<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/paulb/paulb/20799.ts;streamtype=TSDOWNLOADER&;name=VIASATTV2SportPremium<link>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/maz/maz/20799.ts;streamtype=TSDOWNLOADER&;name=VIASATTV2SportPremium<link>
 <thumbnail></thumbnail>
 </item>
 
 <item>
 <title>VIASAT: TV2 Sport Premium 2<title>
-<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/paulb/paulb/20800.ts;streamtype=TSDOWNLOADER&;name=VIASATTV2SportPremium2<link>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/maz/maz/20800.ts;streamtype=TSDOWNLOADER&;name=VIASATTV2SportPremium2<link>
 <thumbnail></thumbnail>
 </item>
 
 <item>
 <title>VIASAT: TV2 Sport Premium 3<title>
-<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/paulb/paulb/20801.ts;streamtype=TSDOWNLOADER&;name=VIASATTV2SportPremium3<link>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/maz/maz/20801.ts;streamtype=TSDOWNLOADER&;name=VIASATTV2SportPremium3<link>
 <thumbnail></thumbnail>
 </item>
 
 <item>
 <title>VIASAT: TV2 Sport Premium 4<title>
-<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/paulb/paulb/20802.ts;streamtype=TSDOWNLOADER&;name=VIASATTV2SportPremium4<link>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/maz/maz/20802.ts;streamtype=TSDOWNLOADER&;name=VIASATTV2SportPremium4<link>
 <thumbnail></thumbnail>
 </item>
 
 <item>
 <title>C MORE<title>
-<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/charlie12345/charlie12345/20803.ts;streamtype=TSDOWNLOADER&;name=CMORE<link>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/maz/maz/20803.ts;streamtype=TSDOWNLOADER&;name=CMORE<link>
 <thumbnail></thumbnail>
 </item>
 
 <item>
 <title>SKY NET SPORT HD<title>
-<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/paulb/paulb/21520.ts;streamtype=TSDOWNLOADER&;name=SKYNETSPORTHD<link>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/maz/maz/21520.ts;streamtype=TSDOWNLOADER&;name=SKYNETSPORTHD<link>
 <thumbnail></thumbnail>
 </item>
 
 <item>
 <title>SKY NET SPORT 1<title>
-<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/paulb/paulb/21519.ts;streamtype=TSDOWNLOADER&;name=SKYNETSPORT1<link>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/maz/maz/21519.ts;streamtype=TSDOWNLOADER&;name=SKYNETSPORT1<link>
 <thumbnail></thumbnail>
 </item>
 
 <item>
 <title>SKY NET SPORT 2<title>
-<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/paulb/paulb/21518.ts;streamtype=TSDOWNLOADER&;name=SKYNETSPORT2<link>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/maz/maz/21518.ts;streamtype=TSDOWNLOADER&;name=SKYNETSPORT2<link>
 <thumbnail></thumbnail>
 </item>
 
 <item>
 <title>SKY NET SPORT 3<title>
-<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/paulb/paulb/21517.ts;streamtype=TSDOWNLOADER&;name=SKYNETSPORT3<link>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/maz/maz/21517.ts;streamtype=TSDOWNLOADER&;name=SKYNETSPORT3<link>
 <thumbnail></thumbnail>
 </item>
 
 <item>
 <title>SKY NET SPORT 4<title>
-<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/paulb/paulb/21516.ts;streamtype=TSDOWNLOADER&;name=SKYNETSPORT4<link>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/maz/maz/21516.ts;streamtype=TSDOWNLOADER&;name=SKYNETSPORT4<link>
 <thumbnail></thumbnail>
 </item>
 
 <item>
 <title>SKY NET SPORT 5<title>
-<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/paulb/paulb/21515.ts;streamtype=TSDOWNLOADER&;name=SKYNETSPORT5<link>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/maz/maz/21515.ts;streamtype=TSDOWNLOADER&;name=SKYNETSPORT5<link>
 <thumbnail></thumbnail>
 </item>
 
 <item>
 <title>SKY NET SPORT 6<title>
-<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/paulb/paulb/21514.ts;streamtype=TSDOWNLOADER&;name=SKYNETSPORT6<link>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/maz/maz/21514.ts;streamtype=TSDOWNLOADER&;name=SKYNETSPORT6<link>
 <thumbnail></thumbnail>
 </item>
 
 <item>
 <title>BT SPORT 1<title>
-<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/paulb/paulb/13532.ts;streamtype=TSDOWNLOADER&;name=BTSPORT11080p<link>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/maz/maz/13532.ts;streamtype=TSDOWNLOADER&;name=BTSPORT11080p<link>
 <thumbnail>http://images.pitchero.com/nl/1423850524_original.jpg</thumbnail>
 </item>
 
 <item>
 <title>BT SPORT 1<title>
-<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/paulb/paulb/13532.ts;streamtype=TSDOWNLOADER&;name=BTSPORT1<link>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/maz/maz/13532.ts;streamtype=TSDOWNLOADER&;name=BTSPORT1<link>
 <thumbnail>http://images.pitchero.com/nl/1423850524_original.jpg</thumbnail>
 </item>
 
 <item>
 <title>BT SPORT 1 HD 1080p<title>
-<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/paulb/paulb/19927.ts;streamtype=TSDOWNLOADER&;name=BTSPORT1HD<link>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/maz/maz/19927.ts;streamtype=TSDOWNLOADER&;name=BTSPORT1HD<link>
 <thumbnail>http://images.pitchero.com/nl/1423850524_original.jpg</thumbnail>
 </item>
 
 <item>
 <title>BT SPORT 1 HD<title>
-<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/paulb/paulb/19927.ts;streamtype=TSDOWNLOADER&;name=BTSPORT1HD<link>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/maz/maz/19927.ts;streamtype=TSDOWNLOADER&;name=BTSPORT1HD<link>
 <thumbnail>http://images.pitchero.com/nl/1423850524_original.jpg</thumbnail>
 </item>
 
 <item>
 <title>BT SPORT 2<title>
-<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/paulb/paulb/13510.ts;streamtype=TSDOWNLOADER&;name=BTSPORTS2<link>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/maz/maz/13510.ts;streamtype=TSDOWNLOADER&;name=BTSPORTS2<link>
 <thumbnail>http://www.indosports.tv/images/bt-sport-2.png</thumbnail>
 </item>
 
 <item>
 <title>BT SPORT 2 HD 1080p<title>
-<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/paulb/paulb/19928.ts;streamtype=TSDOWNLOADER&;name=BTSPORTS2<link>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/maz/maz/19928.ts;streamtype=TSDOWNLOADER&;name=BTSPORTS2<link>
 <thumbnail>http://www.indosports.tv/images/bt-sport-2.png</thumbnail>
 </item>
 
 <item>
 <title>BT SPORTS 2 HD<title>
-<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/paulb/paulb/13510.ts;streamtype=TSDOWNLOADER&;name=BTSPORTS2HD<link>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/maz/maz/13510.ts;streamtype=TSDOWNLOADER&;name=BTSPORTS2HD<link>
 <thumbnail>http://www.indosports.tv/images/bt-sport-2.png</thumbnail>
 </item>
 
 <item>
 <title>BT SPORTS 2 HD<title>
-<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/paulb/paulb/13510.ts;streamtype=TSDOWNLOADER&;name=BTSPORTS2HD<link>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/maz/maz/13510.ts;streamtype=TSDOWNLOADER&;name=BTSPORTS2HD<link>
 <thumbnail>http://www.indosports.tv/images/bt-sport-2.png</thumbnail>
 </item>
 
 <item>
 <title>BT SPORTS 3<title>
-<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/paulb/paulb/13542.ts;streamtype=TSDOWNLOADER&;name=BTSPORTS3<link>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/maz/maz/13542.ts;streamtype=TSDOWNLOADER&;name=BTSPORTS3<link>
 <thumbnail>http://sport.bt.com/s/assets/ucl/images/btsport3.png</thumbnail>
 </item>
 
 <item>
 <title>BT SPORTS 3<title>
-<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/paulb/paulb/13542.ts;streamtype=TSDOWNLOADER&;name=BTSPORTS3<link>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/maz/maz/13542.ts;streamtype=TSDOWNLOADER&;name=BTSPORTS3<link>
 <thumbnail>http://sport.bt.com/s/assets/ucl/images/btsport3.png</thumbnail>
 </item>
 
 <item>
 <title>BT SPORT 3 HD<title>
-<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/paulb/paulb/19929.ts;streamtype=TSDOWNLOADER&;name=BTSPORT3HD<link>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/maz/maz/19929.ts;streamtype=TSDOWNLOADER&;name=BTSPORT3HD<link>
 <thumbnail>http://sport.bt.com/s/assets/ucl/images/btsport3.png</thumbnail>
 </item>
 
 <item>
 <title>BT SPORTS 3 HD<title>
-<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/paulb/paulb/19929.ts;streamtype=TSDOWNLOADER&;name=BTSPORT3HD<link>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/maz/maz/19929.ts;streamtype=TSDOWNLOADER&;name=BTSPORT3HD<link>
 <thumbnail>http://sport.bt.com/s/assets/ucl/images/btsport3.png</thumbnail>
 </item>
 
 <item>
 <title>BT SPORTS ESPN<title>
-<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/paulb/paulb/13512.ts;streamtype=TSDOWNLOADER&;name=BTSPORTSESPN<link>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/maz/maz/13512.ts;streamtype=TSDOWNLOADER&;name=BTSPORTSESPN<link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/en/e/e4/BT_Sport_ESPN_logo.png</thumbnail>
 </item>
 
 <item>
 <title>ESPN 2<title>
-<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/paulb/paulb/20207.ts;streamtype=TSDOWNLOADER&;name=ESPN2<link>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/maz/maz/20207.ts;streamtype=TSDOWNLOADER&;name=ESPN2<link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/en/e/e4/BT_Sport_ESPN_logo.png</thumbnail>
 </item>
 
@@ -228,115 +228,115 @@
 
 <item>
 <title>BT SPORTS EXTRA 2<title>
-<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/paulb/paulb/14437.ts;streamtype=TSDOWNLOADER&;name=BTSPORTSEXTRA2<link>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/maz/maz/14437.ts;streamtype=TSDOWNLOADER&;name=BTSPORTSEXTRA2<link>
 <thumbnail>http://livetvmatches.com/sites/default/files/2016-01/BT%20Sport%20Extra%202.png</thumbnail>
 </item>
 
 <item>
 <title>BT SPORTS EXTRA 3<title>
-<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/paulb/paulb/14529.ts;streamtype=TSDOWNLOADER&;name=BTSPORTSEXTRA3<link>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/maz/maz/14529.ts;streamtype=TSDOWNLOADER&;name=BTSPORTSEXTRA3<link>
 <thumbnail>http://livetvmatches.com/sites/default/files/2016-01/BT%20Sport%20Extra%203.png</thumbnail>
 </item>
 
 <item>
 <title>BT SPORTS EXTRA 4<title>
-<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/paulb/paulb/14434.ts;streamtype=TSDOWNLOADER&;name=BTSPORTSEXTRA4<link>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/maz/maz/14434.ts;streamtype=TSDOWNLOADER&;name=BTSPORTSEXTRA4<link>
 <thumbnail>http://livetvmatches.com/sites/default/files/2016-01/BT%20Sport%20Extra%204.png</thumbnail>
 </item>
 
 <item>
 <title>BT SPORTS EXTRA 5<title>
-<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/paulb/paulb/14435.ts;streamtype=TSDOWNLOADER&;name=BTSPORTSEXTRA5<link>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/maz/maz/14435.ts;streamtype=TSDOWNLOADER&;name=BTSPORTSEXTRA5<link>
 <thumbnail>http://livetvmatches.com/sites/default/files/2016-01/BT%20Sport%20Extra%205.png</thumbnail>
 </item>
 
 <item>
 <title>BT SPORTS MOSAIC<title>
-<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/paulb/paulb/13503.ts;streamtype=TSDOWNLOADER&;name=BTSPORTMOSAIC<link>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/maz/maz/13503.ts;streamtype=TSDOWNLOADER&;name=BTSPORTMOSAIC<link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/9/98/BT_Sport.svg/1280px-BT_Sport.svg.png</thumbnail>
 </item>
 
 <item>
 <title>BT SPORTS MOSAIC 2<title>
-<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/paulb/paulb/14438.ts;streamtype=TSDOWNLOADER&;name=BTSPORTMOSAIC<link>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/maz/maz/14438.ts;streamtype=TSDOWNLOADER&;name=BTSPORTMOSAIC<link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/9/98/BT_Sport.svg/1280px-BT_Sport.svg.png</thumbnail>
 </item>
 
 <item>
 <title>SKY SPORTS 1 HD<title>
-<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/paulb/paulb/20223.ts;streamtype=TSDOWNLOADER&;name=SKYSPORTS1HD<link>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/maz/maz/20223.ts;streamtype=TSDOWNLOADER&;name=SKYSPORTS1HD<link>
 <thumbnail>http://www.skysports.com/core/img/channels/Sky-Sports-1-Logo.png</thumbnail>
 </item>
 
 <item>
 <title>SKY SPORTS 1<title>
-<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/paulb/paulb/13555.ts;streamtype=TSDOWNLOADER&;name=SKYSPORTS1<link>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/maz/maz/13555.ts;streamtype=TSDOWNLOADER&;name=SKYSPORTS1<link>
 <thumbnail>http://www.skysports.com/core/img/channels/Sky-Sports-1-Logo.png</thumbnail>
 </item>
 
 <item>
 <title>SKY SPORTS 2 HD<title>
-<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/paulb/paulb/20222.ts;streamtype=TSDOWNLOADER&;name=SKYSPORTS2HD<link>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/maz/maz/20222.ts;streamtype=TSDOWNLOADER&;name=SKYSPORTS2HD<link>
 <thumbnail>https://s-media-cache-ak0.pinimg.com/236x/a2/22/13/a2221373c9bd651e725b013ab55ddc7d.jpg</thumbnail>
 </item>
 
 <item>
 <title>SKY SPORTS 2<title>
-<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/paulb/paulb/13560.ts;streamtype=TSDOWNLOADER&;name=SKYSPORTS2<link>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/maz/maz/13560.ts;streamtype=TSDOWNLOADER&;name=SKYSPORTS2<link>
 <thumbnail>https://s-media-cache-ak0.pinimg.com/236x/a2/22/13/a2221373c9bd651e725b013ab55ddc7d.jpg</thumbnail>
 </item>
 
 <item>
 <title>SKY SPORTS 3 HD<title>
-<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/paulb/paulb/20221.ts;streamtype=TSDOWNLOADER&;name=SKYSPORTS3<link>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/maz/maz/20221.ts;streamtype=TSDOWNLOADER&;name=SKYSPORTS3<link>
 <thumbnail>http://www.skysports.com/core/img/channels/Sky-Sports-3-Logo.png</thumbnail>
 </item>
 
 <item>
 <title>SKY SPORTS 3<title>
-<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/paulb/paulb/13561.ts;streamtype=TSDOWNLOADER&;name=SKYSPORTS3<link>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/maz/maz/13561.ts;streamtype=TSDOWNLOADER&;name=SKYSPORTS3<link>
 <thumbnail>http://www.skysports.com/core/img/channels/Sky-Sports-3-Logo.png</thumbnail>
 </item>
 
 <item>
 <title>SKY SPORTS 4 HD<title>
-<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/paulb/paulb/20220.ts;streamtype=TSDOWNLOADER&;name=SKYSPORTS4HD<link>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/maz/maz/20220.ts;streamtype=TSDOWNLOADER&;name=SKYSPORTS4HD<link>
 <thumbnail>http://www.skysports.com/core/img/channels/Sky-Sports-4-Logo.png</thumbnail>
 </item>
 
 <item>
 <title>SKY SPORTS 4<title>
-<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/paulb/paulb/13538.ts;streamtype=TSDOWNLOADER&;name=SKYSPORTS4<link>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/maz/maz/13538.ts;streamtype=TSDOWNLOADER&;name=SKYSPORTS4<link>
 <thumbnail>http://www.skysports.com/core/img/channels/Sky-Sports-4-Logo.png</thumbnail>
 </item>
 
 <item>
 <title>SKY SPORTS 5 HD<title>
-<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/paulb/paulb/20219.ts;streamtype=TSDOWNLOADER&;name=SKYSPORTS5HD<link>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/maz/maz/20219.ts;streamtype=TSDOWNLOADER&;name=SKYSPORTS5HD<link>
 <thumbnail>http://www.skysports.com/core/img/channels/Sky-Sports-5-Logo.png</thumbnail>
 </item>
 
 <item>
 <title>SKY SPORTS 5<title>
-<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/paulb/paulb/20219.ts;streamtype=TSDOWNLOADER&;name=SKYSPORTS5<link>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/maz/maz/20219.ts;streamtype=TSDOWNLOADER&;name=SKYSPORTS5<link>
 <thumbnail>http://www.skysports.com/core/img/channels/Sky-Sports-5-Logo.png</thumbnail>
 </item>
 
 <item>
 <title>SKY SPORT MIX<title>
-<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/paulb/paulb/17283.ts;streamtype=TSDOWNLOADER&;name=SKYSPORTMIX<link>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/maz/maz/17283.ts;streamtype=TSDOWNLOADER&;name=SKYSPORTMIX<link>
 <thumbnail>http://static.trustedreviews.com/94/00003824b/9dba/sky-sports-mix.jpg</thumbnail>
 </item>
 
 <item>
 <title>SKYSP BOXOFF<title>
-<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/paulb/paulb/18055.ts;streamtype=TSDOWNLOADER&;name=SKYSP BOXOFF<link>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/maz/maz/18055.ts;streamtype=TSDOWNLOADER&;name=SKYSP BOXOFF<link>
 <thumbnail>http://4.bp.blogspot.com/-_Blox-8k_Sc/VlyRV6Tw_eI/AAAAAAAAAi0/pNCQHtyGgqg/s1600/tv-tv-channels-sports-channels-a16-1.jpg</thumbnail>
 </item>
 
 <item>
 <title>SKYSP BOXOFF<title>
-<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/paulb/paulb/18055.ts;streamtype=TSDOWNLOADER&;name=SKYSPBOXOFF<link>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/maz/maz/18055.ts;streamtype=TSDOWNLOADER&;name=SKYSPBOXOFF<link>
 <thumbnail>http://4.bp.blogspot.com/-_Blox-8k_Sc/VlyRV6Tw_eI/AAAAAAAAAi0/pNCQHtyGgqg/s1600/tv-tv-channels-sports-channels-a16-1.jpg</thumbnail>
 </item>
 
@@ -348,7 +348,7 @@
 
 <item>
 <title>BOX NATION<title>
-<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/paulb/paulb/14520.ts;streamtype=TSDOWNLOADER&;name=BOXNATION<link>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/maz/maz/14520.ts;streamtype=TSDOWNLOADER&;name=BOXNATION<link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/commons/c/c3/BoxNation_logo.jpg</thumbnail>
 </item>
 
@@ -408,13 +408,13 @@
 
 <item>
 <title>SKY SPORTS F1<title>
-<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/paulb/paulb/13507.ts;streamtype=TSDOWNLOADER&;name=SKYSPORTSF1<link>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/maz/maz/13507.ts;streamtype=TSDOWNLOADER&;name=SKYSPORTSF1<link>
 <thumbnail>http://www.skysports.com/core/img/channels/Sky-Sports-F1-Logo.png</thumbnail>
 </item>
 
 <item>
 <title>SKY SPORTS F1<title>
-<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/paulb/paulb/20218.ts;streamtype=TSDOWNLOADER&;name=SKYSPORTSF1<link>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/maz/maz/20218.ts;streamtype=TSDOWNLOADER&;name=SKYSPORTSF1<link>
 <thumbnail>http://www.skysports.com/core/img/channels/Sky-Sports-F1-Logo.png</thumbnail>
 </item>
 
@@ -438,7 +438,7 @@
 
 <item>
 <title>FOX SPORT 2<title>
-<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/paulb/paulb/16415.ts;streamtype=TSDOWNLOADER&;name=FOXSPORT2<link>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/maz/maz/16415.ts;streamtype=TSDOWNLOADER&;name=FOXSPORT2<link>
 <thumbnail>http://cdn1.thecomeback.com/wp-content/uploads/sites/94/2014/12/Fox-Sports-2.png</thumbnail>
 </item>
 
@@ -450,7 +450,7 @@
 
 <item>
 <title>C MORE FOOTBALL<title>
-<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/paulb/paulb/17235.ts;streamtype=TSDOWNLOADER&;name=CMOREFOOTBALL<link>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/maz/maz/17235.ts;streamtype=TSDOWNLOADER&;name=CMOREFOOTBALL<link>
 <thumbnail>http://www.tv-logo.com/pt-data/uploads/images/logo/c_more_fotball.jpg</thumbnail>
 </item>
 
@@ -462,25 +462,25 @@
 
 <item>
 <title>CNBC<title>
-<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/paulb/paulb/18101.ts;streamtype=TSDOWNLOADER&;name=CNBC<link>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/maz/maz/18101.ts;streamtype=TSDOWNLOADER&;name=CNBC<link>
 <thumbnail>http://fm.cnbc.com/applications/cnbc.com/staticcontent/img/cnbc_logo.gif</thumbnail>
 </item>
 
 <item>
 <title>BEIN SPORTS 1 HD<title>
-<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/paulb/paulb/20235.ts;streamtype=TSDOWNLOADER&;name=beINSPORTS1HD<link>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/maz/maz/20235.ts;streamtype=TSDOWNLOADER&;name=beINSPORTS1HD<link>
 <thumbnail>http://www.sat-address.com/f/pics/logotipi/BEIN-Sport-1-TH_o.jpg</thumbnail>
 </item>
 
 <item>
 <title>BEIN SPORTS 2 HD<title>
-<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/paulb/paulb/20234.ts;streamtype=TSDOWNLOADER&;name=beINSPORTS2HD<link>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/maz/maz/20234.ts;streamtype=TSDOWNLOADER&;name=beINSPORTS2HD<link>
 <thumbnail>http://2.bp.blogspot.com/-_BDyrv0qCo8/VRBXtQniCWI/AAAAAAAAAVM/59QHXZlNwV4/s1600/beport2a65.png</thumbnail>
 </item>
 
 <item>
 <title>BEIN SPORTS 3 HD<title>
-<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/paulb/paulb/20233.ts;streamtype=TSDOWNLOADER&;name=BEINSPORTS3HD<link>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/maz/maz/20233.ts;streamtype=TSDOWNLOADER&;name=BEINSPORTS3HD<link>
 <thumbnail>https://www.foxtel.com.au/content/dam/foxtel/shared/channel/B3E/bein-sports-3-hero.png</thumbnail>
 </item>
 
@@ -492,7 +492,7 @@
 
 <item>
 <title>BEIN SPORTS 5 HD<title>
-<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/paulb/paulb/20231.ts;streamtype=TSDOWNLOADER&;name=BEINSPORTS5HD<link>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/maz/maz/20231.ts;streamtype=TSDOWNLOADER&;name=BEINSPORTS5HD<link>
 <thumbnail>http://arsenalloversintheworld.weebly.com/uploads/3/8/1/6/38160015/8471330.jpg</thumbnail>
 </item>
 
@@ -504,19 +504,19 @@
 
 <item>
 <title>BEIN SPORTS 7 HD<title>
-<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/paulb/paulb/20229.ts;streamtype=TSDOWNLOADER&;name=BEINSPORTS7HD<link>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/maz/maz/20229.ts;streamtype=TSDOWNLOADER&;name=BEINSPORTS7HD<link>
 <thumbnail>http://tgo-tv.com/images/tv/beIN7.jpg</thumbnail>
 </item>
 
 <item>
 <title>BEIN SPORTS 10 HD<title>
-<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/paulb/paulb/20226.ts;streamtype=TSDOWNLOADER&;name=BEINSPORTS10HD<link>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/maz/maz/20226.ts;streamtype=TSDOWNLOADER&;name=BEINSPORTS10HD<link>
 <thumbnail>http://4.bp.blogspot.com/-nvLRUCAtUmo/VRsQqOepMcI/AAAAAAAABTw/jny-s6XvyMo/s1600/121.png</thumbnail>
 </item>
 
 <item>
 <title>BEIN SPORTS 11 HD<title>
-<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/paulb/paulb/20225.ts;streamtype=TSDOWNLOADER&;name=BEINSPORTS11HD<link>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/maz/maz/20225.ts;streamtype=TSDOWNLOADER&;name=BEINSPORTS11HD<link>
 <thumbnail>http://tv-online.in/wp-content/uploads/2014/05/bein-sports-11-Live.gif</thumbnail>
 </item>
 
@@ -540,13 +540,13 @@
 
 <item>
 <title>eirSPORT 1<title>
-<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/paulb/paulb/15574.ts;streamtype=TSDOWNLOADER&;name=eirSPORT1<link>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/maz/maz/15574.ts;streamtype=TSDOWNLOADER&;name=eirSPORT1<link>
 <thumbnail>http://marketing.ie/wp-content/uploads/2016/07/Eir-Sport-1-667x487.jpg</thumbnail>
 </item>
 
 <item>
 <title>eir SPORT 2<title>
-<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/paulb/paulb/18058.ts;streamtype=TSDOWNLOADER&;name=eirSPORT1<link>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/maz/maz/18058.ts;streamtype=TSDOWNLOADER&;name=eirSPORT1<link>
 <thumbnail>http://marketing.ie/wp-content/uploads/2016/07/Eir-Sport-1-667x487.jpg</thumbnail>
 </item>
 
@@ -558,25 +558,25 @@
 
 <item>
 <title>TEN GOLF HD<title>
-<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/paulb/paulb/17281.ts;streamtype=TSDOWNLOADER&;name=TENGOLFHD<link>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/maz/maz/17281.ts;streamtype=TSDOWNLOADER&;name=TENGOLFHD<link>
 <thumbnail>http://www.pgtofindia.com/images/content/ten_golf_logo.jpg</thumbnail>
 </item>
 
 <item>
 <title>WWE NETWORK<title>
-<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/paulb/paulb/15698.ts;streamtype=TSDOWNLOADER&;name=WWENETWORK<link>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/maz/maz/15698.ts;streamtype=TSDOWNLOADER&;name=WWENETWORK<link>
 <thumbnail>http://www.wrestlingnewsworld.com/2012/wordpress/wp-content/uploads/2014/11/WWE-Network-Logo.png</thumbnail>
 </item>
 
 <item>
 <title>TEN SPORT 1<title>
-<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/paulb/paulb/17280.ts;streamtype=TSDOWNLOADER&;name=TENSPORT1<link>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/maz/maz/17280.ts;streamtype=TSDOWNLOADER&;name=TENSPORT1<link>
 <thumbnail>http://tvimages.burrp.com/images/channels2/sports/Ten%201%20Sports.png</thumbnail>
 </item>
 
 <item>
 <title>TEN SPORT 2<title>
-<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/paulb/paulb/17282.ts;streamtype=TSDOWNLOADER&;name=TENSPORT2<link>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/maz/maz/17282.ts;streamtype=TSDOWNLOADER&;name=TENSPORT2<link>
 <thumbnail>http://www.televisionpost.com/wp-content/uploads/2016/03/TEN-2.png</thumbnail>
 </item>
 
@@ -624,31 +624,31 @@
 
 <item>
 <title>ASTRO SUPER SPORT 1<title>
-<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/paulb/paulb/19934.ts;streamtype=TSDOWNLOADER&;name=ASTROSUPERSPORT1<link>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/maz/maz/19934.ts;streamtype=TSDOWNLOADER&;name=ASTROSUPERSPORT1<link>
 <thumbnail>https://lh3.googleusercontent.com/-G2TSQf9RIYc/VjDKRlnjxcI/AAAAAAAAHOM/9dyfgoRVpzc/s630-Ic42/astro-supersports-1.png</thumbnail>
 </item>
 
 <item>
 <title>ASTRO SUPER SPORT 2<title>
-<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/paulb/paulb/19933.ts;streamtype=TSDOWNLOADER&;name=ASTROSUPERSPORT2<link>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/maz/maz/19933.ts;streamtype=TSDOWNLOADER&;name=ASTROSUPERSPORT2<link>
 <thumbnail>http://farm3.static.flickr.com/2706/4101283686_6ca896592c.jpg</thumbnail>
 </item>
 
 <item>
 <title>ASTRO SUPER SPORT 3<title>
-<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/paulb/paulb/19932.ts;streamtype=TSDOWNLOADER&;name=ASTROSUPERSPORT3<link>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/maz/maz/19932.ts;streamtype=TSDOWNLOADER&;name=ASTROSUPERSPORT3<link>
 <thumbnail>http://www.astro.com.my/whats-on/logoimages/ChannelLogo/Pos/816_300.png</thumbnail>
 </item>
 
 <item>
 <title>ASTRO SUPER SPORT 4<title>
-<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/paulb/paulb/19931.ts;streamtype=TSDOWNLOADER&;name=ASTROSUPERSPORT4<link>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/maz/maz/19931.ts;streamtype=TSDOWNLOADER&;name=ASTROSUPERSPORT4<link>
 <thumbnail>https://lh3.googleusercontent.com/-Z6rLsM6ntzI/VjDKSlJkD1I/AAAAAAAAHOk/hjYiBBtfjVwJ2oxCsdwdB7zuUOR5f8LLQCCo/s630-Ic42/astro-supersports-4.png</thumbnail>
 </item>GINXeSportsTV
 
 <item>
 <title>GINXeSportsTV<title>
-<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/paulb/paulb/15528.ts;streamtype=TSDOWNLOADER&;name=GINXeSportsTV<link>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/maz/maz/15528.ts;streamtype=TSDOWNLOADER&;name=GINXeSportsTV<link>
 <thumbnail>http://vignette4.wikia.nocookie.net/logopedia/images/7/7e/Ginx_eSports_TV_logo.png/revision/latest?cb=20160624154932</thumbnail>
 </item>
 
@@ -666,7 +666,7 @@
 
 <item>
 <title>BIKE<title>
-<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/paulb/paulb/13570.ts;streamtype=TSDOWNLOADER&;name=BIKE<link>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/maz/maz/13570.ts;streamtype=TSDOWNLOADER&;name=BIKE<link>
 <thumbnail>http://www.bikechannel.co.uk/wp-content/uploads/2016/03/Bike-Logo-RGB.png</thumbnail>
 </item>
 
