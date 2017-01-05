@@ -1,72 +1,72 @@
 <item>
 <title>24/7 Tom And Jerry<title>
-<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/maz/maz/23152.ts;streamtype=TSDOWNLOADER&;name=24/7TomAndJerry<link>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/dunny8/dunny8/23152.ts;streamtype=TSDOWNLOADER&;name=24/7TomAndJerry<link>
 <thumbnail></thumbnail>
 </item>
 
 <item>
 <title>24/7 Simpsons<title>
-<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/maz/maz/23153.ts;streamtype=TSDOWNLOADER&;name=24/7Simpsons<link>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/dunny8/dunny8/23153.ts;streamtype=TSDOWNLOADER&;name=24/7Simpsons<link>
 <thumbnail></thumbnail>
 </item>
 
 <item>
 <title>24/7 Shaun The Sheep<title>
-<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/maz/maz/23154.ts;streamtype=TSDOWNLOADER&;name=BBC1<link>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/dunny8/dunny8/23154.ts;streamtype=TSDOWNLOADER&;name=BBC1<link>
 <thumbnail></thumbnail>
 </item>
 
 <item>
 <title>24/7 Peppa Pig<title>
-<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/maz/maz/23155.ts;streamtype=TSDOWNLOADER&;name=24/7PeppaPig<link>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/dunny8/dunny8/23155.ts;streamtype=TSDOWNLOADER&;name=24/7PeppaPig<link>
 <thumbnail></thumbnail>
 </item>
 
 <item>
 <title>24/7 Paw Patrol<title>
-<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/maz/maz/23156.ts;streamtype=TSDOWNLOADER&;name=24/7PawPatrol<link>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/dunny8/dunny8/23156.ts;streamtype=TSDOWNLOADER&;name=24/7PawPatrol<link>
 <thumbnail></thumbnail>
 </item>
 
 <item>
 <title>24/7 The Three Stooges<title>
-<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/maz/maz/23149.ts;streamtype=TSDOWNLOADER&;name=24/7TheThreeStooges<link>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/dunny8/dunny8/23149.ts;streamtype=TSDOWNLOADER&;name=24/7TheThreeStooges<link>
 <thumbnail></thumbnail>
 </item>
 
 <item>
 <title>24/7 Rick & Morty<title>
-<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/maz/maz/23150.ts;streamtype=TSDOWNLOADER&;name=24/7Rick&Morty<link>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/dunny8/dunny8/23150.ts;streamtype=TSDOWNLOADER&;name=24/7Rick&Morty<link>
 <thumbnail></thumbnail>
 </item>
 
 <item>
 <title>24/7 Criminal Minds<title>
-<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/maz/maz/23157.ts;streamtype=TSDOWNLOADER&;name=24/7CriminalMinds<link>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/dunny8/dunny8/23157.ts;streamtype=TSDOWNLOADER&;name=24/7CriminalMinds<link>
 <thumbnail></thumbnail>
 </item>
 
 <item>
 <title>24/7 American Dad<title>
-<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/maz/maz/23148.ts;streamtype=TSDOWNLOADER&;name=24/7AmericanDad<link>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/dunny8/dunny8/23148.ts;streamtype=TSDOWNLOADER&;name=24/7AmericanDad<link>
 <thumbnail></thumbnail>
 </item>
 
 <item>
 <title>24/7 Futurama<title>
-<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/maz/maz/23146.ts;streamtype=TSDOWNLOADER&;name=24/7Futurama<link>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/dunny8/dunny8/23146.ts;streamtype=TSDOWNLOADER&;name=24/7Futurama<link>
 <thumbnail></thumbnail>
 </item>
 
 <item>
 <title>24/7 Family Guy<title>
-<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/maz/maz/23147.ts;streamtype=TSDOWNLOADER&;name=24/7FamilyGuy<link>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/dunny8/dunny8/23147.ts;streamtype=TSDOWNLOADER&;name=24/7FamilyGuy<link>
 <thumbnail></thumbnail>
 </item>
 
 <item>
 <title>Insanity Workout Channel<title>
-<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/maz/maz/23151.ts;streamtype=TSDOWNLOADER&;name=InsanityWorkoutChannel<link>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/dunny8/dunny8/23151.ts;streamtype=TSDOWNLOADER&;name=InsanityWorkoutChannel<link>
 <thumbnail></thumbnail>
 </item>
 
