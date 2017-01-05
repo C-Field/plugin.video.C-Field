@@ -1,126 +1,126 @@
 <item>
 <title>Discovery HD<title>
-<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/maz/maz/24912.ts;streamtype=TSDOWNLOADER&;name=DISCOVERYHD<link>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/dunny8/dunny8/24912.ts;streamtype=TSDOWNLOADER&;name=DISCOVERYHD<link>
 <thumbnail>http://www.etcentric.org/wp-content/uploads/2013/11/Discovery_Channel.jpg</thumbnail>
 </item>
 
 <item>
 <title>Discovery<title>
-<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/maz/maz/13488.ts;streamtype=TSDOWNLOADER&;name=DISCOVERY<link>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/dunny8/dunny8/13488.ts;streamtype=TSDOWNLOADER&;name=DISCOVERY<link>
 <thumbnail>http://www.etcentric.org/wp-content/uploads/2013/11/Discovery_Channel.jpg</thumbnail>
 </item>
 
 <item>
 <title>Discovery<title>
-<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/maz/maz/20154.ts;streamtype=TSDOWNLOADER&;name=DISCOVERY<link>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/dunny8/dunny8/20154.ts;streamtype=TSDOWNLOADER&;name=DISCOVERY<link>
 <thumbnail>http://www.etcentric.org/wp-content/uploads/2013/11/Discovery_Channel.jpg</thumbnail>
 </item>
 
 <item>
 <title>USA Discovery HD<title>
-<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/maz/maz/23213.ts;streamtype=TSDOWNLOADER&;name=USADISCOVERYHD<link>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/dunny8/dunny8/23213.ts;streamtype=TSDOWNLOADER&;name=USADISCOVERYHD<link>
 <thumbnail>http://www.etcentric.org/wp-content/uploads/2013/11/Discovery_Channel.jpg</thumbnail>
 </item>
 
 <item>
 <title>Discovery +1<title>
-<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/maz/maz/13575.ts;streamtype=TSDOWNLOADER&;name=DISCOVERY+1<link>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/dunny8/dunny8/13575.ts;streamtype=TSDOWNLOADER&;name=DISCOVERY+1<link>
 <thumbnail>http://www.etcentric.org/wp-content/uploads/2013/11/Discovery_Channel.jpg</thumbnail>
 </item>
 
 <item>
 <title>Discovery +1<title>
-<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/maz/maz/13575.ts;streamtype=TSDOWNLOADER&;name=DISCOVERY+1<link>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/dunny8/dunny8/13575.ts;streamtype=TSDOWNLOADER&;name=DISCOVERY+1<link>
 <thumbnail>http://www.etcentric.org/wp-content/uploads/2013/11/Discovery_Channel.jpg</thumbnail>
 </item>
 
 <item>
 <title>Discovery Science<title>
-<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/maz/maz/13481.ts;streamtype=TSDOWNLOADER&;name=DISCOVERYSCIENCE<link>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/dunny8/dunny8/13481.ts;streamtype=TSDOWNLOADER&;name=DISCOVERYSCIENCE<link>
 <thumbnail>https://www.foxtel.com.au/content/dam/foxtel/shared/channel/DSC/discovery-science-horizontal-colour-lightbg.png</thumbnail>
 </item>
 
 <item>
 <title>Discovery History<title>
-<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/maz/maz/13568.ts;streamtype=TSDOWNLOADER&;name=DH<link>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/dunny8/dunny8/13568.ts;streamtype=TSDOWNLOADER&;name=DH<link>
 <thumbnail>http://cached.imagescaler.hbpl.co.uk/resize/scaleWidth/815/offlinehbpl.hbpl.co.uk/news/OWM/85B1580A-9FA6-F2E6-EC5F13E7C57BD7A7.jpg</thumbnail>
 </item>
 
 <item>
 <title>History<title>
-<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/maz/maz/14510.ts;streamtype=TSDOWNLOADER&;name=HISTORY<link>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/dunny8/dunny8/14510.ts;streamtype=TSDOWNLOADER&;name=HISTORY<link>
 <thumbnail>https://static1.squarespace.com/static/52ae8d8be4b042887e9f8813/t/57252f2c1d07c02f9c239e45/1462054702827/History%2BChannel-Logo-.jpg?format=300w</thumbnail>
 </item>
 
 <item>
 <title>History<title>
-<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/maz/maz/14510.ts;streamtype=TSDOWNLOADER&;name=HISTORY<link>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/dunny8/dunny8/14510.ts;streamtype=TSDOWNLOADER&;name=HISTORY<link>
 <thumbnail>https://static1.squarespace.com/static/52ae8d8be4b042887e9f8813/t/57252f2c1d07c02f9c239e45/1462054702827/History%2BChannel-Logo-.jpg?format=300w</thumbnail>
 </item>
 
 <item>
 <title>HISTORY +1<title>
-<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/maz/maz/14500.ts;streamtype=TSDOWNLOADER&;name=HISTORY+1<link>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/dunny8/dunny8/14500.ts;streamtype=TSDOWNLOADER&;name=HISTORY+1<link>
 <thumbnail>https://static1.squarespace.com/static/52ae8d8be4b042887e9f8813/t/57252f2c1d07c02f9c239e45/1462054702827/History%2BChannel-Logo-.jpg?format=300w</thumbnail>
 </item>
 
 <item>
 <title>HISTORY +1<title>
-<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/maz/maz/14500.ts;streamtype=TSDOWNLOADER&;name=HISTORY+1<link>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/dunny8/dunny8/14500.ts;streamtype=TSDOWNLOADER&;name=HISTORY+1<link>
 <thumbnail>https://static1.squarespace.com/static/52ae8d8be4b042887e9f8813/t/57252f2c1d07c02f9c239e45/1462054702827/History%2BChannel-Logo-.jpg?format=300w</thumbnail>
 </item>
 
 <item>
 <title>HISTORY 2<title>
-<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/maz/maz/23209.ts;streamtype=TSDOWNLOADER&;name=HISTORY2<link>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/dunny8/dunny8/23209.ts;streamtype=TSDOWNLOADER&;name=HISTORY2<link>
 <thumbnail>http://media.history.ca/uploadedimages/smart_forms/hero_images/h2_header.jpg</thumbnail>
 </item>
 
 <item>
 <title>Discovery Turbo<title>
-<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/maz/maz/13566.ts;streamtype=TSDOWNLOADER&;name=DISCOVERTURBO<link>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/dunny8/dunny8/13566.ts;streamtype=TSDOWNLOADER&;name=DISCOVERTURBO<link>
 <thumbnail>http://payload.cargocollective.com/1/0/891/407649/TURBO-LOGO.jpg</thumbnail>
 </item>
 
 <item>
 <title>Discovery TURBO<title>
-<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/maz/maz/13566.ts;streamtype=TSDOWNLOADER&;name=DISCOVERYTURBO<link>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/dunny8/dunny8/13566.ts;streamtype=TSDOWNLOADER&;name=DISCOVERYTURBO<link>
 <thumbnail>http://payload.cargocollective.com/1/0/891/407649/TURBO-LOGO.jpg</thumbnail>
 </item>
 
 <item>
 <title>DiscoveryInvestigation<title>
-<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/maz/maz/23207.ts;streamtype=TSDOWNLOADER&;name=DI<link>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/dunny8/dunny8/23207.ts;streamtype=TSDOWNLOADER&;name=DI<link>
 <thumbnail>http://18839-presscdn.pagely.netdna-cdn.com/wp-content/uploads/2016/05/watch_Investigation_Discovery_online.jpg</thumbnail>
 </item>
 
 <item>
 <title>DISCOVERY SHED<title>
-<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/maz/maz/14388.ts;streamtype=TSDOWNLOADER&;name=DISCOVERYSHED<link>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/dunny8/dunny8/14388.ts;streamtype=TSDOWNLOADER&;name=DISCOVERYSHED<link>
 <thumbnail>https://theident.gallery/discoveryshed/2009/DISCSHED-2009-ID-BUILD-1-4.jpg</thumbnail>
 </item>
 
 <item>
 <title>Animal Planet<title>
-<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/maz/maz/13496.ts;streamtype=TSDOWNLOADER&;name=ANIMALPLANET<link>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/dunny8/dunny8/13496.ts;streamtype=TSDOWNLOADER&;name=ANIMALPLANET<link>
 <thumbnail>http://1.bp.blogspot.com/-dUM6BPnu-uc/VlRV0PjlhsI/AAAAAAABDCw/2CQ9jgYrW-s/s1600/Animal%2BPlanet.jpg</thumbnail>
 </item>
 
 <item>
 <title>Nat Geo Wild<title>
-<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/maz/maz/23248.ts;streamtype=TSDOWNLOADER&;name=NATGEOWILD<link>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/dunny8/dunny8/23248.ts;streamtype=TSDOWNLOADER&;name=NATGEOWILD<link>
 <thumbnail>https://yt3.ggpht.com/-Oq8hiS6Bayc/AAAAAAAAAAI/AAAAAAAAAAA/q8U7nqaknSk/s900-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
 </item>
 
 <item>
 <title>NatGeoWildHD<title>
-<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/maz/maz/23248.ts;streamtype=TSDOWNLOADER&;name=NATGEOWILD<link>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/dunny8/dunny8/23248.ts;streamtype=TSDOWNLOADER&;name=NATGEOWILD<link>
 <thumbnail>https://yt3.ggpht.com/-Oq8hiS6Bayc/AAAAAAAAAAI/AAAAAAAAAAA/q8U7nqaknSk/s900-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
 </item>
 
 <item>
 <title>DMAX<title>
-<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/maz/maz/14397.ts;streamtype=TSDOWNLOADER&;name=DMAX<link>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/dunny8/dunny8/14397.ts;streamtype=TSDOWNLOADER&;name=DMAX<link>
 <thumbnail></thumbnail>
 </item>
 
