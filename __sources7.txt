@@ -1,10 +1,4 @@
 <item>
-<title>Chappie (2015) 4K Version<title>
-<link>http://bulkyiptv.com:5750/movie/dunny8/dunny8/20259.mkv<link>
-<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMTUyNTI4NTIwNl5BMl5BanBnXkFtZTgwMjQ4MTI0NDE@._V1_SY1000_CR0,0,674,1000_AL_.jpg</thumbnail>
-</item>
-
-<item>
 <title>13 Hours: The Secret Soldiers of Benghazi (2016)<title>
 <link>http://bulkyiptv.com:5750/movie/dunny8/dunny8/14807.mp4<link>
 <thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMjU3OTQ5NDc3Ml5BMl5BanBnXkFtZTgwOTEwNTkxNzE@._V1_SX320_CR0,0,320,499_AL_.jpg</thumbnail>
