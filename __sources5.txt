@@ -1,4 +1,10 @@
 <item>
+<title>CITV<title>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/dunny8/dunny8/13483.ts;streamtype=TSDOWNLOADER&;name=CITV<link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
 <title>NICK JR<title>
 <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/dunny8/dunny8/13499.ts;streamtype=TSDOWNLOADER&;name=NICK JR<link>
 <thumbnail></thumbnail>
