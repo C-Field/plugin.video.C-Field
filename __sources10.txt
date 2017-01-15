@@ -35,7 +35,7 @@
 </item>
 
 <item>
-<title>Léon (1994) 4K Version<title>
+<title>LÃ©on (1994) 4K Version<title>
 <link>http://bulkyiptv.com:5750/movie/dunny8/dunny8/19480.mkv<link>
 <thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMjdjMGU3MGYtN2Y5ZC00MTE4LWE4YWQtMTBhMjc3MTk0ZDUwXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SY1000_SX664_AL_.jpg</thumbnail>
 </item>
@@ -50,6 +50,12 @@
 <title>Mad Max: Fury Road 4K Version<title>
 <link>http://bulkyiptv.com:5750/movie/dunny8/dunny8/20205.mkv<link>
 <thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMTUyMTE0ODcxNF5BMl5BanBnXkFtZTgwODE4NDQzNTE@._V1_SY1000_CR0,0,687,1000_AL_.jpg</thumbnail>
+</item>
+
+<item>
+<title>Mechanic: Resurrection (2016) 4K Version<title>
+<link>http://bulkyiptv.com:5750/movie/dunny8/dunny8/26022.mkv<link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMjYwODExNzUwMV5BMl5BanBnXkFtZTgwNTgwNjUyOTE@._V1_SY1000_CR0,0,675,1000_AL_.jpg</thumbnail>
 </item>
 
 <item>
@@ -68,6 +74,12 @@
 <title>The Ridiculous 6 (2015) 4K Version<title>
 <link>http://bulkyiptv.com:5750/movie/dunny8/dunny8/22520.mkv<link>
 <thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMTY4NzMxMjUwOF5BMl5BanBnXkFtZTgwMDk1ODMxNzE@._V1_.jpg</thumbnail>
+</item>
+
+<item>
+<title>The Shallows (2016) 4K Version<title>
+<link>http://bulkyiptv.com:5750/movie/dunny8/dunny8/26023.mkv<link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMjA1MTA4MzU4Ml5BMl5BanBnXkFtZTgwNjUxNjczODE@._V1_SY1000_SX675_AL_.jpg</thumbnail>
 </item>
 
 <item>
