@@ -1,4 +1,10 @@
 <item>
+<title>[COLOR yellow]Death Race 2050 (2017)[/COLOR]<title>
+<link>http://bulkyiptv.com:5750/movie/dunny8/dunny8/25901.mp4<link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMTkzNjA4MjgyMl5BMl5BanBnXkFtZTgwMTE1ODIyMDI@._V1_.jpg</thumbnail>
+</item>
+
+<item>
 <title>13 Hours: The Secret Soldiers of Benghazi (2016)<title>
 <link>http://bulkyiptv.com:5750/movie/dunny8/dunny8/14807.mp4<link>
 <thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMjU3OTQ5NDc3Ml5BMl5BanBnXkFtZTgwOTEwNTkxNzE@._V1_SX320_CR0,0,320,499_AL_.jpg</thumbnail>
@@ -17,7 +23,7 @@
 </item>
 
 <item>
-<title>[COLOR yellow]Alienate (2016)[/COLOR]<title>
+<title>Alienate (2016)<title>
 <link>http://bulkyiptv.com:5750/movie/dunny8/dunny8/22921.mp4<link>
 <thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMTgyMjMzMjQxOV5BMl5BanBnXkFtZTcwNjEzOTI5OA@@._V1_SY1000_CR0,0,675,1000_AL_.jpg</thumbnail>
 </item>
@@ -29,7 +35,7 @@
 </item>
 
 <item>
-<title>[COLOR red]Allegiant (2016) 4K Version[/COLOR]<title>
+<title>Allegiant (2016) 4K Version<title>
 <link>http://bulkyiptv.com:5750/movie/dunny8/dunny8/20204.mkv<link>
 <thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMjEyOTI3NDQwN15BMl5BanBnXkFtZTgwNjExOTIwODE@._V1_SY500_CR0,0,323,500_AL_.jpg</thumbnail>
 </item>
@@ -41,7 +47,7 @@
 </item>
 
 <item>
-<title>[COLOR yellow]Altamira (2016)[/COLOR]<title>
+<title>Altamira (2016)<title>
 <link>http://bulkyiptv.com:5750/movie/dunny8/dunny8/20619.mp4<link>
 <thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMTUyMjEzNjE5Ml5BMl5BanBnXkFtZTgwNTQ0ODA2OTE@._V1_SY500_CR0,0,352,500_AL_.jpg</thumbnail>
 </item>
@@ -53,25 +59,25 @@
 </item>
 
 <item>
-<title>[COLOR red]Absolutely Fabulous: The Movie (2016)[/COLOR]<title>
+<title>Absolutely Fabulous: The Movie (2016)<title>
 <link>http://bulkyiptv.com:5750/movie/dunny8/dunny8/24148.mp4<link>
 <thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMjI4NDI5MDg2OV5BMl5BanBnXkFtZTgwNzA5ODQ3ODE@._V1_SY500_CR0,0,337,500_AL_.jpg</thumbnail>
 </item>
 
 <item>
-<title>[COLOR yellow]Amanda Knox (2016)[/COLOR]<title>
+<title>Amanda Knox (2016)<title>
 <link>http://bulkyiptv.com:5750/movie/dunny8/dunny8/20822.mp4<link>
 <thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BNTY5NjE4MTQyNF5BMl5BanBnXkFtZTgwMzg1NjEwMDI@._V1_SY500_CR0,0,337,500_AL_.jpg</thumbnail>
 </item>
 
 <item>
-<title>[COLOR red]AmeriGeddon (2016)[/COLOR]<title>
+<title>AmeriGeddon (2016)<title>
 <link>http://bulkyiptv.com:5750/movie/dunny8/dunny8/24034.mp4<link>
 <thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BYzhhZmQ5NjktOTFjNS00OTZlLWI5ZGItNTQ3OTJjZTY0N2JkXkEyXkFqcGdeQXVyMTkyMjIyNg@@._V1_SY1000_CR0,0,682,1000_AL_.jpg</thumbnail>
 </item>
 
 <item>
-<title>[COLOR yellow]AmStarDam (2016)[/COLOR]<title>
+<title>AmStarDam (2016)<title>
 <link>http://bulkyiptv.com:5750/movie/dunny8/dunny8/21492.mp4<link>
 <thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BNjhkY2I1MTItMTUwYy00OTg4LWJlZmYtZTgyOTcyMTM4YjQ5XkEyXkFqcGdeQXVyMTIxMzA5MDI@._V1_SY999_CR0,0,715,999_AL_.jpg</thumbnail>
 </item>
@@ -83,13 +89,13 @@
 </item>
 
 <item>
-<title>[COLOR yellow]Anthropoid (2016)[/COLOR]<title>
+<title>Anthropoid (2016)<title>
 <link>http://bulkyiptv.com:5750/movie/dunny8/dunny8/21442.mp4<link>
 <thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMjIxNzE0NjY1Nl5BMl5BanBnXkFtZTgwNjYzOTkxOTE@._V1_SY500_CR0,0,337,500_AL_.jpg</thumbnail>
 </item>
 
 <item>
-<title>[COLOR yellow]Army of One (2016)[/COLOR]<title>
+<title>Army of One (2016)<title>
 <link>http://bulkyiptv.com:5750/movie/dunny8/dunny8/21846.mp4<link>
 <thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BZWY4NzQwNWUtYzVkYS00YjIwLWJkYmEtYmU4MmE5ZjJmMjEzXkEyXkFqcGdeQXVyNTU2NDMyOTM@._V1_SY250_CR0,0,177,250_AL_.jpg</thumbnail>
 </item>
@@ -101,7 +107,7 @@
 </item>
 
 <item>
-<title>[COLOR yellow]Baked in Brooklyn (2016)[/COLOR]<title>
+<title>Baked in Brooklyn (2016)<title>
 <link>http://bulkyiptv.com:5750/movie/dunny8/dunny8/22457.mp4<link>
 <thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMTc1Mzk4NDI1Ml5BMl5BanBnXkFtZTgwNTgwMTE1MDI@._V1_SY500_SX375_AL_.jpg</thumbnail>
 </item>
@@ -113,7 +119,7 @@
 </item>
 
 <item>
-<title>[COLOR yellow]Barbie: Star Light Adventure (2016)[/COLOR]<title>
+<title>Barbie: Star Light Adventure (2016)<title>
 <link>http://bulkyiptv.com:5750/movie/dunny8/dunny8/20620.mp4<link>
 <thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BYmM0Y2ZjZWUtNTk5NC00Nzc4LTgxM2QtNjkyMTVkZmFiZDIxXkEyXkFqcGdeQXVyMzI4MjI5NTE@._V1_SY220_SX155_AL_.jpg</thumbnail>
 </item>
@@ -137,7 +143,7 @@
 </item>
 
 <item>
-<title>[COLOR yellow]Batman: Return of the Caped Crusaders (2016)[/COLOR]<title>
+<title>Batman: Return of the Caped Crusaders (2016)<title>
 <link>http://bulkyiptv.com:5750/movie/dunny8/dunny8/21488.mp4<link>
 <thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BYzg0MmNlOTMtNTY3Yi00NmJhLWFjMWUtNzkzNzJjMDk2ZmJlXkEyXkFqcGdeQXVyNjUwNzk3NDc@._V1_SY284_CR0,0,223,284_AL_.jpg</thumbnail>
 </item>
@@ -149,13 +155,13 @@
 </item>
 
 <item>
-<title>[COLOR red]Ben-Hur (2016)[/COLOR]<title>
+<title>Ben-Hur (2016)<title>
 <link>http://bulkyiptv.com:5750/movie/dunny8/dunny8/24149.mp4<link>
 <thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMjQ2NzYxMDQ2OV5BMl5BanBnXkFtZTgwMDk2MzczOTE@._V1_SY1000_CR0,0,640,1000_AL_.jpg</thumbnail>
 </item>
 
 <item>
-<title>[COLOR red]Billy Connolly: High Horse Tour (2016)[/COLOR]<title>
+<title>Billy Connolly: High Horse Tour (2016)<title>
 <link>http://bulkyiptv.com:5750/movie/dunny8/dunny8/23319.mp4<link>
 <thumbnail></thumbnail>
 </item>
@@ -203,7 +209,7 @@
 </item>
 
 <item>
-<title>[COLOR yellow]Café Society (2016)[/COLOR]<title>
+<title>Café Society (2016)<title>
 <link>http://bulkyiptv.com:5750/movie/dunny8/dunny8/20621.mp4<link>
 <thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BNjk1NjY4NjE5N15BMl5BanBnXkFtZTgwMTU0NDg0OTE@._V1_SY500_CR0,0,333,500_AL_.jpg</thumbnail>
 </item>
@@ -215,7 +221,7 @@
 </item>
 
 <item>
-<title>[COLOR yellow]Captain Fantastic (2016)[/COLOR]<title>
+<title>Captain Fantastic (2016)<title>
 <link>http://bulkyiptv.com:5750/movie/dunny8/dunny8/20622.mp4<link>
 <thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMjE5OTM0OTY5NF5BMl5BanBnXkFtZTgwMDcxOTQ3ODE@._V1_SY500_CR0,0,337,500_AL_.jpg</thumbnail>
 </item>
@@ -239,13 +245,13 @@
 </item>
 
 <item>
-<title>[COLOR yellow]Certain Women (2016)[/COLOR]<title>
+<title>Certain Women (2016)<title>
 <link>http://bulkyiptv.com:5750/movie/dunny8/dunny8/22459.mp4<link>
 <thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMjIyOTY0MjcxMV5BMl5BanBnXkFtZTgwODgxMTE5OTE@._V1_SY500_CR0,0,337,500_AL_.jpg</thumbnail>
 </item>
 
 <item>
-<title>[COLOR yellow]Citizen Soldier (2016)[/COLOR]<title>
+<title>Citizen Soldier (2016)<title>
 <link>http://bulkyiptv.com:5750/movie/dunny8/dunny8/20623.mp4<link>
 <thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMzA5Njg1NjI2N15BMl5BanBnXkFtZTgwNjI4MjA1OTE@._V1_SY500_CR0,0,337,500_AL_.jpg</thumbnail>
 </item>
@@ -281,13 +287,13 @@
 </item>
 
 <item>
-<title>[COLOR yellow]DEAD 7 (2016)[/COLOR]<title>
+<title>DEAD 7 (2016)<title>
 <link>http://bulkyiptv.com:5750/movie/dunny8/dunny8/21443.mp4<link>
 <thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BZjI4ZGE1N2YtYmI4OS00Nzk1LWJkYzQtYzJlZjlhNzE2ZDIyXkEyXkFqcGdeQXVyNjU3NjgwNjI@._V1_SX276_CR0,0,276,391_AL_.jpg</thumbnail>
 </item>
 
 <item>
-<title>[COLOR yellow]Dead Rising: Endgame (2016)[/COLOR]<title>
+<title>Dead Rising: Endgame (2016)<title>
 <link>http://bulkyiptv.com:5750/movie/dunny8/dunny8/22251.mp4<link>
 <thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMTU1NzY2MzgxMF5BMl5BanBnXkFtZTgwMzIxNjE1OTE@._V1_SY500_CR0,0,337,500_AL_.jpg</thumbnail>
 </item>
@@ -305,7 +311,7 @@
 </item>
 
 <item>
-<title>[COLOR yellow]Deepwater Horizon (2016)[/COLOR]<title>
+<title>Deepwater Horizon (2016)<title>
 <link>http://bulkyiptv.com:5750/movie/dunny8/dunny8/20270.mp4<link>
 <thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BOTEzNDU0OTgxM15BMl5BanBnXkFtZTgwNjA0ODM2OTE@._V1_SY500_CR0,0,337,500_AL_.jpg</thumbnail>
 </item>
@@ -341,7 +347,7 @@
 </item>
 
 <item>
-<title>[COLOR red]Don't Think Twice (2016)[/COLOR]<title>
+<title>Don't Think Twice (2016)<title>
 <link>http://bulkyiptv.com:5750/movie/dunny8/dunny8/24054.mp4<link>
 <thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMTkxMTkwODM2MF5BMl5BanBnXkFtZTgwNjYwNjY5ODE@._V1_.jpg</thumbnail>
 </item>
@@ -359,7 +365,7 @@
 </item>
 
 <item>
-<title>[COLOR yellow]Everybody Wants Some!! (2016)[/COLOR]<title>
+<title>Everybody Wants Some!! (2016)<title>
 <link>http://bulkyiptv.com:5750/movie/dunny8/dunny8/21486.mp4<link>
 <thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMTk2NDcyNDE5N15BMl5BanBnXkFtZTgwNDA0MzQ1NzE@._V1_SY500_CR0,0,321,500_AL_.jpg</thumbnail>
 </item>
@@ -377,7 +383,7 @@
 </item>
 
 <item>
-<title>[COLOR yellow]INC (2016)[/COLOR]<title>
+<title>INC (2016)<title>
 <link>http://bulkyiptv.com:5750/movie/dunny8/dunny8/22250.mp4<link>
 <thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMTc0OTA5OTU2NF5BMl5BanBnXkFtZTgwMjU2NTU5OTE@._V1_SY500_CR0,0,337,500_AL_.jpg</thumbnail>
 </item>
@@ -395,7 +401,7 @@
 </item>
 
 <item>
-<title>[COLOR red]Finding Dory (2016) 3D[/COLOR]<title>
+<title>Finding Dory (2016) 3D<title>
 <link>http://bulkyiptv.com:5750/movie/dunny8/dunny8/22226.mp4<link>
 <thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BNzg4MjM2NDQ4MV5BMl5BanBnXkFtZTgwMzk3MTgyODE@._V1_SY500_CR0,0,337,500_AL_.jpg</thumbnail>
 </item>
@@ -437,7 +443,7 @@
 </item>
 
 <item>
-<title>[COLOR yellow]GOOD KIDS (2016)[/COLOR]<title>
+<title>GOOD KIDS (2016)<title>
 <link>http://bulkyiptv.com:5750/movie/dunny8/dunny8/22460.mp4<link>
 <thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMjQ3NjMyNDgzM15BMl5BanBnXkFtZTgwOTA5MDExMDI@._V1_SY500_CR0,0,337,500_AL_.jpg</thumbnail>
 </item>
@@ -449,7 +455,7 @@
 </item>
 
 <item>
-<title>[COLOR yellow]Hands of Stone (2016)[/COLOR]<title>
+<title>Hands of Stone (2016)<title>
 <link>http://bulkyiptv.com:5750/movie/dunny8/dunny8/22394.mp4<link>
 <thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMjQxNzE4ODU1Nl5BMl5BanBnXkFtZTgwMDA4Njk0ODE@._V1_SY500_CR0,0,337,500_AL_.jpg</thumbnail>
 </item>
@@ -461,13 +467,13 @@
 </item>
 
 <item>
-<title>[COLOR yellow]Hatton Garden the Heist (2016)[/COLOR]<title>
+<title>Hatton Garden the Heist (2016)<title>
 <link>http://bulkyiptv.com:5750/movie/dunny8/dunny8/21444.mp4<link>
 <thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BOTRlNTJkM2YtOTRiNC00OTc5LThiMjAtYmIxMDIwNjAwZTkzXkEyXkFqcGdeQXVyMjk4MDE2MTE@._V1_SY500_CR0,0,354,500_AL_.jpg</thumbnail>
 </item>
 
 <item>
-<title>[COLOR yellow]Hell or High Water (2016)[/COLOR]<title>
+<title>Hell or High Water (2016)<title>
 <link>http://bulkyiptv.com:5750/movie/dunny8/dunny8/22923.mp4<link>
 <thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMTg4NDA1OTA5NF5BMl5BanBnXkFtZTgwMDQ2MDM5ODE@._V1_SY500_CR0,0,337,500_AL_.jpg</thumbnail>
 </item>
@@ -527,7 +533,7 @@
 </item>
 
 <item>
-<title>[COLOR red]Ice Sharks (2016)[/COLOR]<title>
+<title>Ice Sharks (2016)<title>
 <link>http://bulkyiptv.com:5750/movie/dunny8/dunny8/24029.mp4<link>
 <thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMTUwMTk2ODc1OV5BMl5BanBnXkFtZTgwMzU4MzgzOTE@._V1_SY500_CR0,0,337,500_AL_.jpg</thumbnail>
 </item>
@@ -545,7 +551,7 @@
 </item>
 
 <item>
-<title>[COLOR yellow]In a Valley of Violence (2016)[/COLOR]<title>
+<title>In a Valley of Violence (2016)<title>
 <link>http://bulkyiptv.com:5750/movie/dunny8/dunny8/22240.mp4<link>
 <thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMTUxODkxMjcxNl5BMl5BanBnXkFtZTgwNTU1Mzk5OTE@._V1_SY500_CR0,0,337,500_AL_.jpg</thumbnail>
 </item>
@@ -557,7 +563,7 @@
 </item>
 
 <item>
-<title>[COLOR yellow]Indignation (2016)[/COLOR]<title>
+<title>Indignation (2016)<title>
 <link>http://bulkyiptv.com:5750/movie/dunny8/dunny8/21500.mp4<link>
 <thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMjIyNDg4OTYwOF5BMl5BanBnXkFtZTgwOTQ3ODgwOTE@._V1_SY500_CR0,0,337,500_AL_.jpg</thumbnail>
 </item>
@@ -569,7 +575,7 @@
 </item>
 
 <item>
-<title>[COLOR yellow]Jack Goes Home (2016)[/COLOR]<title>
+<title>Jack Goes Home (2016)<title>
 <link>http://bulkyiptv.com:5750/movie/dunny8/dunny8/20628.mp4<link>
 <thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMjEzNTI3MzE4MV5BMl5BanBnXkFtZTgwNjk5OTU4OTE@._V1_SY500_SX346_AL_.jpg</thumbnail>
 </item>
@@ -617,7 +623,7 @@
 </item>
 
 <item>
-<title>[COLOR yellow]KING COBRA (2016)[/COLOR]<title>
+<title>KING COBRA (2016)<title>
 <link>http://bulkyiptv.com:5750/movie/dunny8/dunny8/22249.mp4<link>
 <thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMTU1Njk2NzMxOF5BMl5BanBnXkFtZTgwMzY4ODUxMDI@._V1_SY500_CR0,0,337,500_AL_.jpg</thumbnail>
 </item>
@@ -635,43 +641,43 @@
 </item>
 
 <item>
-<title>[COLOR yellow]Lake Eerie (2016)[/COLOR]<title>
+<title>Lake Eerie (2016)<title>
 <link>http://bulkyiptv.com:5750/movie/dunny8/dunny8/22924.mp4<link>
 <thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMjQyOTcwOTc2N15BMl5BanBnXkFtZTgwMTY1Nzk5NjE@._V1_SY500_CR0,0,333,500_AL_.jpg</thumbnail>
 </item>
 
 <item>
-<title>[COLOR yellow]Level Up (2016)[/COLOR]<title>
+<title>Level Up (2016)<title>
 <link>http://bulkyiptv.com:5750/movie/dunny8/dunny8/20629.mp4<link>
 <thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BNDk5NTgyMTc3OF5BMl5BanBnXkFtZTgwOTAxNTU1OTE@._V1_SY500_CR0,0,340,500_AL_.jpg</thumbnail>
 </item>
 
 <item>
-<title>[COLOR red]Life on the Line (2016)[/COLOR]<title>
+<title>Life on the Line (2016)<title>
 <link>http://bulkyiptv.com:5750/movie/dunny8/dunny8/15128.mp4<link>
 <thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMTUzNjc0NTU0OF5BMl5BanBnXkFtZTgwMTE5NDgyMDI@._V1_SY1000_CR0,0,681,1000_AL_.jpg</thumbnail>
 </item>
 
 <item>
-<title>[COLOR yellow]LIGHTS OUT (2016)[/COLOR]<title>
+<title>LIGHTS OUT (2016)<title>
 <link>http://bulkyiptv.com:5750/movie/dunny8/dunny8/20630.mp4<link>
 <thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMTg1OTkxNDgyMV5BMl5BanBnXkFtZTgwMjEzNTc0ODE@._V1_SY500_CR0,0,337,500_AL_.jpg</thumbnail>
 </item>
 
 <item>
-<title>[COLOR red]London Has Fallen (2016)[/COLOR]<title>
+<title>London Has Fallen (2016)<title>
 <link>http://bulkyiptv.com:5750/movie/dunny8/dunny8/14920.mp4<link>
 <thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMTY1ODY2MTgwM15BMl5BanBnXkFtZTgwOTY3Nzc3NzE@._V1_SY1000_CR0,0,674,1000_AL_.jpg</thumbnail>
 </item>
 
 <item>
-<title>[COLOR red]London Town (2016)[/COLOR]<title>
+<title>London Town (2016)<title>
 <link>http://bulkyiptv.com:5750/movie/dunny8/dunny8/22461.mp4<link>
 <thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMTc3NjU2MjYzOV5BMl5BanBnXkFtZTgwMTk4NzgwMDI@._V1_.jpg</thumbnail>
 </item>
 
 <item>
-<title>[COLOR red]Looking: The Movie (2016)[/COLOR]<title>
+<title>Looking: The Movie (2016)<title>
 <link>http://bulkyiptv.com:5750/movie/dunny8/dunny8/24030.mp4<link>
 <thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BNmEwZmM2MTgtYmIxMy00MWZkLTk1NWItYzc5OTI0MTA2MzUyXkEyXkFqcGdeQXVyMTUxMzY0Mzk@._V1_SY1000_CR0,0,676,1000_AL_.jpg</thumbnail>
 </item>
@@ -779,13 +785,13 @@
 </item>
 
 <item>
-<title>[COLOR yellow]Nerve (2016)[/COLOR]<title>
+<title>Nerve (2016)<title>
 <link>http://bulkyiptv.com:5750/movie/dunny8/dunny8/20633.mp4<link>
 <thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMTUzOTg1OTM4NV5BMl5BanBnXkFtZTgwMTg2Mjg0OTE@._V1_SY500_CR0,0,324,500_AL_.jpg</thumbnail>
 </item>
 
 <item>
-<title>[COLOR yellow]NINE LIVES (2016)[/COLOR]<title>
+<title>NINE LIVES (2016)<title>
 <link>http://bulkyiptv.com:5750/movie/dunny8/dunny8/21485.mp4<link>
 <thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMzEzMjkwMjc3NV5BMl5BanBnXkFtZTgwMzc0NjY5ODE@._V1_SY500_CR0,0,337,500_AL_.jpg</thumbnail>
 </item>
@@ -803,7 +809,7 @@
 </item>
 
 <item>
-<title>[COLOR red]Outlaws and Angels (2016)[/COLOR]<title>
+<title>Outlaws and Angels (2016)<title>
 <link>http://bulkyiptv.com:5750/movie/dunny8/dunny8/24032.mp4<link>
 <thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMTY4MTU4MzA0OV5BMl5BanBnXkFtZTgwMTYxOTAyOTE@._V1_SY1000_CR0,0,717,1000_AL_.jpg</thumbnail>
 </item>
@@ -863,7 +869,7 @@
 </item>
 
 <item>
-<title>[COLOR yellow]RECOVERY (2016)[/COLOR]<title>
+<title>RECOVERY (2016)<title>
 <link>http://bulkyiptv.com:5750/movie/dunny8/dunny8/22462.mp4<link>
 <thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMTUyNDY3NjkyNl5BMl5BanBnXkFtZTgwNzEyNDYzMDI@._V1_SY500_CR0,0,337,500_AL_.jpg</thumbnail>
 </item>
@@ -911,7 +917,7 @@
 </item>
 
 <item>
-<title>[COLOR yellow]Skiptrace (2016)[/COLOR]<title>
+<title>Skiptrace (2016)<title>
 <link>http://bulkyiptv.com:5750/movie/dunny8/dunny8/20634.mp4<link>
 <thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMTc2NzgxMjY2NV5BMl5BanBnXkFtZTgwMzcxMjc0OTE@._V1_SY500_CR0,0,337,500_AL_.jpg</thumbnail>
 </item>
@@ -923,7 +929,7 @@
 </item>
 
 <item>
-<title>[COLOR red]Snowden (2016)[/COLOR]<title>
+<title>Snowden (2016)<title>
 <link>http://bulkyiptv.com:5750/movie/dunny8/dunny8/23309.mp4<link>
 <thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMTg2MzYzNzgzOF5BMl5BanBnXkFtZTgwOTg4NzQ4OTE@._V1_SY1000_CR0,0,641,1000_AL_.jpg</thumbnail>
 </item>
@@ -941,7 +947,7 @@
 </item>
 
 <item>
-<title>[COLOR yellow]Storks (2016)[/COLOR]<title>
+<title>Storks (2016)<title>
 <link>http://bulkyiptv.com:5750/movie/dunny8/dunny8/20271.mp4<link>
 <thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMTYxNjI3MzcwMF5BMl5BanBnXkFtZTgwOTIyNDY5OTE@._V1_SY500_CR0,0,337,500_AL_.jpg</thumbnail>
 </item>
@@ -959,7 +965,7 @@
 </item>
 
 <item>
-<title>[COLOR yellow]Supersonic (2016)[/COLOR]<title>
+<title>Supersonic (2016)<title>
 <link>http://bulkyiptv.com:5750/movie/dunny8/dunny8/22155.mp4<link>
 <thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BOTMzMDcwZjQtNzJiMy00MDJmLTkxMzItMDIyZjk0NTVmYmIwXkEyXkFqcGdeQXVyMjY3MDI3ODE@._V1_SX310_CR0,0,310,461_AL_.jpg</thumbnail>
 </item>
@@ -971,7 +977,7 @@
 </item>
 
 <item>
-<title>[COLOR yellow]TAKE DOWN (2016)[/COLOR]<title>
+<title>TAKE DOWN (2016)<title>
 <link>http://bulkyiptv.com:5750/movie/dunny8/dunny8/22248.mp4<link>
 <thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BNzUxZTQzOWQtYzkxMi00ZTAzLTk1NTAtMTdhN2NkNDk4MjE4XkEyXkFqcGdeQXVyNDY2Mzc2Mzc@._V1_SY500_CR0,0,281,500_AL_.jpg</thumbnail>
 </item>
@@ -989,7 +995,7 @@
 </item>
 
 <item>
-<title>[COLOR yellow]Texas Rein (2016)[/COLOR]<title>
+<title>Texas Rein (2016)<title>
 <link>http://bulkyiptv.com:5750/movie/dunny8/dunny8/21500.mp4<link>
 <thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BNjg4MzQwMjQyM15BMl5BanBnXkFtZTgwODAzNjU0NjE@._V1_SY500_CR0,0,345,500_AL_.jpg</thumbnail>
 </item>
@@ -1037,7 +1043,7 @@
 </item>
 
 <item>
-<title>[COLOR yellow]The Church (2016)[/COLOR]<title>
+<title>The Church (2016)<title>
 <link>http://bulkyiptv.com:5750/movie/dunny8/dunny8/21490.mp4<link>
 <thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMTYwMjUxNDk1OF5BMl5BanBnXkFtZTgwMzA2MzE1MTE@._V1_SY500_CR0,0,333,500_AL_.jpg</thumbnail>
 </item>
@@ -1061,7 +1067,7 @@
 </item>
 
 <item>
-<title>[COLOR yellow]The Evil in Us (2016)[/COLOR]<title>
+<title>The Evil in Us (2016)<title>
 <link>http://bulkyiptv.com:5750/movie/dunny8/dunny8/20639.mp4<link>
 <thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BZDZiYmZlNjMtYjlhMy00MmMwLWJkMTMtN2IyYjc4ODM4ZjZlXkEyXkFqcGdeQXVyNTM0NjQyMg@@._V1_SY500_CR0,0,388,500_AL_.jpg</thumbnail>
 </item>
@@ -1085,7 +1091,7 @@
 </item>
 
 <item>
-<title>[COLOR yellow]The Hatching (2016)[/COLOR]<title>
+<title>The Hatching (2016)<title>
 <link>http://bulkyiptv.com:5750/movie/dunny8/dunny8/20641.mp4<link>
 <thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMjMzNzM3NDgxOF5BMl5BanBnXkFtZTgwNDA3NzY4NzE@._V1_SY500_CR0,0,341,500_AL_.jpg</thumbnail>
 </item>
@@ -1097,7 +1103,7 @@
 </item>
 
 <item>
-<title>[COLOR yellow]The Hollow (2016)[/COLOR]<title>
+<title>The Hollow (2016)<title>
 <link>http://bulkyiptv.com:5750/movie/dunny8/dunny8/22241.mp4<link>
 <thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMTUyNzE5MDEwOF5BMl5BanBnXkFtZTgwODczMTA5OTE@._V1_SY500_CR0,0,337,500_AL_.jpg</thumbnail>
 </item>
@@ -1109,7 +1115,7 @@
 </item>
 
 <item>
-<title>[COLOR yellow]The Infiltrator (2016)[/COLOR]<title>
+<title>The Infiltrator (2016)<title>
 <link>http://bulkyiptv.com:5750/movie/dunny8/dunny8/22463.mp4<link>
 <thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMTEwNzM2NjY2MTNeQTJeQWpwZ15BbWU4MDQ3MDI3Njgx._V1_SY500_CR0,0,341,500_AL_.jpg</thumbnail>
 </item>
@@ -1139,7 +1145,7 @@
 </item>
 
 <item>
-<title>[COLOR yellow]The Magnificent Seven (2016)[/COLOR]<title>
+<title>The Magnificent Seven (2016)<title>
 <link>http://bulkyiptv.com:5750/movie/dunny8/dunny8/20272.mp4<link>
 <thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMTUzNTc0NTAyM15BMl5BanBnXkFtZTgwMTk1ODA5OTE@._V1_SY500_CR0,0,337,500_AL_.jpg</thumbnail>
 </item>
@@ -1151,7 +1157,7 @@
 </item>
 
 <item>
-<title>[COLOR yellow]The Neon Demon (2016)[/COLOR]<title>
+<title>The Neon Demon (2016)<title>
 <link>http://bulkyiptv.com:5750/movie/dunny8/dunny8/20643.mp4<link>
 <thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BNTAyOTkxNTQ3NV5BMl5BanBnXkFtZTgwMjQ1NzQxOTE@._V1_SY500_CR0,0,324,500_AL_.jpg</thumbnail>
 </item>
@@ -1169,7 +1175,7 @@
 </item>
 
 <item>
-<title>[COLOR yellow]The Phenom (2016)[/COLOR]<title>
+<title>The Phenom (2016)<title>
 <link>http://bulkyiptv.com:5750/movie/dunny8/dunny8/20644.mp4<link>
 <thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMTg0Mjg5MTY2NF5BMl5BanBnXkFtZTgwNzM4NjEwOTE@._V1_SY500_CR0,0,338,500_AL_.jpg</thumbnail>
 </item>
@@ -1181,7 +1187,7 @@
 </item>
 
 <item>
-<title>[COLOR red]The Remains (2016)[/COLOR]<title>
+<title>The Remains (2016)<title>
 <link>http://bulkyiptv.com:5750/movie/dunny8/dunny8/24048.mp4<link>
 <thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMjA2MjE1MzA4NV5BMl5BanBnXkFtZTgwNzUxMzc1OTE@._V1_SY1000_CR0,0,674,1000_AL_.jpg</thumbnail>
 </item>
@@ -1205,7 +1211,7 @@
 </item>
 
 <item>
-<title>[COLOR yellow]The Siege of Jadotville (2016)[/COLOR]<title>
+<title>The Siege of Jadotville (2016)<title>
 <link>http://bulkyiptv.com:5750/movie/dunny8/dunny8/20563.mp4<link>
 <thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BZTAxZWViYTUtMDljNi00MmQ5LTk2MzEtYmIwZDNkOTFhZjk0XkEyXkFqcGdeQXVyNjkxOTcwNjc@._V1_SY375_CR0,0,234,375_AL_.jpg</thumbnail>
 </item>
@@ -1217,7 +1223,7 @@
 </item>
 
 <item>
-<title>[COLOR yellow]The Whole Truth (2016)[/COLOR]<title>
+<title>The Whole Truth (2016)<title>
 <link>http://bulkyiptv.com:5750/movie/dunny8/dunny8/21493.mp4<link>
 <thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMzI5MjYzNTEyNF5BMl5BanBnXkFtZTgwNjE5NTgwMDI@._V1_SY500_CR0,0,337,500_AL_.jpg</thumbnail>
 </item>
@@ -1229,19 +1235,19 @@
 </item>
 
 <item>
-<title>[COLOR yellow]Trolland (2016)[/COLOR]<title>
+<title>Trolland (2016)<title>
 <link>http://bulkyiptv.com:5750/movie/dunny8/dunny8/22927.mp4<link>
 <thumbnail></thumbnail>
 </item>
 
 <item>
-<title>[COLOR yellow]Trolls (2016)[/COLOR]<title>
+<title>Trolls (2016)<title>
 <link>http://bulkyiptv.com:5750/movie/dunny8/dunny8/22522.mp4<link>
 <thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMTkxNDc3OTcxMV5BMl5BanBnXkFtZTgwODk2NjAzOTE@._V1_SY500_CR0,0,336,500_AL_.jpg</thumbnail>
 </item>
 
 <item>
-<title>[COLOR yellow]True Memoirs of an International Assassin (2016)[/COLOR]<title>
+<title>True Memoirs of an International Assassin (2016)<title>
 <link>http://bulkyiptv.com:5750/movie/dunny8/dunny8/22928.mp4<link>
 <thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMjEzMjI0Mzc5MV5BMl5BanBnXkFtZTgwODExMDgxMDI@._V1_SY500_CR0,0,337,500_AL_.jpg</thumbnail>
 </item>
@@ -1265,7 +1271,7 @@
 </item>
 
 <item>
-<title>[COLOR yellow]Viking Legacy (2016)[/COLOR]<title>
+<title>Viking Legacy (2016)<title>
 <link>http://bulkyiptv.com:5750/movie/dunny8/dunny8/21491.mp4<link>
 <thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMzIyOTI5ZmQtMmQ3YS00NWM2LWFjNGItNWViZGUwZGJkMDQ5XkEyXkFqcGdeQXVyMTc3NTg3ODI@._V1_SY250_CR0,0,176,250_AL_.jpg</thumbnail>
 </item>
@@ -1295,7 +1301,7 @@
 </item>
 
 <item>
-<title>[COLOR yellow]White Island (2016)[/COLOR]<title>
+<title>White Island (2016)<title>
 <link>http://bulkyiptv.com:5750/movie/dunny8/dunny8/22428.mp4<link>
 <thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMWY4MDVhYzgtYTIzZi00MjI0LTk4YjAtZjJiY2JjMjc4ZDRhXkEyXkFqcGdeQXVyMTE2ODA5Nzk@._V1_SY500_CR0,0,337,500_AL_.jpg</thumbnail>
 </item>
