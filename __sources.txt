@@ -5,12 +5,6 @@
 </item>
 
 <item>
-<title>bbc 1<title>
-<link>Test</link>
-<externallink>http://bulkyiptv.com:5750/get.php?username=dunny8&amp;password=dunny8&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$</externallink>
-</item>
-
-<item>
 <title>BBC 1HD<title>
 <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/dunny8/dunny8/14943.ts;streamtype=TSDOWNLOADER&;name=BBC1HD<link>
 <thumbnail>https://ichef.bbci.co.uk/images/ic/480x270/p03r0t9m.jpg</thumbnail>
