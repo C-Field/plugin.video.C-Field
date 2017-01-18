@@ -1,7 +1,7 @@
 <source>
-    <name>01 Movies</name>
-    <path pathversion="1">http://newlook.lol:9880/live/guo_45801/94649/2856.ts</path>
-    <path pathversion="1">http://newlook.lol:9880/live/guo_45801/94649/2856.ts</path>
+<name>01 Movies<name>
+<path pathversion="1">http://newlook.lol:9880/live/guo_45801/94649/2856.ts</path>
+<path pathversion="1">http://newlook.lol:9880/live/guo_45801/94649/2856.ts</path>
 </source>
 
 <item>
