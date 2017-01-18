@@ -5,12 +5,9 @@
 </item>
 
 <item>
-<title>TEST</title>
-<link>
-<sublink>http://newlook.lol:9880/live/guo_45801/94649/2856.ts</sublink>
-<sublink>http://newlook.lol:9880/live/guo_45801/94649/2856.ts</sublink>
-</link>
-<thumbnail></thumbnail>
+<title>bbc 1</title>
+<link>Test</link>
+<externallink>http://bulkyiptv.com:5750/get.php?username=dunny8&amp;password=dunny8&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$</externallink>
 </item>
 
 <item>
