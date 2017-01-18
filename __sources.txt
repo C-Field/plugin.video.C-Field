@@ -1,8 +1,8 @@
-<source>
-<name>01 Movies<name>
-<path>http://newlook.lol:9880/live/guo_45801/94649/2856.ts</path>
-<path>http://newlook.lol:9880/live/guo_45801/94649/2856.ts</path>
-</source>
+<item>
+<title>01 Movies<title>
+<link>http://newlook.lol:9880/live/guo_45801/94649/2856.ts</link>
+<link>http://newlook.lol:9880/live/guo_45801/94649/2856.ts</link>
+</item>
 
 <item>
 <title>BBC 1HD<title>
