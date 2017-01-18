@@ -5,7 +5,7 @@
 </item>
 
 <item>
-<title>bbc 1</title>
+<title>bbc 1<title>
 <link>Test</link>
 <externallink>http://bulkyiptv.com:5750/get.php?username=dunny8&amp;password=dunny8&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$</externallink>
 </item>
