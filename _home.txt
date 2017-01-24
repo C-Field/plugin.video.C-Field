@@ -12,6 +12,15 @@
 
 <channels>
 <channel>
+<name>USA CHANNELS</name>
+<thumbnail>http://marketinggraphics.co/wp-content/uploads/2015/07/made-in-the-usa-thumbnail-400x400.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/stuartdrew/plugin.video.C-Field/master/__sources11.txt</externallink>
+<fanart></fanart>
+<info>SimpleKore.com</info>
+</channel>
+
+<channels>
+<channel>
 <name>SKY CHANNELS</name>
 <thumbnail>http://d.ibtimes.co.uk/en/full/1467855/sky-tv.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/stuartdrew/plugin.video.C-Field/master/__sources2.txt</externallink>
