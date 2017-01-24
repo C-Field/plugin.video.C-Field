@@ -53,12 +53,6 @@
 </item>
 
 <item>
-<title>Mechanic: Resurrection (2016) 4K Version<title>
-<link>http://bulkyiptv.com:5750/movie/tonyj/tonyj/26022.mkv<link>
-<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMjYwODExNzUwMV5BMl5BanBnXkFtZTgwNTgwNjUyOTE@._V1_SY1000_CR0,0,675,1000_AL_.jpg</thumbnail>
-</item>
-
-<item>
 <title>The Martian (2015) 4k Version<title>
 <link>http://bulkyiptv.com:5750/movie/tonyj/tonyj/19529.mkv<link>
 <thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMTc2MTQ3MDA1Nl5BMl5BanBnXkFtZTgwODA3OTI4NjE@._V1_SY1000_CR0,0,675,1000_AL_.jpg</thumbnail>
@@ -74,12 +68,6 @@
 <title>The Ridiculous 6 (2015) 4K Version<title>
 <link>http://bulkyiptv.com:5750/movie/tonyj/tonyj/22520.mkv<link>
 <thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMTY4NzMxMjUwOF5BMl5BanBnXkFtZTgwMDk1ODMxNzE@._V1_.jpg</thumbnail>
-</item>
-
-<item>
-<title>The Shallows (2016) 4K Version<title>
-<link>http://bulkyiptv.com:5750/movie/tonyj/tonyj/26023.mkv<link>
-<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMjA1MTA4MzU4Ml5BMl5BanBnXkFtZTgwNjUxNjczODE@._V1_SY1000_SX675_AL_.jpg</thumbnail>
 </item>
 
 <item>
