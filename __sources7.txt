@@ -1,4 +1,16 @@
 <item>
+<title>[COLOR yellow]Arsenal (2017)[/COLOR]<title>
+<link>http://bulkyiptv.com:5750/movie/tonyj/tonyj/26249.mp4<link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMTEyMzk3ODYzMzdeQTJeQWpwZ15BbWU4MDk0MDc3ODAy._V1_SY1000_CR0,0,674,1000_AL_.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR yellow]Go North (2017)[/COLOR]<title>
+<link>http://bulkyiptv.com:5750/movie/tonyj/tonyj/26191.mp4<link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMjE4Mjg0MjgzOV5BMl5BanBnXkFtZTgwMjU3NDc4MDI@._V1_SY1000_CR0,0,662,1000_AL_.jpg</thumbnail>
+</item>
+
+<item>
 <title>[COLOR yellow]Death Race 2050 (2017)[/COLOR]<title>
 <link>http://bulkyiptv.com:5750/movie/tonyj/tonyj/25901.mp4<link>
 <thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMTkzNjA4MjgyMl5BMl5BanBnXkFtZTgwMTE1ODIyMDI@._V1_.jpg</thumbnail>
