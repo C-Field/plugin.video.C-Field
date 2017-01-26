@@ -1,27 +1,27 @@
 <item>
 <title>KISS TV</title>
-<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/tonyj/tonyj/14399.ts;streamtype=TSDOWNLOADER&;name=KISSTV</link>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/neil12345/neil12345/14399.ts;streamtype=TSDOWNLOADER&;name=KISSTV</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
 <title>VEVO MUSIC TV 1</title>
-<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/tonyj/tonyj/2574.ts;streamtype=TSDOWNLOADER&;name=VEVO1</link>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/neil12345/neil12345/2574.ts;streamtype=TSDOWNLOADER&;name=VEVO1</link>
 <thumbnail>http://cordcutting.com/images/plex-images/vevo.jpg</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
 <title>VEVO MUSIC TV 2</title>
-<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/tonyj/tonyj/2575.ts;streamtype=TSDOWNLOADER&;name=VEVO2</link>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/neil12345/neil12345/2575.ts;streamtype=TSDOWNLOADER&;name=VEVO2</link>
 <thumbnail>http://cordcutting.com/images/plex-images/vevo.jpg</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
 <title>VEVO MUSIC TV 3</title>
-<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/tonyj/tonyj/2576.ts;streamtype=TSDOWNLOADER&;name=VEVO3</link>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/neil12345/neil12345/2576.ts;streamtype=TSDOWNLOADER&;name=VEVO3</link>
 <thumbnail>http://cordcutting.com/images/plex-images/vevo.jpg</thumbnail>
 <fanart></fanart>
 </item>
