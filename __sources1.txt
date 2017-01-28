@@ -317,12 +317,6 @@
 </item>
 
 <item>
-<title>[COLOR oldlace][B]Ronin Warriors[/B][/COLOR]</title>
-<link>http://50.7.136.90:81/live/aaaaaaaaaa@hotmail.com/user0011/1398.ts</link>
-<thumbnail>http://ecx.images-amazon.com/images/I/517KMT1RA4L.jpg<thumbnail>
-</item>
-
-<item>
 <title>[B][COLOR oldlace]Samurai Jack[/B][/COLOR]</title>
 <link>$doregex[file]|Cookie=$get_cookies$&amp;User-Agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:41.0) Gecko/20100101 Firefox/41.0&amp;X-Playback-Session-Id=$GUID$</link>
 <regex>
@@ -338,12 +332,6 @@
 <page></page>
 </regex>
 <thumbnail>http://vignette4.wikia.nocookie.net/playstationallstarsfanfictionroyale/images/7/79/Samurai_Jack_collagelarge2betterrgb.jpg/revision/latest?cb=20130530164401</thumbnail>
-</item>
-
-<#item>
-<title>[COLOR oldlace][B]Samurai Pizza Cats[/B][/COLOR]</title>
-<link>http://50.7.136.90:81/live/aaaaaaaaaa@hotmail.com/user0011/1357.ts</link>
-<thumbnail>https://upload.wikimedia.org/wikipedia/en/8/84/Samurai_Pizza_Cats_logo.png</thumbnail>
 </item>
 
 <item>
