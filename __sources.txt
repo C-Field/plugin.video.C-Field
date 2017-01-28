@@ -803,7 +803,7 @@
 </item>http://www.shadow-net.org/channels/BBC-1.html
 
 <item>
-<title>ITVHD RegEx **https://sastatv.com/demo/index.php?name=ITVHD**</title>
+<title>ITVHD</title>
 <link>https://forums.tvaddons.ag/$doregex[getM3U8]</link>
 <regex>
 <name>getM3U8</name>
