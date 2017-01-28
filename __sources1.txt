@@ -4,6 +4,117 @@
 <thumbnail></thumbnail>
 </item>
 
+<item>
+<title>[B][COLOR oldlace]Curb Your Enthusiasm[/B][/COLOR]</title>
+<link>$doregex[file]|Cookie=$get_cookies$&amp;User-Agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:41.0) Gecko/20100101 Firefox/41.0&amp;X-Playback-Session-Id=$GUID$</link>
+<regex>
+<name>file</name>
+<expres>source src="(.*?)"</expres>
+<page>http://www.justproxy.co.uk/index.php</page>
+<referer>http://www.justproxy.co.uk</referer>
+<rawpost>q=$doregex[url-quote]&amp;hl%5Binclude_form%5D=on&amp;hl%5Baccept_cookies%5D=on&amp;hl%5Bshow_images%5D=on&amp;hl%5Bshow_referer%5D=on&amp;hl%5Bbase64_encode%5D=on&amp;hl%5Bstrip_meta%5D=on&amp;hl%5Bsession_cookies%5D=on</rawpost>
+</regex>
+<regex>
+<name>url-quote</name>
+<expres>$pyFunction:urllib.quote("https://www.arconaitv.me/cye/")</expres>
+<page></page>
+</regex>
+<thumbnail>https://www.arconaitv.me/wp-content/uploads/2015/11/curb-your.jpg</thumbnail>
+</item>
+
+
+<item>
+<title>[B][COLOR oldlace]Friends[/B][/COLOR]</title>
+<link>$doregex[file]|Cookie=$get_cookies$&amp;User-Agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:41.0) Gecko/20100101 Firefox/41.0&amp;X-Playback-Session-Id=$GUID$</link>
+<regex>
+<name>file</name>
+<expres>source src="(.*?)"</expres>
+<page>http://www.justproxy.co.uk/index.php</page>
+<referer>http://www.justproxy.co.uk</referer>
+<rawpost>q=$doregex[url-quote]&amp;hl%5Binclude_form%5D=on&amp;hl%5Baccept_cookies%5D=on&amp;hl%5Bshow_images%5D=on&amp;hl%5Bshow_referer%5D=on&amp;hl%5Bbase64_encode%5D=on&amp;hl%5Bstrip_meta%5D=on&amp;hl%5Bsession_cookies%5D=on</rawpost>
+</regex>
+<regex>
+<name>url-quote</name>
+<expres>$pyFunction:urllib.quote("https://www.arconaitv.me/friendships/")</expres>
+<page></page>
+</regex>
+<thumbnail>http://img2.tvtome.com/i/u/0aa3afb3cbe3468fc6e43e50070b0810.png</thumbnail>
+</item>
+
+
+<item>
+<title>[B][COLOR oldlace]Celebrity Deathmatch[/B][/COLOR]</title>
+<link>$doregex[file]|Cookie=$get_cookies$&amp;User-Agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:41.0) Gecko/20100101 Firefox/41.0&amp;X-Playback-Session-Id=$GUID$</link>
+<regex>
+<name>file</name>
+<expres>source src="(.*?)"</expres>
+<page>http://www.justproxy.co.uk/index.php</page>
+<referer>http://www.justproxy.co.uk</referer>
+<rawpost>q=$doregex[url-quote]&amp;hl%5Binclude_form%5D=on&amp;hl%5Baccept_cookies%5D=on&amp;hl%5Bshow_images%5D=on&amp;hl%5Bshow_referer%5D=on&amp;hl%5Bbase64_encode%5D=on&amp;hl%5Bstrip_meta%5D=on&amp;hl%5Bsession_cookies%5D=on</rawpost>
+</regex>
+<regex>
+<name>url-quote</name>
+<expres>$pyFunction:urllib.quote("https://www.arconaitv.me/cdm/")</expres>
+<page></page>
+</regex>
+<thumbnail>https://www.rickey.org/wp-content/uploads/2015/04/celebrity-deathmatch-mtv2-01-960x640.jpg</thumbnail>
+</item>
+
+
+<item>
+<title>[B][COLOR oldlace]The Simpsons[/B][/COLOR]</title>
+<link>$doregex[file]|Cookie=$get_cookies$&amp;User-Agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:41.0) Gecko/20100101 Firefox/41.0&amp;X-Playback-Session-Id=$GUID$</link>
+<regex>
+<name>file</name>
+<expres>source src="(.*?)"</expres>
+<page>http://www.justproxy.co.uk/index.php</page>
+<referer>http://www.justproxy.co.uk</referer>
+<rawpost>q=$doregex[url-quote]&amp;hl%5Binclude_form%5D=on&amp;hl%5Baccept_cookies%5D=on&amp;hl%5Bshow_images%5D=on&amp;hl%5Bshow_referer%5D=on&amp;hl%5Bbase64_encode%5D=on&amp;hl%5Bstrip_meta%5D=on&amp;hl%5Bsession_cookies%5D=on</rawpost>
+</regex>
+<regex>
+<name>url-quote</name>
+<expres>$pyFunction:urllib.quote("https://arconaitv.me/s/")</expres>
+<page></page>
+</regex>
+<thumbnail>http://i63.fastpic.ru/big/2015/0108/58/7ccc8317f7af2fceaddc87638ed88e58.jpg</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR oldlace]Family Guy[/B][/COLOR]</title>
+<link>$doregex[file]|Cookie=$get_cookies$&amp;User-Agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:41.0) Gecko/20100101 Firefox/41.0&amp;X-Playback-Session-Id=$GUID$</link>
+<regex>
+<name>file</name>
+<expres>source src="(.*?)"</expres>
+<page>http://www.justproxy.co.uk/index.php</page>
+<referer>http://www.justproxy.co.uk</referer>
+<rawpost>q=$doregex[url-quote]&amp;hl%5Binclude_form%5D=on&amp;hl%5Baccept_cookies%5D=on&amp;hl%5Bshow_images%5D=on&amp;hl%5Bshow_referer%5D=on&amp;hl%5Bbase64_encode%5D=on&amp;hl%5Bstrip_meta%5D=on&amp;hl%5Bsession_cookies%5D=on</rawpost>
+</regex>
+<regex>
+<name>url-quote</name>
+<expres>$pyFunction:urllib.quote("https://www.arconaitv.me/fg/")</expres>
+<page></page>
+</regex>
+<thumbnail>http://vignette1.wikia.nocookie.net/fanon/images/2/22/4440-family-guy-family-guy-poster.jpg/revision/latest?cb=20150528130142</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR oldlace]American Dad[/B][/COLOR]</title>
+<link>$doregex[file]|Cookie=$get_cookies$&amp;User-Agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:41.0) Gecko/20100101 Firefox/41.0&amp;X-Playback-Session-Id=$GUID$</link>
+<regex>
+<name>file</name>
+<expres>source src="(.*?)"</expres>
+<page>http://www.justproxy.co.uk/index.php</page>
+<referer>http://www.justproxy.co.uk</referer>
+<rawpost>q=$doregex[url-quote]&amp;hl%5Binclude_form%5D=on&amp;hl%5Baccept_cookies%5D=on&amp;hl%5Bshow_images%5D=on&amp;hl%5Bshow_referer%5D=on&amp;hl%5Bbase64_encode%5D=on&amp;hl%5Bstrip_meta%5D=on&amp;hl%5Bsession_cookies%5D=on</rawpost>
+</regex>
+<regex>
+<name>url-quote</name>
+<expres>$pyFunction:urllib.quote("https://www.arconaitv.me/amerro/")</expres>
+<page></page>
+</regex>
+<thumbnail>http://s.sidereel.com/tv_shows/42889/giant_2x/americandadvs.jpg</thumbnail>
+</item>
+
 
 
 
