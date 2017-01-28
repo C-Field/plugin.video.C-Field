@@ -1,30 +1,4 @@
 <item>
-<title>SKY SPORTS 1</title>
-<link>$doregex[select_Url]</link>
-<regex>
-<name>select_Url</name>
-<expres>$pyFunction: '$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36' if not '$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36'=='' else '$doregex[get_sxstream1]|User-Agent=iPhone'</expres>
-<page></page>
-</regex>
-<regex>
-<name>get_sxstream</name>
-<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
-<page>http://www.liveonlinetv247.info/embed/skysports1.php</page>
-<referer>http://www.liveonlinetv247.info/</referer>
-<agent></agent>
-</regex>
-<regex>
-<name>get_sxstream1</name>
-<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
-<page>http://www.liveonlinetv247.info/embed/skysports1.php</page>
-<referer>http://www.liveonlinetv247.info/</referer>
-<agent></agent>
-</regex>
-<thumbnail>http://www.userlogos.org/files/logos/zeppelin0291/sky%20sports%20football.png</thumbnail>
-<fanart>http://www.userlogos.org/files/logos/zeppelin0291/sky%20sports%20football.png</fanart>
-</item>
-
-<item>
 <title>24/7 Peppa Pig<title>
 <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/neil12345/neil12345/23155.ts;streamtype=TSDOWNLOADER&;name=24/7PeppaPig<link>
 <thumbnail></thumbnail>
