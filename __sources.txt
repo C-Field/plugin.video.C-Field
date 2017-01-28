@@ -822,7 +822,7 @@
 
 <item>
 <title>BBC 1<title>
-<link>http://www.shadow-net.org/channels/CBS-2-New-York.html<link>
+<link>plugin://plugin.video.f4mTester/?url=http://www.shadow-net.org/channels/BBC-1.html;streamtype=TSDOWNLOADER&;name=BBC1<link>
 <thumbnail>https://ichef.bbci.co.uk/images/ic/480x270/p03r0t9m.jpg</thumbnail>
 </item>
 
