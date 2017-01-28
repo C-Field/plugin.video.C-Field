@@ -220,19 +220,7 @@
 <thumbnail>http://static.comicvine.com/uploads/original/4/43369/1219618-lgpp30509looney_tunes_characters_looney_tunes_poster.jpg</thumbnail>
 </item>
  
-<item>
-<title>[COLOR oldlace][B]Doug[/B][/COLOR]</title>
-<link>http://50.7.136.90:81/live/aaaaaaaaaa@hotmail.com/user0011/1392.ts</link>
-<thumbnail>http://s.sidereel.com/tv_shows/25767/giant_2x/72210-2.jpg</thumbnail>
-</item>
-
-<item>
-<title>[COLOR oldlace][B]Dexters Laboratory[/B][/COLOR]</title>
-<link>http://50.7.136.90:81/live/aaaaaaaaaa@hotmail.com/user0011/1375.ts</link>
-<thumbnail>http://orig10.deviantart.net/31ff/f/2013/013/3/5/dexters_laboratory_by_mikhaildingle-d5rez8b.jpg</thumbnail>
-</item>
-
-<item>
+ <item>
 <title>[B][COLOR oldlace]Family Guy[/B][/COLOR]</title>
 <link>$doregex[file]|Cookie=$get_cookies$&amp;User-Agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:41.0) Gecko/20100101 Firefox/41.0&amp;X-Playback-Session-Id=$GUID$</link>
 <regex>
@@ -266,18 +254,6 @@
 <page></page>
 </regex>
 <thumbnail>http://www.tvposter.net/posters/futurama_1999_2391_poster.jpg</thumbnail>
-</item>
-
-<item>
-<title>[COLOR oldlace][B]Gundam Wing[/B][/COLOR]</title>
-<link>http://50.7.136.90:81/live/aaaaaaaaaa@hotmail.com/user0011/1400.ts</link>
-<thumbnail>http://images.allposters.com/images/125/007_fvgw3.jpg</thumbnail>
-</item>
-
-<#item>
-<title>[COLOR oldlace][B]I Am Weasel[/B][/COLOR]</title>
-<link>http://50.7.136.90:81/live/aaaaaaaaaa@hotmail.com/user0011/1404.ts</link>
-<thumbnail>https://s-media-cache-ak0.pinimg.com/736x/41/86/f2/4186f2757132c0c78d080a01dd9fca79.jpg</thumbnail>
 </item>
 
 <item>
