@@ -22,7 +22,6 @@
 <thumbnail>https://www.arconaitv.me/wp-content/uploads/2015/11/curb-your.jpg</thumbnail>
 </item>
 
-
 <item>
 <title>[B][COLOR oldlace]Friends[/B][/COLOR]</title>
 <link>$doregex[file]|Cookie=$get_cookies$&amp;User-Agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:41.0) Gecko/20100101 Firefox/41.0&amp;X-Playback-Session-Id=$GUID$</link>
@@ -40,7 +39,6 @@
 </regex>
 <thumbnail>http://img2.tvtome.com/i/u/0aa3afb3cbe3468fc6e43e50070b0810.png</thumbnail>
 </item>
-
 
 <item>
 <title>[B][COLOR oldlace]Celebrity Deathmatch[/B][/COLOR]</title>
@@ -133,24 +131,6 @@
 </item>
 
 <item>
-<title>[B][COLOR oldlace]Adventure Time[/B][/COLOR]</title>
-<link>$doregex[file]|Cookie=$get_cookies$&amp;User-Agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:41.0) Gecko/20100101 Firefox/41.0&amp;X-Playback-Session-Id=$GUID$</link>
-<regex>
-<name>file</name>
-<expres>source src="(.*?)"</expres>
-<page>http://www.justproxy.co.uk/index.php</page>
-<referer>http://www.justproxy.co.uk</referer>
-<rawpost>q=$doregex[url-quote]&amp;hl%5Binclude_form%5D=on&amp;hl%5Baccept_cookies%5D=on&amp;hl%5Bshow_images%5D=on&amp;hl%5Bshow_referer%5D=on&amp;hl%5Bbase64_encode%5D=on&amp;hl%5Bstrip_meta%5D=on&amp;hl%5Bsession_cookies%5D=on</rawpost>
-</regex>
-<regex>
-<name>url-quote</name>
-<expres>$pyFunction:urllib.quote("https://www.arconaitv.me/at/")</expres>
-<page></page>
-</regex>
-<thumbnail>http://ia.media-imdb.com/images/M/MV5BMjE2MzE1MDI2M15BMl5BanBnXkFtZTgwNzUyODQxMDE@._V1_SX640_SY720_.jpg</thumbnail>
-</item>
-
-<item>
 <title>[B][COLOR oldlace]American Dad[/B][/COLOR]</title>
 <link>$doregex[file]|Cookie=$get_cookies$&amp;User-Agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:41.0) Gecko/20100101 Firefox/41.0&amp;X-Playback-Session-Id=$GUID$</link>
 <regex>
@@ -240,15 +220,15 @@
 <thumbnail>http://static.comicvine.com/uploads/original/4/43369/1219618-lgpp30509looney_tunes_characters_looney_tunes_poster.jpg</thumbnail>
 </item>
  
-<#item>
-	<title>[COLOR oldlace][B]Doug[/B][/COLOR]</title>
-	<link>http://50.7.136.90:81/live/aaaaaaaaaa@hotmail.com/user0011/1392.ts</link>
+<item>
+<title>[COLOR oldlace][B]Doug[/B][/COLOR]</title>
+<link>http://50.7.136.90:81/live/aaaaaaaaaa@hotmail.com/user0011/1392.ts</link>
 <thumbnail>http://s.sidereel.com/tv_shows/25767/giant_2x/72210-2.jpg</thumbnail>
 </item>
 
-<#item>
-	<title>[COLOR oldlace][B]Dexters Laboratory[/B][/COLOR]</title>
-	<link>http://50.7.136.90:81/live/aaaaaaaaaa@hotmail.com/user0011/1375.ts</link>
+<item>
+<title>[COLOR oldlace][B]Dexters Laboratory[/B][/COLOR]</title>
+<link>http://50.7.136.90:81/live/aaaaaaaaaa@hotmail.com/user0011/1375.ts</link>
 <thumbnail>http://orig10.deviantart.net/31ff/f/2013/013/3/5/dexters_laboratory_by_mikhaildingle-d5rez8b.jpg</thumbnail>
 </item>
 
@@ -288,15 +268,15 @@
 <thumbnail>http://www.tvposter.net/posters/futurama_1999_2391_poster.jpg</thumbnail>
 </item>
 
-<#item>
-	<title>[COLOR oldlace][B]Gundam Wing[/B][/COLOR]</title>
-	<link>http://50.7.136.90:81/live/aaaaaaaaaa@hotmail.com/user0011/1400.ts</link>
+<item>
+<title>[COLOR oldlace][B]Gundam Wing[/B][/COLOR]</title>
+<link>http://50.7.136.90:81/live/aaaaaaaaaa@hotmail.com/user0011/1400.ts</link>
 <thumbnail>http://images.allposters.com/images/125/007_fvgw3.jpg</thumbnail>
 </item>
 
 <#item>
-	<title>[COLOR oldlace][B]I Am Weasel[/B][/COLOR]</title>
-	<link>http://50.7.136.90:81/live/aaaaaaaaaa@hotmail.com/user0011/1404.ts</link>
+<title>[COLOR oldlace][B]I Am Weasel[/B][/COLOR]</title>
+<link>http://50.7.136.90:81/live/aaaaaaaaaa@hotmail.com/user0011/1404.ts</link>
 <thumbnail>https://s-media-cache-ak0.pinimg.com/736x/41/86/f2/4186f2757132c0c78d080a01dd9fca79.jpg</thumbnail>
 </item>
 
@@ -336,28 +316,10 @@
 <thumbnail>https://d1b4spazz1bu7a.cloudfront.net/t/p/w342/r6dIrTjWLE3GfcTZzrDYikt6YDn.jpg</thumbnail>
 </item>
 
-<#item>
+<item>
 <title>[COLOR oldlace][B]Monster Rancher[/B][/COLOR]</title>
 <link>http://50.7.136.90:81/live/aaaaaaaaaa@hotmail.com/user0011/1415.ts</link>
 <thumbnail>http://ia.media-imdb.com/images/M/MV5BMjAzMDY3MjY2N15BMl5BanBnXkFtZTYwMTAxNDU5._V1_SX640_SY720_.jpg</thumbnail>
-</item>
-
-<item>
-<title>[B][COLOR oldlace]Regular Show[/B][/COLOR]</title>
-<link>$doregex[file]|Cookie=$get_cookies$&amp;User-Agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:41.0) Gecko/20100101 Firefox/41.0&amp;X-Playback-Session-Id=$GUID$</link>
-<regex>
-<name>file</name>
-<expres>source src="(.*?)"</expres>
-<page>http://www.justproxy.co.uk/index.php</page>
-<referer>http://www.justproxy.co.uk</referer>
-<rawpost>q=$doregex[url-quote]&amp;hl%5Binclude_form%5D=on&amp;hl%5Baccept_cookies%5D=on&amp;hl%5Bshow_images%5D=on&amp;hl%5Bshow_referer%5D=on&amp;hl%5Bbase64_encode%5D=on&amp;hl%5Bstrip_meta%5D=on&amp;hl%5Bsession_cookies%5D=on</rawpost>
-</regex>
-<regex>
-<name>url-quote</name>
-<expres>$pyFunction:urllib.quote("https://arconaitv.me/rs/")</expres>
-<page></page>
-</regex>
-<thumbnail>http://caseyedwards.com/TumblrPics/RegularShow-v1.jpg</thumbnail>
 </item>
 
 <item>
@@ -378,8 +340,7 @@
 <thumbnail>http://4.bp.blogspot.com/-RKkDzPZ5q8A/VbbcFAnPfPI/AAAAAAAAC-Y/JzU5nUXRdfQ/s1600/RaMSignedMailer.jpg</thumbnail>
 </item>
 
-
-<#item>
+<item>
 <title>[COLOR oldlace][B]Ronin Warriors[/B][/COLOR]</title>
 <link>http://50.7.136.90:81/live/aaaaaaaaaa@hotmail.com/user0011/1398.ts</link>
 <thumbnail>http://ecx.images-amazon.com/images/I/517KMT1RA4L.jpg<thumbnail>
