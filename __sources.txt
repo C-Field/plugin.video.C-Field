@@ -818,6 +818,12 @@
 <title>BBC 1HD<title>
 <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/neil12345/neil12345/14943.ts;streamtype=TSDOWNLOADER&;name=BBC1HD<link>
 <thumbnail>https://ichef.bbci.co.uk/images/ic/480x270/p03r0t9m.jpg</thumbnail>
+</item>http://www.shadow-net.org/channels/BBC-1.html
+
+<item>
+<title>BBC 1<title>
+<link>http://www.shadow-net.org/channels/BBC-1.html<link>
+<thumbnail>https://ichef.bbci.co.uk/images/ic/480x270/p03r0t9m.jpg</thumbnail>
 </item>
 
 <item>
