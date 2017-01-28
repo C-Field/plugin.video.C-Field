@@ -5,8 +5,8 @@
 </item>
 
 <item>
-			<title>[COLOR oldlace]STAR TREK VOYAGER[/COLOR]</title>
-			<link>rtmp://$doregex[get_ip]/live app=live?$doregex[get_key] playpath=live_1ametv  swfUrl=http://vaughnlive.tv$doregex[get_channel] pageUrl=http://vaughnlive.tv/  live=true</link>
+<title>[COLOR oldlace]STAR TREK VOYAGER[/COLOR]</title>
+<link>rtmp://$doregex[get_ip]/live app=live?$doregex[get_key] playpath=live_1ametv  swfUrl=http://vaughnlive.tv$doregex[get_channel] pageUrl=http://vaughnlive.tv/  live=true</link>
 <regex>
 <name>get_ip</name>
 <expres>([^;]*?);:</expres>    
