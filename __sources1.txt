@@ -1,10 +1,4 @@
 <item>
-<title>SKY 1</title>
-<sportsdevil>http://www.ibrod.tv/skysports1.html</sportsdevil>
-<referer>http://www.ibrod.tv/</referer>
-</item>
-
-<item>
 <title>24/7 Peppa Pig<title>
 <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/neil12345/neil12345/23155.ts;streamtype=TSDOWNLOADER&;name=24/7PeppaPig<link>
 <thumbnail></thumbnail>
