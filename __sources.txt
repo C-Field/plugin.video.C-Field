@@ -1,9 +1,5 @@
 <item>
 <title>BBC 1</title>
-<content>movie</content>
-<imdb></imdb>
-<title></title>
-<year></year>
 <link>
 <sublink>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.70.112:8000/live/pg/pg/1513.ts&amp</sublink>
 <sublink>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.70.112:8000/live/pg/pg/755.ts&amp</sublink>
