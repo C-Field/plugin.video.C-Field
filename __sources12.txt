@@ -5,24 +5,4 @@
 <fanart></fanart>
 </item>
 
-<item>
-<title> Sky News 720p</title>
-<link>$doregex[720]</link>
-<thumbnail>http://tomburke.co.uk/wp-content/uploads/2014/11/sky-news-logo.png</thumbnail>
-<regex>
-<name>720</name>
-<expres><![CDATA[#$pyFunction
-import requests, re, xbmcgui, xbmc
-def GetLSProData(page_data,Cookie_Jar,m,url = 'https://www.youtube.com/watch?v=y60wDzZt8yg'):
- session = requests.Session()
- session.cookies = Cookie_Jar
- source = session.get(url)
- stream = re.findall('"hlsvp":"(.*?)"', source.text)[0].replace('\/','/').replace('%2C',',').replace('%3A',':')
- r0 = session.get(stream)
- m3u8 = re.findall('x720.*\n(.*?)\s', r0.text)[0]
- return m3u8
-]]></expres>
-<page></page>
-<cookieJar></cookieJar>
-</regex>
-</item>
+
