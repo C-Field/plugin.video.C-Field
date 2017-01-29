@@ -1,8 +1,8 @@
-<dir>
-<name>3D</name>
+<item>
+<title>3D<title>
 <link>http://brettusbuilds.com/3D%20THOOOOOOO/3D%20TTTHHHHHHHHOOOOOOOOOOOOOOOOOOO.XML<link>
 <thumbnail>https://i.ytimg.com/vi/K6PJyAOyuzw/maxresdefault.jpg</thumbnail>
-</dir>
+</item>
  
 <dir>
 <name>ANIMATION</name>
