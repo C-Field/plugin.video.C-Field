@@ -1,3 +1,10 @@
+#######################################################################################################################################
+<poster>One242415</poster>
+<fanart>http://stek.org/wp-content/uploads/2012/03/kiana-tom-1.jpg</fanart>
+<meta>episodes</meta>
+<tvshow>Kiana Tom Workout</tvshow>
+#######################################################################################################################################
+
 <item>
 <title>KIANA TOM - CALVES, OBLIQUES, TRAPS AND LOWER BACK WORKOUT</title>
 <link>http://www.dailymotion.com/video/x1psptc_kiana-tom-calves-obliques-traps-and-lower-back-workout-fitness-muscle-bodybuilding_sport</link>
