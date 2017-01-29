@@ -1,14 +1,14 @@
-<plugin>
+<item>
 <title>[COLOR red]NEW:[/COLOR] Jillian Michaels Workouts</title>
 <link>plugin://plugin.video.phstreams/?action=youtubePlaylist&url=PL6F135DD9918D21E7</link>
 <thumbnail>https://lh6.googleusercontent.com/-orK8uIiukFI/AAAAAAAAAAI/AAAAAAAAMP4/M3Bwz7OnrcA/s0-c-k-no-ns/photo.jpg</thumbnail>
-</plugin>
+</item>
 
-<plugin>
+<item>
 <title>[COLOR red]NEW:[/COLOR] Bob Harper Killer Workouts</title>
 <link>plugin://plugin.video.phstreams/?action=youtubePlaylist&url=PLgz2AFs3XBhjG-1gv44sbXXEDKQFZfuP-</link>
 <thumbnail>http://a4.files.biography.com/image/upload/c_fit,cs_srgb,dpr_1.0,h_1200,q_80,w_1200/MTE1ODA0OTcxOTQyOTcwODkz.jpg</thumbnail>
-</plugin>
+</item>
 
 <plugin>
 <title>[COLOR red]NEW:[/COLOR] Tony Horton & P90X videos</title>
