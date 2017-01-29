@@ -1,19 +1,71 @@
-<item>
-<title>54.Big Hero 6 (2014)</title>
-<meta>
-<content>movie</content>
-<imdb>tt2245084</imdb>
-<title>54.Big Hero 6 (2014)</title>
-<year>2014</year>
-</meta>
-<link>
-<sublink>http://filehoot.com/ytmwk2ta28ja.html</sublink>
-<sublink>http://filehoot.com/bi2sfj2camp9.html</sublink>
-<sublink>http://filehoot.com/6yqhga5sji3z.html</sublink>
-<sublink>http://filehoot.com/22jskbhywkgc.html</sublink>
-<sublink>http://filehoot.com/24i9sz6nj7c6.html</sublink>
-<sublink>http://filehoot.com/stwycq51yylh.html</sublink>
-</link>
-<thumbnail>https://i.jeded.com/i/big-hero-6.34102.jpg</thumbnail>
-<fanart>http://www.nerdglow.com/wp-content/uploads/2014/11/Big-Hero-6-Funny-Cute-Wallpaper-2014-Disney-1412893206157.jpg</fanart>
-</item>
+<dir>
+<name>3D</name>
+<link>http://brettusbuilds.com/3D%20THOOOOOOO/3D%20TTTHHHHHHHHOOOOOOOOOOOOOOOOOOO.XML<link>
+<thumbnail>https://i.ytimg.com/vi/K6PJyAOyuzw/maxresdefault.jpg</thumbnail>
+</dir>
+ 
+<dir>
+<name>ANIMATION</name>
+<link>http://pastebin.com/raw/FHqrzzFP<link>
+<thumbnail>https://i.ytimg.com/vi/3_kc80dPD5g/maxresdefault.jpg</thumbnail>
+</dir>
+ 
+<dir>
+<name>BRETTUS STREAMS LIVE</name>
+<link>http://pastebin.com/raw/qBd3c9H1</link>
+<thumbnail>http://brettusbuilds.com/brettus%20streams/LIVE%20TV/live.png</thumbnail>
+</dir>
+ 
+<dir>
+<name>DOCUMENTARY FREAK</name>
+<link>http://pastebin.com/raw/1mpWZB2s</link>
+<thumbnail>http://brettusbuilds.com/DOCUMENTARY%20FREAK/kT85j8oxc.jpg</thumbnail>
+</dir>
+ 
+<dir>
+<name>EYECANDY TV</name>
+<link>http://eyecandytv.uk/tveye/Main/home.xml</link>
+<thumbnail>https://i.ytimg.com/vi/Ul9-9GDUW5I/hqdefault.jpg?custom=true&w=168&h=94&stc=true&jpg444=true&jpgq=90&sp=68&sigh=NS3fY692YTnTTk2FKOj40YFyB6c</thumbnail>
+</dir>
+ 
+<dir>
+<name>MOREPOWER</name>
+<link>http://pastebin.com/raw/S4fF8rFi</link>
+<thumbnail>https://pbs.twimg.com/profile_images/378800000267941465/73efacc8d0db05ff9937dee1a90d7f8a.png</thumbnail>
+</dir>
+ 
+<dir>
+<name>NEMESIS MOVIES</name>
+<link>http://pastebin.com/raw/kfLj4ELL</link>
+<thumbnail>http://kodimaniacs.com/nemesis%20MOVIES/images/nemesis%20tv.png</thumbnail>
+</dir>
+ 
+<dir>
+<name>PHOENIX TV</name>
+<link>http://phoenixtv.offshorepastebin.com/main/main.xml</link>
+<thumbnail>https://seo-michael.co.uk/content/images/2016/01/fanart-copy-14.jpg</thumbnail>
+</dir>
+ 
+<dir>
+<name>SPECIALIST STREAMS</name>
+<link>http://brettusbuilds.com/specialist%20streams/specialist%20index.xml</link>
+<thumbnail>http://brettusbuilds.com/specialist%20streams/SPECIALIST%20IMAGE.jpg</thumbnail>
+</dir>
+ 
+<dir>
+<name>UPBEATS MUSIC</name>
+<link>http://hitman.space/hitmanmusic/musicmaindir.xml</link>
+<thumbnail>http://i.imgur.com/WwxJeok.jpg</thumbnail>
+</dir>
+ 
+<dir>
+<name>WHITE DEVIL</name>
+<link>http://kodimaniacs.com/WDS.xml</link>
+<thumbnail>http://1.bp.blogspot.com/_Kc8Y67Gx2cY/S-mwlwWqunI/AAAAAAAAAB4/DKy9wiOjPqY/s1600/white-devil-how-to-kill-a-lion.jpg</thumbnail>
+</dir>
+ 
+<dir>
+<name>CHOKE MY CHICKEN</name>
+<link>http://kodimaniacs.com/CHOKE.YOUR.CHICKED.xml</link>
+<thumbnail>http://amarkedman.com/wp-content/uploads/2011/06/Choke-the-Chicken.jpg</thumbnail>
+</dir>
