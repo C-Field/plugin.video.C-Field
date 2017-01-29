@@ -76,11 +76,11 @@
 <thumbnail>https://yt3.ggpht.com/-706JtftpW58/AAAAAAAAAAI/AAAAAAAAAAA/5BwaDJDNZ6c/s176-c-k-no-rj-c0xffffff/photo.jpg</thumbnail>
 </plugin>
 
-<dir>
+<item>
 <name>[COLOR red]NEW:[/COLOR] DDP Yoga</name>
 <link>http://one242415.offshorepastebin.com/fitness/DDP.xml</link>
 <thumbnail>https://pbs.twimg.com/profile_images/378800000299634675/acbc0e4f7e45c4dc48e00e26971bcb38_400x400.png</thumbnail>
-</dir>
+</item>
 
 <plugin>
 <title>[COLOR red]NEW:[/COLOR] Yoga With Adriene</title>
