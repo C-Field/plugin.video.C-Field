@@ -1,96 +1,263 @@
-#######################################################################################################################################
-<poster>One242415</poster>
-<fanart>http://stek.org/wp-content/uploads/2012/03/kiana-tom-1.jpg</fanart>
-<meta>episodes</meta>
-<tvshow>Kiana Tom Workout</tvshow>
-#######################################################################################################################################
+<plugin>
+<title>[COLOR red]NEW:[/COLOR] Jillian Michaels Workouts</title>
+<link>plugin://plugin.video.phstreams/?action=youtubePlaylist&url=PL6F135DD9918D21E7</link>
+<thumbnail>https://lh6.googleusercontent.com/-orK8uIiukFI/AAAAAAAAAAI/AAAAAAAAMP4/M3Bwz7OnrcA/s0-c-k-no-ns/photo.jpg</thumbnail>
+</plugin>
+
+<plugin>
+<title>[COLOR red]NEW:[/COLOR] Bob Harper Killer Workouts</title>
+<link>plugin://plugin.video.phstreams/?action=youtubePlaylist&url=PLgz2AFs3XBhjG-1gv44sbXXEDKQFZfuP-</link>
+<thumbnail>http://a4.files.biography.com/image/upload/c_fit,cs_srgb,dpr_1.0,h_1200,q_80,w_1200/MTE1ODA0OTcxOTQyOTcwODkz.jpg</thumbnail>
+</plugin>
+
+<plugin>
+<title>[COLOR red]NEW:[/COLOR] Tony Horton & P90X videos</title>
+<link>plugin://plugin.video.phstreams/?action=youtubePlaylist&url=PL87Fi40fHlrWg8EHsOZur3QSfwCFfBz__</link>
+<thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxoxiUSduuOatiXHjnwaG4DTb4UGuLY9xC1rOzjtqP0yH_1Ycd</thumbnail>
+</plugin>
+
+<plugin>
+<title>[COLOR red]NEW:[/COLOR] Denise Austin</title>
+<link>plugin://plugin.video.phstreams/?action=youtubePlaylist&url=PLwgVFY0gd-1yyI7OpPz5dJEs9J0QFXb5O</link>
+<thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ32kkEhfz4oXzurnfKqEEK3T_5ItJBLQ3cqVInhWM8SSLdYy5a</thumbnail>
+</plugin>
+
+<plugin>
+<title>[COLOR red]NEW:[/COLOR] Katrina Hodgson Fitness</title>
+<link>plugin://plugin.video.phstreams/?action=youtubePlaylist&url=PLE4C5C45435CD7C95</link>
+<thumbnail>https://pbs.twimg.com/profile_images/423693683/katrina-hodgson-musclefitness.jpg</thumbnail>
+</plugin>
+
+<plugin>
+<title>[COLOR red]NEW:[/COLOR] Harley Pasternak</title>
+<link>plugin://plugin.video.phstreams/?action=youtubePlaylist&url=PLZcpCpSXaMj8NI5XZpIJ5s9FD1Wh5u63N</link>
+<thumbnail>https://peopledotcom.files.wordpress.com/2016/08/harley-pasternak-600-13.jpg</thumbnail>
+</plugin>
+
+<plugin>
+<title>[COLOR red]NEW:[/COLOR] Chris Powell exercise level 1,2,3</title>
+<link>plugin://plugin.video.phstreams/?action=youtubePlaylist&url=PL-qbMGaSCfvBEM-u11xN0cXOc15orkzuy</link>
+<thumbnail>https://pbs.twimg.com/profile_images/469914897208184832/UXYNSWCX.jpeg</thumbnail>
+</plugin>
+
+<plugin>
+<title>[COLOR red]NEW:[/COLOR] Kiana tom</title>
+<link>plugin://plugin.video.phstreams/?action=youtubePlaylist&url=PLEoz4DsWon6cBVIe873sGI39HCu6i7bwa</link>
+<thumbnail>https://lh4.googleusercontent.com/-MtVrd199RkQ/AAAAAAAAAAI/AAAAAAAAv-Y/w49dP5pwI9s/s0-c-k-no-ns/photo.jpg</thumbnail>
+</plugin>
+
+<plugin>
+<title>[COLOR red]NEW:[/COLOR] Pole Dancing Workout</title>
+<link>plugin://plugin.video.phstreams/?action=youtubePlaylist&url=PLIUofSE1zMfn26DKJBpoKxkDBt2ChYTO3</link>
+<thumbnail>http://watchfit.com/wp-content/uploads/2014/12/fitness-pole-dancing_2.jpg</thumbnail>
+</plugin>
+
+<dir>
+<name>[COLOR red]LIVE TV CLICK HERE[/COLOR]</name>
+<link>http://one242415.offshorepastebin.com/fitness/liveTV.xml</link>
+<thumbnail></thumbnail>
+</dir>
 
 <item>
-<title>KIANA TOM - CALVES, OBLIQUES, TRAPS AND LOWER BACK WORKOUT</title>
-<link>http://www.dailymotion.com/video/x1psptc_kiana-tom-calves-obliques-traps-and-lower-back-workout-fitness-muscle-bodybuilding_sport.mp4</link>
-<thumbnail>http://www.askthetrainer.com/image-files/kiana-tom-fitness-icon.jpg</thumbnail>
+<title>HD WORKOUT</title>
+<link>http://www.filmon.com/channel/360-fotv-workout</link>
+<thumbnail></thumbnail>
 </item>
 
-<item>
-<title>KIANA'S FLEX APPEAL - BACK WORKOUT</title>
-<link>http://www.dailymotion.com/video/x1hmbjq_kiana-s-flex-appeal-back-workout-kiana-tom-fitness-exercise-female-bodybuilding_sport.html</link>
-<thumbnail>http://www.askthetrainer.com/image-files/kiana-tom-fitness-icon.jpg</thumbnail>
-</item>
+<plugin>
+<title>Xtreme Motivation HD</title>
+<link>plugin://plugin.video.youtube/channel/UCoR9KIrJL4KBot19AVTwJiA/?page=0</link>
+<thumbnail>https://yt3.ggpht.com/-hkGFwflFPmM/AAAAAAAAAAI/AAAAAAAAAAA/t9LOArs6V4o/s176-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
+</plugin>
 
-<item>
-<title>KIANA'S FLEX APPEAL - HOME GYM ARMS</title>
-<link>http://www.dailymotion.com/video/x1hma3j_kiana-s-flex-appeal-home-gym-arms-workout-kiana-tom-fitness-exercise-bodybuilding_sport</link>
-<thumbnail>http://www.askthetrainer.com/image-files/kiana-tom-fitness-icon.jpg</thumbnail>
-</item>
+<plugin>
+<title>[COLOR red]NEW:[/COLOR] Blogilates</title>
+<link>plugin://plugin.video.youtube/channel/UCIJwWYOfsCfz6PjxbONYXSg/?page=0</link>
+<thumbnail>https://yt3.ggpht.com/-706JtftpW58/AAAAAAAAAAI/AAAAAAAAAAA/5BwaDJDNZ6c/s176-c-k-no-rj-c0xffffff/photo.jpg</thumbnail>
+</plugin>
 
-<item>
-<title>KIANA'S FLEX APPEAL - HOME GYM TOTAL BODY WORKOUT</title>
-<link>http://www.dailymotion.com/video/x1hm6rm_kiana-s-flex-appeal-home-gym-total-body-workout-kiana-tom-fitness-exercise-bodybuilding_sport</link>
-<thumbnail>http://www.askthetrainer.com/image-files/kiana-tom-fitness-icon.jpg</thumbnail>
-</item>
+<dir>
+<name>[COLOR red]NEW:[/COLOR] DDP Yoga</name>
+<link>http://one242415.offshorepastebin.com/fitness/DDP.xml</link>
+<thumbnail>https://pbs.twimg.com/profile_images/378800000299634675/acbc0e4f7e45c4dc48e00e26971bcb38_400x400.png</thumbnail>
+</dir>
 
-<item>
-<title>KIANA'S FLEX APPEAL - LOWER BODY WORKOUT</title>
-<link>http://www.dailymotion.com/video/x1fjacf_kiana-s-flex-appeal-lower-body-workout-kiana-tom-fitness-exercise-bodybuilding_sport</link>
-<thumbnail>http://www.askthetrainer.com/image-files/kiana-tom-fitness-icon.jpg</thumbnail>
-</item>
+<plugin>
+<title>[COLOR red]NEW:[/COLOR] Yoga With Adriene</title>
+<link>plugin://plugin.video.youtube/channel/UCFKE7WVJfvaHW5q283SxchA/?page=0</link>
+<thumbnail>https://yt3.ggpht.com/-6-7NkPxEzZY/AAAAAAAAAAI/AAAAAAAAAAA/37wERyk2F-8/s176-c-k-no-rj-c0xffffff/photo.jpg</thumbnail>
+</plugin>
 
-<item>
-<title>KIANA TOM - UPPER CHEST WORKOUT</title>
-<link>http://www.dailymotion.com/video/x1d3t0y_kiana-tom-upper-chest-workout-fitness-muscle-female-bodybuilding_sport</link>
-<thumbnail>http://www.askthetrainer.com/image-files/kiana-tom-fitness-icon.jpg</thumbnail>
-</item>
+<plugin>
+<title>Fitness Blender</title>
+<link>plugin://plugin.video.youtube/channel/UCiP6wD_tYlYLYh3agzbByWQ/playlists/?page=0</link>
+<thumbnail>https://www.elementalblend.com/media/uploads/project-images/logo_fit_logo.png</thumbnail>
+</plugin>
 
-<item>
-<title>MONICA BRANT AND KIANA TOM - BACK TRAINING</title>
-<link>http://www.dailymotion.com/video/x1aszw2_monica-brant-and-kiana-tom-back-training-kiana-s-flex-appeal-fitness-muscle-female-bodybuilding_sport</link>
-<thumbnail>http://www.askthetrainer.com/image-files/kiana-tom-fitness-icon.jpg</thumbnail>
-</item>
+<plugin>
+<title>Brittany Dawn Fitness</title>
+<link>plugin://plugin.video.youtube/channel/UC4urAor1TKMTzlR2N9wFioA/</link>
+<thumbnail>http://bdawnfit.com/wp-content/uploads/2016/04/BrittanyDawnHeader.png</thumbnail>
+</plugin>
 
-<item>
-<title>KIANA TOM AND MONICA BRANT - SHOULDER WORKOUT</title>
-<link>http://www.dailymotion.com/video/x1aszxa_kiana-tom-and-monica-brant-shoulder-training-kiana-s-flex-appeal-fitness-muscle-female-bodybuilding_sport</link>
-<thumbnail>http://www.askthetrainer.com/image-files/kiana-tom-fitness-icon.jpg</thumbnail>
-</item>
+<plugin>
+<title>Christian Guzman</title>
+<link>plugin://plugin.video.youtube/channel/UCU1iJ2ChGwaNLvBjip0p2Ag/</link>
+<thumbnail>https://pbs.twimg.com/media/BecD8vUCYAAc5AL.png</thumbnail>
+</plugin>
 
-<item>
-<title>KIANA TOM - BACK TRAINING - KIANA'S FLEX APPEAL</title>
-<link>http://www.dailymotion.com/video/x1baza1_kiana-tom-back-training-kiana-s-flex-appeal-fitness-muscle-female-bodybuilding_sport</link>
-<thumbnail>http://www.askthetrainer.com/image-files/kiana-tom-fitness-icon.jpg</thumbnail>
-</item>
+<plugin>
+<title>POPSUGAR Fitness</title>
+<link>plugin://plugin.video.youtube/channel/UCBINFWq52ShSgUFEoynfSwg/playlists/?page=0</link>
+<thumbnail>https://pbs.twimg.com/profile_images/674732391219376128/aPNg36sd.png</thumbnail>
+</plugin>
 
-<item>
-<title>KIANA TOM - TRI SETS SHOULDER TRAINING</title>
-<link>http://www.dailymotion.com/video/x1bazbs_kiana-tom-tri-sets-shoulder-training-kiana-s-flex-appeal-fitness-muscle-female-bodybuilding_sport</link>
-<thumbnail>http://www.askthetrainer.com/image-files/kiana-tom-fitness-icon.jpg</thumbnail>
-</item>
+<plugin>
+<title>Bodybuilding.com</title>
+<link>plugin://plugin.video.youtube/channel/UC97k3hlbE-1rVN8y56zyEEA/playlists/?page=0</link>
+<thumbnail>http://static1.squarespace.com/static/562a8971e4b06b10dcc2a22d/t/5661ed09e4b008bd034b134f/1449258250165/</thumbnail>
+</plugin>
 
-<item>
-<title>KIANA TOM - ARMS TARGET TRAINING WORKOUT</title>
-<link>http://www.dailymotion.com/video/x1d3szg_kiana-tom-arms-target-training-workout-fitness-muscle-female-bodybuilding_sport</link>
-<thumbnail>http://www.askthetrainer.com/image-files/kiana-tom-fitness-icon.jpg</thumbnail>
-</item>
+<dir>
+<name>Other Work-Outs</name>
+<link>http://one242415.offshorepastebin.com/fitness/Other.xml</link>
+<thumbnail>http://s21.postimg.org/jr9dvc6p3/Fitness.jpg</thumbnail>
+</dir>
 
-<item>
-<title>KIANA'S FLEX APPEAL - SHOULDERS GIANT SETS</title>
-<link>http://www.dailymotion.com/video/x1cn4di_kiana-s-flex-appeal-shoulders-giant-sets-kiana-tom-fitness-exercise-bodybuilding_sport</link>
-<thumbnail>http://www.askthetrainer.com/image-files/kiana-tom-fitness-icon.jpg</thumbnail>
-</item>
+<dir>
+<name>Yoga: Nourishment/Flexibility</name>
+<link>http://one242415.offshorepastebin.com/fitness/YogaWorkouts.xml</link>
+<thumbnail>http://i.adrise.tv/9514_1_1.png</thumbnail>
+</dir>
 
-<item>
-<title>KIANA'S FLEX APPEAL - SHOULDER WORKOUT</title>
-<link>http://www.dailymotion.com/video/x1cn465_kiana-s-flex-appeal-shoulder-workout-kiana-tom-fitness-exercise-bodybuilding_sport</link>
-<thumbnail>http://www.askthetrainer.com/image-files/kiana-tom-fitness-icon.jpg</thumbnail>
-</item>
+<dir>
+<name>Fit Pregnancy</name>
+<link>http://one242415.offshorepastebin.com/fitness/Pregnant.xml</link>
+<thumbnail>http://i.adrise.tv/9463_1_1.png</thumbnail>
+</dir>
 
-<item>
-<title>KIANA TOM - ABS WORKOUT</title>
-<link>http://www.dailymotion.com/video/x1ciqml_kiana-tom-abs-workout-kiana-s-flex-appeal-fitness-exercise-female-bodybuilding_sport</link>
-<thumbnail>http://www.askthetrainer.com/image-files/kiana-tom-fitness-icon.jpg</thumbnail>
-</item>
+<dir>
+<name>Stephanie Vitorino: The Ultimate Body Shaper</name>
+<link>http://one242415.offshorepastebin.com/fitness/BodyShaper.xml</link>
+<thumbnail>http://i.adrise.tv/9621_1_1.png</thumbnail>
+</dir>
 
-<item>
-<title>KIANA'S FLEX APPEAL - MONICA BRANT AND KIANA SHOULDER WORKOUT</title>
-<link>http://www.dailymotion.com/video/x1bni5p_kiana-s-flex-appeal-monica-brant-and-kiana-tom-shoulder-workout-fitness-exercise-female-bodybuilding_sport</link>
-<thumbnail>http://www.askthetrainer.com/image-files/kiana-tom-fitness-icon.jpg</thumbnail>
-</item>
+<dir>
+<name>Lisa G: Skinny Jeans Workout</name>
+<link>http://one242415.offshorepastebin.com/fitness/SkinneyJeans.xml</link>
+<thumbnail>http://i.adrise.tv/9603_1_1.png</thumbnail>
+</dir>
+
+<dir>
+<name>Brand New Butt</name>
+<link>http://one242415.offshorepastebin.com/fitness/Butt.xml</link>
+<thumbnail>http://i.adrise.tv/9438_1_1.png</thumbnail>
+</dir>
+
+<dir>
+<name>Shimmy (2007)</name>
+<link>http://one242415.offshorepastebin.com/fitness/Shimmey.xml</link>
+<thumbnail>https://image.tmdb.org/t/p/w396/niQtB2hpiIQeBYbVTrYp0r4Su0I.jpg</thumbnail>
+</dir>
+
+<dir>
+<name>Awesome Abs</name>
+<link>http://one242415.offshorepastebin.com/fitness/Abs.xml</link>
+<thumbnail>http://i.adrise.tv/9410_1_1.png</thumbnail>
+</dir>
+
+<dir>
+<name>Martial Fusion! Guillermo Gomez</name>
+<link>http://one242415.offshorepastebin.com/fitness/Gomez.xml</link>
+<thumbnail>http://leapingbrain.com/wp-content/uploads/2013/04/Martial-Fusion-Coral-Gables-300x294.jpg</thumbnail>
+</dir>
+
+<dir>
+<name>Sexy Women of Workout and Fitness</name>
+<link>http://one242415.offshorepastebin.com/fitness/sexywoman.xml</link>
+<thumbnail>http://images.luuux.com/0000F4B202F8D73FA417B583D874802F/middle/bodyrock-tv-with-zuzana-light-322455801.jpg</thumbnail>
+</dir>
+
+<dir>
+<name>YoBoHo Fitness</name>
+<link>http://one242415.offshorepastebin.com/fitness/YoBoHo.xml</link>
+<thumbnail>https://pbs.twimg.com/profile_images/590572473382473728/4eePzAsA.png</thumbnail>
+</dir>
+
+<dir>
+<name>Fitness Videos Of The Stars</name>
+<link>http://one242415.offshorepastebin.com/fitness/stars.xml</link>
+<thumbnail>https://dgtlysmitten.files.wordpress.com/2012/01/imovie1.png</thumbnail>
+</dir>
+
+<dir>
+<name>KIANA TOM Workout</name>
+<link>http://one242415.offshorepastebin.com/fitness/KIANA.xml</link>
+<thumbnail>http://lmclients.com/kiana/images/Kiana%20Tom%20Download%203.jpg</thumbnail>
+</dir>
+
+<dir>
+<name>ARNOLD SCHWARZENEGGER BLUEPRINT VIDEOS</name>
+<link>http://one242415.offshorepastebin.com/fitness/arnold.xml</link>
+<thumbnail>http://www.bodybuilding.com/fun/images/2014/arnold-schwarzenegger-blueprint-trainer.jpg</thumbnail>
+</dir>
+
+<dir>
+<name>JAMIE EASON HEALTHY MEALS VIDEOS</name>
+<link>http://one242415.offshorepastebin.com/fitness/jamie.xml</link>
+<thumbnail>http://fatfightertv.com/blog/wp-content/uploads/2008/03/jamiefitnessblog1.jpg</thumbnail>
+</dir>
+
+<dir>
+<name>Buti Fitness Workout</name>
+<link>http://one242415.offshorepastebin.com/fitness/buti.xml</link>
+<thumbnail>http://www.dirtyandthirty.com/wp-content/uploads/2013/01/buti-1.jpg</thumbnail>
+</dir>
+
+<dir>
+<name>KettleWorx Workout</name>
+<link>http://one242415.offshorepastebin.com/fitness/kettle.xml</link>
+<thumbnail>http://www.kettleworx.com/images/products_banner.jpg</thumbnail>
+</dir>
+
+<dir>
+<name>INSANITY</name>
+<link>http://one242415.offshorepastebin.com/fitness/insanity.xml</link>
+<thumbnail>http://static.tumblr.com/6d8bf8f8331ce86095b06911c7cbcb40/q4vyzqp/GUCn40sqe/tumblr_static_3hnjth0qmtog480080cg8w48g.jpg</thumbnail>
+</dir>
+
+<dir>
+<name>YOGA</name>
+<link>http://one242415.offshorepastebin.com/fitness/yoga.xml</link>
+<thumbnail>http://fc04.deviantart.net/fs71/f/2012/283/b/1/yoga_feed_your_roots_wallpaper_by_accomplicated-d5hee9y.jpg</thumbnail>
+</dir>
+
+<dir>
+<name>BILLY BANKS</name>
+<link>http://one242415.offshorepastebin.com/fitness/billybanks.xml</link>
+<thumbnail>http://www.titletrakk.com/Images/movies-dvds/tae-bo-ultimate-300.jpg</thumbnail>
+</dir>
+
+<dir>
+<name>Shaun T's FOCUS T25 Workout</name>
+<link>http://one242415.offshorepastebin.com/fitness/focus25.xml</link>
+<thumbnail>http://groups.teamintegrity.ca/wp-content/uploads/2014/04/T25.jpg</thumbnail>
+</dir>
+
+<dir>
+<name>Nadia Latino Workout</name>
+<link>http://one242415.offshorepastebin.com/fitness/nadia.xml</link>
+<thumbnail>http://ia.media-imdb.com/images/M/MV5BMjAxMTk1ODA3MV5BMl5BanBnXkFtZTcwMzk1NDcyMQ@@._V1_SY317_CR5,0,214,317_AL_.jpg</thumbnail>
+</dir>
+
+<dir>
+<name>Total Body Sculpt</name>
+<link>http://one242415.offshorepastebin.com/fitness/bodysculpt.xml</link>
+<thumbnail>http://cdn3.volusion.com/bawkl.wuacb/v/vspfiles/photos/TBS-FUNC-2.jpg</thumbnail>
+</dir>
+
+<dir>
+<name>Scottish Ballet & Fitness</name>
+<link>http://one242415.offshorepastebin.com/fitness/scottish.xml</link>
+<thumbnail>https://pbs.twimg.com/profile_images/2035410981/3499857_300_400x400.jpg</thumbnail>
+</dir>
