@@ -1,0 +1,89 @@
+<item>
+<title>KIANA TOM - CALVES, OBLIQUES, TRAPS AND LOWER BACK WORKOUT</title>
+<link>http://www.dailymotion.com/video/x1psptc_kiana-tom-calves-obliques-traps-and-lower-back-workout-fitness-muscle-bodybuilding_sport</link>
+<thumbnail>http://www.askthetrainer.com/image-files/kiana-tom-fitness-icon.jpg</thumbnail>
+</item>
+
+<item>
+<title>KIANA'S FLEX APPEAL - BACK WORKOUT</title>
+<link>http://www.dailymotion.com/video/x1hmbjq_kiana-s-flex-appeal-back-workout-kiana-tom-fitness-exercise-female-bodybuilding_sport</link>
+<thumbnail>http://www.askthetrainer.com/image-files/kiana-tom-fitness-icon.jpg</thumbnail>
+</item>
+
+<item>
+<title>KIANA'S FLEX APPEAL - HOME GYM ARMS</title>
+<link>http://www.dailymotion.com/video/x1hma3j_kiana-s-flex-appeal-home-gym-arms-workout-kiana-tom-fitness-exercise-bodybuilding_sport</link>
+<thumbnail>http://www.askthetrainer.com/image-files/kiana-tom-fitness-icon.jpg</thumbnail>
+</item>
+
+<item>
+<title>KIANA'S FLEX APPEAL - HOME GYM TOTAL BODY WORKOUT</title>
+<link>http://www.dailymotion.com/video/x1hm6rm_kiana-s-flex-appeal-home-gym-total-body-workout-kiana-tom-fitness-exercise-bodybuilding_sport</link>
+<thumbnail>http://www.askthetrainer.com/image-files/kiana-tom-fitness-icon.jpg</thumbnail>
+</item>
+
+<item>
+<title>KIANA'S FLEX APPEAL - LOWER BODY WORKOUT</title>
+<link>http://www.dailymotion.com/video/x1fjacf_kiana-s-flex-appeal-lower-body-workout-kiana-tom-fitness-exercise-bodybuilding_sport</link>
+<thumbnail>http://www.askthetrainer.com/image-files/kiana-tom-fitness-icon.jpg</thumbnail>
+</item>
+
+<item>
+<title>KIANA TOM - UPPER CHEST WORKOUT</title>
+<link>http://www.dailymotion.com/video/x1d3t0y_kiana-tom-upper-chest-workout-fitness-muscle-female-bodybuilding_sport</link>
+<thumbnail>http://www.askthetrainer.com/image-files/kiana-tom-fitness-icon.jpg</thumbnail>
+</item>
+
+<item>
+<title>MONICA BRANT AND KIANA TOM - BACK TRAINING</title>
+<link>http://www.dailymotion.com/video/x1aszw2_monica-brant-and-kiana-tom-back-training-kiana-s-flex-appeal-fitness-muscle-female-bodybuilding_sport</link>
+<thumbnail>http://www.askthetrainer.com/image-files/kiana-tom-fitness-icon.jpg</thumbnail>
+</item>
+
+<item>
+<title>KIANA TOM AND MONICA BRANT - SHOULDER WORKOUT</title>
+<link>http://www.dailymotion.com/video/x1aszxa_kiana-tom-and-monica-brant-shoulder-training-kiana-s-flex-appeal-fitness-muscle-female-bodybuilding_sport</link>
+<thumbnail>http://www.askthetrainer.com/image-files/kiana-tom-fitness-icon.jpg</thumbnail>
+</item>
+
+<item>
+<title>KIANA TOM - BACK TRAINING - KIANA'S FLEX APPEAL</title>
+<link>http://www.dailymotion.com/video/x1baza1_kiana-tom-back-training-kiana-s-flex-appeal-fitness-muscle-female-bodybuilding_sport</link>
+<thumbnail>http://www.askthetrainer.com/image-files/kiana-tom-fitness-icon.jpg</thumbnail>
+</item>
+
+<item>
+<title>KIANA TOM - TRI SETS SHOULDER TRAINING</title>
+<link>http://www.dailymotion.com/video/x1bazbs_kiana-tom-tri-sets-shoulder-training-kiana-s-flex-appeal-fitness-muscle-female-bodybuilding_sport</link>
+<thumbnail>http://www.askthetrainer.com/image-files/kiana-tom-fitness-icon.jpg</thumbnail>
+</item>
+
+<item>
+<title>KIANA TOM - ARMS TARGET TRAINING WORKOUT</title>
+<link>http://www.dailymotion.com/video/x1d3szg_kiana-tom-arms-target-training-workout-fitness-muscle-female-bodybuilding_sport</link>
+<thumbnail>http://www.askthetrainer.com/image-files/kiana-tom-fitness-icon.jpg</thumbnail>
+</item>
+
+<item>
+<title>KIANA'S FLEX APPEAL - SHOULDERS GIANT SETS</title>
+<link>http://www.dailymotion.com/video/x1cn4di_kiana-s-flex-appeal-shoulders-giant-sets-kiana-tom-fitness-exercise-bodybuilding_sport</link>
+<thumbnail>http://www.askthetrainer.com/image-files/kiana-tom-fitness-icon.jpg</thumbnail>
+</item>
+
+<item>
+<title>KIANA'S FLEX APPEAL - SHOULDER WORKOUT</title>
+<link>http://www.dailymotion.com/video/x1cn465_kiana-s-flex-appeal-shoulder-workout-kiana-tom-fitness-exercise-bodybuilding_sport</link>
+<thumbnail>http://www.askthetrainer.com/image-files/kiana-tom-fitness-icon.jpg</thumbnail>
+</item>
+
+<item>
+<title>KIANA TOM - ABS WORKOUT</title>
+<link>http://www.dailymotion.com/video/x1ciqml_kiana-tom-abs-workout-kiana-s-flex-appeal-fitness-exercise-female-bodybuilding_sport</link>
+<thumbnail>http://www.askthetrainer.com/image-files/kiana-tom-fitness-icon.jpg</thumbnail>
+</item>
+
+<item>
+<title>KIANA'S FLEX APPEAL - MONICA BRANT AND KIANA SHOULDER WORKOUT</title>
+<link>http://www.dailymotion.com/video/x1bni5p_kiana-s-flex-appeal-monica-brant-and-kiana-tom-shoulder-workout-fitness-exercise-female-bodybuilding_sport</link>
+<thumbnail>http://www.askthetrainer.com/image-files/kiana-tom-fitness-icon.jpg</thumbnail>
+</item>
