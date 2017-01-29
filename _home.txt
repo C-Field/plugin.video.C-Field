@@ -109,6 +109,15 @@
 <info>SimpleKore.com</info>
 </channel>
 
+<channels>
+<channel>
+<name>Fitness</name>
+<thumbnail></thumbnail>
+<externallink>https://raw.githubusercontent.com/stuartdrew/plugin.video.C-Field/master/__sources12.txt</externallink>
+<fanart>http://stek.org/wp-content/uploads/2012/03/kiana-tom-1.jpg</fanart>
+<info>SimpleKore.com</info>
+</channel>
+
 <--!!channel>
 <name>Youtube</name>
 <thumbnail></thumbnail>
