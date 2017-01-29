@@ -1,1 +1,15 @@
-
+<item>
+<title>ABC 27</title>
+<meta>
+<content>movie</content>
+<imdb></imdb>
+<title></title>
+<year></year>
+</meta>
+<link>
+<sublink>http://www.shadow-net.org/channels/ABC-27.html</sublink>
+<sublink></sublink>
+</link>
+<thumbnail>http://bloximages.newyork1.vip.townnews.com/lancasteronline.com/content/tncms/assets/v3/editorial/0/a7/0a74c5f8-fbb4-11e3-aec4-001a4bcf6878/53a99900b2301.image.png</thumbnail>
+<fanart></fanart>
+</item>
