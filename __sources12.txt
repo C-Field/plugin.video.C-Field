@@ -1,263 +1,233 @@
-<item>
-<title>[COLOR red]NEW:[/COLOR] Jillian Michaels Workouts</title>
-<link>plugin://plugin.video.phstreams/?action=youtubePlaylist&url=PL6F135DD9918D21E7</link>
-<thumbnail>https://lh6.googleusercontent.com/-orK8uIiukFI/AAAAAAAAAAI/AAAAAAAAMP4/M3Bwz7OnrcA/s0-c-k-no-ns/photo.jpg</thumbnail>
-</item>
+#######################################################################################################################################
+<poster>Phoenix</poster>
+#######################################################################################################################################
 
 <item>
-<title>[COLOR red]NEW:[/COLOR] Bob Harper Killer Workouts</title>
-<link>plugin://plugin.video.phstreams/?action=youtubePlaylist&url=PLgz2AFs3XBhjG-1gv44sbXXEDKQFZfuP-</link>
-<thumbnail>http://a4.files.biography.com/image/upload/c_fit,cs_srgb,dpr_1.0,h_1200,q_80,w_1200/MTE1ODA0OTcxOTQyOTcwODkz.jpg</thumbnail>
+<name>Phoenix TV</name>
+<thumbnail>http://phoenixtv.offshorepastebin.com/art/main/Phoenix%20TV.jpg</thumbnail>
+<link>$doregex[dir]</link>
+<regex>
+<name>dir</name>
+<listrepeat>dir</listrepeat>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url = 'http://phoenixtv.offshorepastebin.com/tv/main.xml'):
+    from resources.lib.modules import control
+    if not control.infoLabel('Container.PluginName') == 'plugin.video.phstreams': return
+    from resources.lib.indexers import phstreams
+    phstreams.indexer().get(url)
+]]></expres>
+<page></page>
+</regex>
 </item>
-
-<plugin>
-<title>[COLOR red]NEW:[/COLOR] Tony Horton & P90X videos</title>
-<link>plugin://plugin.video.phstreams/?action=youtubePlaylist&url=PL87Fi40fHlrWg8EHsOZur3QSfwCFfBz__</link>
-<thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxoxiUSduuOatiXHjnwaG4DTb4UGuLY9xC1rOzjtqP0yH_1Ycd</thumbnail>
-</plugin>
-
-<plugin>
-<title>[COLOR red]NEW:[/COLOR] Denise Austin</title>
-<link>plugin://plugin.video.phstreams/?action=youtubePlaylist&url=PLwgVFY0gd-1yyI7OpPz5dJEs9J0QFXb5O</link>
-<thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ32kkEhfz4oXzurnfKqEEK3T_5ItJBLQ3cqVInhWM8SSLdYy5a</thumbnail>
-</plugin>
-
-<plugin>
-<title>[COLOR red]NEW:[/COLOR] Katrina Hodgson Fitness</title>
-<link>plugin://plugin.video.phstreams/?action=youtubePlaylist&url=PLE4C5C45435CD7C95</link>
-<thumbnail>https://pbs.twimg.com/profile_images/423693683/katrina-hodgson-musclefitness.jpg</thumbnail>
-</plugin>
-
-<plugin>
-<title>[COLOR red]NEW:[/COLOR] Harley Pasternak</title>
-<link>plugin://plugin.video.phstreams/?action=youtubePlaylist&url=PLZcpCpSXaMj8NI5XZpIJ5s9FD1Wh5u63N</link>
-<thumbnail>https://peopledotcom.files.wordpress.com/2016/08/harley-pasternak-600-13.jpg</thumbnail>
-</plugin>
-
-<plugin>
-<title>[COLOR red]NEW:[/COLOR] Chris Powell exercise level 1,2,3</title>
-<link>plugin://plugin.video.phstreams/?action=youtubePlaylist&url=PL-qbMGaSCfvBEM-u11xN0cXOc15orkzuy</link>
-<thumbnail>https://pbs.twimg.com/profile_images/469914897208184832/UXYNSWCX.jpeg</thumbnail>
-</plugin>
-
-<plugin>
-<title>[COLOR red]NEW:[/COLOR] Kiana tom</title>
-<link>plugin://plugin.video.phstreams/?action=youtubePlaylist&url=PLEoz4DsWon6cBVIe873sGI39HCu6i7bwa</link>
-<thumbnail>https://lh4.googleusercontent.com/-MtVrd199RkQ/AAAAAAAAAAI/AAAAAAAAv-Y/w49dP5pwI9s/s0-c-k-no-ns/photo.jpg</thumbnail>
-</plugin>
-
-<plugin>
-<title>[COLOR red]NEW:[/COLOR] Pole Dancing Workout</title>
-<link>plugin://plugin.video.phstreams/?action=youtubePlaylist&url=PLIUofSE1zMfn26DKJBpoKxkDBt2ChYTO3</link>
-<thumbnail>http://watchfit.com/wp-content/uploads/2014/12/fitness-pole-dancing_2.jpg</thumbnail>
-</plugin>
-
-<dir>
-<name>[COLOR red]LIVE TV CLICK HERE[/COLOR]</name>
-<link>http://one242415.offshorepastebin.com/fitness/liveTV.xml</link>
-<thumbnail></thumbnail>
-</dir>
-
 <item>
-<title>HD WORKOUT</title>
-<link>http://www.filmon.com/channel/360-fotv-workout</link>
-<thumbnail></thumbnail>
+<name>Phoenix Sports</name>
+<thumbnail>http://phoenixtv.offshorepastebin.com/art/main/Phoenix%20Sports.jpg</thumbnail>
+<link>$doregex[dir]</link>
+<regex>
+<name>dir</name>
+<listrepeat>dir</listrepeat>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url = 'http://phoenixtv.offshorepastebin.com/tv/events.xml'):
+    from resources.lib.modules import control
+    if not control.infoLabel('Container.PluginName') == 'plugin.video.phstreams': return
+    from resources.lib.indexers import phstreams
+    phstreams.indexer().get(url)
+]]></expres>
+<page></page>
+</regex>
 </item>
-
-<plugin>
-<title>Xtreme Motivation HD</title>
-<link>plugin://plugin.video.youtube/channel/UCoR9KIrJL4KBot19AVTwJiA/?page=0</link>
-<thumbnail>https://yt3.ggpht.com/-hkGFwflFPmM/AAAAAAAAAAI/AAAAAAAAAAA/t9LOArs6V4o/s176-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
-</plugin>
-
-<plugin>
-<title>[COLOR red]NEW:[/COLOR] Blogilates</title>
-<link>plugin://plugin.video.youtube/channel/UCIJwWYOfsCfz6PjxbONYXSg/?page=0</link>
-<thumbnail>https://yt3.ggpht.com/-706JtftpW58/AAAAAAAAAAI/AAAAAAAAAAA/5BwaDJDNZ6c/s176-c-k-no-rj-c0xffffff/photo.jpg</thumbnail>
-</plugin>
-
 <item>
-<name>[COLOR red]NEW:[/COLOR] DDP Yoga</name>
-<link>http://one242415.offshorepastebin.com/fitness/DDP.xml</link>
-<thumbnail>https://pbs.twimg.com/profile_images/378800000299634675/acbc0e4f7e45c4dc48e00e26971bcb38_400x400.png</thumbnail>
+<name>Phoenix New Releases</name>
+<thumbnail>http://phoenixtv.offshorepastebin.com/art/main/Phoenix%20New%20Releases.jpg</thumbnail>
+<link>$doregex[dir]</link>
+<regex>
+<name>dir</name>
+<listrepeat>dir</listrepeat>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url = 'http://phoenixtv.offshorepastebin.com/releases/main.xml'):
+    from resources.lib.modules import control
+    if not control.infoLabel('Container.PluginName') == 'plugin.video.phstreams': return
+    from resources.lib.indexers import phstreams
+    phstreams.indexer().get(url)
+]]></expres>
+<page></page>
+</regex>
 </item>
-
+<item>
+<name>Incredible TV</name>
+<thumbnail>http://phoenixtv.offshorepastebin.com/art/main/INCREDIBLETV22.jpg</thumbnail>
+<link>$doregex[dir]</link>
+<regex>
+<name>dir</name>
+<listrepeat>dir</listrepeat>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url = 'http://phoenixtv.offshorepastebin.com/incredible-tv/main.xml'):
+    from resources.lib.modules import control
+    if not control.infoLabel('Container.PluginName') == 'plugin.video.phstreams': return
+    from resources.lib.indexers import phstreams
+    phstreams.indexer().get(url)
+]]></expres>
+<page></page>
+</regex>
+</item>
+<item>
+<name>Cosmix</name>
+<thumbnail>http://cosmix.offshorepastebin.com/Weblinks/icons/cosmixlogo.png</thumbnail>
+<link>$doregex[dir]</link>
+<regex>
+<name>dir</name>
+<listrepeat>dir</listrepeat>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url = 'http://cosmix.offshorepastebin.com/Weblinks/cosmixphlink.xml'):
+    from resources.lib.modules import control
+    if not control.infoLabel('Container.PluginName') == 'plugin.video.phstreams': return
+    from resources.lib.indexers import phstreams
+    phstreams.indexer().get(url)
+]]></expres>
+<page></page>
+</regex>
+</item>
+<item>
+<name>Crusader88</name>
+<thumbnail>http://phoenixtv.offshorepastebin.com/art/main/crusadericon.png</thumbnail>
+<link>$doregex[dir]</link>
+<regex>
+<name>dir</name>
+<listrepeat>dir</listrepeat>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url = 'http://crusader88.offshorepastebin.com/main.xml'):
+    from resources.lib.modules import control
+    if not control.infoLabel('Container.PluginName') == 'plugin.video.phstreams': return
+    from resources.lib.indexers import phstreams
+    phstreams.indexer().get(url)
+]]></expres>
+<page></page>
+</regex>
+</item>
+<item>
+<name>Diva's Den</name>
+<thumbnail>http://phoenixtv.offshorepastebin.com/art/main/DivaLogo.jpg</thumbnail>
+<link>$doregex[dir]</link>
+<regex>
+<name>dir</name>
+<listrepeat>dir</listrepeat>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url = 'http://one242415.offshorepastebin.com/Diva/Diva_Directory.xml'):
+    from resources.lib.modules import control
+    if not control.infoLabel('Container.PluginName') == 'plugin.video.phstreams': return
+    from resources.lib.indexers import phstreams
+    phstreams.indexer().get(url)
+]]></expres>
+<page></page>
+</regex>
+</item>
+<item>
+<name>MorePower</name>
+<thumbnail>https://pbs.twimg.com/profile_images/378800000267941465/73efacc8d0db05ff9937dee1a90d7f8a.png</thumbnail> 
+<link>$doregex[dir]</link>
+<regex>
+<name>dir</name>
+<listrepeat>dir</listrepeat>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url = 'http://morepower.offshorepastebin.com/MorePower_Directory.xml'):
+    from resources.lib.modules import control
+    if not control.infoLabel('Container.PluginName') == 'plugin.video.phstreams': return
+    from resources.lib.indexers import phstreams
+    phstreams.indexer().get(url)
+]]></expres>
+<page></page>
+</regex>
+</item>
+<item>
+<name>One242415</name>
+<thumbnail>http://phoenixtv.offshorepastebin.com/art/main/BCADONE242415PNG.png</thumbnail> 
+<link>$doregex[dir]</link>
+<regex>
+<name>dir</name>
+<listrepeat>dir</listrepeat>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url = 'http://one242415.offshorepastebin.com/maindir/main.xml'):
+    from resources.lib.modules import control
+    if not control.infoLabel('Container.PluginName') == 'plugin.video.phstreams': return
+    from resources.lib.indexers import phstreams
+    phstreams.indexer().get(url)
+]]></expres>
+<page></page>
+</regex>
+</item>
+<item>
+<name>Collections</name>
+<thumbnail>http://phoenixtv.offshorepastebin.com/art/main/collections.jpg</thumbnail>
+<link>$doregex[dir]</link>
+<regex>
+<name>dir</name>
+<listrepeat>dir</listrepeat>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url = 'http://phoenixtv.offshorepastebin.com/collections/main.xml'):
+    from resources.lib.modules import control
+    if not control.infoLabel('Container.PluginName') == 'plugin.video.phstreams': return
+    from resources.lib.indexers import phstreams
+    phstreams.indexer().get(url)
+]]></expres>
+<page></page>
+</regex>
+</item>
+<item>
+<name>Filmography</name>
+<thumbnail>http://phoenixtv.offshorepastebin.com/art/main/filmography.jpg</thumbnail>
+<link>$doregex[dir]</link>
+<regex>
+<name>dir</name>
+<listrepeat>dir</listrepeat>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url = 'http://phoenixtv.offshorepastebin.com/actors/main.xml'):
+    from resources.lib.modules import control
+    if not control.infoLabel('Container.PluginName') == 'plugin.video.phstreams': return
+    from resources.lib.indexers import phstreams
+    phstreams.indexer().get(url)
+]]></expres>
+<page></page>
+</regex>
+</item>
+<item>
+<name>Documentary</name>
+<thumbnail>http://phoenixtv.offshorepastebin.com/art/main/DocumentaryPHX2.jpg</thumbnail>
+<link>$doregex[dir]</link>
+<regex>
+<name>dir</name>
+<listrepeat>dir</listrepeat>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url = 'http://one242415.offshorepastebin.com/Misc/docs.xml'):
+    from resources.lib.modules import control
+    if not control.infoLabel('Container.PluginName') == 'plugin.video.phstreams': return
+    from resources.lib.indexers import phstreams
+    phstreams.indexer().get(url)
+]]></expres>
+<page></page>
+</regex>
+</item>
 <plugin>
-<title>[COLOR red]NEW:[/COLOR] Yoga With Adriene</title>
-<link>plugin://plugin.video.youtube/channel/UCFKE7WVJfvaHW5q283SxchA/?page=0</link>
-<thumbnail>https://yt3.ggpht.com/-6-7NkPxEzZY/AAAAAAAAAAI/AAAAAAAAAAA/37wERyk2F-8/s176-c-k-no-rj-c0xffffff/photo.jpg</thumbnail>
+<name>Cartoon Crazy</name>
+<link>plugin://plugin.video.phstreams/?action=cartoon</link>
+<thumbnail>http://phoenixtv.offshorepastebin.com/art/main/CARTOONCRAZE.jpg</thumbnail>
 </plugin>
-
 <plugin>
-<title>Fitness Blender</title>
-<link>plugin://plugin.video.youtube/channel/UCiP6wD_tYlYLYh3agzbByWQ/playlists/?page=0</link>
-<thumbnail>https://www.elementalblend.com/media/uploads/project-images/logo_fit_logo.png</thumbnail>
+<name>30701</name>
+<link>plugin://plugin.video.phstreams/?action=openSettings</link>
+<thumbnail>http://phoenixtv.offshorepastebin.com/art/main/Settings%201.png</thumbnail>
 </plugin>
-
 <plugin>
-<title>Brittany Dawn Fitness</title>
-<link>plugin://plugin.video.youtube/channel/UC4urAor1TKMTzlR2N9wFioA/</link>
-<thumbnail>http://bdawnfit.com/wp-content/uploads/2016/04/BrittanyDawnHeader.png</thumbnail>
+<name>30721</name>
+<link>plugin://plugin.video.phstreams/?action=downloader</link>
+<thumbnail>http://phoenixtv.offshorepastebin.com/art/main/Downloads.png</thumbnail>
 </plugin>
-
 <plugin>
-<title>Christian Guzman</title>
-<link>plugin://plugin.video.youtube/channel/UCU1iJ2ChGwaNLvBjip0p2Ag/</link>
-<thumbnail>https://pbs.twimg.com/media/BecD8vUCYAAc5AL.png</thumbnail>
+<name>30702</name>
+<link>plugin://plugin.video.phstreams/?action=search</link>
+<thumbnail>http://phoenixtv.offshorepastebin.com/art/main/Search%201.png</thumbnail>
 </plugin>
-
 <plugin>
-<title>POPSUGAR Fitness</title>
-<link>plugin://plugin.video.youtube/channel/UCBINFWq52ShSgUFEoynfSwg/playlists/?page=0</link>
-<thumbnail>https://pbs.twimg.com/profile_images/674732391219376128/aPNg36sd.png</thumbnail>
+<name>Testings</name>
+<link>plugin://plugin.video.phstreams/?action=developer</link>
+<thumbnail>http://phoenixtv.offshorepastebin.com/art/main/Testings.png</thumbnail>
 </plugin>
-
-<plugin>
-<title>Bodybuilding.com</title>
-<link>plugin://plugin.video.youtube/channel/UC97k3hlbE-1rVN8y56zyEEA/playlists/?page=0</link>
-<thumbnail>http://static1.squarespace.com/static/562a8971e4b06b10dcc2a22d/t/5661ed09e4b008bd034b134f/1449258250165/</thumbnail>
-</plugin>
-
-<dir>
-<name>Other Work-Outs</name>
-<link>http://one242415.offshorepastebin.com/fitness/Other.xml</link>
-<thumbnail>http://s21.postimg.org/jr9dvc6p3/Fitness.jpg</thumbnail>
-</dir>
-
-<dir>
-<name>Yoga: Nourishment/Flexibility</name>
-<link>http://one242415.offshorepastebin.com/fitness/YogaWorkouts.xml</link>
-<thumbnail>http://i.adrise.tv/9514_1_1.png</thumbnail>
-</dir>
-
-<dir>
-<name>Fit Pregnancy</name>
-<link>http://one242415.offshorepastebin.com/fitness/Pregnant.xml</link>
-<thumbnail>http://i.adrise.tv/9463_1_1.png</thumbnail>
-</dir>
-
-<dir>
-<name>Stephanie Vitorino: The Ultimate Body Shaper</name>
-<link>http://one242415.offshorepastebin.com/fitness/BodyShaper.xml</link>
-<thumbnail>http://i.adrise.tv/9621_1_1.png</thumbnail>
-</dir>
-
-<dir>
-<name>Lisa G: Skinny Jeans Workout</name>
-<link>http://one242415.offshorepastebin.com/fitness/SkinneyJeans.xml</link>
-<thumbnail>http://i.adrise.tv/9603_1_1.png</thumbnail>
-</dir>
-
-<dir>
-<name>Brand New Butt</name>
-<link>http://one242415.offshorepastebin.com/fitness/Butt.xml</link>
-<thumbnail>http://i.adrise.tv/9438_1_1.png</thumbnail>
-</dir>
-
-<dir>
-<name>Shimmy (2007)</name>
-<link>http://one242415.offshorepastebin.com/fitness/Shimmey.xml</link>
-<thumbnail>https://image.tmdb.org/t/p/w396/niQtB2hpiIQeBYbVTrYp0r4Su0I.jpg</thumbnail>
-</dir>
-
-<dir>
-<name>Awesome Abs</name>
-<link>http://one242415.offshorepastebin.com/fitness/Abs.xml</link>
-<thumbnail>http://i.adrise.tv/9410_1_1.png</thumbnail>
-</dir>
-
-<dir>
-<name>Martial Fusion! Guillermo Gomez</name>
-<link>http://one242415.offshorepastebin.com/fitness/Gomez.xml</link>
-<thumbnail>http://leapingbrain.com/wp-content/uploads/2013/04/Martial-Fusion-Coral-Gables-300x294.jpg</thumbnail>
-</dir>
-
-<dir>
-<name>Sexy Women of Workout and Fitness</name>
-<link>http://one242415.offshorepastebin.com/fitness/sexywoman.xml</link>
-<thumbnail>http://images.luuux.com/0000F4B202F8D73FA417B583D874802F/middle/bodyrock-tv-with-zuzana-light-322455801.jpg</thumbnail>
-</dir>
-
-<dir>
-<name>YoBoHo Fitness</name>
-<link>http://one242415.offshorepastebin.com/fitness/YoBoHo.xml</link>
-<thumbnail>https://pbs.twimg.com/profile_images/590572473382473728/4eePzAsA.png</thumbnail>
-</dir>
-
-<dir>
-<name>Fitness Videos Of The Stars</name>
-<link>http://one242415.offshorepastebin.com/fitness/stars.xml</link>
-<thumbnail>https://dgtlysmitten.files.wordpress.com/2012/01/imovie1.png</thumbnail>
-</dir>
-
-<dir>
-<name>KIANA TOM Workout</name>
-<link>http://one242415.offshorepastebin.com/fitness/KIANA.xml</link>
-<thumbnail>http://lmclients.com/kiana/images/Kiana%20Tom%20Download%203.jpg</thumbnail>
-</dir>
-
-<dir>
-<name>ARNOLD SCHWARZENEGGER BLUEPRINT VIDEOS</name>
-<link>http://one242415.offshorepastebin.com/fitness/arnold.xml</link>
-<thumbnail>http://www.bodybuilding.com/fun/images/2014/arnold-schwarzenegger-blueprint-trainer.jpg</thumbnail>
-</dir>
-
-<dir>
-<name>JAMIE EASON HEALTHY MEALS VIDEOS</name>
-<link>http://one242415.offshorepastebin.com/fitness/jamie.xml</link>
-<thumbnail>http://fatfightertv.com/blog/wp-content/uploads/2008/03/jamiefitnessblog1.jpg</thumbnail>
-</dir>
-
-<dir>
-<name>Buti Fitness Workout</name>
-<link>http://one242415.offshorepastebin.com/fitness/buti.xml</link>
-<thumbnail>http://www.dirtyandthirty.com/wp-content/uploads/2013/01/buti-1.jpg</thumbnail>
-</dir>
-
-<dir>
-<name>KettleWorx Workout</name>
-<link>http://one242415.offshorepastebin.com/fitness/kettle.xml</link>
-<thumbnail>http://www.kettleworx.com/images/products_banner.jpg</thumbnail>
-</dir>
-
-<dir>
-<name>INSANITY</name>
-<link>http://one242415.offshorepastebin.com/fitness/insanity.xml</link>
-<thumbnail>http://static.tumblr.com/6d8bf8f8331ce86095b06911c7cbcb40/q4vyzqp/GUCn40sqe/tumblr_static_3hnjth0qmtog480080cg8w48g.jpg</thumbnail>
-</dir>
-
-<dir>
-<name>YOGA</name>
-<link>http://one242415.offshorepastebin.com/fitness/yoga.xml</link>
-<thumbnail>http://fc04.deviantart.net/fs71/f/2012/283/b/1/yoga_feed_your_roots_wallpaper_by_accomplicated-d5hee9y.jpg</thumbnail>
-</dir>
-
-<dir>
-<name>BILLY BANKS</name>
-<link>http://one242415.offshorepastebin.com/fitness/billybanks.xml</link>
-<thumbnail>http://www.titletrakk.com/Images/movies-dvds/tae-bo-ultimate-300.jpg</thumbnail>
-</dir>
-
-<dir>
-<name>Shaun T's FOCUS T25 Workout</name>
-<link>http://one242415.offshorepastebin.com/fitness/focus25.xml</link>
-<thumbnail>http://groups.teamintegrity.ca/wp-content/uploads/2014/04/T25.jpg</thumbnail>
-</dir>
-
-<dir>
-<name>Nadia Latino Workout</name>
-<link>http://one242415.offshorepastebin.com/fitness/nadia.xml</link>
-<thumbnail>http://ia.media-imdb.com/images/M/MV5BMjAxMTk1ODA3MV5BMl5BanBnXkFtZTcwMzk1NDcyMQ@@._V1_SY317_CR5,0,214,317_AL_.jpg</thumbnail>
-</dir>
-
-<dir>
-<name>Total Body Sculpt</name>
-<link>http://one242415.offshorepastebin.com/fitness/bodysculpt.xml</link>
-<thumbnail>http://cdn3.volusion.com/bawkl.wuacb/v/vspfiles/photos/TBS-FUNC-2.jpg</thumbnail>
-</dir>
-
-<dir>
-<name>Scottish Ballet & Fitness</name>
-<link>http://one242415.offshorepastebin.com/fitness/scottish.xml</link>
-<thumbnail>https://pbs.twimg.com/profile_images/2035410981/3499857_300_400x400.jpg</thumbnail>
-</dir>
