@@ -1,89 +1,89 @@
 <item>
 <title>CITV<title>
-<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/neil12345/neil12345/13483.ts;streamtype=TSDOWNLOADER&;name=CITV<link>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/uzzy/uzzy/13483.ts;streamtype=TSDOWNLOADER&;name=CITV<link>
 <thumbnail></thumbnail>
 </item>
 
 <item>
 <title>NICK JR<title>
-<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/neil12345/neil12345/13499.ts;streamtype=TSDOWNLOADER&;name=NICK JR<link>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/uzzy/uzzy/13499.ts;streamtype=TSDOWNLOADER&;name=NICK JR<link>
 <thumbnail></thumbnail>
 </item>
 
 <item>
 <title>NICK JR<title>
-<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/neil12345/neil12345/13499.ts;streamtype=TSDOWNLOADER&;name=NICK JR<link>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/uzzy/uzzy/13499.ts;streamtype=TSDOWNLOADER&;name=NICK JR<link>
 <thumbnail></thumbnail>
 </item>
 
 <item>
 <title>NICK JR TOO<title>
-<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/neil12345/neil12345/13489.ts;streamtype=TSDOWNLOADER&;name=NICKJRTOO<link>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/uzzy/uzzy/13489.ts;streamtype=TSDOWNLOADER&;name=NICKJRTOO<link>
 <thumbnail></thumbnail>
 </item>
 
 <item>
 <title>CARTOON NETWORK<title>
-<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/neil12345/neil12345/13559.ts;streamtype=TSDOWNLOADER&;name=CN<link>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/uzzy/uzzy/13559.ts;streamtype=TSDOWNLOADER&;name=CN<link>
 <thumbnail></thumbnail>
 </item>
 
 <item>
 <title>DISNEY CHANNEL<title>
-<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/neil12345/neil12345/13515.ts;streamtype=TSDOWNLOADER&;name=DISNEYCHANNEL<link>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/uzzy/uzzy/13515.ts;streamtype=TSDOWNLOADER&;name=DISNEYCHANNEL<link>
 <thumbnail></thumbnail>
 </item>
 
 <item>
 <title>DISNEY CHANNEL<title>
-<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/neil12345/neil12345/13515.ts;streamtype=TSDOWNLOADER&;name=DISNEYCHANNEL<link>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/uzzy/uzzy/13515.ts;streamtype=TSDOWNLOADER&;name=DISNEYCHANNEL<link>
 <thumbnail></thumbnail>
 </item>
 
 <item>
 <title>DISNEY JUNIOR<title>
-<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/neil12345/neil12345/13526.ts;streamtype=TSDOWNLOADER&;name=DISNEYJUNIOR<link>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/uzzy/uzzy/13526.ts;streamtype=TSDOWNLOADER&;name=DISNEYJUNIOR<link>
 <thumbnail></thumbnail>
 </item>
 
 <item>
 <title>DISNEY JUNIOR<title>
-<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/neil12345/neil12345/13526.ts;streamtype=TSDOWNLOADER&;name=DISNEYJUNIOR<link>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/uzzy/uzzy/13526.ts;streamtype=TSDOWNLOADER&;name=DISNEYJUNIOR<link>
 <thumbnail></thumbnail>
 </item>
 
 <item>
 <title>DISNEY XD<title>
-<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/neil12345/neil12345/13543.ts;streamtype=TSDOWNLOADER&;name=DISNEYXD<link>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/uzzy/uzzy/13543.ts;streamtype=TSDOWNLOADER&;name=DISNEYXD<link>
 <thumbnail></thumbnail>
 </item>
 
 <item>
 <title>DISNEY XD<title>
-<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/neil12345/neil12345/13543.ts;streamtype=TSDOWNLOADER&;name=DISNEYXD<link>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/uzzy/uzzy/13543.ts;streamtype=TSDOWNLOADER&;name=DISNEYXD<link>
 <thumbnail></thumbnail>
 </item>
 
 <item>
 <title>TINY POP<title>
-<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/neil12345/neil12345/13580.ts;streamtype=TSDOWNLOADER&;name=TINYPOP<link>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/uzzy/uzzy/13580.ts;streamtype=TSDOWNLOADER&;name=TINYPOP<link>
 <thumbnail></thumbnail>
 </item>
 
 <item>
 <title>NICKELODEN<title>
-<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/neil12345/neil12345/13471.ts;streamtype=TSDOWNLOADER&;name=NICK<link>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/uzzy/uzzy/13471.ts;streamtype=TSDOWNLOADER&;name=NICK<link>
 <thumbnail>NICK</thumbnail>
 </item>
 
 <item>
 <title>BOOMERANG<title>
-<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/neil12345/neil12345/13562.ts;streamtype=TSDOWNLOADER&;name=BOOMERANG<link>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/uzzy/uzzy/13562.ts;streamtype=TSDOWNLOADER&;name=BOOMERANG<link>
 <thumbnail></thumbnail>
 </item>
 
 <item>
 <title>BOOMERANG<title>
-<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/neil12345/neil12345/13562.ts;streamtype=TSDOWNLOADER&;name=BOOMERANG<link>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/uzzy/uzzy/13562.ts;streamtype=TSDOWNLOADER&;name=BOOMERANG<link>
 <thumbnail></thumbnail>
 </item>
