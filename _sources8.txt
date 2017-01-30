@@ -70,10 +70,6 @@
 <thumbnail>http://www.comedyquotes.tv/wp-content/uploads/2016/03/Phoenix-Nights.jpg</thumbnail>
 </item>
 
-
-
-
-
 <channels>
 <channel>
 <name>[COLOR red]10 Things I Hate About You S01[/COLOR]</name>
