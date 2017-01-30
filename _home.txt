@@ -12,7 +12,7 @@
 
 <channels>
 <channel>
-<name>UKTV 2</name>
+<name>UK TV 2</name>
 <thumbnail>https://image.winudf.com/149/01fc2b91d906c7c9/screen-2.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/stuartdrew/plugin.video.C-Field/master/__sources12.txt</externallink>
 <fanart>http://stek.org/wp-content/uploads/2012/03/kiana-tom-1.jpg</fanart>
@@ -21,7 +21,7 @@
 
 <channels>
 <channel>
-<name>UKTV 3</name>
+<name>UK TV 3</name>
 <thumbnail>https://image.winudf.com/149/01fc2b91d906c7c9/screen-2.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/stuartdrew/plugin.video.C-Field/master/__sources15othereiptv.txt</externallink>
 <fanart>http://stek.org/wp-content/uploads/2012/03/kiana-tom-1.jpg</fanart>
@@ -96,6 +96,15 @@
 <name>FILM SECTION 2</name>
 <thumbnail>http://www.lightcast.com/images/featured_apps/roku/apps/00378_336x210.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/stuartdrew/plugin.video.C-Field/master/__sources14othermovies.txt</externallink>
+<fanart></fanart>
+<info>SimpleKore.com</info>
+</channel>
+
+<channels>
+<channel>
+<name>FILM SECTION 3</name>
+<thumbnail>http://www.lightcast.com/images/featured_apps/roku/apps/00378_336x210.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/stuartdrew/plugin.video.C-Field/master/__sources16othermovies.txt</externallink>
 <fanart></fanart>
 <info>SimpleKore.com</info>
 </channel>
