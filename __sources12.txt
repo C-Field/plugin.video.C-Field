@@ -1,3 +1,12 @@
+<item>
+<title>ITV HD</title>
+<sportsdevil>http://www.shadow-net.org/channels/ITV-1.html</sportsdevil>
+<referer>http://www.shadow-net.org/channels/ITV-1.html</referer>
+<thumbnail>http://keyassets-p2.timeincuk.net/wp/prod/wp-content/uploads/sites/42/2014/07/940x339_itv.jpg</thumbnail>
+<fanart>http://www.stephen-builds.co.uk/wizard/fanart12.jpg</fanart>
+</item>
+
+
 #EXTINF:-1,=======   UK:ENTERTAINMENT   =======
 http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/2615.ts
 #EXTINF:-1,UK: BBC1 HD
