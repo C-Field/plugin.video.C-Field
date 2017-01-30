@@ -86,7 +86,7 @@
 <channel>
 <name>FILM SECTION 2</name>
 <thumbnail>http://www.lightcast.com/images/featured_apps/roku/apps/00378_336x210.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/stuartdrew/plugin.video.C-Field/master/__sources14othermovies.txt</externallink>
+<externallink>https://raw.githubusercontent.com/stuartdrew/plugin.video.C-Field/master/__sources14othermovies.txt.txt</externallink>
 <fanart></fanart>
 <info>SimpleKore.com</info>
 </channel>
