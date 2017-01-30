@@ -102,6 +102,15 @@
 
 <channels>
 <channel>
+<name>SPORT 2</name>
+<thumbnail>https://yt3.ggpht.com/-A6ULdz3xFaE/AAAAAAAAAAI/AAAAAAAAAAA/8tdUukGpMjc/s900-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/stuartdrew/plugin.video.C-Field/master/__sources13othersport.txt</externallink>
+<fanart></fanart>
+<info>SimpleKore.com</info>
+</channel>
+
+<channels>
+<channel>
 <name>BOX SECTION</name>
 <thumbnail>http://www.lightcast.com/images/featured_apps/roku/apps/00378_336x210.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/stuartdrew/plugin.video.C-Field/master/_sources8.txt</externallink>
