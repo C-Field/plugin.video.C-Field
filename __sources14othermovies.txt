@@ -8,12 +8,3 @@
 </channel>
 <channels>
 
-<!!!!!!channels>
-<channel>
-<name>pyramyd iptv</name>
-<thumbnail></thumbnail>
-<externallink>http://tombraiderbuilds.co.uk/addon/ukentertainment/ukentertainment.txt</externallink>
-<fanart></fanart>
-<info></info>
-</channel>
-<channels>
