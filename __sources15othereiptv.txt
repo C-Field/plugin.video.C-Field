@@ -7,3 +7,11 @@
 <info></info>
 </channel>
 <channels>
+
+<channel>
+<name>[COLOR  lime]FRONTIER[/COLOR]</name>
+<thumbnail></thumbnail>
+<externallink>http://pastebin.com/raw/5p9xGcKU</externallink>
+<fanart></fanart>
+<info></info>
+</channel>
