@@ -1,10 +1,10 @@
 <item> 
-<title>[COLOR=blue] FShare Movie[/COLOR]</title> 
-<premium>True</premium> 
-<link>ignorme</link> 
-<jsonrpc>plugin://plugin.video.xshare/</jsonrpc>
-<thumbnail></thumbnail>
-<fanart></fanart>
+  <title>[COLOR=blue] FShare Movie[/COLOR]</title> 
+  <premium>True</premium> 
+  <link>ignorme</link> 
+  <jsonrpc>plugin://plugin.video.xshare/</jsonrpc>
+  <thumbnail></thumbnail>
+  <fanart></fanart>
 </item>
 
 <item> 
