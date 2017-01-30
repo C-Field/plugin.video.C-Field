@@ -1,0 +1,19 @@
+<channels>
+<channel>
+<name>[COLOR lime].[COLOR red]Maverick Movies[/COLOR]</name>
+<thumbnail>http://www.roadsmile.com/images/ford-maverick_blue_1.jpg</thumbnail>
+<externallink>http://164.132.106.213/data/quality/quality.txt</externallink>
+<fanart>http://www.roadsmile.com/images/ford-maverick_blue_1.jpg</fanart>
+<info>Maverick TV</info>
+</channel>
+<channels>
+
+<channels>
+<channel>
+<name>pyramyd iptv</name>
+<thumbnail></thumbnail>
+<externallink>http://tombraiderbuilds.co.uk/addon/ukentertainment/ukentertainment.txt</externallink>
+<fanart></fanart>
+<info>SimpleKore.com</info>
+</channel>
+<channels>
