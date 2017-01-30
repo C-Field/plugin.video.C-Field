@@ -1,3 +1,72 @@
+<item> 
+<title>[COLOR=blue] FShare Movie[/COLOR]</title> 
+<premium>True</premium> 
+<link>ignorme</link> 
+<jsonrpc>plugin://plugin.video.xshare/</jsonrpc>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item> 
+  <title>[COLOR = cyan] Phim Moi[/COLOR]</title> 
+  <premium>True</premium> 
+  <link>ignorme</link> 
+  <jsonrpc>plugin://plugin.video.hieuhien.vn.phimmoi</jsonrpc>
+  <thumbnail>http://www.hieuhien.vn/XBMC/MediaCenter/logo/phimmoi.png</thumbnail>
+  <fanart></fanart>
+</item>
+
+<item> 
+  <title>[COLOR = cyan]Xem Phim So [/COLOR]</title> 
+  <premium>True</premium> 
+  <link>ignorme</link> 
+  <jsonrpc>plugin://plugin.video.hieuhien.vn.phimmoi</jsonrpc>
+  <thumbnail>http://www.hieuhien.vn/XBMC/MediaCenter/logo/xemphimso.png</thumbnail>
+  <fanart></fanart>
+</item>
+
+<item> 
+  <title>[COLOR = cyan] Phim 3S [/COLOR]</title> 
+  <premium>True</premium> 
+  <link>ignorme</link> 
+  <jsonrpc>plugin://plugin.video.hieuhien.vn.phim3s</jsonrpc>
+  <thumbnail>http://www.hieuhien.vn/XBMC/MediaCenter/logo/phim3s.png</thumbnail>
+  <fanart></fanart>
+</item>
+
+<item>
+   <title>[COLOR orange]HECCVideo Club 720/1080 Movie[/COLOR]</title>
+   <link>ignorme</link>
+   <jsonrpc>plugin://plugin.video.hevcvideoclub</jsonrpc>
+   <thumbnail>https://seo-michael.co.uk/content/images/2016/09/hevcvc.jpg</thumbnail>
+   <fanart>https://seo-michael.co.uk/content/images/2016/09/hevcvc.jpg</fanart>
+</item>
+
+<item>
+   <title>[COLOR orange][B]Movies by GENRES[/B][/COLOR]</title>
+   <link>ignorme</link>
+   <jsonrpc>plugin://plugin.video.specto/?action=movieGenres</jsonrpc>
+   <thumbnail></thumbnail>
+   <fanart></fanart>
+</item>
+
+<item> 
+  <title>[COLOR = blue]Movies by Year[/COLOR]</title> 
+  <premium>True</premium> 
+  <link>ignorme</link> 
+  <jsonrpc>plugin://plugin.video.specto/?action=movieYears</jsonrpc>
+  <thumbnail></thumbnail>
+  <fanart></fanart>
+</item>
+
+<item>
+   <title>[COLOR cyan][B]Cartoon Movie [/B][/COLOR]</title>
+   <link>ignorme</link>
+   <jsonrpc>plugin://plugin.video.phstreams/?action=cartoon</jsonrpc>
+   <thumbnail></thumbnail>
+   <fanart></fanart>
+</item>
+
 <item>
 <title>4K MOVIES<title>
 <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/uzzy/uzzy/19918.ts;streamtype=TSDOWNLOADER&;name=4KMOVIES<link>
