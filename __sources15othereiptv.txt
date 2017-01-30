@@ -1,0 +1,9 @@
+<channels>
+<channel>
+<name>C-Field iptv</name>
+<thumbnail></thumbnail>
+<externallink>http://tombraiderbuilds.co.uk/addon/ukentertainment/ukentertainment.txt</externallink>
+<fanart></fanart>
+<info></info>
+</channel>
+<channels>
