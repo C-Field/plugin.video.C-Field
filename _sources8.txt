@@ -70,7 +70,15 @@
 <thumbnail>http://www.comedyquotes.tv/wp-content/uploads/2016/03/Phoenix-Nights.jpg</thumbnail>
 </item>
 
-<layouttype>http://www.stephen-builds.co.uk/wizard/fanart12.jpg</layouttype>
+<channels>
+<channel>
+<name>•---[COLOR yellow]Gold Rush[/COLOR] [COLOR blue]Season 7[/COLOR]---•</name>
+<thumbnail>http://www.chockakodi.com/thumbnails/goldrush-s7.jpg</thumbnail>
+<externallink>http://www.chockakodi.com/seasons/goldrush-s7.txt</externallink>
+<fanart>http://www.chockakodi.com/thumbnails/goldrush-s7.jpg</fanart>
+<info>A reality TV show that follows crews mining the gold placer deposits of the Yukon Territory.
+Stars: Paul Christie, Todd Hoffman, Parker Schnabel</info>
+</channel>
 
 <channels>
 <channel>
