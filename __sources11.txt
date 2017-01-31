@@ -1,342 +1,342 @@
 <item>
 <title>USA: A&E<title>
-<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/uzzy/uzzy/23231.ts;streamtype=TSDOWNLOADER&;name=USA:A&E<link>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/mickh/mickh/23231.ts;streamtype=TSDOWNLOADER&;name=USA:A&E<link>
 <thumbnail></thumbnail>
 </item>
 
 <item>
 <title>USA: ABC NEWS NOW<title>
-<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/uzzy/uzzy/23222.ts;streamtype=TSDOWNLOADER&;name=USA:ABCNEWSNOW<link>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/mickh/mickh/23222.ts;streamtype=TSDOWNLOADER&;name=USA:ABCNEWSNOW<link>
 <thumbnail></thumbnail>
 </item>
 
 <item>
 <title>USA: ABC<title>
-<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/uzzy/uzzy/23224.ts;streamtype=TSDOWNLOADER&;name=USA:ABC<link>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/mickh/mickh/23224.ts;streamtype=TSDOWNLOADER&;name=USA:ABC<link>
 <thumbnail></thumbnail>
 </item>
 
 <item>
 <title>USA: Action Max<title>
-<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/uzzy/uzzy/23195.ts;streamtype=TSDOWNLOADER&;name=USA:ActionMax<link>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/mickh/mickh/23195.ts;streamtype=TSDOWNLOADER&;name=USA:ActionMax<link>
 <thumbnail></thumbnail>
 </item>
 
 <item>
 <title>USA: AETV<title>
-<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/uzzy/uzzy/23221.ts;streamtype=TSDOWNLOADER&;name=USA:AETV<link>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/mickh/mickh/23221.ts;streamtype=TSDOWNLOADER&;name=USA:AETV<link>
 <thumbnail></thumbnail>
 </item>
 
 <item>
 <title>USA: Amazing Discoveries HD<title>
-<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/uzzy/uzzy/23229.ts;streamtype=TSDOWNLOADER&;name=USA:AmazingDiscoveriesHD<link>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/mickh/mickh/23229.ts;streamtype=TSDOWNLOADER&;name=USA:AmazingDiscoveriesHD<link>
 <thumbnail></thumbnail>
 </item>
 
 <item>
 <title>USA: AMC HD<title>
-<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/uzzy/uzzy/23274.ts;streamtype=TSDOWNLOADER&;name=USA:AMCHD<link>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/mickh/mickh/23274.ts;streamtype=TSDOWNLOADER&;name=USA:AMCHD<link>
 <thumbnail></thumbnail>
 </item>
 
 <item>
 <title>USA: Animal Planet<title>
-<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/uzzy/uzzy/23220.ts;streamtype=TSDOWNLOADER&;name=USA:AnimalPlanet<link>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/mickh/mickh/23220.ts;streamtype=TSDOWNLOADER&;name=USA:AnimalPlanet<link>
 <thumbnail></thumbnail>
 </item>
 
 <item>
 <title>USA: Bloomberg<title>
-<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/uzzy/uzzy/23219.ts;streamtype=TSDOWNLOADER&;name=USA:Bloomberg<link>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/mickh/mickh/23219.ts;streamtype=TSDOWNLOADER&;name=USA:Bloomberg<link>
 <thumbnail></thumbnail>
 </item>
 
 <item>
 <title>USA: Bloomberg<title>
-<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/uzzy/uzzy/23220.ts;streamtype=TSDOWNLOADER&;name=USA:Bloomberg<link>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/mickh/mickh/23220.ts;streamtype=TSDOWNLOADER&;name=USA:Bloomberg<link>
 <thumbnail></thumbnail>
 </item>
 
 <item>
 <title>USA: BNN (Boston News)<title>
-<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/uzzy/uzzy/23180.ts;streamtype=TSDOWNLOADER&;name=USA:BNNBostonNews<link>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/mickh/mickh/23180.ts;streamtype=TSDOWNLOADER&;name=USA:BNNBostonNews<link>
 <thumbnail></thumbnail>
 </item>
 
 <item>
 <title>USA:BRAVOHD<title>
-<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/uzzy/uzzy/23218.ts;streamtype=TSDOWNLOADER&;name=USA:BRAVOHD<link>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/mickh/mickh/23218.ts;streamtype=TSDOWNLOADER&;name=USA:BRAVOHD<link>
 <thumbnail></thumbnail>
 </item>
 
 <item>
 <title>USA: ByuTV HD<title>
-<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/uzzy/uzzy/23193.ts;streamtype=TSDOWNLOADER&;name=USA:ByuTVHD<link>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/mickh/mickh/23193.ts;streamtype=TSDOWNLOADER&;name=USA:ByuTVHD<link>
 <thumbnail></thumbnail>
 </item>
 
 <item>
 <title>USA: CINEMAX 5 STAR<title>
-<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/uzzy/uzzy/23217.ts;streamtype=TSDOWNLOADER&;name=USA:CINEMAX5STAR<link>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/mickh/mickh/23217.ts;streamtype=TSDOWNLOADER&;name=USA:CINEMAX5STAR<link>
 <thumbnail></thumbnail>
 </item>
 
 <item>
 <title>USA: CNBC<title>
-<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/uzzy/uzzy/23216.ts;streamtype=TSDOWNLOADER&;name=USA:CNBC<link>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/mickh/mickh/23216.ts;streamtype=TSDOWNLOADER&;name=USA:CNBC<link>
 <thumbnail></thumbnail>
 </item>
 
 <item>
 <title>USA: CNN<title>
-<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/uzzy/uzzy/23215.ts;streamtype=TSDOWNLOADER&;name=USA:CNN<link>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/mickh/mickh/23215.ts;streamtype=TSDOWNLOADER&;name=USA:CNN<link>
 <thumbnail></thumbnail>
 </item>
 
 <item>
 <title>USA: COMEDY CENTRAL<title>
-<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/uzzy/uzzy/23214.ts;streamtype=TSDOWNLOADER&;name=USA:COMEDYCENTRAL<link>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/mickh/mickh/23214.ts;streamtype=TSDOWNLOADER&;name=USA:COMEDYCENTRAL<link>
 <thumbnail></thumbnail>
 </item>
 
 <item>
 <title>USA: CW<title>
-<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/uzzy/uzzy/23269.ts;streamtype=TSDOWNLOADER&;name=USA:CW<link>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/mickh/mickh/23269.ts;streamtype=TSDOWNLOADER&;name=USA:CW<link>
 <thumbnail></thumbnail>
 </item>
 
 <item>
 <title>USA: DISCOVERY HD<title>
-<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/uzzy/uzzy/23213.ts;streamtype=TSDOWNLOADER&;name=USA:DISCOVERYHD<link>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/mickh/mickh/23213.ts;streamtype=TSDOWNLOADER&;name=USA:DISCOVERYHD<link>
 <thumbnail></thumbnail>
 </item>
 
 <item>
 <title>USA: Discovery Velocity<title>
-<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/uzzy/uzzy/23264.ts;streamtype=TSDOWNLOADER&;name=USA:DiscoveryVelocity<link>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/mickh/mickh/23264.ts;streamtype=TSDOWNLOADER&;name=USA:DiscoveryVelocity<link>
 <thumbnail></thumbnail>
 </item>
 
 <item>
 <title>USA: E<title>
-<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/uzzy/uzzy/23212.ts;streamtype=TSDOWNLOADER&;name=USA:E<link>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/mickh/mickh/23212.ts;streamtype=TSDOWNLOADER&;name=USA:E<link>
 <thumbnail></thumbnail>
 </item>
 
 <item>
 <title>USA: ESPN HD<title>
-<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/uzzy/uzzy/23211.ts;streamtype=TSDOWNLOADER&;name=USA:ESPNHD<link>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/mickh/mickh/23211.ts;streamtype=TSDOWNLOADER&;name=USA:ESPNHD<link>
 <thumbnail></thumbnail>
 </item>
 
 <item>
 <title>USA: FOOD NETWORK<title>
-<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/uzzy/uzzy/23228.ts;streamtype=TSDOWNLOADER&;name=USA:FOODNETWORK<link>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/mickh/mickh/23228.ts;streamtype=TSDOWNLOADER&;name=USA:FOODNETWORK<link>
 <thumbnail></thumbnail>
 </item>
 
 <item>
 <title>USA: Fox HD<title>
-<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/uzzy/uzzy/23260.ts;streamtype=TSDOWNLOADER&;name=USA:FoxHD<link>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/mickh/mickh/23260.ts;streamtype=TSDOWNLOADER&;name=USA:FoxHD<link>
 <thumbnail></thumbnail>
 </item>
 
 <item>
 <title>USA: FOX NEWS<title>
-<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/uzzy/uzzy/23228.ts;streamtype=TSDOWNLOADER&;name=USA:FOXNEWS<link>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/mickh/mickh/23228.ts;streamtype=TSDOWNLOADER&;name=USA:FOXNEWS<link>
 <thumbnail></thumbnail>
 </item>
 
 <item>
 <title>USA: HBO 2<title>
-<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/uzzy/uzzy/23256.ts;streamtype=TSDOWNLOADER&;name=USA:HBO2<link>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/mickh/mickh/23256.ts;streamtype=TSDOWNLOADER&;name=USA:HBO2<link>
 <thumbnail></thumbnail>
 </item>
 
 <item>
 <title>USA: HBO FAMILY<title>
-<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/uzzy/uzzy/23178.ts;streamtype=TSDOWNLOADER&;name=USA:HBOFAMILY<link>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/mickh/mickh/23178.ts;streamtype=TSDOWNLOADER&;name=USA:HBOFAMILY<link>
 <thumbnail></thumbnail>
 </item>
 
 <item>
 <title>USA: HBO HD<title>
-<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/uzzy/uzzy/23255.ts;streamtype=TSDOWNLOADER&;name=USA:HBOHD<link>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/mickh/mickh/23255.ts;streamtype=TSDOWNLOADER&;name=USA:HBOHD<link>
 <thumbnail></thumbnail>
 </item>
 
 <item>
 <title>USA: HBO Signature<title>
-<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/uzzy/uzzy/23254.ts;streamtype=TSDOWNLOADER&;name=USA:HBOSignature<link>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/mickh/mickh/23254.ts;streamtype=TSDOWNLOADER&;name=USA:HBOSignature<link>
 <thumbnail></thumbnail>
 </item>
 
 <item>
 <title>USA: HBO Signature HD<title>
-<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/uzzy/uzzy/23253.ts;streamtype=TSDOWNLOADER&;name=USA:HBOSignatureHD<link>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/mickh/mickh/23253.ts;streamtype=TSDOWNLOADER&;name=USA:HBOSignatureHD<link>
 <thumbnail></thumbnail>
 </item>
 
 <item>
 <title>USA: HGTV HD<title>
-<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/uzzy/uzzy/23252.ts;streamtype=TSDOWNLOADER&;name=USA:HGTVHD<link>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/mickh/mickh/23252.ts;streamtype=TSDOWNLOADER&;name=USA:HGTVHD<link>
 <thumbnail></thumbnail>
 </item>
 
 <item>
 <title>USA: HIFI<title>
-<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/uzzy/uzzy/23251.ts;streamtype=TSDOWNLOADER&;name=USA:HIFI<link>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/mickh/mickh/23251.ts;streamtype=TSDOWNLOADER&;name=USA:HIFI<link>
 <thumbnail></thumbnail>
 </item>
 
 <item>
 <title>USA: HISTORY<title>
-<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/uzzy/uzzy/23208.ts;streamtype=TSDOWNLOADER&;name=USA:HISTORY<link>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/mickh/mickh/23208.ts;streamtype=TSDOWNLOADER&;name=USA:HISTORY<link>
 <thumbnail></thumbnail>
 </item>
 
 <item>
 <title>USA: Investigation Discovery<title>
-<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/uzzy/uzzy/23207.ts;streamtype=TSDOWNLOADER&;name=USA:InvestigationDiscovery<link>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/mickh/mickh/23207.ts;streamtype=TSDOWNLOADER&;name=USA:InvestigationDiscovery<link>
 <thumbnail></thumbnail>
 </item>
 
 <item>
 <title>USA: LIFETIME<title>
-<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/uzzy/uzzy/23206.ts;streamtype=TSDOWNLOADER&;name=USA:LIFETIME<link>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/mickh/mickh/23206.ts;streamtype=TSDOWNLOADER&;name=USA:LIFETIME<link>
 <thumbnail></thumbnail>
 </item>
 
 <item>
 <title>USA: MoreMax HD<title>
-<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/uzzy/uzzy/23250.ts;streamtype=TSDOWNLOADER&;name=USA:MoreMaxHD<link>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/mickh/mickh/23250.ts;streamtype=TSDOWNLOADER&;name=USA:MoreMaxHD<link>
 <thumbnail></thumbnail>
 </item>
 
 <item>
 <title>USA: MSNBC HD<title>
-<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/uzzy/uzzy/23189.ts;streamtype=TSDOWNLOADER&;name=USA:MSNBCHD<link>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/mickh/mickh/23189.ts;streamtype=TSDOWNLOADER&;name=USA:MSNBCHD<link>
 <thumbnail></thumbnail>
 </item>
 
 <item>
 <title>USA: MY9<title>
-<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/uzzy/uzzy/23205.ts;streamtype=TSDOWNLOADER&;name=USA:MY9<link>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/mickh/mickh/23205.ts;streamtype=TSDOWNLOADER&;name=USA:MY9<link>
 <thumbnail></thumbnail>
 </item>
 
 <item>
 <title>USA: Nat Geo HD<title>
-<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/uzzy/uzzy/23248.ts;streamtype=TSDOWNLOADER&;name=USA:NatGeoHD<link>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/mickh/mickh/23248.ts;streamtype=TSDOWNLOADER&;name=USA:NatGeoHD<link>
 <thumbnail></thumbnail>
 </item>
 
 <item>
 <title>USA: Nat Geo Wild<title>
-<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/uzzy/uzzy/23188.ts;streamtype=TSDOWNLOADER&;name=USA:NatGeoWild<link>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/mickh/mickh/23188.ts;streamtype=TSDOWNLOADER&;name=USA:NatGeoWild<link>
 <thumbnail></thumbnail>
 </item>
 
 <item>
 <title>USA: NICK<title>
-<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/uzzy/uzzy/23201.ts;streamtype=TSDOWNLOADER&;name=USA:NICK<link>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/mickh/mickh/23201.ts;streamtype=TSDOWNLOADER&;name=USA:NICK<link>
 <thumbnail></thumbnail>
 </item>
 
 <item>
 <title>USA: OWN HD<title>
-<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/uzzy/uzzy/23247.ts;streamtype=TSDOWNLOADER&;name=USA:OWNHD<link>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/mickh/mickh/23247.ts;streamtype=TSDOWNLOADER&;name=USA:OWNHD<link>
 <thumbnail></thumbnail>
 </item>
 
 <item>
 <title>USA: PBS<title>
-<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/uzzy/uzzy/23200.ts;streamtype=TSDOWNLOADER&;name=USA:PBS<link>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/mickh/mickh/23200.ts;streamtype=TSDOWNLOADER&;name=USA:PBS<link>
 <thumbnail></thumbnail>
 </item>
 
 <item>
 <title>USA: SHOWTIME HD<title>
-<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/uzzy/uzzy/23240.ts;streamtype=TSDOWNLOADER&;name=USA:SHOWTIMEHD<link>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/mickh/mickh/23240.ts;streamtype=TSDOWNLOADER&;name=USA:SHOWTIMEHD<link>
 <thumbnail></thumbnail>
 </item>
 
 <item>
 <title>USA: Showtime West<title>
-<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/uzzy/uzzy/23239.ts;streamtype=TSDOWNLOADER&;name=USA:ShowtimeWest<link>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/mickh/mickh/23239.ts;streamtype=TSDOWNLOADER&;name=USA:ShowtimeWest<link>
 <thumbnail></thumbnail>
 </item>
 
 <item>
 <title>USA: Spike<title>
-<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/uzzy/uzzy/23198.ts;streamtype=TSDOWNLOADER&;name=USA:Spike<link>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/mickh/mickh/23198.ts;streamtype=TSDOWNLOADER&;name=USA:Spike<link>
 <thumbnail></thumbnail>
 </item>
 
 <item>
 <title>USA: SPIKE HD<title>
-<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/uzzy/uzzy/23238.ts;streamtype=TSDOWNLOADER&;name=USA:SPIKEHD<link>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/mickh/mickh/23238.ts;streamtype=TSDOWNLOADER&;name=USA:SPIKEHD<link>
 <thumbnail></thumbnail>
 </item>
 
 <item>
 <title>USA: Starz Cinema<title>
-<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/uzzy/uzzy/23236.ts;streamtype=TSDOWNLOADER&;name=USA:StarzCinema<link>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/mickh/mickh/23236.ts;streamtype=TSDOWNLOADER&;name=USA:StarzCinema<link>
 <thumbnail></thumbnail>
 </item>
 
 <item>
 <title>USA: Starz Edge<title>
-<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/uzzy/uzzy/23186.ts;streamtype=TSDOWNLOADER&;name=USA:StarzEdge<link>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/mickh/mickh/23186.ts;streamtype=TSDOWNLOADER&;name=USA:StarzEdge<link>
 <thumbnail></thumbnail>
 </item>
 
 <item>
 <title>USA: Starz Edge HD<title>
-<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/uzzy/uzzy/23233.ts;streamtype=TSDOWNLOADER&;name=USA:StarzEdgeHD<link>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/mickh/mickh/23233.ts;streamtype=TSDOWNLOADER&;name=USA:StarzEdgeHD<link>
 <thumbnail></thumbnail>
 </item>
 
 <item>
 <title>USA: STARZ KIDSS AND FAMILY<title>
-<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/uzzy/uzzy/23177.ts;streamtype=TSDOWNLOADER&;name=USA:STARZKIDSSANDFAMILY<link>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/mickh/mickh/23177.ts;streamtype=TSDOWNLOADER&;name=USA:STARZKIDSSANDFAMILY<link>
 <thumbnail></thumbnail>
 </item>
 
 <item>
 <title>USA: TNT<title>
-<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/uzzy/uzzy/23196.ts;streamtype=TSDOWNLOADER&;name=USA:TNT<link>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/mickh/mickh/23196.ts;streamtype=TSDOWNLOADER&;name=USA:TNT<link>
 <thumbnail></thumbnail>
 </item>
 
 <item>
 <title>USA: Fox 43<title>
-<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/uzzy/uzzy/20729.ts;streamtype=TSDOWNLOADER&;name=USA:Fox43<link>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/mickh/mickh/20729.ts;streamtype=TSDOWNLOADER&;name=USA:Fox43<link>
 <thumbnail></thumbnail>
 </item>
 
 <item>
 <title>USA: HBO Zone<title>
-<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/uzzy/uzzy/19950.ts;streamtype=TSDOWNLOADER&;name=USA:HBOZone<link>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/mickh/mickh/19950.ts;streamtype=TSDOWNLOADER&;name=USA:HBOZone<link>
 <thumbnail></thumbnail>
 </item>
 
 <item>
 <title>USA: HBO East<title>
-<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/uzzy/uzzy/19952.ts;streamtype=TSDOWNLOADER&;name=USA:HBOEast<link>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/mickh/mickh/19952.ts;streamtype=TSDOWNLOADER&;name=USA:HBOEast<link>
 <thumbnail></thumbnail>
 </item>
 
 <item>
 <title>USA: HBO Comedy<title>
-<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/uzzy/uzzy/19953.ts;streamtype=TSDOWNLOADER&;name=USA:HBOComedy<link>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/mickh/mickh/19953.ts;streamtype=TSDOWNLOADER&;name=USA:HBOComedy<link>
 <thumbnail></thumbnail>
 </item>
 
 <item>
 <title>USA: ABC<title>
-<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/uzzy/uzzy/19943.ts;streamtype=TSDOWNLOADER&;name=USA:ABC<link>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/mickh/mickh/19943.ts;streamtype=TSDOWNLOADER&;name=USA:ABC<link>
 <thumbnail></thumbnail>
 </item>
 
