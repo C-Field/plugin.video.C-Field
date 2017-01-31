@@ -1,6 +1,6 @@
 <item>
 <title>24/7 Peppa Pig<title>
-<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/uzzy/uzzy/23155.ts;streamtype=TSDOWNLOADER&;name=24/7PeppaPig<link>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/mickh/mickh/23155.ts;streamtype=TSDOWNLOADER&;name=24/7PeppaPig<link>
 <thumbnail></thumbnail>
 </item>
 
