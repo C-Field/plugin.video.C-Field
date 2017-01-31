@@ -7,7 +7,7 @@
 <thumbnail>https://image.winudf.com/149/01fc2b91d906c7c9/screen-2.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/C-Field/plugin.video.C-Field/master/__sources.txt</externallink>
 <fanart></fanart>
-<info>SimpleKore.com</info>
+<info>TV</info>
 </channel>
 
 <channels>
@@ -15,8 +15,8 @@
 <name>UK TV 2</name>
 <thumbnail>https://image.winudf.com/149/01fc2b91d906c7c9/screen-2.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/C-Field/plugin.video.C-Field/master/__sources12.txt</externallink>
-<fanart>http://stek.org/wp-content/uploads/2012/03/kiana-tom-1.jpg</fanart>
-<info>SimpleKore.com</info>
+<fanart></fanart>
+<info>TV</info>
 </channel>
 
 <channels>
@@ -24,8 +24,8 @@
 <name>UK TV 3</name>
 <thumbnail>https://image.winudf.com/149/01fc2b91d906c7c9/screen-2.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/C-Field/plugin.video.C-Field/master/__sources15othereiptv.txt</externallink>
-<fanart>http://stek.org/wp-content/uploads/2012/03/kiana-tom-1.jpg</fanart>
-<info>SimpleKore.com</info>
+<fanart></fanart>
+<info>TV</info>
 </channel>
 
 <channels>
@@ -34,7 +34,7 @@
 <thumbnail>http://marketinggraphics.co/wp-content/uploads/2015/07/made-in-the-usa-thumbnail-400x400.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/C-Field/plugin.video.C-Field/master/__sources11.txt</externallink>
 <fanart></fanart>
-<info>SimpleKore.com</info>
+<info>TV</info>
 </channel>
 
 <channels>
@@ -43,7 +43,7 @@
 <thumbnail>http://d.ibtimes.co.uk/en/full/1467855/sky-tv.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/C-Field/plugin.video.C-Field/master/__sources2.txt</externallink>
 <fanart></fanart>
-<info>SimpleKore.com</info>
+<info>TV</info>
 </channel>
 
 <channels>
@@ -52,7 +52,7 @@
 <thumbnail>https://yt3.ggpht.com/-co8gqPEZ4wg/AAAAAAAAAAI/AAAAAAAAAAA/ns5vMzc8vzM/s900-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/C-Field/plugin.video.C-Field/master/__sources5.txt</externallink>
 <fanart></fanart>
-<info>SimpleKore.com</info>
+<info>TV</info>
 </channel>
 
 <channels>
@@ -61,7 +61,7 @@
 <thumbnail>http://rainforestmovie.ca/w1/wp-content/uploads/logo-documentary.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/C-Field/plugin.video.C-Field/master/__sources6.txt</externallink>
 <fanart></fanart>
-<info>SimpleKore.com</info>
+<info>TV</info>
 </channel>
 
 <channels>
@@ -79,7 +79,7 @@
 <thumbnail>https://s-media-cache-ak0.pinimg.com/originals/56/d1/77/56d1775dff8ed0c7eba557e5edcbfcc5.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/C-Field/plugin.video.C-Field/master/__sources3.txt</externallink>
 <fanart></fanart>
-<info>SimpleKore.com</info>
+<info>TV</info>
 </channel>
 
 <channels>
@@ -88,7 +88,7 @@
 <thumbnail>http://www.lightcast.com/images/featured_apps/roku/apps/00378_336x210.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/C-Field/plugin.video.C-Field/master/__sources7.txt</externallink>
 <fanart></fanart>
-<info>SimpleKore.com</info>
+<info>TV</info>
 </channel>
 
 <channels>
@@ -97,7 +97,7 @@
 <thumbnail>http://www.lightcast.com/images/featured_apps/roku/apps/00378_336x210.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/C-Field/plugin.video.C-Field/master/__sources14othermovies.txt</externallink>
 <fanart></fanart>
-<info>SimpleKore.com</info>
+<info>TV</info>
 </channel>
 
 <channels>
@@ -106,7 +106,7 @@
 <thumbnail>http://www.lightcast.com/images/featured_apps/roku/apps/00378_336x210.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/C-Field/plugin.video.C-Field/master/__sources16othermovies.txt</externallink>
 <fanart></fanart>
-<info>SimpleKore.com</info>
+<info>TV</info>
 </channel>
 
 <channels>
@@ -115,7 +115,7 @@
 <thumbnail>http://vignette1.wikia.nocookie.net/memoryalpha/images/e/e7/4K_Ultra_HD_logo.jpg/revision/latest?cb=20160409040432&path-prefix=en</thumbnail>
 <externallink>https://raw.githubusercontent.com/C-Field/plugin.video.C-Field/master/__sources10.txt</externallink>
 <fanart></fanart>
-<info>SimpleKore.com</info>
+<info>TV</info>
 </channel>
 
 <channels>
@@ -124,7 +124,7 @@
 <thumbnail>https://yt3.ggpht.com/-A6ULdz3xFaE/AAAAAAAAAAI/AAAAAAAAAAA/8tdUukGpMjc/s900-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/C-Field/plugin.video.C-Field/master/__sources9.txt</externallink>
 <fanart></fanart>
-<info>SimpleKore.com</info>
+<info>TV</info>
 </channel>
 
 <channels>
@@ -133,7 +133,7 @@
 <thumbnail>https://yt3.ggpht.com/-A6ULdz3xFaE/AAAAAAAAAAI/AAAAAAAAAAA/8tdUukGpMjc/s900-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/C-Field/plugin.video.C-Field/master/__sources13othersport.txt</externallink>
 <fanart></fanart>
-<info>SimpleKore.com</info>
+<info>TV</info>
 </channel>
 
 <channels>
@@ -142,7 +142,7 @@
 <thumbnail>http://www.lightcast.com/images/featured_apps/roku/apps/00378_336x210.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/C-Field/plugin.video.C-Field/master/_sources8.txt</externallink>
 <fanart></fanart>
-<info>SimpleKore.com</info>
+<info>SETS</info>
 </channel>
 
 <channels>
@@ -151,7 +151,7 @@
 <thumbnail>https://i.ytimg.com/vi/ZYqGcA3OqKQ/maxresdefault.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/C-Field/plugin.video.C-Field/master/__sources1.txt</externallink>
 <fanart></fanart>
-<info>SimpleKore.com</info>
+<info>TV</info>
 </channel>
 
 
