@@ -72,16 +72,6 @@
 
 <channels>
 <channel>
-<name>•---[COLOR yellow]Gold Rush[/COLOR] [COLOR blue]Season 7[/COLOR]---•</name>
-<thumbnail>http://www.chockakodi.com/thumbnails/goldrush-s7.jpg</thumbnail>
-<externallink>http://www.chockakodi.com/seasons/goldrush-s7.txt</externallink>
-<fanart>http://www.chockakodi.com/thumbnails/goldrush-s7.jpg</fanart>
-<info>A reality TV show that follows crews mining the gold placer deposits of the Yukon Territory.
-Stars: Paul Christie, Todd Hoffman, Parker Schnabel</info>
-</channel>
-
-<channels>
-<channel>
 <name>[COLOR red]10 Things I Hate About You S01[/COLOR]</name>
 <thumbnail>https://ia601503.us.archive.org/34/items/10ThingsIHateAboutYouPoster/10-Things-I-Hate-About-You-poster.jpg</thumbnail>
 <externallink>https://goo.gl/CqytBw</externallink>
