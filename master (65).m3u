@@ -1,0 +1,147 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://fastocloud.com/static/images/unknown_channel.png" group-title="",Stream
+http://157.245.64.18:8000/1/5d8e6cac2904b67aa3e5a9c2/719/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/peak-tv/plugin.video.C-Field/master/pick.png" group-title="UK",PickTV.uk
+http://157.245.64.18:8000/1/5d8f5fd8b0ddffc29fa992ec/109/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/peak-tv/plugin.video.C-Field/master/Challenge_logo_2016.png" group-title="UK",Challenge
+http://157.245.64.18:8000/1/5d8f6e47b0ddffc29fa992f1/166/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/peak-tv/plugin.video.C-Field/master/dave%20hd.png" group-title="UK",Dave
+http://157.245.64.18:8000/1/5d8f7140b0ddffc29fa992f2/172/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://fastocloud.com/static/images/unknown_channel.png" group-title="UK",ITV 4
+http://157.245.64.18:8000/1/5d8f748cb0ddffc29fa992f5/202/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://fastocloud.com/static/images/unknown_channel.png" group-title="UK",ITV 3
+http://157.245.64.18:8000/1/5d8f7526b0ddffc29fa992f6/209/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://fastocloud.com/static/images/unknown_channel.png" group-title="UK",ITV 2
+http://157.245.64.18:8000/1/5d8f7599b0ddffc29fa992f7/216/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://fastocloud.com/static/images/unknown_channel.png" group-title="UK",E4
+http://157.245.64.18:8000/1/5d8f76cab0ddffc29fa992fa/236/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://fastocloud.com/static/images/unknown_channel.png" group-title="UK",Only Motor
+http://157.245.64.18:8000/1/5d8f77c2b0ddffc29fa992fc/249/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://fastocloud.com/static/images/unknown_channel.png" group-title="UK",RT
+http://157.245.64.18:8000/1/5d8f7834b0ddffc29fa992fd/254/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://fastocloud.com/static/images/unknown_channel.png" group-title="UK",MTV
+http://157.245.64.18:8000/1/5d8f79edb0ddffc29fa992ff/267/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://fastocloud.com/static/images/unknown_channel.png" group-title="Sport",Bein 5
+http://157.245.64.18:8000/1/5d8f80eab0ddffc29fa99302/297/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://fastocloud.com/static/images/unknown_channel.png" group-title="UK Music",Box Hits
+http://157.245.64.18:8000/1/5d8f82eeb0ddffc29fa99303/304/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://fastocloud.com/static/images/unknown_channel.png" group-title="UK Music",First Music
+http://157.245.64.18:8000/1/5d8feff7b0ddffc29fa99307/340/master.m3u8
+#EXTINF:-1 tvg-id="BBC1Scotland.uk" tvg-name="Unknown" tvg-logo="http://157.245.64.18:8080/static/images/unknown_channel.png" group-title="United Kingdom",UK: BBC One Scotland
+http://157.245.64.18:8000/1/5d900335b0ddffc29fa99312/422/master.m3u8
+#EXTINF:-1 tvg-id="BBC1Wales.uk" tvg-name="Unknown" tvg-logo="http://157.245.64.18:8080/static/images/unknown_channel.png" group-title="United Kingdom",UK: BBC One Wales
+http://157.245.64.18:8000/1/5d900335b0ddffc29fa99314/430/master.m3u8
+#EXTINF:-1 tvg-id="BBC2Wales.uk" tvg-name="Unknown" tvg-logo="http://157.245.64.18:8080/static/images/unknown_channel.png" group-title="United Kingdom",UK: BBC Two Wales
+http://157.245.64.18:8000/1/5d900335b0ddffc29fa99315/434/master.m3u8
+#EXTINF:-1 tvg-id="BBC1NorthernIreland.uk" tvg-name="Unknown" tvg-logo="http://157.245.64.18:8080/static/images/unknown_channel.png" group-title="United Kingdom",UK: BBC One Northern Ireland
+http://157.245.64.18:8000/1/5d900335b0ddffc29fa99316/438/master.m3u8
+#EXTINF:-1 tvg-id="BBCNews.nws" tvg-name="Unknown" tvg-logo="http://157.245.64.18:8080/static/images/unknown_channel.png" group-title="United Kingdom",UK: BBC News HD
+http://157.245.64.18:8000/1/5d900335b0ddffc29fa9931c/462/master.m3u8
+#EXTINF:-1 tvg-id="ITV2.uk" tvg-name="Unknown" tvg-logo="http://157.245.64.18:8080/static/images/unknown_channel.png" group-title="United Kingdom",UK: Itv 2
+http://157.245.64.18:8000/1/5d900335b0ddffc29fa9931f/474/master.m3u8
+#EXTINF:-1 tvg-id="Channel4.uk" tvg-name="Unknown" tvg-logo="http://157.245.64.18:8080/static/images/unknown_channel.png" group-title="United Kingdom",UK: Channel 4 HD
+http://157.245.64.18:8000/1/5d900335b0ddffc29fa99322/486/master.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="Unknown" tvg-logo="http://157.245.64.18:8080/static/images/unknown_channel.png" group-title="United Kingdom",UK: Sky Sport Cricket
+http://157.245.64.18:8000/1/5d900335b0ddffc29fa99325/498/master.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="Unknown" tvg-logo="http://157.245.64.18:8080/static/images/unknown_channel.png" group-title="United Kingdom",UK: Sky Sport Action
+http://157.245.64.18:8000/1/5d900335b0ddffc29fa99326/502/master.m3u8
+#EXTINF:-1 tvg-id="SkySpMainEv.uk" tvg-name="Unknown" tvg-logo="http://157.245.64.18:8080/static/images/unknown_channel.png" group-title="United Kingdom",UK: Sky Sport Main Events HD
+http://157.245.64.18:8000/1/5d900335b0ddffc29fa9932b/522/master.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="Unknown" tvg-logo="http://157.245.64.18:8080/static/images/unknown_channel.png" group-title="United Kingdom",UK: Sky Sport Golf HD
+http://157.245.64.18:8000/1/5d900335b0ddffc29fa9932e/534/master.m3u8
+#EXTINF:-1 tvg-id="BTSportESPN.uk" tvg-name="Unknown" tvg-logo="http://157.245.64.18:8080/static/images/unknown_channel.png" group-title="United Kingdom",UK: BT Sport ESPN HD
+http://157.245.64.18:8000/1/5d900335b0ddffc29fa9933c/590/master.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="Unknown" tvg-logo="http://157.245.64.18:8080/static/images/unknown_channel.png" group-title="United Kingdom",UK: BT Sport Extra 4
+http://157.245.64.18:8000/1/5d900335b0ddffc29fa99342/614/master.m3u8
+#EXTINF:-1 tvg-id="BoxNationHD.uk" tvg-name="Unknown" tvg-logo="http://157.245.64.18:8080/static/images/unknown_channel.png" group-title="United Kingdom",UK: Box Nation HD
+http://157.245.64.18:8000/1/5d900335b0ddffc29fa99343/618/master.m3u8
+#EXTINF:-1 tvg-id="Eurosport1.uk" tvg-name="Unknown" tvg-logo="http://157.245.64.18:8080/static/images/unknown_channel.png" group-title="United Kingdom",UK: EuroSport 1 HD
+http://157.245.64.18:8000/1/5d900335b0ddffc29fa99344/622/master.m3u8
+#EXTINF:-1 tvg-id="eirSport1.ie" tvg-name="Unknown" tvg-logo="http://157.245.64.18:8080/static/images/unknown_channel.png" group-title="United Kingdom",UK: Eir Sport 1
+http://157.245.64.18:8000/1/5d900335b0ddffc29fa99346/630/master.m3u8
+#EXTINF:-1 tvg-id="ChelseaTV.uk" tvg-name="Unknown" tvg-logo="http://157.245.64.18:8080/static/images/unknown_channel.png" group-title="United Kingdom",UK: Chelsea TV HD
+http://157.245.64.18:8000/1/5d900335b0ddffc29fa99348/638/master.m3u8
+#EXTINF:-1 tvg-id="3e.ie" tvg-name="Unknown" tvg-logo="http://157.245.64.18:8080/static/images/unknown_channel.png" group-title="United Kingdom",UK: 3E
+http://157.245.64.18:8000/1/5d900335b0ddffc29fa9934d/658/master.m3u8
+#EXTINF:-1 tvg-id="5star.uk" tvg-name="Unknown" tvg-logo="http://157.245.64.18:8080/static/images/unknown_channel.png" group-title="United Kingdom",UK: 5 Star
+http://157.245.64.18:8000/1/5d900335b0ddffc29fa99350/670/master.m3u8
+#EXTINF:-1 tvg-id="FiveUSA.uk" tvg-name="Unknown" tvg-logo="http://157.245.64.18:8080/static/images/unknown_channel.png" group-title="United Kingdom",UK: 5 Usa
+http://157.245.64.18:8000/1/5d900335b0ddffc29fa99351/674/master.m3u8
+#EXTINF:-1 tvg-id="BET.uk" tvg-name="Unknown" tvg-logo="http://157.245.64.18:8080/static/images/unknown_channel.png" group-title="United Kingdom",UK: BET
+http://157.245.64.18:8000/1/5d900335b0ddffc29fa99356/694/master.m3u8
+#EXTINF:-1 tvg-id="BLAZE.uk" tvg-name="Unknown" tvg-logo="http://157.245.64.18:8080/static/images/unknown_channel.png" group-title="United Kingdom",UK: Blaze
+http://157.245.64.18:8000/1/5d900335b0ddffc29fa99358/702/master.m3u8
+#EXTINF:-1 tvg-id="Bloomberg.nws" tvg-name="Unknown" tvg-logo="http://157.245.64.18:8080/static/images/unknown_channel.png" group-title="United Kingdom",UK: Bloomberg
+http://157.245.64.18:8000/1/5d900335b0ddffc29fa99359/706/master.m3u8
+#EXTINF:-1 tvg-id="Cartoonito.uk" tvg-name="Unknown" tvg-logo="http://157.245.64.18:8080/static/images/unknown_channel.png" group-title="United Kingdom",UK: Cartoonito
+http://157.245.64.18:8000/1/5d900335b0ddffc29fa9935d/722/master.m3u8
+#EXTINF:-1 tvg-id="Dave.uk" tvg-name="Unknown" tvg-logo="http://157.245.64.18:8080/static/images/unknown_channel.png" group-title="United Kingdom",UK: Dave HD
+http://157.245.64.18:8000/1/5d900335b0ddffc29fa99369/770/master.m3u8
+#EXTINF:-1 tvg-id="Discovery.uk" tvg-name="Unknown" tvg-logo="http://157.245.64.18:8080/static/images/unknown_channel.png" group-title="United Kingdom",UK: Discovery
+http://157.245.64.18:8000/1/5d900335b0ddffc29fa9936a/774/master.m3u8
+#EXTINF:-1 tvg-id="DiscoveryScience.uk" tvg-name="Unknown" tvg-logo="http://157.245.64.18:8080/static/images/unknown_channel.png" group-title="United Kingdom",UK: Discovery Science
+http://157.245.64.18:8000/1/5d900335b0ddffc29fa9936c/782/master.m3u8
+#EXTINF:-1 tvg-id="DiscoveryTurbo.uk" tvg-name="Unknown" tvg-logo="http://157.245.64.18:8080/static/images/unknown_channel.png" group-title="United Kingdom",UK: Discovery Turbo
+http://157.245.64.18:8000/1/5d900335b0ddffc29fa9936e/790/master.m3u8
+#EXTINF:-1 tvg-id="Drama.uk" tvg-name="Unknown" tvg-logo="http://157.245.64.18:8080/static/images/unknown_channel.png" group-title="United Kingdom",UK: Drama
+http://157.245.64.18:8000/1/5d900335b0ddffc29fa99372/806/master.m3u8
+#EXTINF:-1 tvg-id="E.uk" tvg-name="Unknown" tvg-logo="http://157.245.64.18:8080/static/images/unknown_channel.png" group-title="United Kingdom",UK: E!
+http://157.245.64.18:8000/1/5d900335b0ddffc29fa99373/810/master.m3u8
+#EXTINF:-1 tvg-id="Film4.uk" tvg-name="Unknown" tvg-logo="http://157.245.64.18:8080/static/images/unknown_channel.png" group-title="United Kingdom",UK: Film4 HD
+http://157.245.64.18:8000/1/5d900335b0ddffc29fa99378/830/master.m3u8
+#EXTINF:-1 tvg-id="FX.uk" tvg-name="Unknown" tvg-logo="http://157.245.64.18:8080/static/images/unknown_channel.png" group-title="United Kingdom",UK: Fox
+http://157.245.64.18:8000/1/5d900335b0ddffc29fa9937c/846/master.m3u8
+#EXTINF:-1 tvg-id="FreeSports.uk" tvg-name="Unknown" tvg-logo="http://157.245.64.18:8080/static/images/unknown_channel.png" group-title="United Kingdom",UK: Free Sports
+http://157.245.64.18:8000/1/5d900335b0ddffc29fa9937e/854/master.m3u8
+#EXTINF:-1 tvg-id="HeartTV.uk" tvg-name="Unknown" tvg-logo="http://157.245.64.18:8080/static/images/unknown_channel.png" group-title="United Kingdom",UK: Heart
+http://157.245.64.18:8000/1/5d900335b0ddffc29fa99382/870/master.m3u8
+#EXTINF:-1 tvg-id="History.uk" tvg-name="Unknown" tvg-logo="http://157.245.64.18:8080/static/images/unknown_channel.png" group-title="United Kingdom",UK: History HD
+http://157.245.64.18:8000/1/5d900335b0ddffc29fa99383/874/master.m3u8
+#EXTINF:-1 tvg-id="Home.uk" tvg-name="Unknown" tvg-logo="http://157.245.64.18:8080/static/images/unknown_channel.png" group-title="United Kingdom",UK: Home
+http://157.245.64.18:8000/1/5d900335b0ddffc29fa99384/878/master.m3u8
+#EXTINF:-1 tvg-id="HorseAndCountry.uk" tvg-name="Unknown" tvg-logo="http://157.245.64.18:8080/static/images/unknown_channel.png" group-title="United Kingdom",UK: Horse and Country
+http://157.245.64.18:8000/1/5d900335b0ddffc29fa99386/886/master.m3u8
+#EXTINF:-1 tvg-id="Investigation.uk" tvg-name="Unknown" tvg-logo="http://157.245.64.18:8080/static/images/unknown_channel.png" group-title="United Kingdom",UK: Investigation Discovery
+http://157.245.64.18:8000/1/5d900335b0ddffc29fa99387/890/master.m3u8
+#EXTINF:-1 tvg-id="MTVRocks.uk" tvg-name="Unknown" tvg-logo="http://157.245.64.18:8080/static/images/unknown_channel.png" group-title="United Kingdom",UK: MTV Rocks
+http://157.245.64.18:8000/1/5d900335b0ddffc29fa9939a/966/master.m3u8
+#EXTINF:-1 tvg-id="NationalGeographic.uk" tvg-name="Unknown" tvg-logo="http://157.245.64.18:8080/static/images/unknown_channel.png" group-title="United Kingdom",UK: Nat Geo
+http://157.245.64.18:8000/1/5d900335b0ddffc29fa9939b/970/master.m3u8
+#EXTINF:-1 tvg-id="NickJunior.uk" tvg-name="Unknown" tvg-logo="http://157.245.64.18:8080/static/images/unknown_channel.png" group-title="United Kingdom",UK: NICK JUNIOR
+http://157.245.64.18:8000/1/5d900335b0ddffc29fa9939e/982/master.m3u8
+#EXTINF:-1 tvg-id="Nicktoons.uk" tvg-name="Unknown" tvg-logo="http://157.245.64.18:8080/static/images/unknown_channel.png" group-title="United Kingdom",UK: NICK TOONS
+http://157.245.64.18:8000/1/5d900335b0ddffc29fa9939f/986/master.m3u8
+#EXTINF:-1 tvg-id="PBS.uk" tvg-name="Unknown" tvg-logo="http://157.245.64.18:8080/static/images/unknown_channel.png" group-title="United Kingdom",UK: PBS America
+http://157.245.64.18:8000/1/5d900335b0ddffc29fa993a3/1002/master.m3u8
+#EXTINF:-1 tvg-id="Quest.uk" tvg-name="Unknown" tvg-logo="http://157.245.64.18:8080/static/images/unknown_channel.png" group-title="United Kingdom",UK: Quest
+http://157.245.64.18:8000/1/5d900335b0ddffc29fa993a6/1014/master.m3u8
+#EXTINF:-1 tvg-id="RTE1.ie" tvg-name="Unknown" tvg-logo="http://157.245.64.18:8080/static/images/unknown_channel.png" group-title="United Kingdom",UK: Rte One
+http://157.245.64.18:8000/1/5d900336b0ddffc29fa993ae/1046/master.m3u8
+#EXTINF:-1 tvg-id="RTE2.ie" tvg-name="Unknown" tvg-logo="http://157.245.64.18:8080/static/images/unknown_channel.png" group-title="United Kingdom",UK: Rte two
+http://157.245.64.18:8000/1/5d900336b0ddffc29fa993af/1050/master.m3u8
+#EXTINF:-1 tvg-id="Sky1.uk" tvg-name="Unknown" tvg-logo="http://157.245.64.18:8080/static/images/unknown_channel.png" group-title="United Kingdom",UK: SKY 1 HD
+http://157.245.64.18:8000/1/5d900336b0ddffc29fa993b1/1058/master.m3u8
+#EXTINF:-1 tvg-id="SkyArts1.uk" tvg-name="Unknown" tvg-logo="http://157.245.64.18:8080/static/images/unknown_channel.png" group-title="United Kingdom",UK: Sky Arts
+http://157.245.64.18:8000/1/5d900336b0ddffc29fa993b2/1062/master.m3u8
+#EXTINF:-1 tvg-id="SkyAtlantic.uk" tvg-name="Unknown" tvg-logo="http://157.245.64.18:8080/static/images/unknown_channel.png" group-title="United Kingdom",UK: Sky Atlantic
+http://157.245.64.18:8000/1/5d900336b0ddffc29fa993b3/1066/master.m3u8
+#EXTINF:-1 tvg-id="SkyMoviesFamily.uk" tvg-name="Unknown" tvg-logo="http://157.245.64.18:8080/static/images/unknown_channel.png" group-title="United Kingdom",UK: Sky Movies Family
+http://157.245.64.18:8000/1/5d900336b0ddffc29fa993b8/1086/master.m3u8
+#EXTINF:-1 tvg-id="SkyMoviesPremiere.uk" tvg-name="Unknown" tvg-logo="http://157.245.64.18:8080/static/images/unknown_channel.png" group-title="United Kingdom",UK: Sky Movies Premiere
+http://157.245.64.18:8000/1/5d900336b0ddffc29fa993ba/1094/master.m3u8
+#EXTINF:-1 tvg-id="SkyCinemaThriller.uk" tvg-name="Unknown" tvg-logo="http://157.245.64.18:8080/static/images/unknown_channel.png" group-title="United Kingdom",UK: Sky Movies Thriller
+http://157.245.64.18:8000/1/5d900336b0ddffc29fa993be/1110/master.m3u8
+#EXTINF:-1 tvg-id="Sky1.uk" tvg-name="Unknown" tvg-logo="http://157.245.64.18:8080/static/images/unknown_channel.png" group-title="United Kingdom",UK: Sky One
+http://157.245.64.18:8000/1/5d900336b0ddffc29fa993c0/1118/master.m3u8
+#EXTINF:-1 tvg-id="Spike.uk" tvg-name="Unknown" tvg-logo="http://157.245.64.18:8080/static/images/unknown_channel.png" group-title="United Kingdom",UK: spike
+http://157.245.64.18:8000/1/5d900336b0ddffc29fa993c5/1138/master.m3u8
+#EXTINF:-1 tvg-id="SCIFI.uk" tvg-name="Unknown" tvg-logo="http://157.245.64.18:8080/static/images/unknown_channel.png" group-title="United Kingdom",UK: Syfy
+http://157.245.64.18:8000/1/5d900336b0ddffc29fa993c6/1142/master.m3u8
+#EXTINF:-1 tvg-id="Universal.uk" tvg-name="Unknown" tvg-logo="http://157.245.64.18:8080/static/images/unknown_channel.png" group-title="United Kingdom",UK: Universal Channel HD
+http://157.245.64.18:8000/1/5d900336b0ddffc29fa993cd/1170/master.m3u8
+#EXTINF:-1 tvg-id="Yesterday.uk" tvg-name="Unknown" tvg-logo="http://157.245.64.18:8080/static/images/unknown_channel.png" group-title="United Kingdom",UK: Yesterday HD
+http://157.245.64.18:8000/1/5d900336b0ddffc29fa993d1/1186/master.m3u8
+#EXTINF:-1 tvg-id="LiverpoolFCTV.uk" tvg-name="Unknown" tvg-logo="http://157.245.64.18:8080/static/images/unknown_channel.png" group-title="United Kingdom",UK: LFC TV
+http://157.245.64.18:8000/1/5d900336b0ddffc29fa993d2/1190/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://fastocloud.com/static/images/unknown_channel.png" group-title="UK Entertainment",ITV1
+http://157.245.64.18:8000/1/5d900dffb0ddffc29fa993d3/1635/master.m3u8
